@@ -94,13 +94,13 @@
       header, .layout { display: block; }
       .switcher { margin-top: 22px; }
     }
-    .panel, .course {
+    .panel, .course, .class-block {
       background: var(--card);
       border: 1px solid var(--line);
       border-radius: 18px;
     }
     .panel { padding: 22px; height: fit-content; }
-    .panel h2, .courses h2 {
+    .panel h2, .courses h2, .work h2 {
       font-size: 12px;
       letter-spacing: 0.18em;
       text-transform: uppercase;
@@ -140,9 +140,37 @@
       color: var(--muted);
     }
     .chip.ethos { background: #eef3f0; color: var(--good); border-color: var(--soft); }
+    .chip.overdue, .chip.zero { background: #f8ece9; color: var(--warn); border-color: #ead4cf; }
+    .chip.due { background: #fbf6ec; color: #8a6a28; border-color: #ead9b4; }
+    .chip.missing { background: #f3eee6; color: var(--muted); border-color: var(--line); }
     .name { font-weight: 600; margin: 16px 0 2px; font-size: 16px; }
     .meta { color: var(--muted); font-size: 13px; margin: 0 0 auto; }
     .next { margin-top: 14px; font-size: 13px; color: var(--ink); }
+    .work { margin-top: 36px; }
+    .class-list { display: grid; gap: 14px; }
+    .class-block { padding: 18px 20px 8px; }
+    .class-block h3 {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 22px;
+      font-weight: 480;
+      margin: 0 0 4px;
+      color: var(--navy);
+    }
+    .class-sub { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+    .item {
+      display: grid;
+      grid-template-columns: 92px 1fr auto;
+      gap: 12px;
+      align-items: baseline;
+      padding: 11px 0;
+      border-top: 1px solid var(--line);
+      font-size: 14px;
+    }
+    .item .title { font-weight: 500; }
+    .item .due { color: var(--muted); font-size: 13px; }
+    @media (max-width: 640px) {
+      .item { grid-template-columns: 1fr; gap: 4px; }
+    }
     footer { margin-top: 36px; color: var(--muted); font-size: 12px; }
   </style>
 </head>
@@ -174,6 +202,10 @@
         </div>
       </section>
     </div>
+    <section class="work">
+      <h2>Work by class</h2>
+      <div class="class-list" id="work"></div>
+    </section>
     <footer>Snapshot from the family recap. First names only. Grades are current as of the timestamp above.</footer>
   </div>
   <script>
@@ -184,32 +216,71 @@
           name: "Olen",
           attention: [
             "Algebra I is at 37% after the 1.1–1.4 quiz posted at 2/20.",
-            "World Geography still has no posted current grade."
+            "World Geography still has Coldest Town questions marked missing.",
+            "Membean Program 2 is due Wednesday night ahead of Thursday’s quiz."
           ],
           courses: [
-            { name: "Bible", teacher: "Arredondo", period: "P2", source: "Canvas", grade: 100, note: "On track" },
-            { name: "Worship Culture", teacher: "Titus", period: "P3", source: "Canvas", grade: null, note: "No posted grade yet" },
-            { name: "Algebra I", teacher: "Seegers", period: "P4", source: "Canvas", grade: 37, note: "Quiz 1.1–1.4 was 2/20" },
-            { name: "German I", teacher: "Porter", period: "P5", source: "Canvas", grade: 97.5, note: "On track" },
-            { name: "World Geography", teacher: "Callahan", period: "P6", source: "Canvas", grade: null, note: "No posted grade yet" },
-            { name: "Biology", teacher: "DeGrenier", period: "P7", source: "Canvas", grade: 80.75, note: "Identifying Variables was pending review" },
-            { name: "English I", teacher: "MacAllister", period: "P8", source: "Canvas", grade: 97.5, note: "SKDM Reflection 100 · Membean Program 1 95" }
+            { name: "Bible", teacher: "Arredondo", period: "P2", source: "Canvas", grade: 100, note: "Readiness check Wed · Genesis 1–11 test Thu", work: [
+              { title: "Genesis Test Readiness Check", status: "due", detail: "Not submitted yet", due: "Wed Sep 2, 4:00pm" },
+              { title: "Unit 1 Genesis 1–11 test", status: "due", detail: "Study guide posted this morning", due: "Thu Sep 3, 4:00pm" },
+              { title: "BibleProject Genesis 12–50 & Jigsaw: The Patriarchs", status: "due", detail: "", due: "Thu Sep 3" }
+            ]},
+            { name: "Worship Culture", teacher: "Titus", period: "P3", source: "Canvas", grade: null, note: "No new Canvas work this week", work: [] },
+            { name: "Algebra I", teacher: "Seegers", period: "P4", source: "Canvas", grade: 37, note: "Quiz 1.1–1.4 was 2/20", work: [
+              { title: "Quiz 1.1–1.4", status: "zero", detail: "Scored 2/20", due: "Posted Fri Aug 28" },
+              { title: "Lesson 3 Solve and Color", status: "due", detail: "Solving multi-step equations · Unit 1 Schedule", due: "Wed Sep 2" },
+              { title: "MAP testing", status: "due", detail: "In class (B day)", due: "Wed Sep 2" }
+            ]},
+            { name: "German I", teacher: "Porter", period: "P5", source: "Canvas", grade: 97.5, note: "Days of the Week video due Wednesday", work: [
+              { title: "Days of the Week video practice", status: "due", detail: "Practice, 0 points", due: "Wed Sep 2, 3:59pm" }
+            ]},
+            { name: "World Geography", teacher: "Callahan", period: "P6", source: "Canvas", grade: null, note: "Coldest Town still missing · Week 3 underway", work: [
+              { title: "Coldest Town on Earth Questions", status: "missing", detail: "Still marked missing after Friday’s due time; also on Mon/Tue class list", due: "Due Fri Aug 28, 11:59pm" },
+              { title: "Current Event Discussion #2", status: "due", detail: "In class Wednesday", due: "Fri Sep 4, 11:59pm" },
+              { title: "Earth Stations", status: "due", detail: "Turn in Thu A / Fri B", due: "Thu–Fri Sep 3–4" }
+            ]},
+            { name: "Biology", teacher: "DeGrenier", period: "P7", source: "Canvas", grade: 80.75, note: "Identifying Variables still pending review", work: [
+              { title: "Design a Molecule", status: "due", detail: "In class", due: "Tue Sep 1, 4:00pm" },
+              { title: "Biomolecules POGIL", status: "due", detail: "In class", due: "Fri Sep 4" }
+            ]},
+            { name: "English I", teacher: "MacAllister", period: "P8", source: "Canvas", grade: 97.5, note: "SKDM Reflection 100 · Membean Program 1 95", work: [
+              { title: "Q1 Membean Program 2", status: "due", detail: "45 minutes (three 15-minute sessions)", due: "Wed Sep 2, 11:59pm" },
+              { title: "Q1 Membean Quiz 1", status: "due", detail: "In class on school laptop", due: "Thu Sep 3, 8:30am" },
+              { title: "TKAM Ch. 1–7", status: "due", detail: "In class", due: "Thu Sep 3, 8:30am" },
+              { title: "TKAM Shoe Activity", status: "due", detail: "", due: "Thu Sep 3, 3:30pm" }
+            ]}
           ]
         },
         sky: {
           name: "Sky",
           attention: [
-            "English 12 is at 0% — Death of a Moth scored 0, and several items are missing including the final narrative.",
+            "English 12 is at 0% — Death of a Moth scored 0, and several items are still missing including the final narrative.",
             "Precalculus is at 40% because Quiz 1.1–1.3 is posted as 0."
           ],
           courses: [
-            { name: "English 12", teacher: "Denton", period: "Ethos", source: "Ethos", grade: 0, note: "Final narrative was due today" },
-            { name: "Physics", teacher: "Manley", period: "Ethos", source: "Ethos", grade: 100, note: "On track" },
-            { name: "Government", teacher: "Daniels", period: "Ethos", source: "Ethos", grade: 100, note: "On track" },
-            { name: "Precalculus", teacher: "Pinson", period: "Ethos", source: "Ethos", grade: 40, note: "Quiz 1.1–1.3 posted 0" },
-            { name: "Sociology", teacher: "Lane", period: "Ethos", source: "Ethos", grade: null, note: "No posted grade yet" },
-            { name: "Apologetics", teacher: "Dallas", period: "P3", source: "Canvas", grade: 100, note: "Post-survey due Fri Sep 4" },
-            { name: "Graphic Design", teacher: "Graham", period: "P5", source: "Canvas", grade: null, note: "No assignments posted" }
+            { name: "English 12", teacher: "Denton", period: "Ethos", source: "Ethos", grade: 0, note: "Final narrative was due today and still blank", work: [
+              { title: "Death of a Moth", status: "zero", detail: "Scored 0, completed late Aug 27", due: "Due Aug 24" },
+              { title: "Brave New World essay test", status: "overdue", detail: "Not completed", due: "Due Aug 20" },
+              { title: "DWS Quiz 1", status: "overdue", detail: "Parts of speech", due: "Due Aug 26" },
+              { title: "Personal narrative first draft", status: "overdue", detail: "Not completed", due: "Due Aug 27" },
+              { title: "Final narrative essay", status: "overdue", detail: "Still blank at 5pm pull", due: "Due Mon Aug 31" }
+            ]},
+            { name: "Physics", teacher: "Manley", period: "Ethos", source: "Ethos", grade: 100, note: "On track; two SIS items still unmarked", work: [
+              { title: "Lockdown Browser Tutorial", status: "overdue", detail: "May live in LMS; parent SSO could not open it", due: "Due Aug 18" },
+              { title: "Practice Quiz Monitor", status: "overdue", detail: "May live in LMS", due: "Due Aug 20" }
+            ]},
+            { name: "Government", teacher: "Daniels", period: "Ethos", source: "Ethos", grade: 100, note: "Synch #1 make up still blank", work: [
+              { title: "Synch #1 make up", status: "overdue", detail: "Still blank", due: "Due Aug 19" },
+              { title: "Constitutional Convention Compromises", status: "due", detail: "", due: "Fri Sep 4" }
+            ]},
+            { name: "Precalculus", teacher: "Pinson", period: "Ethos", source: "Ethos", grade: 40, note: "Quiz 1.1–1.3 posted 0", work: [
+              { title: "Dropbox Quiz 1.1–1.3", status: "zero", detail: "Posted 0, not completed", due: "Due Mon Aug 31" }
+            ]},
+            { name: "Sociology", teacher: "Lane", period: "Ethos", source: "Ethos", grade: null, note: "Three Aug 30 submissions still ungraded", work: [] },
+            { name: "Apologetics", teacher: "Dallas", period: "P3", source: "Canvas", grade: 100, note: "Post-survey due Fri Sep 4", work: [
+              { title: "Surrounded Simulation post-survey", status: "due", detail: "Still unsubmitted", due: "Fri Sep 4, 11:59pm" }
+            ]},
+            { name: "Graphic Design", teacher: "Graham", period: "P5", source: "Canvas", grade: null, note: "No assignments posted", work: [] }
           ]
         }
       }
@@ -220,7 +291,9 @@
     const updated = document.getElementById("updated");
     const attention = document.getElementById("attention");
     const courses = document.getElementById("courses");
+    const work = document.getElementById("work");
     updated.textContent = "Updated " + DATA.updated;
+    const STATUS = { overdue: "Overdue", zero: "Zero", due: "Due soon", missing: "Missing" };
 
     function gradeClass(g) {
       if (g === null || g === undefined) return "none";
@@ -247,6 +320,20 @@
           <p class="next">${c.note}</p>
         </article>
       `).join("");
+      const withWork = s.courses.filter(c => c.work && c.work.length);
+      work.innerHTML = withWork.length ? withWork.map(c => `
+        <article class="class-block">
+          <h3>${c.name}</h3>
+          <p class="class-sub">${c.source} · ${c.teacher}</p>
+          ${c.work.map(w => `
+            <div class="item">
+              <span class="chip ${w.status}">${STATUS[w.status] || w.status}</span>
+              <span class="title">${w.title}${w.detail ? " · " + w.detail : ""}</span>
+              <span class="due">${w.due || ""}</span>
+            </div>
+          `).join("")}
+        </article>
+      `).join("") : "<p class='quiet'>No assignments flagged.</p>";
     }
     function fromHash() {
       const h = (location.hash || "#olen").replace("#", "");
