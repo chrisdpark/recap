@@ -210,81 +210,84 @@
   </div>
   <script>
     const DATA = {
-      updated: "Monday, Aug 31, 2026 · 5:00 PM CT",
-      students: {
-        olen: {
-          name: "Olen",
-          attention: [
-            "Algebra I is at 37% after the 1.1–1.4 quiz posted at 2/20.",
-            "World Geography still has Coldest Town questions marked missing.",
-            "Membean Program 2 is due Wednesday night ahead of Thursday’s quiz."
-          ],
-          courses: [
-            { name: "Bible", teacher: "Arredondo", period: "P2", source: "Canvas", grade: 100, note: "Readiness check Wed · Genesis 1–11 test Thu", work: [
-              { title: "Genesis Test Readiness Check", status: "due", detail: "Not submitted yet", due: "Wed Sep 2, 4:00pm" },
-              { title: "Unit 1 Genesis 1–11 test", status: "due", detail: "Study guide posted this morning", due: "Thu Sep 3, 4:00pm" },
-              { title: "BibleProject Genesis 12–50 & Jigsaw: The Patriarchs", status: "due", detail: "", due: "Thu Sep 3" }
-            ]},
-            { name: "Worship Culture", teacher: "Titus", period: "P3", source: "Canvas", grade: null, note: "No new Canvas work this week", work: [] },
-            { name: "Algebra I", teacher: "Seegers", period: "P4", source: "Canvas", grade: 37, note: "Quiz 1.1–1.4 was 2/20", work: [
-              { title: "Quiz 1.1–1.4", status: "zero", detail: "Scored 2/20", due: "Posted Fri Aug 28" },
-              { title: "Lesson 3 Solve and Color", status: "due", detail: "Solving multi-step equations · Unit 1 Schedule", due: "Wed Sep 2" },
-              { title: "MAP testing", status: "due", detail: "In class (B day)", due: "Wed Sep 2" }
-            ]},
-            { name: "German I", teacher: "Porter", period: "P5", source: "Canvas", grade: 97.5, note: "Days of the Week video due Wednesday", work: [
-              { title: "Days of the Week video practice", status: "due", detail: "Practice, 0 points", due: "Wed Sep 2, 3:59pm" }
-            ]},
-            { name: "World Geography", teacher: "Callahan", period: "P6", source: "Canvas", grade: null, note: "Coldest Town still missing · Week 3 underway", work: [
-              { title: "Coldest Town on Earth Questions", status: "missing", detail: "Still marked missing after Friday’s due time; also on Mon/Tue class list", due: "Due Fri Aug 28, 11:59pm" },
-              { title: "Current Event Discussion #2", status: "due", detail: "In class Wednesday", due: "Fri Sep 4, 11:59pm" },
-              { title: "Earth Stations", status: "due", detail: "Turn in Thu A / Fri B", due: "Thu–Fri Sep 3–4" }
-            ]},
-            { name: "Biology", teacher: "DeGrenier", period: "P7", source: "Canvas", grade: 80.75, note: "Identifying Variables still pending review", work: [
-              { title: "Design a Molecule", status: "due", detail: "In class", due: "Tue Sep 1, 4:00pm" },
-              { title: "Biomolecules POGIL", status: "due", detail: "In class", due: "Fri Sep 4" }
-            ]},
-            { name: "English I", teacher: "MacAllister", period: "P8", source: "Canvas", grade: 97.5, note: "SKDM Reflection 100 · Membean Program 1 95", work: [
-              { title: "Q1 Membean Program 2", status: "due", detail: "45 minutes (three 15-minute sessions)", due: "Wed Sep 2, 11:59pm" },
-              { title: "Q1 Membean Quiz 1", status: "due", detail: "In class on school laptop", due: "Thu Sep 3, 8:30am" },
-              { title: "TKAM Ch. 1–7", status: "due", detail: "In class", due: "Thu Sep 3, 8:30am" },
-              { title: "TKAM Shoe Activity", status: "due", detail: "", due: "Thu Sep 3, 3:30pm" }
-            ]}
-          ]
-        },
-        sky: {
-          name: "Sky",
-          attention: [
-            "English 12 is at 0% — Death of a Moth scored 0, and several items are still missing including the final narrative.",
-            "Precalculus is at 40% because Quiz 1.1–1.3 is posted as 0."
-          ],
-          courses: [
-            { name: "English 12", teacher: "Denton", period: "Ethos", source: "Ethos", grade: 0, note: "Final narrative was due today and still blank", work: [
-              { title: "Death of a Moth", status: "zero", detail: "Scored 0, completed late Aug 27", due: "Due Aug 24" },
-              { title: "Brave New World essay test", status: "overdue", detail: "Not completed", due: "Due Aug 20" },
-              { title: "DWS Quiz 1", status: "overdue", detail: "Parts of speech", due: "Due Aug 26" },
-              { title: "Personal narrative first draft", status: "overdue", detail: "Not completed", due: "Due Aug 27" },
-              { title: "Final narrative essay", status: "overdue", detail: "Still blank at 5pm pull", due: "Due Mon Aug 31" }
-            ]},
-            { name: "Physics", teacher: "Manley", period: "Ethos", source: "Ethos", grade: 100, note: "On track; two SIS items still unmarked", work: [
-              { title: "Lockdown Browser Tutorial", status: "overdue", detail: "May live in LMS; parent SSO could not open it", due: "Due Aug 18" },
-              { title: "Practice Quiz Monitor", status: "overdue", detail: "May live in LMS", due: "Due Aug 20" }
-            ]},
-            { name: "Government", teacher: "Daniels", period: "Ethos", source: "Ethos", grade: 100, note: "Synch #1 make up still blank", work: [
-              { title: "Synch #1 make up", status: "overdue", detail: "Still blank", due: "Due Aug 19" },
-              { title: "Constitutional Convention Compromises", status: "due", detail: "", due: "Fri Sep 4" }
-            ]},
-            { name: "Precalculus", teacher: "Pinson", period: "Ethos", source: "Ethos", grade: 40, note: "Quiz 1.1–1.3 posted 0", work: [
-              { title: "Dropbox Quiz 1.1–1.3", status: "zero", detail: "Posted 0, not completed", due: "Due Mon Aug 31" }
-            ]},
-            { name: "Sociology", teacher: "Lane", period: "Ethos", source: "Ethos", grade: null, note: "Three Aug 30 submissions still ungraded", work: [] },
-            { name: "Apologetics", teacher: "Dallas", period: "P3", source: "Canvas", grade: 100, note: "Post-survey due Fri Sep 4", work: [
-              { title: "Surrounded Simulation post-survey", status: "due", detail: "Still unsubmitted", due: "Fri Sep 4, 11:59pm" }
-            ]},
-            { name: "Graphic Design", teacher: "Graham", period: "P5", source: "Canvas", grade: null, note: "No assignments posted", work: [] }
-          ]
-        }
-      }
-    };
+  updated: "Monday, Aug 31, 2026 · 8:09 PM CT",
+  students: {
+    olen: {
+      name: "Olen",
+      attention: [
+        "Algebra I is at 37% after the 1.1–1.4 quiz posted at 2/20.",
+        "World Geography still has Coldest Town questions marked missing.",
+        "Membean Program 2 is due Wednesday night ahead of Thursday’s quiz."
+      ],
+      courses: [
+        { name: "Bible", teacher: "Arredondo", period: "P2", source: "Canvas", grade: 100, note: "Readiness check Wed · Genesis 1–11 test Thu", work: [
+            { title: "Genesis Test Readiness Check", status: "due", detail: "Online quiz; unsubmitted", due: "Wed Sep 2, 4:00pm" },
+            { title: "Jigsaw- The Patriarchs", status: "due", detail: "Unsubmitted", due: "Thu Sep 3, 4:00pm" },
+            { title: "BibleProject- Genesis 12-50", status: "due", detail: "Unsubmitted", due: "Thu Sep 3, 4:00pm" },
+            { title: "Test: Units 1: Genesis 1-11", status: "due", detail: "Summative; unsubmitted", due: "Thu Sep 3, 4:00pm" }
+          ] },
+        { name: "Worship Culture", teacher: "Titus", period: "P3", source: "Canvas", grade: null, note: "No new Canvas work this week", work: [] },
+        { name: "Algebra I", teacher: "Seegers", period: "P4", source: "Canvas", grade: 37, note: "Quiz 1.1–1.4 was 2/20 · Lesson 3 due Wed", work: [
+            { title: "Quiz 1.1–1.4", status: "zero", detail: "Scored 2/20", due: "Posted Fri Aug 28" },
+            { title: "Lesson 3: Solve and Color", status: "due", detail: "From Unit 1 Schedule (not a dated Canvas assignment); only pick 1 page to color", due: "Wed Sep 2" },
+            { title: "MAP Testing", status: "due", detail: "School-wide math test in class; no homework due", due: "Wed Sep 2" }
+          ] },
+        { name: "German I", teacher: "Porter", period: "P5", source: "Canvas", grade: 97.5, note: "Days of the Week video due Wednesday", work: [
+            { title: "Days of the Week (Video practice)", status: "due", detail: "0 pts, on paper, unsubmitted; muted", due: "Wed Sep 2, 3:59pm" }
+          ] },
+        { name: "World Geography", teacher: "Callahan", period: "P6", source: "Canvas", grade: null, note: "Coldest Town still missing · Week 3 underway", work: [
+            { title: "Coldest Town on Earth Questions", status: "missing", detail: "Canvas missing=true; 0 pts, omit_from_final_grade, muted; still unsubmitted", due: "Fri Aug 28, 11:59pm" },
+            { title: "Earth Stations and Guided Questions", status: "due", detail: "In class Mon–Tue (A/B); TURN IN listed on week-3 page (assignment unpublished)", due: "Thu Sep 3 / Fri Sep 4" },
+            { title: "Current Event Discussion #2", status: "due", detail: "In class Wed Sep 2; Canvas due Fri 11:59pm; unsubmitted", due: "Fri Sep 4, 11:59pm" }
+          ] },
+        { name: "Biology", teacher: "DeGrenier", period: "P7", source: "Canvas", grade: 80.75, note: "Identifying Variables still pending review · no lab this week", work: [
+            { title: "Design a Molecule (in class)", status: "due", detail: "On paper; muted; unsubmitted", due: "Tue Sep 1, 4:00pm" },
+            { title: "Biomolecules - Pogil (in class)", status: "due", detail: "On paper; muted; unsubmitted", due: "Fri Sep 4, 4:00pm" }
+          ] },
+        { name: "English I", teacher: "MacAllister", period: "P8", source: "Canvas", grade: 97.5, note: "SKDM Reflection 100 · Membean Program 1 95", work: [
+            { title: "Q1 Membean Program 2", status: "due", detail: "Weekly training; unsubmitted (Program 1 was 95%)", due: "Wed Sep 2, 11:59pm" },
+            { title: "Q1 Membean Quiz 1", status: "due", detail: "Summative; unsubmitted", due: "Thu Sep 3, 8:30am" },
+            { title: "TKAM Ch. 1-7", status: "due", detail: "Unsubmitted", due: "Thu Sep 3, 8:30am" },
+            { title: "TKAM Shoe Activity", status: "due", detail: "Unsubmitted", due: "Thu Sep 3, 3:30pm" }
+          ] }
+      ]
+    },
+    sky: {
+      name: "Sky",
+      attention: [
+        "English 12 is at 0% — Death of a Moth scored 0, and several items are still missing including the final narrative.",
+        "Precalculus is at 40% because Quiz 1.1–1.3 is posted as 0.",
+        "Precalculus Quiz 1.4–1.7 is already posted as 0 (due Sep 15)."
+      ],
+      courses: [
+        { name: "English 12", teacher: "Denton", period: "Ethos", source: "Ethos", grade: 0, note: "Final narrative due today still blank", work: [
+            { title: "Brave New World essay test", status: "overdue", detail: "Not completed", due: "Due Aug 20" },
+            { title: "DWS Quiz 1", status: "overdue", detail: "Parts of speech", due: "Due Aug 26" },
+            { title: "Personal narrative first draft", status: "overdue", detail: "Not completed", due: "Due Aug 27" },
+            { title: "Final narrative essay", status: "overdue", detail: "Still blank at 8pm pull", due: "Due Aug 31" },
+            { title: "Death of a Moth", status: "zero", detail: "Scored 0, completed Aug 27", due: "Due Aug 24" }
+          ] },
+        { name: "Physics", teacher: "Manley", period: "Ethos", source: "Ethos", grade: 100, note: "On track; two SIS items still unmarked", work: [
+            { title: "Lockdown Browser Tutorial", status: "overdue", detail: "May live in LMS; parent SSO could not open it", due: "Due Aug 18" },
+            { title: "Practice Quiz Monitor", status: "overdue", detail: "May live in LMS", due: "Due Aug 20" }
+          ] },
+        { name: "Government", teacher: "Daniels", period: "Ethos", source: "Ethos", grade: 100, note: "Synch #1 make up still blank", work: [
+            { title: "Synch #1 make up", status: "overdue", detail: "Still blank", due: "Due Aug 19" },
+            { title: "Constitutional Convention Compromises", status: "due", detail: "", due: "Fri Sep 4" }
+          ] },
+        { name: "Precalculus", teacher: "Pinson", period: "Ethos", source: "Ethos", grade: 40, note: "Quiz 1.1–1.3 posted 0 · Quiz 1.4–1.7 also 0 (due later)", work: [
+            { title: "Dropbox Quiz 1.1–1.3", status: "zero", detail: "Posted 0, not completed", due: "Due Aug 31" },
+            { title: "Dropbox Quiz 1.4–1.7", status: "zero", detail: "Posted 0 early", due: "Due Sep 15" }
+          ] },
+        { name: "Sociology", teacher: "Lane", period: "Ethos", source: "Ethos", grade: null, note: "3 Aug 30 submissions still ungraded", work: [] },
+        { name: "Apologetics", teacher: "Dallas", period: "P3", source: "Canvas", grade: 100, note: "Post-survey due Fri Sep 4", work: [
+            { title: "Surrounded Simulation Post-Survey", status: "due", detail: "Still unsubmitted", due: "Fri Sep 4, 11:59pm" }
+          ] },
+        { name: "Graphic Design", teacher: "Graham", period: "P5", source: "Canvas", grade: null, note: "No assignments posted", work: [] }
+      ]
+    }
+  }
+};
 
     const who = document.getElementById("who");
     const nameEl = document.getElementById("studentName");
