@@ -1,1 +1,609 @@
-PLACEHOLDER
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Liberty recap</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,480;9..144,600&family=Outfit:wght@320;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #1a1714;
+      --muted: #6d645a;
+      --paper: #f4eee4;
+      --card: #fffaf3;
+      --line: #e4d9c8;
+      --navy: #1c3a57;
+      --gold: #b0893e;
+      --good: #2f6b4f;
+      --warn: #9a3b2f;
+      --soft: #dbe6df;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; }
+    body {
+      font-family: Outfit, system-ui, sans-serif;
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #efe4d0 0%, transparent 55%),
+        radial-gradient(900px 500px at 110% 0%, #dfe8e3 0%, transparent 50%),
+        var(--paper);
+      color: var(--ink);
+      letter-spacing: 0.01em;
+    }
+    .wrap { max-width: 1120px; margin: 0 auto; padding: 36px 22px 72px; }
+    header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 20px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid var(--line);
+    }
+    .kicker {
+      font-size: 11px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--gold);
+      font-weight: 600;
+      margin: 0 0 8px;
+    }
+    h1 {
+      font-family: Fraunces, Georgia, serif;
+      font-weight: 480;
+      font-size: clamp(36px, 5vw, 56px);
+      line-height: 0.95;
+      margin: 0;
+      color: var(--navy);
+    }
+    .updated { margin: 10px 0 0; color: var(--muted); font-size: 14px; }
+    .switcher { position: relative; min-width: 210px; }
+    .switcher label {
+      display: block;
+      font-size: 11px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    select {
+      appearance: none;
+      width: 100%;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 12px 42px 12px 18px;
+      font: 500 16px Outfit, sans-serif;
+      color: var(--navy);
+      box-shadow: 0 8px 24px rgba(28, 58, 87, 0.06);
+      cursor: pointer;
+    }
+    .switcher::after {
+      content: "";
+      position: absolute;
+      right: 18px;
+      bottom: 16px;
+      width: 8px; height: 8px;
+      border-right: 2px solid var(--navy);
+      border-bottom: 2px solid var(--navy);
+      transform: rotate(45deg);
+      pointer-events: none;
+    }
+    .layout { display: grid; grid-template-columns: 280px 1fr; gap: 28px; margin-top: 32px; }
+    @media (max-width: 840px) {
+      header, .layout { display: block; }
+      .switcher { margin-top: 22px; }
+    }
+    .panel, .course, .class-block {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+    }
+    .panel { padding: 22px; height: fit-content; }
+    .panel h2, .courses h2, .work h2 {
+      font-size: 12px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 0 0 14px;
+      font-weight: 600;
+    }
+    .attention { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+    .attention li {
+      padding: 12px 12px 12px 14px;
+      border-left: 3px solid var(--gold);
+      background: #fbf6ec;
+      border-radius: 0 10px 10px 0;
+      font-size: 14px;
+      line-height: 1.45;
+    }
+    .quiet { color: var(--muted); font-size: 14px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
+    .course { padding: 18px 18px 16px; display: flex; flex-direction: column; min-height: 168px; }
+    .course-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+    .grade {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 34px;
+      line-height: 1;
+      color: var(--navy);
+    }
+    .grade.warn { color: var(--warn); }
+    .grade.good { color: var(--good); }
+    .grade.none { color: var(--muted); font-size: 28px; }
+    .chip {
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 4px 8px;
+      color: var(--muted);
+    }
+    .chip.ethos { background: #eef3f0; color: var(--good); border-color: var(--soft); }
+    .chip.overdue, .chip.zero { background: #f8ece9; color: var(--warn); border-color: #ead4cf; }
+    .chip.due { background: #fbf6ec; color: #8a6a28; border-color: #ead9b4; }
+    .chip.missing { background: #f3eee6; color: var(--muted); border-color: var(--line); }
+    .name { font-weight: 600; margin: 16px 0 2px; font-size: 16px; }
+    .meta { color: var(--muted); font-size: 13px; margin: 0 0 auto; }
+    .next { margin-top: 14px; font-size: 13px; color: var(--ink); }
+    .work { margin-top: 36px; }
+    .class-list { display: grid; gap: 14px; }
+    .class-block { padding: 18px 20px 8px; }
+    .class-block h3 {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 22px;
+      font-weight: 480;
+      margin: 0 0 4px;
+      color: var(--navy);
+    }
+    .class-sub { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+    .item {
+      display: grid;
+      grid-template-columns: 92px 1fr auto;
+      gap: 12px;
+      align-items: baseline;
+      padding: 11px 0;
+      border-top: 1px solid var(--line);
+      font-size: 14px;
+    }
+    .item .title { font-weight: 500; }
+    .item .due { color: var(--muted); font-size: 13px; }
+    @media (max-width: 640px) {
+      .item { grid-template-columns: 1fr; gap: 4px; }
+    }
+    footer { margin-top: 36px; color: var(--muted); font-size: 12px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <p class="kicker">Liberty Christian</p>
+        <h1 id="studentName">Olen</h1>
+        <p class="updated" id="updated"></p>
+      </div>
+      <div class="switcher">
+        <label for="who">Student</label>
+        <select id="who">
+          <option value="olen">Olen</option>
+          <option value="sky">Sky</option>
+        </select>
+      </div>
+    </header>
+    <div class="layout">
+      <aside class="panel">
+        <h2>Needs attention</h2>
+        <ul class="attention" id="attention"></ul>
+      </aside>
+      <section>
+        <div class="courses">
+          <h2>Courses</h2>
+          <div class="grid" id="courses"></div>
+        </div>
+      </section>
+    </div>
+    <section class="work">
+      <h2>Work by class</h2>
+      <div class="class-list" id="work"></div>
+    </section>
+    <footer>Snapshot from the family recap. First names only. Grades are current as of the timestamp above.</footer>
+  </div>
+  <script>
+    const DATA = {
+  "updated": "Wednesday, Sep 2, 2026 · 5:36 PM CT",
+  "students": {
+    "olen": {
+      "name": "Olen",
+      "attention": [
+        "Algebra I 37% — Quiz 1.1–1.4 still 2/20; Equations Test was in class today (Wed 9/2); Lesson 3 Solve and Color due today; Karaoke Performance due Thu 9/3 (4th)",
+        "Geography Coldest Town Questions still missing; Earth Stations marked missing in Canvas (Week 3 schedule TURN IN Thu A / Fri B)",
+        "Biology 80.75% — Design a Molecule overdue (was due Tue 4:00pm, unsubmitted); Biomolecules Pogil Fri 4:00pm; Get to Know You 50/100; Identifying Variables pending_review/muted",
+        "English Membean Program 2 due tonight Wed 11:59pm (still unsubmitted); Membean Quiz 1 and TKAM Ch 1–7 due Thu 8:30am",
+        "Bible Genesis 1–11 Test Thu 4:00pm (Readiness Check already 100% today); Jigsaw Patriarchs + Genesis 12–50 also Thu"
+      ],
+      "courses": [
+        {
+          "name": "Bible",
+          "teacher": "Arredondo",
+          "period": "P2",
+          "source": "Canvas",
+          "grade": 100,
+          "note": "100%. Readiness Check 100% today; Genesis 1–11 test Thursday.",
+          "work": [
+            {
+              "title": "Group Jigsaw- The Patriarchs",
+              "status": "due",
+              "detail": "Unsubmitted; muted",
+              "due": "Thu Sep 3, 4:00pm"
+            },
+            {
+              "title": "BibleProject- Genesis 12-50",
+              "status": "due",
+              "detail": "Unsubmitted; muted; unlocks Thu",
+              "due": "Thu Sep 3, 4:00pm"
+            },
+            {
+              "title": "Test: Units 1: Genesis 1-11",
+              "status": "due",
+              "detail": "Summative; unsubmitted; muted",
+              "due": "Thu Sep 3, 4:00pm"
+            }
+          ]
+        },
+        {
+          "name": "Intro to Worship Culture",
+          "teacher": "Titus",
+          "period": "P3",
+          "source": "Canvas",
+          "grade": null,
+          "note": "No current score. Binder muted/locked; no due-soon graded work.",
+          "work": []
+        },
+        {
+          "name": "Algebra I",
+          "teacher": "Seegers",
+          "period": "P4",
+          "source": "Canvas",
+          "grade": 37,
+          "note": "37% — Quiz 1.1–1.4 is 2/20. Equations Test today; Karaoke Thu (4th).",
+          "work": [
+            {
+              "title": "Lesson 3: Solve and Color",
+              "status": "due",
+              "detail": "From Unit 1 Schedule page (not a dated Canvas assignment)",
+              "due": "Wed Sep 2"
+            },
+            {
+              "title": "Equations Test",
+              "status": "due",
+              "detail": "In class today per Unit 1 Schedule (9/2 A+B)",
+              "due": "Wed Sep 2"
+            },
+            {
+              "title": "Algebra Karaoke Performance",
+              "status": "due",
+              "detail": "Unsubmitted; 4th period due Thu (Canvas due_at 12:30pm CT)",
+              "due": "Thu Sep 3, 12:30pm"
+            }
+          ]
+        },
+        {
+          "name": "German I",
+          "teacher": "Porter",
+          "period": "P5",
+          "source": "Canvas",
+          "grade": 113.33,
+          "note": "113.33%. Days of the Week graded 10; nothing unsubmitted due through Fri.",
+          "work": []
+        },
+        {
+          "name": "World Geography",
+          "teacher": "Callahan",
+          "period": "P6",
+          "source": "Canvas",
+          "grade": null,
+          "note": "No current score",
+          "work": [
+            {
+              "title": "Coldest Town on Earth Questions",
+              "status": "missing",
+              "detail": "Marked missing; unsubmitted (muted)",
+              "due": "Fri Aug 28, 11:59pm"
+            },
+            {
+              "title": "TURN IN - Earth Stations and Guided Questions",
+              "status": "missing",
+              "detail": "Canvas missing=true; Week 3 schedule TURN IN Thu A / Fri B",
+              "due": "Thu Sep 3 / Fri Sep 4"
+            }
+          ]
+        },
+        {
+          "name": "Biology",
+          "teacher": "DeGrenier",
+          "period": "P7",
+          "source": "Canvas",
+          "grade": 80.75,
+          "note": "80.75%. Design a Molecule overdue; Pogil Fri. No Canvas lab assignment due this week.",
+          "work": [
+            {
+              "title": "Design a Molecule (in class)",
+              "status": "overdue",
+              "detail": "Unsubmitted; was due Tue 4:00pm; muted/ungraded",
+              "due": "Tue Sep 1, 4:00pm"
+            },
+            {
+              "title": "Biomolecules - Pogil (in class)",
+              "status": "due",
+              "detail": "Unsubmitted; muted",
+              "due": "Fri Sep 4, 4:00pm"
+            }
+          ]
+        },
+        {
+          "name": "English I",
+          "teacher": "MacAllister",
+          "period": "P8",
+          "source": "Canvas",
+          "grade": 97.5,
+          "note": "97.5%",
+          "work": [
+            {
+              "title": "Q1 Membean Program 2",
+              "status": "due",
+              "detail": "Unsubmitted (Program 1 was 95%)",
+              "due": "Wed Sep 2, 11:59pm"
+            },
+            {
+              "title": "Q1 Membean Quiz 1",
+              "status": "due",
+              "detail": "Unsubmitted; in-class style",
+              "due": "Thu Sep 3, 8:30am"
+            },
+            {
+              "title": "TKAM Ch. 1-7",
+              "status": "due",
+              "detail": "Unsubmitted",
+              "due": "Thu Sep 3, 8:30am"
+            },
+            {
+              "title": "TKAM Shoe Activity",
+              "status": "due",
+              "detail": "Unsubmitted; muted",
+              "due": "Thu Sep 3, 3:30pm"
+            }
+          ]
+        }
+      ]
+    },
+    "sky": {
+      "name": "Sky",
+      "attention": [
+        "English 12 is at 63% — \"Death of a Moth\" by Virginia Woolf posted 0.",
+        "Physics still has 2 overdue items including Lockdown Browser Tutorial.",
+        "Government still has 2 overdue items including Synch #1 Make Up.",
+        "Precalculus is at 40% — Quiz 1.1 - 1.3, Dropbox Quiz 1.1- 1.3 posted 0."
+      ],
+      "courses": [
+        {
+          "name": "English 12",
+          "teacher": "Denton",
+          "period": "Ethos",
+          "source": "Ethos",
+          "grade": 63,
+          "note": "Course at 63% · 2 overdue · 1 posted 0",
+          "work": [
+            {
+              "title": "Brave New World Summer Reading Essay Test",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 20"
+            },
+            {
+              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "status": "zero",
+              "detail": "Posted 0, completed Aug 27",
+              "due": "Due Aug 24"
+            },
+            {
+              "title": "First Draft of Personal Narrative",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 27"
+            }
+          ]
+        },
+        {
+          "name": "Physics",
+          "teacher": "Manley",
+          "period": "Ethos",
+          "source": "Ethos",
+          "grade": 100,
+          "note": "2 overdue · 3 recent submissions ungraded",
+          "work": [
+            {
+              "title": "Lockdown Browser Tutorial",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 18"
+            },
+            {
+              "title": "Practice Lockdown Browser Quiz Monitor",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 20"
+            }
+          ]
+        },
+        {
+          "name": "Government",
+          "teacher": "Daniels",
+          "period": "Ethos",
+          "source": "Ethos",
+          "grade": 100,
+          "note": "2 overdue · 1 recent submissions ungraded · work due this week",
+          "work": [
+            {
+              "title": "Synch #1 Make Up",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 19"
+            },
+            {
+              "title": "Constitutional Convention Compromises",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 01"
+            },
+            {
+              "title": "Federalists v. Anti Federalists",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 03"
+            }
+          ]
+        },
+        {
+          "name": "Precalculus",
+          "teacher": "Pinson",
+          "period": "Ethos",
+          "source": "Ethos",
+          "grade": 40,
+          "note": "Course at 40% · 4 posted 0",
+          "work": [
+            {
+              "title": "Quiz 1.1 - 1.3",
+              "status": "zero",
+              "detail": "Posted 0, completed Aug 31",
+              "due": "Due Aug 24"
+            },
+            {
+              "title": "Dropbox Quiz 1.1- 1.3",
+              "status": "zero",
+              "detail": "Posted 0, completed Aug 31",
+              "due": "Due Aug 26"
+            },
+            {
+              "title": "QUIZ 1.4 - 1.7",
+              "status": "zero",
+              "detail": "Posted 0, completed Aug 31",
+              "due": "Due Sep 03"
+            },
+            {
+              "title": "Dropbox Quiz 1.4 - 1.7",
+              "status": "zero",
+              "detail": "Posted 0, completed Aug 31",
+              "due": "Due Sep 07"
+            }
+          ]
+        },
+        {
+          "name": "Sociology",
+          "teacher": "Lane",
+          "period": "Ethos",
+          "source": "Ethos",
+          "grade": null,
+          "note": "3 recent submissions ungraded",
+          "work": []
+        },
+        {
+          "name": "Apologetics",
+          "teacher": "Dallas",
+          "period": "P3",
+          "source": "Canvas",
+          "grade": 100,
+          "note": "LIVE: current_score/final_score 100",
+          "work": []
+        },
+        {
+          "name": "Graphic Design",
+          "teacher": "Graham",
+          "period": "P5",
+          "source": "Canvas",
+          "grade": 100,
+          "note": "LIVE: current_score/final_score 100",
+          "work": []
+        }
+      ]
+    }
+  }
+};
+
+    const who = document.getElementById("who");
+    const nameEl = document.getElementById("studentName");
+    const updated = document.getElementById("updated");
+    const attention = document.getElementById("attention");
+    const courses = document.getElementById("courses");
+    const work = document.getElementById("work");
+    updated.textContent = "Updated " + DATA.updated;
+    const STATUS = { overdue: "Overdue", zero: "Zero", due: "Due soon", missing: "Missing" };
+
+    function gradeClass(g) {
+      if (g === null || g === undefined) return "none";
+      if (g < 70) return "warn";
+      if (g >= 90) return "good";
+      return "";
+    }
+    function gradeLabel(g) {
+      if (g === null || g === undefined) return "—";
+      return (Number.isInteger(g) ? g : g.toFixed(2).replace(/0$/, "")) + "%";
+    }
+    function render(key) {
+      const s = DATA.students[key];
+      nameEl.textContent = s.name;
+      attention.innerHTML = s.attention.map(t => "<li>" + t + "</li>").join("") || "<li class='quiet'>Nothing flagged.</li>";
+      courses.innerHTML = s.courses.map(c => `
+        <article class="course">
+          <div class="course-top">
+            <div class="grade ${gradeClass(c.grade)}">${gradeLabel(c.grade)}</div>
+            <span class="chip ${c.source === "Ethos" ? "ethos" : ""}">${c.source}</span>
+          </div>
+          <p class="name">${c.name}</p>
+          <p class="meta">${c.period} · ${c.teacher}</p>
+          <p class="next">${c.note}</p>
+        </article>
+      `).join("");
+      const withWork = s.courses.filter(c => c.work && c.work.length);
+      work.innerHTML = withWork.length ? withWork.map(c => `
+        <article class="class-block">
+          <h3>${c.name}</h3>
+          <p class="class-sub">${c.source} · ${c.teacher}</p>
+          ${c.work.map(w => `
+            <div class="item">
+              <span class="chip ${w.status}">${STATUS[w.status] || w.status}</span>
+              <span class="title">${w.title}${w.detail ? " · " + w.detail : ""}</span>
+              <span class="due">${w.due || ""}</span>
+            </div>
+          `).join("")}
+        </article>
+      `).join("") : "<p class='quiet'>No assignments flagged.</p>";
+    }
+    const PATH = { olen: "a", sky: "b" };
+    const SLUG = { a: "olen", b: "sky" };
+    function recapBase() {
+      const p = location.pathname.replace(/\/index\.html$/, "").replace(/\/(a|b)\/?$/, "");
+      return (p || "") + "/";
+    }
+    function fromUrl() {
+      const p = location.pathname.replace(/\/index\.html$/, "");
+      if (/\/b\/?$/.test(p)) return "sky";
+      if (/\/a\/?$/.test(p)) return "olen";
+      return "olen";
+    }
+    function go(key) {
+      const next = recapBase() + PATH[key] + "/";
+      if (location.pathname.replace(/\/index\.html$/, "").replace(/\/?$/, "/") === next) {
+        render(key);
+        return;
+      }
+      location.href = next;
+    }
+    who.value = fromUrl();
+    render(who.value);
+    if (!/\/(a|b)\/?$/.test(location.pathname.replace(/\/index\.html$/, ""))) {
+      history.replaceState(null, "", recapBase() + PATH[who.value] + "/");
+    }
+    who.addEventListener("change", () => go(who.value));
+  </script>
+</body>
+</html>
