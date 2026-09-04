@@ -1,14 +1,14 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 3, 2026 · 8:20 PM CT",
+  "updated": "Friday, Sep 4, 2026 · 12:33 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I still 37% — Quiz 1.1–1.4 is 2/20; Karaoke Performance still Canvas-missing (P4 due today 12:30pm).",
+        "Algebra I still 37% — Quiz 1.1–1.4 is 2/20; Karaoke Performance still Canvas-missing (P4 was due Thu 9/3).",
         "English: Membean Program 2 overdue; Membean Quiz 1, TKAM Ch 1–7, and Shoe Activity still unsubmitted in Canvas.",
-        "Bible at 80% — Genesis Unit 1 test 80; Group Jigsaw posted 0/missing.",
+        "Bible at 80% — Group Jigsaw posted 0/missing.",
         "Geography 87.5%, but Coldest Town and Earth Stations still Canvas-missing.",
-        "Biology 85.83% (Design a Molecule 100 + Identifying Variables 92 posted); Biomolecules Pogil due Fri in class."
+        "Biology 85.83%; Biomolecules Pogil due Fri in class."
       ],
       "courses": [
         {
@@ -17,12 +17,18 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 80,
-          "note": "Current score 80",
+          "note": "Current score 80 · Group Jigsaw posted 0/missing",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
               "detail": "Posted 0/100; Canvas missing flag",
+              "due": "Thu Sep 3, 4:00pm"
+            },
+            {
+              "title": "BibleProject- Genesis 12-50",
+              "status": "overdue",
+              "detail": "Unsubmitted; muted",
               "due": "Thu Sep 3, 4:00pm"
             }
           ]
@@ -45,9 +51,15 @@ window.RECAP_DATA = {
           "note": "37% driven by Quiz 1.1–1.4 (2/20)",
           "work": [
             {
+              "title": "1.1-1.4 Quiz",
+              "status": "zero",
+              "detail": "Posted 2/20 (10%); in-class paper quiz",
+              "due": "Thu Aug 27, 11:00am"
+            },
+            {
               "title": "Algebra Karaoke Performance",
               "status": "missing",
-              "detail": "Canvas missing; media upload unsubmitted (P4 due today 12:30pm)",
+              "detail": "Canvas missing; media upload unsubmitted (P4 due Thu 9/3 12:30pm)",
               "due": "Thu Sep 3, 12:30pm"
             },
             {
@@ -73,18 +85,24 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 87.5,
-          "note": "Vocab Quiz 87.5%",
+          "note": "87.5%, but Coldest Town and Earth Stations still Canvas-missing",
           "work": [
             {
               "title": "Coldest Town on Earth Questions",
               "status": "missing",
-              "detail": "Canvas missing flag (muted, 0 pts)",
+              "detail": "Canvas missing; muted; 0 pts; omit_from_final_grade",
               "due": "Fri Aug 28, 11:59pm"
             },
             {
               "title": "TURN IN - Earth Stations and Guided Questions",
               "status": "missing",
-              "detail": "Canvas missing; Week 3 Thu A / Fri B turn-in",
+              "detail": "Canvas missing; muted; 0 pts",
+              "due": "Tue Sep 1, 11:59pm"
+            },
+            {
+              "title": "TURN IN - 5 Themes of Geography Notes",
+              "status": "overdue",
+              "detail": "Unsubmitted; muted; 0 pts",
               "due": "Tue Sep 1, 11:59pm"
             }
           ]
@@ -95,12 +113,12 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "Canvas",
           "grade": 85.83,
-          "note": "Design a Molecule 100 and Identifying Variables 92 posted",
+          "note": "85.83% (Design a Molecule 100 + Identifying Variables 92 posted); Biomolecules Pogil due Fri in class",
           "work": [
             {
               "title": "Biomolecules - Pogil (in class)",
               "status": "due",
-              "detail": "On-paper in class; still unsubmitted in Canvas",
+              "detail": "On paper; muted; unsubmitted",
               "due": "Fri Sep 4, 4:00pm"
             }
           ]
@@ -111,31 +129,31 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 97.5,
-          "note": "Membean Program 1 still 95%",
+          "note": "97.5%. Membean Program 2 overdue; Quiz 1 / TKAM still unsubmitted in Canvas.",
           "work": [
             {
-              "title": "Q1 Membean Program 2",
+              "title": "TKAM Shoe Activity",
               "status": "overdue",
-              "detail": "Unsubmitted Membean training",
-              "due": "Wed Sep 2, 11:59pm"
-            },
-            {
-              "title": "Q1 Membean Quiz 1",
-              "status": "overdue",
-              "detail": "Due this morning (P8); still unsubmitted in Canvas",
-              "due": "Thu Sep 3, 8:30am"
+              "detail": "Unsubmitted; muted",
+              "due": "Thu Sep 3, 3:30pm"
             },
             {
               "title": "TKAM Ch. 1-7",
               "status": "overdue",
-              "detail": "Due this morning (P8); still unsubmitted in Canvas",
+              "detail": "Unsubmitted; muted",
               "due": "Thu Sep 3, 8:30am"
             },
             {
-              "title": "TKAM Shoe Activity",
+              "title": "Q1 Membean Quiz 1",
               "status": "overdue",
-              "detail": "Due this afternoon; still unsubmitted",
-              "due": "Thu Sep 3, 3:30pm"
+              "detail": "Unsubmitted; muted",
+              "due": "Thu Sep 3, 8:30am"
+            },
+            {
+              "title": "Q1 Membean Program 2",
+              "status": "overdue",
+              "detail": "Unsubmitted; muted",
+              "due": "Wed Sep 2, 11:59pm"
             }
           ]
         }
@@ -146,13 +164,13 @@ window.RECAP_DATA = {
       "attention": [
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 2 overdue items including Lockdown Browser Tutorial.",
-        "Government still has 2 overdue items including Synch #1 Make Up.",
+        "Government still has 3 overdue items including Synch #1 Make Up.",
         "Precalculus is at 40% — Quiz 1.1 - 1.3, Dropbox Quiz 1.1- 1.3 posted 0."
       ],
       "courses": [
         {
           "name": "English 12",
-          "teacher": "Denton",
+          "teacher": "Hughes",
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
@@ -174,7 +192,7 @@ window.RECAP_DATA = {
         },
         {
           "name": "Physics",
-          "teacher": "Manley",
+          "teacher": "Meeker",
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
@@ -206,7 +224,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "2 overdue · 1 recent submissions ungraded · work due this week",
+          "note": "3 overdue · 1 recent submissions ungraded · work due this week",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -222,9 +240,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Federalists v. Anti Federalists",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 03"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 03"
             },
             {
               "title": "Constitutional Scavenger Hunt",
@@ -283,7 +301,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 100,
-          "note": "LIVE current_score/final_score 100",
+          "note": "100%. No flagged Canvas work through Mon Sep 7.",
           "work": []
         },
         {
@@ -292,7 +310,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100,
-          "note": "LIVE current_score/final_score 100",
+          "note": "100%. No flagged Canvas work through Mon Sep 7.",
           "work": []
         }
       ]
