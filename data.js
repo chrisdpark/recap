@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 4, 2026 · 8:38 AM CT",
+  "updated": "Friday, Sep 4, 2026 · 12:21 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,8 +7,8 @@ window.RECAP_DATA = {
         "Algebra I still 37% — Quiz 1.1–1.4 is 2/20; Karaoke Performance still Canvas-missing (P4 was due Thu 9/3).",
         "English: Membean Program 2 overdue; Membean Quiz 1, TKAM Ch 1–7, and Shoe Activity still unsubmitted in Canvas.",
         "Bible at 80% — Group Jigsaw posted 0/missing.",
-        "Geography 87.5%, but Coldest Town on Earth Questions, Earth Stations and Guided Questions still Canvas-missing.",
-        "Biology 85.83%; Biomolecules Pogil due Fri in class."
+        "Geography up to 92.75% (Vocab Matrix 98 posted this morning); Earth Stations still Canvas-missing. Coldest Town no longer in live AG.",
+        "Biology 85.83%; Biomolecules Pogil due today in class."
       ],
       "courses": [
         {
@@ -17,7 +17,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 80,
-          "note": "Current score 80 · Group Jigsaw posted 0/missing",
+          "note": "Current score 80",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -33,7 +33,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": null,
-          "note": "No current score; Binder muted/closed; no due-soon work through Mon Sep 7.",
+          "note": "No current score; Binder muted/closed (Aug 25); no due-soon work through Mon Sep 7.",
           "work": []
         },
         {
@@ -42,14 +42,8 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 37,
-          "note": "37% driven by Quiz 1.1–1.4 (2/20)",
+          "note": "37% driven by Quiz 1.1–1.4 (posted 2/20)",
           "work": [
-            {
-              "title": "1.1-1.4 Quiz",
-              "status": "zero",
-              "detail": "Posted 2/20 (10%); in-class paper quiz",
-              "due": "Thu Aug 27, 11:00am"
-            },
             {
               "title": "Algebra Karaoke Performance",
               "status": "missing",
@@ -59,7 +53,7 @@ window.RECAP_DATA = {
             {
               "title": "Lesson 3: Solve and Color",
               "status": "overdue",
-              "detail": "From Unit 1 Schedule page (not dated Canvas assignment)",
+              "detail": "From Unit 1 Schedule page (not a dated Canvas assignment)",
               "due": "Wed Sep 2"
             }
           ]
@@ -78,19 +72,13 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 87.5,
-          "note": "87.5%, but Coldest Town and Earth Stations still Canvas-missing",
+          "grade": 92.75,
+          "note": "Up to 92.75 this morning (Unit 1 Vocabulary Matrix posted 98; Vocab Quiz still 87.5; Coffee Activity posted…",
           "work": [
-            {
-              "title": "Coldest Town on Earth Questions",
-              "status": "missing",
-              "detail": "Canvas missing; muted; 0 pts; omit_from_final_grade",
-              "due": "Fri Aug 28, 11:59pm"
-            },
             {
               "title": "TURN IN - Earth Stations and Guided Questions",
               "status": "missing",
-              "detail": "Canvas missing; muted; 0 pts",
+              "detail": "Canvas missing; muted; Week 3 Thu A / Fri B turn-in",
               "due": "Tue Sep 1, 11:59pm"
             }
           ]
@@ -101,12 +89,12 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "Canvas",
           "grade": 85.83,
-          "note": "85.83% (Design a Molecule 100 + Identifying Variables 92 posted); Biomolecules Pogil due Fri in class",
+          "note": "85.83% (Design a Molecule 100 + Identifying Variables 92 posted)",
           "work": [
             {
               "title": "Biomolecules - Pogil (in class)",
               "status": "due",
-              "detail": "On paper; muted; unsubmitted",
+              "detail": "On paper; muted; still unsubmitted in Canvas",
               "due": "Fri Sep 4, 4:00pm"
             }
           ]
@@ -117,7 +105,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 97.5,
-          "note": "97.5%. Membean Program 2 overdue; Quiz 1 / TKAM still unsubmitted in Canvas.",
+          "note": "97.5%",
           "work": [
             {
               "title": "Q1 Membean Program 2",
@@ -128,19 +116,19 @@ window.RECAP_DATA = {
             {
               "title": "TKAM Ch. 1-7",
               "status": "overdue",
-              "detail": "Unsubmitted; muted",
+              "detail": "Unsubmitted; muted; was due Thu morning P8",
               "due": "Thu Sep 3, 8:30am"
             },
             {
               "title": "TKAM Shoe Activity",
               "status": "overdue",
-              "detail": "Unsubmitted; muted",
+              "detail": "Unsubmitted; muted; was due Thu afternoon",
               "due": "Thu Sep 3, 3:30pm"
             },
             {
               "title": "Q1 Membean Quiz 1",
               "status": "overdue",
-              "detail": "Unsubmitted; muted",
+              "detail": "Unsubmitted; muted; was due Thu morning P8",
               "due": "Thu Sep 3, 8:30am"
             }
           ]
@@ -289,7 +277,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 100,
-          "note": "100%. No flagged Canvas work through Mon Sep 7.",
+          "note": "100%",
           "work": []
         },
         {
@@ -298,10 +286,10 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100,
-          "note": "100%. No flagged Canvas work through Mon Sep 7.",
+          "note": "100%",
           "work": []
         }
       ]
     }
   }
-};
+}
