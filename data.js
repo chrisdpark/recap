@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 4, 2026 · 4:27 AM CT",
+  "updated": "Friday, Sep 4, 2026 · 8:38 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,7 +7,7 @@ window.RECAP_DATA = {
         "Algebra I still 37% — Quiz 1.1–1.4 is 2/20; Karaoke Performance still Canvas-missing (P4 was due Thu 9/3).",
         "English: Membean Program 2 overdue; Membean Quiz 1, TKAM Ch 1–7, and Shoe Activity still unsubmitted in Canvas.",
         "Bible at 80% — Group Jigsaw posted 0/missing.",
-        "Geography 87.5%, but Coldest Town and Earth Stations still Canvas-missing.",
+        "Geography 87.5%, but Coldest Town on Earth Questions, Earth Stations and Guided Questions still Canvas-missing.",
         "Biology 85.83%; Biomolecules Pogil due Fri in class."
       ],
       "courses": [
@@ -158,7 +158,7 @@ window.RECAP_DATA = {
       "courses": [
         {
           "name": "English 12",
-          "teacher": "Denton/Hughes",
+          "teacher": "Denton",
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
@@ -180,7 +180,7 @@ window.RECAP_DATA = {
         },
         {
           "name": "Physics",
-          "teacher": "Manley/Meeker",
+          "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
