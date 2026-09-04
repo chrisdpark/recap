@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 3, 2026 · 7:35 PM CT",
+  "updated": "Thursday, Sep 3, 2026 · 8:04 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -153,7 +153,8 @@ window.RECAP_DATA = {
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 2 overdue items including Lockdown Browser Tutorial.",
         "Government still has 2 overdue items including Synch #1 Make Up.",
-        "Precalculus is at 40% — Quiz 1.1 - 1.3, Dropbox Quiz 1.1- 1.3 posted 0."
+        "Precalculus is at 40% — Quiz 1.1 - 1.3, Dropbox Quiz 1.1- 1.3 posted 0.",
+        "Sociology still has 3 overdue items including Assignment #1: Profile a Sociologist."
       ],
       "courses": [
         {
@@ -184,7 +185,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "2 overdue · 2 recent submissions ungraded",
+          "note": "2 overdue · 1 recent submissions ungraded · work due this week",
           "work": [
             {
               "title": "Lockdown Browser Tutorial",
@@ -197,6 +198,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Aug 20"
+            },
+            {
+              "title": "Prerequisite Skills Test",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 7"
             }
           ]
         },
@@ -206,7 +213,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "2 overdue · 1 recent submissions ungraded · work due this week",
+          "note": "2 overdue · work due this week",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -218,13 +225,19 @@ window.RECAP_DATA = {
               "title": "Constitutional Convention Compromises",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 01"
+              "due": "Due Sep 1"
             },
             {
               "title": "Federalists v. Anti Federalists",
               "status": "due",
               "detail": "",
-              "due": "Sep 03"
+              "due": "Sep 3"
+            },
+            {
+              "title": "Constitutional Scavenger Hunt",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 7"
             }
           ]
         },
@@ -252,13 +265,13 @@ window.RECAP_DATA = {
               "title": "QUIZ 1.4 - 1.7",
               "status": "zero",
               "detail": "Posted 0, completed Aug 31",
-              "due": "Due Sep 03"
+              "due": "Due Sep 3"
             },
             {
               "title": "Dropbox Quiz 1.4 - 1.7",
               "status": "zero",
               "detail": "Posted 0, completed Aug 31",
-              "due": "Due Sep 07"
+              "due": "Due Sep 7"
             }
           ]
         },
@@ -268,8 +281,27 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": null,
-          "note": "3 recent submissions ungraded",
-          "work": []
+          "note": "3 overdue",
+          "work": [
+            {
+              "title": "Assignment #1: Profile a Sociologist",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 30"
+            },
+            {
+              "title": "Sociological Scavenger Hunt #1",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 30"
+            },
+            {
+              "title": "OPT.Assignment #1b: Profile a Second Sociologist",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 30"
+            }
+          ]
         },
         {
           "name": "Apologetics",
@@ -277,7 +309,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 100,
-          "note": "LIVE: current_score/final_score 100",
+          "note": "LIVE current_score/final_score 100",
           "work": []
         },
         {
@@ -286,7 +318,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100,
-          "note": "LIVE: current_score/final_score 100",
+          "note": "LIVE current_score/final_score 100",
           "work": []
         }
       ]
