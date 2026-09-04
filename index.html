@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,480;9..144,600&family=Outfit:wght@320;400;500;600&display=swap" rel="stylesheet" />
-  <style>:root{--ink:#1a1714;--muted:#6d645a;--paper:#f4eee4;--card:#fffaf3;--line:#e4d9c8;--navy:#1c3a57;--gold:#b0893e;--good:#2f6b4f;--warn:#9a3b2f;--soft:#dbe6df;}*{box-sizing:border-box;}html,body{margin:0;min-height:100%;}body{font-family:Outfit,system-ui,sans-serif;background:radial-gradient(1200px 600px at 10% -10%,#efe4d0 0%,transparent 55%),radial-gradient(900px 500px at 110% 0%,#dfe8e3 0%,transparent 50%),var(--paper);color:var(--ink);letter-spacing:0.01em;}.wrap{max-width:1120px;margin:0 auto;padding:36px 22px 72px;}header{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;padding-bottom:28px;border-bottom:1px solid var(--line);}.kicker{font-size:11px;letter-spacing:0.22em;text-transform:uppercase;color:var(--gold);font-weight:600;margin:0 0 8px;}h1{font-family:Fraunces,Georgia,serif;font-weight:480;font-size:clamp(36px,5vw,56px);line-height:0.95;margin:0;color:var(--navy);}.updated{margin:10px 0 0;color:var(--muted);font-size:14px;}.switcher{position:relative;min-width:210px;}.switcher label{display:block;font-size:11px;letter-spacing:0.16em;text-transform:uppercase;color:var(--muted);margin-bottom:8px;}select{appearance:none;width:100%;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:12px 42px 12px 18px;font:500 16px Outfit,sans-serif;color:var(--navy);box-shadow:0 8px 24px rgba(28,58,87,0.06);cursor:pointer;}.switcher::after{content:"";position:absolute;right:18px;bottom:16px;width:8px;height:8px;border-right:2px solid var(--navy);border-bottom:2px solid var(--navy);transform:rotate(45deg);pointer-events:none;}.layout{display:grid;grid-template-columns:280px 1fr;gap:28px;margin-top:32px;}@media (max-width:840px){header,.layout{display:block;}.switcher{margin-top:22px;}}.panel,.course,.class-block{background:var(--card);border:1px solid var(--line);border-radius:18px;}.panel{padding:22px;height:fit-content;}.panel h2,.courses h2,.work h2{font-size:12px;letter-spacing:0.18em;text-transform:uppercase;color:var(--muted);margin:0 0 14px;font-weight:600;}.attention{list-style:none;margin:0;padding:0;display:grid;gap:12px;}.attention li{padding:12px 12px 12px 14px;border-left:3px solid var(--gold);background:#fbf6ec;border-radius:0 10px 10px 0;font-size:14px;line-height:1.45;}.quiet{color:var(--muted);font-size:14px;}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;}.course{padding:18px 18px 16px;display:flex;flex-direction:column;min-height:168px;}.course-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}.grade{font-family:Fraunces,Georgia,serif;font-size:34px;line-height:1;color:var(--navy);}.grade.warn{color:var(--warn);}.grade.good{color:var(--good);}.grade.none{color:var(--muted);font-size:28px;}.chip{font-size:10px;letter-spacing:0.12em;text-transform:uppercase;border:1px solid var(--line);border-radius:999px;padding:4px 8px;color:var(--muted);}.chip.ethos{background:#eef3f0;color:var(--good);border-color:var(--soft);}.chip.overdue,.chip.zero{background:#f8ece9;color:var(--warn);border-color:#ead4cf;}.chip.due{background:#fbf6ec;color:#8a6a28;border-color:#ead9b4;}.chip.missing{background:#f3eee6;color:var(--muted);border-color:var(--line);}.name{font-weight:600;margin:16px 0 2px;font-size:16px;}.meta{color:var(--muted);font-size:13px;margin:0 0 auto;}.next{margin-top:14px;font-size:13px;color:var(--ink);}.work{margin-top:36px;}.class-list{display:grid;gap:14px;}.class-block{padding:18px 20px 8px;}.class-block h3{font-family:Fraunces,Georgia,serif;font-size:22px;font-weight:480;margin:0 0 4px;color:var(--navy);}.class-sub{color:var(--muted);font-size:13px;margin:0 0 12px;}.item{display:grid;grid-template-columns:92px 1fr auto;gap:12px;align-items:baseline;padding:11px 0;border-top:1px solid var(--line);font-size:14px;}.item .title{font-weight:500;}.item .due{color:var(--muted);font-size:13px;}@media (max-width:640px){.item{grid-template-columns:1fr;gap:4px;}}footer{margin-top:36px;color:var(--muted);font-size:12px;}</style>
+  <style>:root { --ink: #1a1714; --muted: #6d645a; --paper: #f4eee4; --card: #fffaf3; --line: #e4d9c8; --navy: #1c3a57; --gold: #b0893e; --good: #2f6b4f; --warn: #9a3b2f; --soft: #dbe6df; } * { box-sizing: border-box; } html, body { margin: 0; min-height: 100%; } body { font-family: Outfit, system-ui, sans-serif; background: radial-gradient(1200px 600px at 10% -10%, #efe4d0 0%, transparent 55%), radial-gradient(900px 500px at 110% 0%, #dfe8e3 0%, transparent 50%), var(--paper); color: var(--ink); letter-spacing: 0.01em; } .wrap { max-width: 1120px; margin: 0 auto; padding: 36px 22px 72px; } header { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; padding-bottom: 28px; border-bottom: 1px solid var(--line); } .kicker { font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--gold); font-weight: 600; margin: 0 0 8px; } h1 { font-family: Fraunces, Georgia, serif; font-weight: 480; font-size: clamp(36px, 5vw, 56px); line-height: 0.95; margin: 0; color: var(--navy); } .updated { margin: 10px 0 0; color: var(--muted); font-size: 14px; } .switcher { position: relative; min-width: 210px; } .switcher label { display: block; font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; } select { appearance: none; width: 100%; background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 12px 42px 12px 18px; font: 500 16px Outfit, sans-serif; color: var(--navy); box-shadow: 0 8px 24px rgba(28, 58, 87, 0.06); cursor: pointer; } .switcher::after { content: ""; position: absolute; right: 18px; bottom: 16px; width: 8px; height: 8px; border-right: 2px solid var(--navy); border-bottom: 2px solid var(--navy); transform: rotate(45deg); pointer-events: none; } .layout { display: grid; grid-template-columns: 280px 1fr; gap: 28px; margin-top: 32px; } @media (max-width: 840px) { header, .layout { display: block; } .switcher { margin-top: 22px; } } .panel, .course, .class-block { background: var(--card); border: 1px solid var(--line); border-radius: 18px; } .panel { padding: 22px; height: fit-content; } .panel h2, .courses h2, .work h2 { font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); margin: 0 0 14px; font-weight: 600; } .attention { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; } .attention li { padding: 12px 12px 12px 14px; border-left: 3px solid var(--gold); background: #fbf6ec; border-radius: 0 10px 10px 0; font-size: 14px; line-height: 1.45; } .quiet { color: var(--muted); font-size: 14px; } .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; } .course { padding: 18px 18px 16px; display: flex; flex-direction: column; min-height: 168px; cursor: pointer; transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease; } .course:hover, .course:focus-visible { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(28, 58, 87, 0.10); border-color: #d2c4ae; outline: none; } .course-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; } .grade { font-family: Fraunces, Georgia, serif; font-size: 34px; line-height: 1; color: var(--navy); } .grade.warn { color: var(--warn); } .grade.good { color: var(--good); } .grade.none { color: var(--muted); font-size: 28px; } .chip { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; border: 1px solid var(--line); border-radius: 999px; padding: 4px 8px; color: var(--muted); } .chip.ethos { background: #eef3f0; color: var(--good); border-color: var(--soft); } .chip.overdue, .chip.zero { background: #f8ece9; color: var(--warn); border-color: #ead4cf; } .chip.due { background: #fbf6ec; color: #8a6a28; border-color: #ead9b4; } .chip.missing { background: #f3eee6; color: var(--muted); border-color: var(--line); } .name { font-weight: 600; margin: 16px 0 2px; font-size: 16px; } .meta { color: var(--muted); font-size: 13px; margin: 0 0 auto; } .next { margin-top: 14px; font-size: 13px; color: var(--ink); } .hint { margin-top: 8px; font-size: 11px; color: var(--muted); letter-spacing: 0.04em; } .work { margin-top: 36px; } .class-list { display: grid; gap: 14px; } .class-block { padding: 18px 20px 8px; } .class-block h3 { font-family: Fraunces, Georgia, serif; font-size: 22px; font-weight: 480; margin: 0 0 4px; color: var(--navy); } .class-sub { color: var(--muted); font-size: 13px; margin: 0 0 12px; } .item { display: grid; grid-template-columns: 92px 1fr auto; gap: 12px; align-items: baseline; padding: 11px 0; border-top: 1px solid var(--line); font-size: 14px; } .item .title { font-weight: 500; } .item .due { color: var(--muted); font-size: 13px; } @media (max-width: 640px) { .item { grid-template-columns: 1fr; gap: 4px; } } footer { margin-top: 36px; color: var(--muted); font-size: 12px; } .modal-backdrop { position: fixed; inset: 0; background: rgba(26, 23, 20, 0.45); display: none; align-items: center; justify-content: center; padding: 24px; z-index: 40; } .modal-backdrop.open { display: flex; } .modal { width: min(560px, 100%); max-height: min(80vh, 720px); background: var(--card); border: 1px solid var(--line); border-radius: 20px; box-shadow: 0 24px 64px rgba(28, 58, 87, 0.22); display: flex; flex-direction: column; overflow: hidden; } .modal-head { display: flex; justify-content: space-between; gap: 16px; padding: 22px 22px 14px; border-bottom: 1px solid var(--line); } .modal-head h2 { font-family: Fraunces, Georgia, serif; font-weight: 480; font-size: 26px; margin: 0 0 6px; color: var(--navy); } .modal-pct { font-family: Fraunces, Georgia, serif; font-size: 28px; color: var(--navy); margin: 0; } .modal-pct.warn { color: var(--warn); } .modal-pct.good { color: var(--good); } .modal-close { border: 1px solid var(--line); background: #fff; border-radius: 999px; width: 36px; height: 36px; font-size: 20px; line-height: 1; cursor: pointer; color: var(--navy); } .modal-body { overflow: auto; padding: 8px 22px 22px; } .grade-row { display: grid; grid-template-columns: 1fr auto; gap: 10px 16px; padding: 14px 0; border-top: 1px solid var(--line); font-size: 14px; } .grade-row:first-child { border-top: 0; } .grade-title { font-weight: 500; } .grade-meta { color: var(--muted); font-size: 12px; margin-top: 4px; } .grade-score { font-family: Fraunces, Georgia, serif; font-size: 20px; color: var(--navy); white-space: nowrap; } .grade-score.bad { color: var(--warn); } body.modal-open { overflow: hidden; }</style>
 </head>
 <body>
   <div class="wrap">
@@ -41,22 +41,45 @@
       <h2>Work by class</h2>
       <div class="class-list" id="work"></div>
     </section>
-    <footer>Snapshot from the family recap. First names only. Grades are current as of the timestamp above.</footer>
+    <footer>Snapshot from the family recap. First names only. Grades are current as of the timestamp above. Click a course card for graded items.</footer>
   </div>
+
+  <div class="modal-backdrop" id="modalBackdrop" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+    <div class="modal" role="document">
+      <div class="modal-head">
+        <div>
+          <h2 id="modalTitle">Course</h2>
+          <p class="modal-pct" id="modalPct">—</p>
+        </div>
+        <button type="button" class="modal-close" id="modalClose" aria-label="Close">×</button>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
   <script src="/recap/data.js"></script>
   <script>
     const DATA = window.RECAP_DATA;
-
-
     const who = document.getElementById("who");
     const nameEl = document.getElementById("studentName");
     const updated = document.getElementById("updated");
     const attention = document.getElementById("attention");
     const courses = document.getElementById("courses");
     const work = document.getElementById("work");
+    const backdrop = document.getElementById("modalBackdrop");
+    const modalTitle = document.getElementById("modalTitle");
+    const modalPct = document.getElementById("modalPct");
+    const modalBody = document.getElementById("modalBody");
+    const modalClose = document.getElementById("modalClose");
     updated.textContent = "Updated " + DATA.updated;
     const STATUS = { overdue: "Overdue", zero: "Zero", due: "Due soon", missing: "Missing" };
+    let currentKey = "olen";
 
+    function esc(s) {
+      return String(s == null ? "" : s)
+        .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
     function gradeClass(g) {
       if (g === null || g === undefined) return "none";
       if (g < 70) return "warn";
@@ -65,40 +88,83 @@
     }
     function gradeLabel(g) {
       if (g === null || g === undefined) return "—";
-      return (Number.isInteger(g) ? g : g.toFixed(2).replace(/0$/, "")) + "%";
+      return (Number.isInteger(g) ? g : g.toFixed(2).replace(/\.?0+$/, "")) + "%";
+    }
+    function openModal(course) {
+      modalTitle.textContent = course.name;
+      modalPct.textContent = gradeLabel(course.grade);
+      modalPct.className = "modal-pct " + gradeClass(course.grade);
+      const grades = course.grades || [];
+      if (!grades.length) {
+        modalBody.innerHTML = "<p class='quiet'>No graded items posted yet.</p>";
+      } else {
+        modalBody.innerHTML = grades.map(g => {
+          const bits = [];
+          if (g.group) bits.push(esc(g.group));
+          if (g.due) bits.push("Due " + esc(g.due));
+          const bad = g.score === "—" || g.score === "missing" || g.percent === 0;
+          return `<div class="grade-row">
+            <div>
+              <div class="grade-title">${esc(g.title)}</div>
+              ${bits.length ? `<div class="grade-meta">${bits.join(" · ")}</div>` : ""}
+            </div>
+            <div class="grade-score ${bad ? "bad" : ""}">${esc(g.score)}</div>
+          </div>`;
+        }).join("");
+      }
+      backdrop.hidden = false;
+      backdrop.classList.add("open");
+      document.body.classList.add("modal-open");
+      modalClose.focus();
+    }
+    function closeModal() {
+      backdrop.classList.remove("open");
+      backdrop.hidden = true;
+      document.body.classList.remove("modal-open");
     }
     function render(key) {
+      currentKey = key;
       const s = DATA.students[key];
       nameEl.textContent = s.name;
-      attention.innerHTML = s.attention.map(t => "<li>" + t + "</li>").join("") || "<li class='quiet'>Nothing flagged.</li>";
-      courses.innerHTML = s.courses.map(c => `
-        <article class="course">
+      attention.innerHTML = s.attention.map(t => "<li>" + esc(t) + "</li>").join("") || "<li class='quiet'>Nothing flagged.</li>";
+      courses.innerHTML = s.courses.map((c, i) => `
+        <article class="course" role="button" tabindex="0" data-idx="${i}" aria-label="Open graded items for ${esc(c.name)}">
           <div class="course-top">
             <div class="grade ${gradeClass(c.grade)}">${gradeLabel(c.grade)}</div>
-            <span class="chip ${c.source === "Ethos" ? "ethos" : ""}">${c.source}</span>
+            <span class="chip ${c.source === "Ethos" ? "ethos" : ""}">${esc(c.source)}</span>
           </div>
-          <p class="name">${c.name}</p>
-          <p class="meta">${c.period} · ${c.teacher}</p>
-          <p class="next">${c.note}</p>
+          <p class="name">${esc(c.name)}</p>
+          <p class="meta">${esc(c.period)} · ${esc(c.teacher)}</p>
+          <p class="next">${esc(c.note)}</p>
+          <p class="hint">View graded items</p>
         </article>
       `).join("");
+      courses.querySelectorAll(".course").forEach(el => {
+        const open = () => openModal(s.courses[Number(el.dataset.idx)]);
+        el.addEventListener("click", open);
+        el.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            open();
+          }
+        });
+      });
       const withWork = s.courses.filter(c => c.work && c.work.length);
       work.innerHTML = withWork.length ? withWork.map(c => `
         <article class="class-block">
-          <h3>${c.name}</h3>
-          <p class="class-sub">${c.source} · ${c.teacher}</p>
+          <h3>${esc(c.name)}</h3>
+          <p class="class-sub">${esc(c.source)} · ${esc(c.teacher)}</p>
           ${c.work.map(w => `
             <div class="item">
-              <span class="chip ${w.status}">${STATUS[w.status] || w.status}</span>
-              <span class="title">${w.title}${w.detail ? " · " + w.detail : ""}</span>
-              <span class="due">${w.due || ""}</span>
+              <span class="chip ${esc(w.status)}">${esc(STATUS[w.status] || w.status)}</span>
+              <span class="title">${esc(w.title)}${w.detail ? " · " + esc(w.detail) : ""}</span>
+              <span class="due">${esc(w.due || "")}</span>
             </div>
           `).join("")}
         </article>
       `).join("") : "<p class='quiet'>No assignments flagged.</p>";
     }
     const PATH = { olen: "a", sky: "b" };
-    const SLUG = { a: "olen", b: "sky" };
     function recapBase() {
       const p = location.pathname.replace(/\/index\.html$/, "").replace(/\/(a|b)\/?$/, "");
       return (p || "") + "/";
@@ -117,6 +183,9 @@
       }
       location.href = next;
     }
+    modalClose.addEventListener("click", closeModal);
+    backdrop.addEventListener("click", (e) => { if (e.target === backdrop) closeModal(); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
     who.value = fromUrl();
     render(who.value);
     if (!/\/(a|b)\/?$/.test(location.pathname.replace(/\/index\.html$/, ""))) {
