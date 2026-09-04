@@ -1,14 +1,14 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 3, 2026 · 8:04 PM CT",
+  "updated": "Thursday, Sep 3, 2026 · 8:20 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I still 37% — Quiz 1.1–1.4 is 2/20; Karaoke Performance still missing (due today 12:30pm).",
+        "Algebra I still 37% — Quiz 1.1–1.4 is 2/20; Karaoke Performance still Canvas-missing (P4 due today 12:30pm).",
         "English: Membean Program 2 overdue; Membean Quiz 1, TKAM Ch 1–7, and Shoe Activity still unsubmitted in Canvas.",
         "Bible at 80% — Genesis Unit 1 test 80; Group Jigsaw posted 0/missing.",
         "Geography 87.5%, but Coldest Town and Earth Stations still Canvas-missing.",
-        "Biology up to 85.83% (Design a Molecule 100 + Identifying Variables 92 posted); Biomolecules Pogil due Fri in class."
+        "Biology 85.83% (Design a Molecule 100 + Identifying Variables 92 posted); Biomolecules Pogil due Fri in class."
       ],
       "courses": [
         {
@@ -33,7 +33,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": null,
-          "note": "No current score; Binder muted/closed; no due-soon work through Fri.",
+          "note": "No current score; Binder muted/closed; no due-soon work through Mon Sep 7.",
           "work": []
         },
         {
@@ -44,12 +44,6 @@ window.RECAP_DATA = {
           "grade": 37,
           "note": "37% driven by Quiz 1.1–1.4 (2/20)",
           "work": [
-            {
-              "title": "1.1-1.4 Quiz",
-              "status": "zero",
-              "detail": "2/20 posted (drives 37%)",
-              "due": "Thu Aug 27, 11:00am"
-            },
             {
               "title": "Algebra Karaoke Performance",
               "status": "missing",
@@ -101,7 +95,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "Canvas",
           "grade": 85.83,
-          "note": "Up from 80.75 after Design a Molecule 100 and Identifying Variables 92 posted today",
+          "note": "Design a Molecule 100 and Identifying Variables 92 posted",
           "work": [
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -153,8 +147,7 @@ window.RECAP_DATA = {
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 2 overdue items including Lockdown Browser Tutorial.",
         "Government still has 2 overdue items including Synch #1 Make Up.",
-        "Precalculus is at 40% — Quiz 1.1 - 1.3, Dropbox Quiz 1.1- 1.3 posted 0.",
-        "Sociology still has 3 overdue items including Assignment #1: Profile a Sociologist."
+        "Precalculus is at 40% — Quiz 1.1 - 1.3, Dropbox Quiz 1.1- 1.3 posted 0."
       ],
       "courses": [
         {
@@ -185,7 +178,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "2 overdue · 1 recent submissions ungraded · work due this week",
+          "note": "2 overdue · 2 recent submissions ungraded · work due this week",
           "work": [
             {
               "title": "Lockdown Browser Tutorial",
@@ -203,7 +196,7 @@ window.RECAP_DATA = {
               "title": "Prerequisite Skills Test",
               "status": "due",
               "detail": "",
-              "due": "Sep 7"
+              "due": "Sep 07"
             }
           ]
         },
@@ -213,7 +206,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "2 overdue · work due this week",
+          "note": "2 overdue · 1 recent submissions ungraded · work due this week",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -225,19 +218,19 @@ window.RECAP_DATA = {
               "title": "Constitutional Convention Compromises",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 1"
+              "due": "Due Sep 01"
             },
             {
               "title": "Federalists v. Anti Federalists",
               "status": "due",
               "detail": "",
-              "due": "Sep 3"
+              "due": "Sep 03"
             },
             {
               "title": "Constitutional Scavenger Hunt",
               "status": "due",
               "detail": "",
-              "due": "Sep 7"
+              "due": "Sep 07"
             }
           ]
         },
@@ -265,13 +258,13 @@ window.RECAP_DATA = {
               "title": "QUIZ 1.4 - 1.7",
               "status": "zero",
               "detail": "Posted 0, completed Aug 31",
-              "due": "Due Sep 3"
+              "due": "Due Sep 03"
             },
             {
               "title": "Dropbox Quiz 1.4 - 1.7",
               "status": "zero",
               "detail": "Posted 0, completed Aug 31",
-              "due": "Due Sep 7"
+              "due": "Due Sep 07"
             }
           ]
         },
@@ -281,27 +274,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": null,
-          "note": "3 overdue",
-          "work": [
-            {
-              "title": "Assignment #1: Profile a Sociologist",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 30"
-            },
-            {
-              "title": "Sociological Scavenger Hunt #1",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 30"
-            },
-            {
-              "title": "OPT.Assignment #1b: Profile a Second Sociologist",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 30"
-            }
-          ]
+          "note": "3 recent submissions ungraded",
+          "work": []
         },
         {
           "name": "Apologetics",
