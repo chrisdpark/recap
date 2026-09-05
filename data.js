@@ -1,1 +1,1 @@
-@/tmp/mcp_content.txt
+PLACEHOLDER_WILL_FAIL
