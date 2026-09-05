@@ -1,1 +1,1 @@
-PLACEHOLDER
+FILE_CONTENT_FROM_PATH:/workspace/liberty-dashboard/data.min.js
