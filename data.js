@@ -1,1 +1,1 @@
-FILE:/workspace/liberty-dashboard/data.min.js
+PLACEHOLDER_LOAD_FROM_/tmp/content_for_embed.txt
