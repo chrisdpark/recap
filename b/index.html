@@ -57,9 +57,19 @@
     </div>
   </div>
 
-  <script src="/recap/data.js"></script>
   <script>
-    const DATA = window.RECAP_DATA;
+    (function () {
+      var path = location.pathname.replace(/\/index\.html$/, "");
+      var srcs = /\/(a|b)\/?$/.test(path)
+        ? ["../data.js", "/recap/data.js", "data.js"]
+        : ["/recap/data.js", "data.js", "./data.js"];
+      for (var i = 0; i < srcs.length; i++) {
+        document.write('<script src="' + srcs[i] + '"><\/script>');
+      }
+    })();
+  </script>
+  <script>
+    const DATA = (window.RECAP_DATA && window.RECAP_DATA.students) ? window.RECAP_DATA : null;
     const who = document.getElementById("who");
     const nameEl = document.getElementById("studentName");
     const updated = document.getElementById("updated");
@@ -71,6 +81,10 @@
     const modalPct = document.getElementById("modalPct");
     const modalBody = document.getElementById("modalBody");
     const modalClose = document.getElementById("modalClose");
+    if (!DATA) {
+      updated.textContent = "Dashboard data failed to load";
+      attention.innerHTML = "<li class='quiet'>Grade file missing or temporarily replaced. Hard-refresh in a minute.</li>";
+    } else {
     updated.textContent = "Updated " + DATA.updated;
     const STATUS = { overdue: "Overdue", zero: "Zero", due: "Due soon", missing: "Missing" };
     let currentKey = "olen";
@@ -87,8 +101,10 @@
       return "";
     }
     function gradeLabel(g) {
-      if (g === null || g === undefined) return "—";
-      return (Number.isInteger(g) ? g : g.toFixed(2).replace(/\.?0+$/, "")) + "%";
+      if (g === null || g === undefined || g === "") return "—";
+      const n = typeof g === "number" ? g : Number(g);
+      if (!Number.isFinite(n)) return String(g);
+      return (Number.isInteger(n) ? n : n.toFixed(2).replace(/\.?0+$/, "")) + "%";
     }
     function openModal(course) {
       modalTitle.textContent = course.name;
@@ -192,6 +208,7 @@
       history.replaceState(null, "", recapBase() + PATH[who.value] + "/");
     }
     who.addEventListener("change", () => go(who.value));
+    }
   </script>
 </body>
 </html>
