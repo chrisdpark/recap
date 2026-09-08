@@ -1,1 +1,1 @@
-PLACEHOLDER_WILL_REPLACE
+@file:///workspace/liberty-dashboard/data.js
