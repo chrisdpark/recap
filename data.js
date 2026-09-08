@@ -1,0 +1,1 @@
+LOAD_FROM_FILE:/tmp/push_content_only.txt
