@@ -1,1 +1,1 @@
-LOAD_FROM_FILE:/workspace/recap-publish/_push_compact.js
+USE_FILE:/workspace/recap-publish/_push_compact.js
