@@ -1,1 +1,1 @@
-FILE_CONTENT_PLACEHOLDER
+LOAD_FROM_FILE:/workspace/recap-publish/_push_compact.js
