@@ -1,15 +1,15 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 14, 2026 · 4:34 AM CT",
+  "updated": "Monday, Sep 14, 2026 · 9:37 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 99.17% — Group Jigsaw- The Patriarchs overdue (Sep 3); Test: Units 2 and 3 due Sep 16",
+        "Bible 99.29% — Group Jigsaw- The Patriarchs overdue (Sep 3); Exit Ticket Exodus 19 40 due Sep 14; Why Does Leviticus Exist? due Sep 16; Test: Units 2 and 3 due Sep 16",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 94.85% — Follow Up Quiz on Conjugation due Sep 15",
-        "World Geography 91.83% — submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
-        "Biology 85.0% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Biomolecules - Pogil (in class) overdue (Sep 4); Creation Journal Discussion (Journals 1 - 4) due Sep 15",
-        "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM Shoe Activity overdue (Sep 9); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
+        "World Geography 86.38% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
+        "Biology 85% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Biomolecules - Pogil (in class) overdue (Sep 4); Creation Journal Discussion (Journals 1 - 4) due Sep 15",
+        "English I 81% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM Shoe Activity overdue (Sep 9); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
       ],
       "courses": [
         {
@@ -17,14 +17,26 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 99.17,
-          "note": "99.17% — Group Jigsaw- The Patriarchs overdue — Test: Units 2 and 3 due Sep 16",
+          "grade": 99.29,
+          "note": "99.29% — Group Jigsaw- The Patriarchs overdue — Exit Ticket Exodus 19 40 due Sep 14",
           "work": [
+            {
+              "title": "Exit Ticket Exodus 19 40",
+              "status": "due",
+              "detail": "Due Sep 14",
+              "due": "Sep 14"
+            },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 3"
+            },
+            {
+              "title": "Why Does Leviticus Exist?",
+              "status": "due",
+              "detail": "Due Sep 16",
+              "due": "Sep 16"
             },
             {
               "title": "Test: Units 2 and 3",
@@ -89,6 +101,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 3"
+            },
+            {
+              "title": "How Does God Save?",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
             }
           ]
         },
@@ -97,8 +116,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0%",
+          "grade": 100,
+          "note": "100%",
           "work": [],
           "grades": [
             {
@@ -344,8 +363,8 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 91.83,
-          "note": "91.83% — submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guid…",
+          "grade": 86.38,
+          "note": "86.38% — submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guid…",
           "work": [],
           "grades": [
             {
@@ -368,6 +387,20 @@ window.RECAP_DATA = {
               "percent": 87.5,
               "group": "Formative Assessment",
               "due": "Aug 28"
+            },
+            {
+              "title": "September 9th - Current Event #1",
+              "score": "35/50",
+              "percent": 70.0,
+              "group": "Formative Assessment",
+              "due": "Sep 11"
+            },
+            {
+              "title": "Wednesday September 9th - Current Event #2",
+              "score": "35/50",
+              "percent": 70.0,
+              "group": "Formative Assessment",
+              "due": "Sep 11"
             }
           ]
         },
@@ -376,8 +409,8 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 85.0,
-          "note": "85.0% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Macromolecule…",
+          "grade": 85,
+          "note": "85% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Macromolecule M…",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -475,8 +508,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 81.0,
-          "note": "81.0% — Q1 Membean Program 3 overdue — Q1 Membean Program 4 due Sep 16",
+          "grade": 81,
+          "note": "81% — Q1 Membean Program 3 overdue — Q1 Membean Program 4 due Sep 16",
           "work": [
             {
               "title": "Q1 Membean Program 3",
@@ -489,6 +522,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Due Sep 16",
               "due": "Sep 16"
+            },
+            {
+              "title": "TKAM 8-12 Choice Board",
+              "status": "due",
+              "detail": "Due Sep 14",
+              "due": "Sep 14"
             },
             {
               "title": "TKAM Ch. 13-18 due",
@@ -1144,8 +1183,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0%",
+          "grade": 100,
+          "note": "100%",
           "work": [],
           "grades": [
             {
@@ -1176,8 +1215,8 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0%",
+          "grade": 100,
+          "note": "100%",
           "work": [],
           "grades": [
             {
