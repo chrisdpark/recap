@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 14, 2026 · 12:10 PM CT",
+  "updated": "Monday, Sep 14, 2026 · 4:37 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 99.29% — Group Jigsaw- The Patriarchs overdue (Sep 3); Exit Ticket Exodus 19 40 due Sep 14; Why Does Leviticus Exist? due Sep 16; Test: Units 2 and 3 due Sep 16",
+        "Bible 86.88% — Exit Ticket Exodus 19 40 = 0/100; Exit Ticket Exodus 19 40 posted 0; Group Jigsaw- The Patriarchs overdue (Sep 3); Why Does Leviticus Exist? due Sep 16; Test: Units 2 and 3 due Sep 16",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 94.85% — Follow Up Quiz on Conjugation due Sep 15",
         "World Geography 86.38% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
@@ -17,13 +17,13 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 99.29,
-          "note": "99.29% — Group Jigsaw- The Patriarchs overdue — Exit Ticket Exodus 19 40 due Sep 14",
+          "grade": 86.88,
+          "note": "86.88% — Exit Ticket Exodus 19 40 posted 0 — Group Jigsaw- The Patriarchs overdue — Why Does Leviticus Exis…",
           "work": [
             {
               "title": "Exit Ticket Exodus 19 40",
-              "status": "due",
-              "detail": "Due Sep 14",
+              "status": "zero",
+              "detail": "Posted 0 / Canvas missing",
               "due": "Sep 14"
             },
             {
@@ -80,6 +80,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 10"
+            },
+            {
+              "title": "Exit Ticket Exodus 19 40",
+              "score": "0/100",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 14"
             },
             {
               "title": "Unit 1 Genesis Test Readiness Check",
@@ -610,7 +617,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "2 overdue · 5 recent submissions ungraded",
+          "note": "2 overdue · 6 recent submissions ungraded",
           "work": [
             {
               "title": "Brave New World Summer Reading Essay Test",
