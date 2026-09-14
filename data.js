@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 14, 2026 · 9:37 AM CT",
+  "updated": "Monday, Sep 14, 2026 · 12:10 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -8,8 +8,8 @@ window.RECAP_DATA = {
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 94.85% — Follow Up Quiz on Conjugation due Sep 15",
         "World Geography 86.38% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
-        "Biology 85% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Biomolecules - Pogil (in class) overdue (Sep 4); Creation Journal Discussion (Journals 1 - 4) due Sep 15",
-        "English I 81% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM Shoe Activity overdue (Sep 9); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
+        "Biology 85.0% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Biomolecules - Pogil (in class) overdue (Sep 4); Creation Journal Discussion (Journals 1 - 4) due Sep 15",
+        "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM Shoe Activity overdue (Sep 9); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
       ],
       "courses": [
         {
@@ -116,8 +116,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
@@ -409,8 +409,8 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 85,
-          "note": "85% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Macromolecule M…",
+          "grade": 85.0,
+          "note": "85.0% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Macromolecule…",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -508,8 +508,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 81,
-          "note": "81% — Q1 Membean Program 3 overdue — Q1 Membean Program 4 due Sep 16",
+          "grade": 81.0,
+          "note": "81.0% — Q1 Membean Program 3 overdue — Q1 Membean Program 4 due Sep 16",
           "work": [
             {
               "title": "Q1 Membean Program 3",
@@ -1183,8 +1183,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
@@ -1215,8 +1215,8 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
