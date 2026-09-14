@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Sep 13, 2026 · 8:25 PM CT",
+  "updated": "Monday, Sep 14, 2026 · 12:09 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 99.17% — Group Jigsaw- The Patriarchs overdue (Sep 3)",
+        "Bible 99.17% — Group Jigsaw- The Patriarchs overdue (Sep 3); Test: Units 2 and 3 due Sep 16",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 94.85% — Follow Up Quiz on Conjugation due Sep 15",
         "World Geography 91.83% — submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
@@ -18,13 +18,19 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 99.17,
-          "note": "99.17% — Group Jigsaw- The Patriarchs overdue",
+          "note": "99.17% — Group Jigsaw- The Patriarchs overdue — Test: Units 2 and 3 due Sep 16",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 3"
+            },
+            {
+              "title": "Test: Units 2 and 3",
+              "status": "due",
+              "detail": "Due Sep 16",
+              "due": "Sep 16"
             }
           ],
           "grades": [
@@ -386,6 +392,12 @@ window.RECAP_DATA = {
               "due": "Sep 14"
             },
             {
+              "title": "Unit 1 Test: The Nature of Life",
+              "status": "due",
+              "detail": "Due Sep 16",
+              "due": "Sep 16"
+            },
+            {
               "title": "Biomolecules - Pogil (in class)",
               "status": "overdue",
               "detail": "Unsubmitted past due (muted in Canvas)",
@@ -464,13 +476,25 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81.0,
-          "note": "81.0% — Q1 Membean Program 3 overdue",
+          "note": "81.0% — Q1 Membean Program 3 overdue — Q1 Membean Program 4 due Sep 16",
           "work": [
             {
               "title": "Q1 Membean Program 3",
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 9"
+            },
+            {
+              "title": "Q1 Membean Program 4",
+              "status": "due",
+              "detail": "Due Sep 16",
+              "due": "Sep 16"
+            },
+            {
+              "title": "TKAM Ch. 13-18 due",
+              "status": "due",
+              "detail": "Due Sep 16",
+              "due": "Sep 16"
             },
             {
               "title": "TKAM Shoe Activity",
@@ -780,7 +804,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 37,
-          "note": "Course at 37% · 4 overdue · 2 posted 0",
+          "note": "Course at 37% · 3 overdue · 2 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -799,12 +823,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 7"
-            },
-            {
-              "title": "Constitutional Principles and Clauses",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 9"
             },
             {
               "title": "Bill of Rights",
@@ -874,13 +892,6 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 7"
-            },
-            {
-              "title": "Constitutional Principles and Clauses",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 9"
             },
             {
               "title": "Bill of Rights",
