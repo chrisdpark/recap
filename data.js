@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 15, 2026 · 12:44 PM CT",
+  "updated": "Tuesday, Sep 15, 2026 · 4:10 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 86.88% — Exit Ticket Exodus 19 40 = 0/100; Exit Ticket Exodus 19 40 posted 0; Group Jigsaw- The Patriarchs overdue (Sep 3); Why Does Leviticus Exist? due Sep 16; Test: Units 2 and 3 due Sep 16",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 94.85% — Follow Up Quiz on Conjugation due Sep 15",
+        "German I 94.85% — Follow Up Quiz on Conjugation due Sep 15; HW in Workbook sept 16 due Sep 16",
         "World Geography 86.38% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 85.0% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM 8-12 Choice Board overdue (Sep 14); TKAM Shoe Activity overdue (Sep 9)"
@@ -269,13 +269,19 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 94.85,
-          "note": "94.85% — Vocab Quiz #1 Written = 36/40 — Follow Up Quiz on Conjugation due Sep 15",
+          "note": "94.85% — Vocab Quiz #1 Written = 36/40 — Follow Up Quiz on Conjugation due Sep 15 — HW in Workbook sept 16 …",
           "work": [
             {
               "title": "Follow Up Quiz on Conjugation",
               "status": "due",
               "detail": "Due Sep 15",
               "due": "Sep 15"
+            },
+            {
+              "title": "HW in Workbook sept 16",
+              "status": "due",
+              "detail": "Due Sep 16",
+              "due": "Sep 16"
             }
           ],
           "grades": [
@@ -421,8 +427,8 @@ window.RECAP_DATA = {
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
-              "status": "due",
-              "detail": "Due Sep 15",
+              "status": "missing",
+              "detail": "Canvas missing",
               "due": "Sep 15"
             },
             {
@@ -617,7 +623,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "2 overdue · 6 recent submissions ungraded",
+          "note": "2 overdue · 7 recent submissions ungraded",
           "work": [
             {
               "title": "Brave New World Summer Reading Essay Test",
@@ -641,7 +647,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -1088,7 +1094,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 98,
-          "note": "6 overdue · work due this week",
+          "note": "6 overdue · 2 recent submissions ungraded · work due this week",
           "work": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
