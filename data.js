@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 14, 2026 · 8:41 PM CT",
+  "updated": "Tuesday, Sep 15, 2026 · 12:12 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -8,8 +8,8 @@ window.RECAP_DATA = {
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 94.85% — Follow Up Quiz on Conjugation due Sep 15",
         "World Geography 86.38% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
-        "Biology 85.0% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Biomolecules - Pogil (in class) overdue (Sep 4); Creation Journal Discussion (Journals 1 - 4) due Sep 15",
-        "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM Shoe Activity overdue (Sep 9); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
+        "Biology 85.0% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
+        "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM 8-12 Choice Board overdue (Sep 14); TKAM Shoe Activity overdue (Sep 9)"
       ],
       "courses": [
         {
@@ -427,8 +427,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Lab 02: Microscopy",
-              "status": "due",
-              "detail": "Due Sep 14",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 14"
             },
             {
@@ -532,8 +532,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "TKAM 8-12 Choice Board",
-              "status": "due",
-              "detail": "Due Sep 14",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 14"
             },
             {
