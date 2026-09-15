@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 14, 2026 · 5:22 PM CT",
+  "updated": "Monday, Sep 14, 2026 · 8:41 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1192,14 +1192,7 @@ window.RECAP_DATA = {
           "source": "Canvas",
           "grade": 100.0,
           "note": "100.0%",
-          "work": [
-            {
-              "title": "Memory Verse 1 (Formative)",
-              "status": "due",
-              "detail": "In-class handout; announcement schedule for Period 3 = Tue Sep 15 (Canvas due_at Sep 23). Unsubmitted.",
-              "due": "Tue Sep 15, 12:00am"
-            }
-          ],
+          "work": [],
           "grades": [
             {
               "title": "Your Apologetics Starting Point",
