@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 15, 2026 · 8:18 AM CT",
+  "updated": "Tuesday, Sep 15, 2026 · 12:44 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -605,7 +605,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 37% — Federalists v. Anti Federalists, Check point Quiz posted 0.",
+        "Government is at 29% — Federalists v. Anti Federalists, Constitutional Scavenger Hunt posted 0.",
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 4 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 6 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)."
@@ -841,6 +841,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Oct 1"
+            },
+            {
+              "title": "1D Motion Quiz",
+              "score": "80%",
+              "percent": 80,
+              "group": "",
+              "due": "Oct 5"
             }
           ]
         },
@@ -849,8 +856,8 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 37,
-          "note": "Course at 37% · 3 overdue · 2 posted 0",
+          "grade": 29,
+          "note": "Course at 29% · 1 overdue · 4 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -866,14 +873,14 @@ window.RECAP_DATA = {
             },
             {
               "title": "Constitutional Scavenger Hunt",
-              "status": "overdue",
-              "detail": "Not completed",
+              "status": "zero",
+              "detail": "Posted 0, completed Sep 14",
               "due": "Due Sep 7"
             },
             {
               "title": "Bill of Rights",
-              "status": "overdue",
-              "detail": "Not completed",
+              "status": "zero",
+              "detail": "Posted 0, not completed",
               "due": "Due Sep 11"
             },
             {
@@ -934,15 +941,22 @@ window.RECAP_DATA = {
             },
             {
               "title": "Constitutional Scavenger Hunt",
-              "score": "—",
-              "percent": null,
+              "score": "0%",
+              "percent": 0,
               "group": "",
               "due": "Sep 7"
             },
             {
+              "title": "Constitutional Principles and Clauses",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Sep 9"
+            },
+            {
               "title": "Bill of Rights",
-              "score": "—",
-              "percent": null,
+              "score": "0%",
+              "percent": 0,
               "group": "",
               "due": "Sep 11"
             },
@@ -1207,6 +1221,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 17"
+            },
+            {
+              "title": "Memory Verse 1 (Formative)",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 22"
             },
             {
               "title": "Surrounded Simulation Post-Survey",
