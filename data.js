@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 15, 2026 · 8:24 PM CT",
+  "updated": "Wednesday, Sep 16, 2026 · 12:22 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 86.88% — Exit Ticket Exodus 19 40 = 0/100; Exit Ticket Exodus 19 40 posted 0; Group Jigsaw- The Patriarchs overdue (Sep 3); Why Does Leviticus Exist? due Sep 16; Test: Units 2 and 3 due Sep 16",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 94.85% — Follow Up Quiz on Conjugation due Sep 15; HW in Workbook sept 16 due Sep 16",
+        "German I 94.85% — Follow Up Quiz on Conjugation overdue (Sep 15); HW in Workbook sept 16 due Sep 16",
         "World Geography 86.38% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 85.0% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM 8-12 Choice Board overdue (Sep 14); TKAM Shoe Activity overdue (Sep 9)"
@@ -269,12 +269,12 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 94.85,
-          "note": "94.85% — Vocab Quiz #1 Written = 36/40 — Follow Up Quiz on Conjugation due Sep 15 — HW in Workbook sept 16 …",
+          "note": "94.85% — Vocab Quiz #1 Written = 36/40 — Follow Up Quiz on Conjugation overdue — HW in Workbook sept 16 due…",
           "work": [
             {
               "title": "Follow Up Quiz on Conjugation",
-              "status": "due",
-              "detail": "Due Sep 15",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 15"
             },
             {
@@ -549,6 +549,12 @@ window.RECAP_DATA = {
               "due": "Sep 9"
             },
             {
+              "title": "Q1 Membean Quiz 2",
+              "status": "due",
+              "detail": "Due Sep 17",
+              "due": "Sep 17"
+            },
+            {
               "title": "TKAM Ch. 8-12 In-Class Essay",
               "status": "overdue",
               "detail": "Unsubmitted past due",
@@ -607,8 +613,8 @@ window.RECAP_DATA = {
       "attention": [
         "Government is at 29% — Federalists v. Anti Federalists, Constitutional Scavenger Hunt posted 0.",
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
-        "Physics still has 4 overdue items including Lockdown Browser Tutorial.",
-        "Sociology still has 6 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)."
+        "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
+        "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)."
       ],
       "courses": [
         {
@@ -697,7 +703,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "4 overdue · 1 posted 0 · 1 recent submissions ungraded",
+          "note": "5 overdue · 1 posted 0 · 1 recent submissions ungraded",
           "work": [
             {
               "title": "Lockdown Browser Tutorial",
@@ -725,9 +731,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Position Time Graphs Teaching Video",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 15"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 15"
             },
             {
               "title": "Motion Graphs Packet & Activity",
@@ -808,6 +814,13 @@ window.RECAP_DATA = {
               "due": "Sep 11"
             },
             {
+              "title": "Position Time Graphs Teaching Video",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 15"
+            },
+            {
               "title": "1D Motion Part 1 Notes",
               "score": "100%",
               "percent": 100,
@@ -857,7 +870,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 29,
-          "note": "Course at 29% · 1 overdue · 4 posted 0",
+          "note": "Course at 29% · 2 overdue · 4 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -885,9 +898,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Checkpoint Quiz",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 15"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 15"
             },
             {
               "title": "Comparing the House and the Senate",
@@ -965,6 +978,13 @@ window.RECAP_DATA = {
               "percent": 0,
               "group": "",
               "due": "Sep 11"
+            },
+            {
+              "title": "Checkpoint Quiz",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 15"
             },
             {
               "title": "Check point Quiz",
@@ -1094,7 +1114,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 98,
-          "note": "6 overdue · 2 recent submissions ungraded · work due this week",
+          "note": "7 overdue · 2 recent submissions ungraded",
           "work": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
@@ -1134,9 +1154,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "OPT. Assignment #1: Journal of Mundane Behavior",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 15"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 15"
             }
           ],
           "grades": [
@@ -1202,6 +1222,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Sep 11"
+            },
+            {
+              "title": "OPT. Assignment #1: Journal of Mundane Behavior",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 15"
             }
           ]
         },
