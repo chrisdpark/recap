@@ -1,14 +1,14 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 16, 2026 · 8:37 AM CT",
+  "updated": "Wednesday, Sep 16, 2026 · 4:53 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 86.88% — Exit Ticket Exodus 19 40 = 0/100; Exit Ticket Exodus 19 40 posted 0; Group Jigsaw- The Patriarchs overdue (Sep 3); Why Does Leviticus Exist? due Sep 16; Test: Units 2 and 3 due Sep 16",
+        "Bible 77.22% — Exit Ticket Exodus 19 40 = 0/100; Test: Units 2 and 3 = 81/100; Why Does Leviticus Exist? = 0/100; Exit Ticket Exodus 19 40 posted 0; Why Does Leviticus Exist? posted 0",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 94.85% — Follow Up Quiz on Conjugation overdue (Sep 15); HW in Workbook sept 16 due Sep 16",
-        "World Geography 86.38% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
-        "Biology 85.0% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
+        "German I 85.08% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10",
+        "World Geography 94.55% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
+        "Biology 82.13% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM 8-12 Choice Board overdue (Sep 14); TKAM Shoe Activity overdue (Sep 9)"
       ],
       "courses": [
@@ -17,8 +17,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 86.88,
-          "note": "86.88% — Exit Ticket Exodus 19 40 posted 0 — Group Jigsaw- The Patriarchs overdue — Why Does Leviticus Exis…",
+          "grade": 77.22,
+          "note": "77.22% — Exit Ticket Exodus 19 40 posted 0 — Group Jigsaw- The Patriarchs overdue",
           "work": [
             {
               "title": "Exit Ticket Exodus 19 40",
@@ -34,14 +34,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Why Does Leviticus Exist?",
-              "status": "due",
-              "detail": "Due Sep 16",
-              "due": "Sep 16"
-            },
-            {
-              "title": "Test: Units 2 and 3",
-              "status": "due",
-              "detail": "Due Sep 16",
+              "status": "zero",
+              "detail": "Posted 0 / Canvas missing",
               "due": "Sep 16"
             }
           ],
@@ -87,6 +81,20 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Sep 14"
+            },
+            {
+              "title": "Test: Units 2 and 3",
+              "score": "81/100",
+              "percent": 81.0,
+              "group": "Summative Assessment",
+              "due": "Sep 16"
+            },
+            {
+              "title": "Why Does Leviticus Exist?",
+              "score": "0/100",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
             },
             {
               "title": "Unit 1 Genesis Test Readiness Check",
@@ -268,22 +276,9 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 94.85,
-          "note": "94.85% — Vocab Quiz #1 Written = 36/40 — Follow Up Quiz on Conjugation overdue — HW in Workbook sept 16 due…",
-          "work": [
-            {
-              "title": "Follow Up Quiz on Conjugation",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 15"
-            },
-            {
-              "title": "HW in Workbook sept 16",
-              "status": "due",
-              "detail": "Due Sep 16",
-              "due": "Sep 16"
-            }
-          ],
+          "grade": 85.08,
+          "note": "85.08% — Vocab Quiz #1 Written = 36/40",
+          "work": [],
           "grades": [
             {
               "title": "Introductions in German",
@@ -326,6 +321,20 @@ window.RECAP_DATA = {
               "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "Follow Up Quiz on Conjugation",
+              "score": "0.15/15",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Sep 15"
+            },
+            {
+              "title": "HW in Workbook sept 16",
+              "score": "0.1/10",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
             },
             {
               "title": "Days of the Week (Video practice )",
@@ -376,8 +385,8 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 86.38,
-          "note": "86.38% — submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guid…",
+          "grade": 94.55,
+          "note": "94.55% — submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guid…",
           "work": [],
           "grades": [
             {
@@ -414,6 +423,13 @@ window.RECAP_DATA = {
               "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "Biomes Brochure",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 9"
             }
           ]
         },
@@ -422,20 +438,14 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 85.0,
-          "note": "85.0% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Macromolecule…",
+          "grade": 82.13,
+          "note": "82.13% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Macromolecul…",
           "work": [
             {
               "title": "Lab 02: Microscopy",
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 14"
-            },
-            {
-              "title": "Unit 1 Test: The Nature of Life",
-              "status": "due",
-              "detail": "Due Sep 16",
-              "due": "Sep 16"
             },
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -500,6 +510,13 @@ window.RECAP_DATA = {
               "percent": 75.0,
               "group": "Formative Assessment",
               "due": "Sep 8"
+            },
+            {
+              "title": "Creation Journals - Unit One",
+              "score": "7/40",
+              "percent": 17.5,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
             },
             {
               "title": "Enzyme Station Rotation",
@@ -611,7 +628,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 29% — Federalists v. Anti Federalists, Constitutional Scavenger Hunt posted 0.",
+        "Government is at 34% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)."
@@ -869,8 +886,8 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 29,
-          "note": "Course at 29% · 2 overdue · 4 posted 0",
+          "grade": 34,
+          "note": "Course at 34% · 2 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -883,12 +900,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, not completed",
               "due": "Due Sep 3"
-            },
-            {
-              "title": "Constitutional Scavenger Hunt",
-              "status": "zero",
-              "detail": "Posted 0, completed Sep 14",
-              "due": "Due Sep 7"
             },
             {
               "title": "Bill of Rights",
@@ -960,8 +971,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Constitutional Scavenger Hunt",
-              "score": "0%",
-              "percent": 0,
+              "score": "95%",
+              "percent": 95,
               "group": "",
               "due": "Sep 7"
             },
