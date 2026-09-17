@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 17, 2026 · 4:13 AM CT",
+  "updated": "Thursday, Sep 17, 2026 · 8:26 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -9,7 +9,7 @@ window.RECAP_DATA = {
         "German I 85.08% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10",
         "World Geography 94.55% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 82.13% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); Q1 Membean Program 4 overdue (Sep 16); TKAM 8-12 Choice Board overdue (Sep 14)"
+        "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); Q1 Membean Program 4 overdue (Sep 16); TKAM 8-12 Choice Board overdue (Sep 14)"
       ],
       "courses": [
         {
@@ -131,8 +131,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
@@ -551,8 +551,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 81,
-          "note": "81% — Q1 Membean Program 3 overdue — Q1 Membean Quiz 2 due Sep 17",
+          "grade": 81.0,
+          "note": "81.0% — Q1 Membean Program 3 overdue — Q1 Membean Quiz 2 due Sep 17",
           "work": [
             {
               "title": "Q1 Membean Program 3",
@@ -1267,8 +1267,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
@@ -1306,8 +1306,8 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
