@@ -1,14 +1,14 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 17, 2026 · 8:26 AM CT",
+  "updated": "Thursday, Sep 17, 2026 · 12:34 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 77.22% — Exit Ticket Exodus 19 40 = 0/100; Test: Units 2 and 3 = 81/100; Why Does Leviticus Exist? = 0/100; Exit Ticket Exodus 19 40 posted 0; Why Does Leviticus Exist? posted 0",
+        "Bible 98.13% — Test: Units 2 and 3 = 81/100; Group Jigsaw- The Patriarchs overdue (Sep 3)",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 85.08% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10",
         "World Geography 94.55% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
-        "Biology 82.13% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
+        "Biology 82.05% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Unit 1 Test: The Nature of Life = 82/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); Q1 Membean Program 4 overdue (Sep 16); TKAM 8-12 Choice Board overdue (Sep 14)"
       ],
       "courses": [
@@ -17,26 +17,14 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 77.22,
-          "note": "77.22% — Exit Ticket Exodus 19 40 posted 0 — Group Jigsaw- The Patriarchs overdue",
+          "grade": 98.13,
+          "note": "98.13% — Group Jigsaw- The Patriarchs overdue",
           "work": [
-            {
-              "title": "Exit Ticket Exodus 19 40",
-              "status": "zero",
-              "detail": "Posted 0 / Canvas missing",
-              "due": "Sep 14"
-            },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 3"
-            },
-            {
-              "title": "Why Does Leviticus Exist?",
-              "status": "zero",
-              "detail": "Posted 0 / Canvas missing",
-              "due": "Sep 16"
             }
           ],
           "grades": [
@@ -77,8 +65,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Exit Ticket Exodus 19 40",
-              "score": "0/100",
-              "percent": 0.0,
+              "score": "90/100",
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 14"
             },
@@ -87,13 +75,6 @@ window.RECAP_DATA = {
               "score": "81/100",
               "percent": 81.0,
               "group": "Summative Assessment",
-              "due": "Sep 16"
-            },
-            {
-              "title": "Why Does Leviticus Exist?",
-              "score": "0/100",
-              "percent": 0.0,
-              "group": "Formative Assessment",
               "due": "Sep 16"
             },
             {
@@ -445,8 +426,8 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 82.13,
-          "note": "82.13% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Macromolecul…",
+          "grade": 82.05,
+          "note": "82.05% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Unit 1 Test:…",
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
@@ -522,6 +503,13 @@ window.RECAP_DATA = {
               "percent": 96.0,
               "group": "Formative Assessment",
               "due": "Sep 13"
+            },
+            {
+              "title": "Unit 1 Test: The Nature of Life",
+              "score": "82/100",
+              "percent": 82.0,
+              "group": "Summative Assessment",
+              "due": "Sep 16"
             },
             {
               "title": "Macromolecule Matching",
