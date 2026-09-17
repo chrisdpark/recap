@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 17, 2026 · 12:34 PM CT",
+  "updated": "Thursday, Sep 17, 2026 · 4:22 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -9,7 +9,7 @@ window.RECAP_DATA = {
         "German I 85.08% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10",
         "World Geography 94.55% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 82.05% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Unit 1 Test: The Nature of Life = 82/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81.0% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); Q1 Membean Program 4 overdue (Sep 16); TKAM 8-12 Choice Board overdue (Sep 14)"
+        "English I 81.38% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 13-18 due overdue (Sep 16); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
       ],
       "courses": [
         {
@@ -539,21 +539,9 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 81.0,
-          "note": "81.0% — Q1 Membean Program 3 overdue — Q1 Membean Quiz 2 due Sep 17",
+          "grade": 81.38,
+          "note": "81.38% — TKAM 8-12 Choice Board overdue — Q1 Membean Quiz 2 due Sep 17",
           "work": [
-            {
-              "title": "Q1 Membean Program 3",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 9"
-            },
-            {
-              "title": "Q1 Membean Program 4",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 16"
-            },
             {
               "title": "TKAM 8-12 Choice Board",
               "status": "overdue",
@@ -565,12 +553,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 16"
-            },
-            {
-              "title": "TKAM Shoe Activity",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 9"
             },
             {
               "title": "Q1 Membean Quiz 2",
@@ -608,6 +590,13 @@ window.RECAP_DATA = {
               "due": "Aug 26"
             },
             {
+              "title": "Q1 Membean Program 4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
+            },
+            {
               "title": "Q1 Membean Program 2",
               "score": "100/100",
               "percent": 100.0,
@@ -627,6 +616,20 @@ window.RECAP_DATA = {
               "percent": 85.0,
               "group": "Formative Assessment",
               "due": "Sep 3"
+            },
+            {
+              "title": "Q1 Membean Program 3",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
+            },
+            {
+              "title": "TKAM Shoe Activity",
+              "score": "190/200",
+              "percent": 95.0,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
             }
           ]
         }
@@ -638,7 +641,8 @@ window.RECAP_DATA = {
         "Government is at 34% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
-        "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)."
+        "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
+        "Graphic Design/Digital Art 100.0% — 9/15-9/18 due Sep 18"
       ],
       "courses": [
         {
@@ -671,7 +675,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -1295,8 +1299,15 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0%",
-          "work": [],
+          "note": "100.0% — 9/15-9/18 due Sep 18",
+          "work": [
+            {
+              "title": "9/15-9/18",
+              "status": "due",
+              "detail": "Due Sep 18",
+              "due": "Sep 18"
+            }
+          ],
           "grades": [
             {
               "title": "8/18-8/21",
@@ -1311,6 +1322,20 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 28"
+            },
+            {
+              "title": "9/8-9/11",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 11"
+            },
+            {
+              "title": "9/1-9/4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             }
           ]
         }
