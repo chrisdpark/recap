@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 16, 2026 · 8:27 PM CT",
+  "updated": "Thursday, Sep 17, 2026 · 12:14 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,9 +7,9 @@ window.RECAP_DATA = {
         "Bible 77.22% — Exit Ticket Exodus 19 40 = 0/100; Test: Units 2 and 3 = 81/100; Why Does Leviticus Exist? = 0/100; Exit Ticket Exodus 19 40 posted 0; Why Does Leviticus Exist? posted 0",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 85.08% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10",
-        "World Geography 94.55% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts due Sep 18; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
+        "World Geography 94.55% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 82.13% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Macromolecule Matching = 75/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); TKAM 8-12 Choice Board overdue (Sep 14); TKAM Shoe Activity overdue (Sep 9)"
+        "English I 81% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 3 overdue (Sep 9); Q1 Membean Program 4 overdue (Sep 16); TKAM 8-12 Choice Board overdue (Sep 14)"
       ],
       "courses": [
         {
@@ -386,14 +386,8 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 94.55,
-          "note": "94.55% — Wednesday, September 16th Current Event Posts due Sep 18 — submitted awaiting grade: TURN IN - 5 T…",
+          "note": "94.55% — Unit 1 Test: Foundations of Geography due Sep 18 — submitted awaiting grade: TURN IN - 5 Themes of…",
           "work": [
-            {
-              "title": "Wednesday, September 16th Current Event Posts",
-              "status": "due",
-              "detail": "Due Sep 18",
-              "due": "Sep 18"
-            },
             {
               "title": "Unit 1 Test: Foundations of Geography",
               "status": "due",
@@ -558,7 +552,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81,
-          "note": "81% — Q1 Membean Program 3 overdue — Q1 Membean Program 4 due Sep 16",
+          "note": "81% — Q1 Membean Program 3 overdue — Q1 Membean Quiz 2 due Sep 17",
           "work": [
             {
               "title": "Q1 Membean Program 3",
@@ -568,8 +562,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Q1 Membean Program 4",
-              "status": "due",
-              "detail": "Due Sep 16",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 16"
             },
             {
@@ -580,8 +574,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "TKAM Ch. 13-18 due",
-              "status": "due",
-              "detail": "Due Sep 16",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 16"
             },
             {
