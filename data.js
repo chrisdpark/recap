@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 17, 2026 · 8:26 PM CT",
+  "updated": "Friday, Sep 18, 2026 · 12:21 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -9,7 +9,7 @@ window.RECAP_DATA = {
         "German I 85.08% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Workbook for the week - 1B due Sep 21",
         "World Geography 94.55% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 82.05% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Unit 1 Test: The Nature of Life = 82/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81.38% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 13-18 due overdue (Sep 16); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
+        "English I 81.38% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 13-18 due overdue (Sep 16); Q1 Membean Quiz 2 overdue (Sep 17)"
       ],
       "courses": [
         {
@@ -226,18 +226,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unit 1 Schedule due 9/8 (B) — schedule-only, not a Canvas assignment",
               "due": "Sep 8"
-            },
-            {
-              "title": "Lesson 5 Practice (schedule)",
-              "status": "due",
-              "detail": "Unit 1 Schedule due 9/17 — IXL / schedule-only",
-              "due": "Sep 17"
-            },
-            {
-              "title": "Lesson 6 Practice (schedule)",
-              "status": "due",
-              "detail": "Unit 1 Schedule due 9/19 — schedule-only",
-              "due": "Sep 19"
             }
           ],
           "grades": [
@@ -581,8 +569,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Q1 Membean Quiz 2",
-              "status": "due",
-              "detail": "Due Sep 17",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 17"
             },
             {
@@ -1048,7 +1036,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "4 posted 0",
+          "note": "5 posted 0 · 2 recent submissions ungraded",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1073,6 +1061,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, completed Sep 10",
               "due": "Due Sep 17"
+            },
+            {
+              "title": "QUIZ 2.3 - 2.7",
+              "status": "zero",
+              "detail": "Posted 0, completed Sep 17",
+              "due": "Due Sep 28"
             }
           ],
           "grades": [
@@ -1152,6 +1146,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Sep 22"
+            },
+            {
+              "title": "QUIZ 2.3 - 2.7",
+              "score": "0%",
+              "percent": 0,
+              "group": "",
+              "due": "Sep 28"
             }
           ]
         },
