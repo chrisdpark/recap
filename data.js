@@ -1,15 +1,15 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 18, 2026 · 12:29 PM CT",
+  "updated": "Friday, Sep 18, 2026 · 4:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 98.13% — Test: Units 2 and 3 = 81/100; Group Jigsaw- The Patriarchs overdue (Sep 3)",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - 1B due Sep 21",
+        "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21",
         "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
-        "Biology 82.05% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Unit 1 Test: The Nature of Life = 82/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81.38% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 13-18 due overdue (Sep 16); Q1 Membean Quiz 2 overdue (Sep 17)"
+        "Biology 80.82% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Biomolecules - Pogil (in class) overdue (Sep 4); Creation Journal Discussion (Journals 1 - 4) due Sep 18",
+        "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
       ],
       "courses": [
         {
@@ -112,8 +112,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0%",
+          "grade": 100,
+          "note": "100%",
           "work": [],
           "grades": [
             {
@@ -258,10 +258,10 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 82.42,
-          "note": "82.42% — Vocab Quiz #1 Written = 36/40 — Workbook for the week - 1B due Sep 21",
+          "note": "82.42% — Vocab Quiz #1 Written = 36/40 — Haben and Sein due Sep 21",
           "work": [
             {
-              "title": "Workbook for the week - 1B",
+              "title": "Haben and Sein",
               "status": "due",
               "detail": "Due Sep 21",
               "due": "Sep 21"
@@ -447,13 +447,13 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 82.05,
-          "note": "82.05% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Unit 1 Test:…",
+          "grade": 80.82,
+          "note": "80.82% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
-              "status": "due",
-              "detail": "Due Sep 18",
+              "status": "missing",
+              "detail": "Canvas missing",
               "due": "Sep 18"
             },
             {
@@ -461,12 +461,6 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Due Sep 18",
               "due": "Sep 18"
-            },
-            {
-              "title": "Lab 02: Microscopy",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 14"
             },
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -526,6 +520,13 @@ window.RECAP_DATA = {
               "due": "Sep 13"
             },
             {
+              "title": "Lab 02: Microscopy",
+              "score": "50/100",
+              "percent": 50.0,
+              "group": "Formative Assessment",
+              "due": "Sep 14"
+            },
+            {
               "title": "Unit 1 Test: The Nature of Life",
               "score": "82/100",
               "percent": 82.0,
@@ -560,8 +561,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 81.38,
-          "note": "81.38% — TKAM 8-12 Choice Board overdue — TKAM Ch. 19-24 due due Sep 21",
+          "grade": 84.67,
+          "note": "84.67% — TKAM 8-12 Choice Board overdue — TKAM Ch. 19-24 due due Sep 21",
           "work": [
             {
               "title": "TKAM 8-12 Choice Board",
@@ -570,22 +571,10 @@ window.RECAP_DATA = {
               "due": "Sep 14"
             },
             {
-              "title": "TKAM Ch. 13-18 due",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 16"
-            },
-            {
               "title": "TKAM Ch. 19-24 due",
               "status": "due",
               "detail": "Due Sep 21",
               "due": "Sep 21"
-            },
-            {
-              "title": "Q1 Membean Quiz 2",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 17"
             },
             {
               "title": "TKAM Ch. 8-12 In-Class Essay",
@@ -622,6 +611,20 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 16"
+            },
+            {
+              "title": "TKAM Ch. 13-18 due",
+              "score": "55/100",
+              "percent": 55.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
+            },
+            {
+              "title": "Q1 Membean Quiz 2",
+              "score": "95/100",
+              "percent": 95.0,
+              "group": "Summative Assessment",
+              "due": "Sep 17"
             },
             {
               "title": "Q1 Membean Program 2",
@@ -669,7 +672,7 @@ window.RECAP_DATA = {
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 25"
+        "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
       "courses": [
         {
@@ -702,7 +705,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -1299,8 +1302,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
+          "grade": 100,
+          "note": "100% — Unit 1 Summative Quiz (classic) posted 0",
           "work": [
             {
               "title": "Unit 1 Summative Quiz (classic)",
@@ -1352,8 +1355,8 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0% — 9/15-9/18 due Sep 18",
+          "grade": 100,
+          "note": "100% — 9/15-9/18 due Sep 18",
           "work": [
             {
               "title": "9/15-9/18",
