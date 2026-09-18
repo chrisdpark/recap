@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 18, 2026 · 8:23 AM CT",
+  "updated": "Friday, Sep 18, 2026 · 12:29 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 98.13% — Test: Units 2 and 3 = 81/100; Group Jigsaw- The Patriarchs overdue (Sep 3)",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 85.08% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Workbook for the week - 1B due Sep 21",
-        "World Geography 94.55% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
+        "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - 1B due Sep 21",
+        "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 82.05% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Unit 1 Test: The Nature of Life = 82/100; Lab 02: Microscopy overdue (Sep 14); Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.38% — SKDM Assessment = 70/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 13-18 due overdue (Sep 16); Q1 Membean Quiz 2 overdue (Sep 17)"
       ],
@@ -257,8 +257,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 85.08,
-          "note": "85.08% — Vocab Quiz #1 Written = 36/40 — Workbook for the week - 1B due Sep 21",
+          "grade": 82.42,
+          "note": "82.42% — Vocab Quiz #1 Written = 36/40 — Workbook for the week - 1B due Sep 21",
           "work": [
             {
               "title": "Workbook for the week - 1B",
@@ -325,6 +325,13 @@ window.RECAP_DATA = {
               "due": "Sep 16"
             },
             {
+              "title": "Lords prayer Part 3",
+              "score": "0.1/10",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Sep 18"
+            },
+            {
               "title": "Days of the Week (Video practice )",
               "score": "10/10",
               "percent": 100.0,
@@ -373,8 +380,8 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 94.55,
-          "note": "94.55% — Unit 1 Test: Foundations of Geography due Sep 18 — submitted awaiting grade: TURN IN - 5 Themes of…",
+          "grade": 93.24,
+          "note": "93.24% — Unit 1 Test: Foundations of Geography due Sep 18 — submitted awaiting grade: TURN IN - 5 Themes of…",
           "work": [
             {
               "title": "Unit 1 Test: Foundations of Geography",
@@ -418,6 +425,13 @@ window.RECAP_DATA = {
               "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "Wednesday, September 16th Current Event Posts",
+              "score": "70/100",
+              "percent": 70.0,
+              "group": "Formative Assessment",
+              "due": "Sep 18"
             },
             {
               "title": "Biomes Brochure",
@@ -655,7 +669,7 @@ window.RECAP_DATA = {
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Graphic Design/Digital Art 100.0% — 9/15-9/18 due Sep 18"
+        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
       "courses": [
         {
@@ -1286,8 +1300,15 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0%",
-          "work": [],
+          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
+          "work": [
+            {
+              "title": "Unit 1 Summative Quiz (classic)",
+              "status": "zero",
+              "detail": "Posted 0",
+              "due": "Sep 25"
+            }
+          ],
           "grades": [
             {
               "title": "Your Apologetics Starting Point",
@@ -1309,6 +1330,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 22"
+            },
+            {
+              "title": "Unit 1 Summative Quiz (classic)",
+              "score": "0/100",
+              "percent": 0.0,
+              "group": "Summative Assessment",
+              "due": "Sep 25"
             },
             {
               "title": "Surrounded Simulation Post-Survey",
