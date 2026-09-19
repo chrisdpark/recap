@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Sep 19, 2026 · 12:11 AM CT",
+  "updated": "Saturday, Sep 19, 2026 · 4:11 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -112,8 +112,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
@@ -672,7 +672,7 @@ window.RECAP_DATA = {
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 25"
+        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
       "courses": [
         {
@@ -1362,8 +1362,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100% — Unit 1 Summative Quiz (classic) posted 0",
+          "grade": 100.0,
+          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
           "work": [
             {
               "title": "Unit 1 Summative Quiz (classic)",
@@ -1415,8 +1415,8 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100% — 9/15-9/18 overdue",
+          "grade": 100.0,
+          "note": "100.0% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
