@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 18, 2026 · 8:15 PM CT",
+  "updated": "Saturday, Sep 19, 2026 · 12:11 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,8 +7,8 @@ window.RECAP_DATA = {
         "Bible 98.13% — Test: Units 2 and 3 = 81/100; Group Jigsaw- The Patriarchs overdue (Sep 3)",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21",
-        "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography due Sep 18; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
-        "Biology 80.82% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Biomolecules - Pogil (in class) overdue (Sep 4); Creation Journal Discussion (Journals 1 - 4) due Sep 18",
+        "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography overdue (Sep 18); submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
+        "Biology 80.82% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle overdue (Sep 18); Creation Journal Discussion (Journals 1 - 4) overdue (Sep 18)",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
       ],
       "courses": [
@@ -381,12 +381,12 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 93.24,
-          "note": "93.24% — Unit 1 Test: Foundations of Geography due Sep 18 — submitted awaiting grade: TURN IN - 5 Themes of…",
+          "note": "93.24% — Unit 1 Test: Foundations of Geography overdue",
           "work": [
             {
               "title": "Unit 1 Test: Foundations of Geography",
-              "status": "due",
-              "detail": "Due Sep 18",
+              "status": "overdue",
+              "detail": "Canvas missing",
               "due": "Sep 18"
             }
           ],
@@ -452,14 +452,14 @@ window.RECAP_DATA = {
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
-              "status": "missing",
+              "status": "overdue",
               "detail": "Canvas missing",
               "due": "Sep 18"
             },
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
-              "status": "due",
-              "detail": "Due Sep 18",
+              "status": "overdue",
+              "detail": "Canvas missing",
               "due": "Sep 18"
             },
             {
@@ -668,7 +668,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 34% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
+        "Government is at 58% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
@@ -766,8 +766,8 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 100,
-          "note": "5 overdue · 1 posted 0 · 1 recent submissions ungraded",
+          "grade": 95,
+          "note": "5 overdue · 1 posted 0 · 3 recent submissions ungraded",
           "work": [
             {
               "title": "Lockdown Browser Tutorial",
@@ -785,25 +785,31 @@ window.RECAP_DATA = {
               "title": "Define 1D Motion Discussion Forum",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 9"
+              "due": "Due Sep 8"
             },
             {
               "title": "Velocity Teaching Video",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 11"
+              "due": "Due Sep 10"
             },
             {
               "title": "Position Time Graphs Teaching Video",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 15"
+              "due": "Due Sep 14"
             },
             {
               "title": "Motion Graphs Packet & Activity",
               "status": "zero",
               "detail": "Posted 0, not completed",
-              "due": "Due Sep 21"
+              "due": "Due Sep 18"
+            },
+            {
+              "title": "Position - Time Graph Walking Video Discussion Forum",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 22"
             }
           ],
           "grades": [
@@ -861,70 +867,77 @@ window.RECAP_DATA = {
               "score": "69%",
               "percent": 69,
               "group": "",
-              "due": "Sep 7"
+              "due": "Sep 4"
             },
             {
               "title": "Define 1D Motion Discussion Forum",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 9"
+              "due": "Sep 8"
             },
             {
               "title": "Velocity Teaching Video",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 11"
+              "due": "Sep 10"
             },
             {
               "title": "Position Time Graphs Teaching Video",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 15"
+              "due": "Sep 14"
             },
             {
               "title": "1D Motion Part 1 Notes",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 17"
+              "due": "Sep 16"
             },
             {
               "title": "Motion Graphs Packet & Activity",
               "score": "0%",
               "percent": 0,
               "group": "",
-              "due": "Sep 21"
+              "due": "Sep 18"
             },
             {
               "title": "1D Motion Part 2 Notes",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 25"
+              "due": "Sep 24"
             },
             {
               "title": "1D Kinematics Homework Set",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 29"
+              "due": "Sep 25"
             },
             {
               "title": "Free Fall Lab",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Oct 1"
+              "due": "Sep 29"
             },
             {
               "title": "1D Motion Quiz",
               "score": "80%",
               "percent": 80,
               "group": "",
-              "due": "Oct 5"
+              "due": "Oct 1"
+            },
+            {
+              "title": "1D Motion Test",
+              "score": "95%",
+              "percent": 95,
+              "group": "",
+              "due": "Oct 7"
             }
           ]
         },
@@ -933,8 +946,8 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 34,
-          "note": "Course at 34% · 2 overdue · 3 posted 0",
+          "grade": 58,
+          "note": "Course at 58% · 2 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -955,16 +968,10 @@ window.RECAP_DATA = {
               "due": "Due Sep 11"
             },
             {
-              "title": "Checkpoint Quiz",
+              "title": "Comparing the House and the Senate",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 15"
-            },
-            {
-              "title": "Comparing the House and the Senate",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 18"
+              "due": "Due Sep 18"
             },
             {
               "title": "How a Bill Becomes a Law Game Board",
@@ -1045,10 +1052,17 @@ window.RECAP_DATA = {
             },
             {
               "title": "Checkpoint Quiz",
+              "score": "87%",
+              "percent": 87,
+              "group": "",
+              "due": "Sep 15"
+            },
+            {
+              "title": "Comparing the House and the Senate",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 15"
+              "due": "Sep 18"
             },
             {
               "title": "Check point Quiz",
@@ -1065,7 +1079,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "5 posted 0 · 2 recent submissions ungraded",
+          "note": "5 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1177,11 +1191,25 @@ window.RECAP_DATA = {
               "due": "Sep 22"
             },
             {
+              "title": "Dropbox Week 5 Homework",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Sep 24"
+            },
+            {
               "title": "QUIZ 2.3 - 2.7",
               "score": "0%",
               "percent": 0,
               "group": "",
               "due": "Sep 28"
+            },
+            {
+              "title": "Dropbox QUIZ 2.3 - 2.7",
+              "score": "94%",
+              "percent": 94,
+              "group": "",
+              "due": "Oct 1"
             }
           ]
         },
@@ -1190,8 +1218,8 @@ window.RECAP_DATA = {
           "teacher": "Lane",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 98,
-          "note": "7 overdue · 2 recent submissions ungraded · work due this week",
+          "grade": 91,
+          "note": "7 overdue · work due this week",
           "work": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
@@ -1312,6 +1340,20 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 15"
+            },
+            {
+              "title": "Culture & Media Assignment",
+              "score": "75%",
+              "percent": 75,
+              "group": "",
+              "due": "Sep 17"
+            },
+            {
+              "title": "Sociological Scavenger Hunt #2",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Sep 30"
             }
           ]
         },
@@ -1374,12 +1416,12 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100,
-          "note": "100% — 9/15-9/18 due Sep 18",
+          "note": "100% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
-              "status": "due",
-              "detail": "Due Sep 18",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 18"
             }
           ],
