@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Sep 19, 2026 · 8:11 PM CT",
+  "updated": "Sunday, Sep 20, 2026 · 12:06 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 95.24% — Test: Units 2 and 3 = 81/100; Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21",
+        "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21; Workbook for the week - due Sep 22",
         "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography overdue (Sep 18); submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 80.82% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle overdue (Sep 18); Creation Journal Discussion (Journals 1 - 4) overdue (Sep 18)",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
@@ -272,13 +272,19 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 82.42,
-          "note": "82.42% — Vocab Quiz #1 Written = 36/40 — Haben and Sein due Sep 21",
+          "note": "82.42% — Vocab Quiz #1 Written = 36/40 — Haben and Sein due Sep 21 — Workbook for the week - due Sep 22",
           "work": [
             {
               "title": "Haben and Sein",
               "status": "due",
               "detail": "Due Sep 21",
               "due": "Sep 21"
+            },
+            {
+              "title": "Workbook for the week -",
+              "status": "due",
+              "detail": "Due Sep 22",
+              "due": "Sep 22"
             }
           ],
           "grades": [
@@ -725,7 +731,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -781,7 +787,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 95,
-          "note": "5 overdue · 1 posted 0 · 3 recent submissions ungraded",
+          "note": "5 overdue · 1 posted 0 · 2 recent submissions ungraded",
           "work": [
             {
               "title": "Lockdown Browser Tutorial",
@@ -945,6 +951,13 @@ window.RECAP_DATA = {
               "percent": 80,
               "group": "",
               "due": "Oct 1"
+            },
+            {
+              "title": "1D Motion Test Review",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Oct 5"
             },
             {
               "title": "1D Motion Test",
