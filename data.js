@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Sep 19, 2026 · 4:09 PM CT",
+  "updated": "Saturday, Sep 19, 2026 · 8:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 98.13% — Test: Units 2 and 3 = 81/100; Group Jigsaw- The Patriarchs overdue (Sep 3)",
+        "Bible 95.24% — Test: Units 2 and 3 = 81/100; Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21",
         "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography overdue (Sep 18); submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
@@ -17,13 +17,13 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 98.13,
-          "note": "98.13% — Group Jigsaw- The Patriarchs overdue",
+          "grade": 95.24,
+          "note": "95.24% — Group Jigsaw- The Patriarchs posted 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
+              "status": "zero",
+              "detail": "Posted 0 / Canvas missing",
               "due": "Sep 3"
             }
           ],
@@ -71,6 +71,13 @@ window.RECAP_DATA = {
               "due": "Sep 14"
             },
             {
+              "title": "Leviticus- Bibleproject Reflection",
+              "score": "96/100",
+              "percent": 96.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
+            },
+            {
               "title": "Test: Units 2 and 3",
               "score": "81/100",
               "percent": 81.0,
@@ -88,6 +95,13 @@ window.RECAP_DATA = {
               "title": "BibleProject- Genesis 12-50",
               "score": "95/100",
               "percent": 95.0,
+              "group": "Formative Assessment",
+              "due": "Sep 3"
+            },
+            {
+              "title": "Group Jigsaw- The Patriarchs",
+              "score": "0/100",
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Sep 3"
             },
@@ -711,7 +725,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
