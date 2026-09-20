@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Sep 20, 2026 · 12:10 PM CT",
+  "updated": "Sunday, Sep 20, 2026 · 4:08 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 95.24% — Test: Units 2 and 3 = 81/100; Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0",
+        "Bible 92.24% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21; Workbook for the week - due Sep 22",
         "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography overdue (Sep 18); submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
@@ -17,8 +17,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 95.24,
-          "note": "95.24% — Group Jigsaw- The Patriarchs posted 0",
+          "grade": 92.24,
+          "note": "92.24% — Group Jigsaw- The Patriarchs posted 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -79,8 +79,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Test: Units 2 and 3",
-              "score": "81/100",
-              "percent": 81.0,
+              "score": "90/100",
+              "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Sep 16"
             },
@@ -731,7 +731,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
