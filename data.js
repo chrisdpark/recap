@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Sep 20, 2026 · 8:23 PM CT",
+  "updated": "Monday, Sep 21, 2026 · 12:14 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.24% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21; Workbook for the week - due Sep 22",
+        "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21; Vorstellen Introduction due Sep 23",
         "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography overdue (Sep 18); submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 80.82% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle overdue (Sep 18); Creation Journal Discussion (Journals 1 - 4) overdue (Sep 18)",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
@@ -272,13 +272,19 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 82.42,
-          "note": "82.42% — Vocab Quiz #1 Written = 36/40 — Haben and Sein due Sep 21 — Workbook for the week - due Sep 22",
+          "note": "82.42% — Vocab Quiz #1 Written = 36/40 — Haben and Sein due Sep 21 — Vorstellen Introduction due Sep 23 — W…",
           "work": [
             {
               "title": "Haben and Sein",
               "status": "due",
               "detail": "Due Sep 21",
               "due": "Sep 21"
+            },
+            {
+              "title": "Vorstellen Introduction",
+              "status": "due",
+              "detail": "Due Sep 23",
+              "due": "Sep 23"
             },
             {
               "title": "Workbook for the week -",
@@ -483,6 +489,12 @@ window.RECAP_DATA = {
               "due": "Sep 18"
             },
             {
+              "title": "Cell Analogy Project",
+              "status": "due",
+              "detail": "Due Sep 23",
+              "due": "Sep 23"
+            },
+            {
               "title": "Biomolecules - Pogil (in class)",
               "status": "overdue",
               "detail": "Unsubmitted past due (muted in Canvas)",
@@ -582,8 +594,14 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 84.67,
-          "note": "84.67% — TKAM 8-12 Choice Board overdue — TKAM Ch. 19-24 due due Sep 21",
+          "note": "84.67% — TKAM 8-12 Choice Board overdue — Q1 Membean Program 5 due Sep 23",
           "work": [
+            {
+              "title": "Q1 Membean Program 5",
+              "status": "due",
+              "detail": "Due Sep 23",
+              "due": "Sep 23"
+            },
             {
               "title": "TKAM 8-12 Choice Board",
               "status": "overdue",
@@ -688,7 +706,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 58% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
+        "Government is at 59% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
@@ -787,7 +805,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 95,
-          "note": "5 overdue · 1 posted 0 · 2 recent submissions ungraded",
+          "note": "5 overdue · 1 posted 0 · 1 recent submissions ungraded",
           "work": [
             {
               "title": "Lockdown Browser Tutorial",
@@ -965,6 +983,13 @@ window.RECAP_DATA = {
               "percent": 95,
               "group": "",
               "due": "Oct 7"
+            },
+            {
+              "title": "2D Motion Notes",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Oct 9"
             }
           ]
         },
@@ -973,8 +998,8 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 58,
-          "note": "Course at 58% · 2 overdue · 3 posted 0",
+          "grade": 59,
+          "note": "Course at 59% · 1 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -993,18 +1018,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, not completed",
               "due": "Due Sep 11"
-            },
-            {
-              "title": "Comparing the House and the Senate",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 18"
-            },
-            {
-              "title": "How a Bill Becomes a Law Game Board",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 22"
             },
             {
               "title": "Check point Quiz",
@@ -1085,11 +1098,11 @@ window.RECAP_DATA = {
               "due": "Sep 15"
             },
             {
-              "title": "Comparing the House and the Senate",
-              "score": "—",
-              "percent": null,
+              "title": "Congresspeople research",
+              "score": "100%",
+              "percent": 100,
               "group": "",
-              "due": "Sep 18"
+              "due": "Sep 24"
             },
             {
               "title": "Check point Quiz",
