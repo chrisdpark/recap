@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 21, 2026 · 4:28 PM CT",
+  "updated": "Monday, Sep 21, 2026 · 5:16 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -139,8 +139,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0%",
+          "grade": 100,
+          "note": "100%",
           "work": [],
           "grades": [
             {
@@ -253,6 +253,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unit 1 Schedule due 9/8 (B) — schedule-only, not a Canvas assignment",
               "due": "Sep 8"
+            },
+            {
+              "title": "Lesson 5 Practice (schedule)",
+              "status": "overdue",
+              "detail": "Unit 1 Schedule due 9/17 — IXL / schedule-only",
+              "due": "Sep 17"
+            },
+            {
+              "title": "Lesson 6 Practice (schedule)",
+              "status": "overdue",
+              "detail": "Unit 1 Schedule due 9/19 — schedule-only",
+              "due": "Sep 19"
             }
           ],
           "grades": [
