@@ -1,14 +1,14 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 21, 2026 · 9:02 AM CT",
+  "updated": "Monday, Sep 21, 2026 · 12:32 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.24% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Numbers Deuteronomy due Sep 21; Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
+        "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21; Vorstellen Introduction due Sep 23",
+        "German I 86.18% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21; Vorstellen Introduction due Sep 23",
         "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography overdue (Sep 18); submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
-        "Biology 80.82% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle overdue (Sep 18); Creation Journal Discussion (Journals 1 - 4) overdue (Sep 18)",
+        "Biology 78.04% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
       ],
       "courses": [
@@ -17,15 +17,9 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 92.24,
-          "note": "92.24% — Group Jigsaw- The Patriarchs posted 0 — Exit Ticket: Numbers Deuteronomy due Sep 21",
+          "grade": 92.31,
+          "note": "92.31% — Group Jigsaw- The Patriarchs posted 0 — Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
           "work": [
-            {
-              "title": "Exit Ticket: Numbers Deuteronomy",
-              "status": "due",
-              "detail": "Due Sep 21",
-              "due": "Sep 21"
-            },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
@@ -102,6 +96,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 2"
+            },
+            {
+              "title": "Exit Ticket: Numbers Deuteronomy",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 21"
             },
             {
               "title": "BibleProject- Genesis 12-50",
@@ -283,8 +284,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 82.42,
-          "note": "82.42% — Vocab Quiz #1 Written = 36/40 — Haben and Sein due Sep 21 — Vorstellen Introduction due Sep 23 — W…",
+          "grade": 86.18,
+          "note": "86.18% — Vocab Quiz #1 Written = 36/40 — Haben and Sein due Sep 21 — Vorstellen Introduction due Sep 23 — W…",
           "work": [
             {
               "title": "Haben and Sein",
@@ -350,8 +351,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Follow Up Quiz on Conjugation",
-              "score": "0.15/15",
-              "percent": 1.0,
+              "score": "10.5/15",
+              "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 15"
             },
@@ -485,19 +486,13 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 80.82,
-          "note": "80.82% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
+          "grade": 78.04,
+          "note": "78.04% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
-              "status": "overdue",
-              "detail": "Canvas missing",
-              "due": "Sep 18"
-            },
-            {
-              "title": "Creation Journal Discussion (Journals 1 - 4)",
-              "status": "overdue",
-              "detail": "Canvas missing",
+              "status": "zero",
+              "detail": "Posted 0",
               "due": "Sep 18"
             },
             {
@@ -576,6 +571,13 @@ window.RECAP_DATA = {
               "percent": 82.0,
               "group": "Summative Assessment",
               "due": "Sep 16"
+            },
+            {
+              "title": "Cell Organelle Crossword Puzzle",
+              "score": "0/100",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 18"
             },
             {
               "title": "Macromolecule Matching",
