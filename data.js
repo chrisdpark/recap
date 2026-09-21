@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 21, 2026 · 12:14 AM CT",
+  "updated": "Monday, Sep 21, 2026 · 4:21 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.24% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0",
+        "Bible 92.24% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Numbers Deuteronomy due Sep 21; Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 82.42% — Follow Up Quiz on Conjugation = 0.15/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21; Vorstellen Introduction due Sep 23",
         "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography overdue (Sep 18); submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
@@ -18,13 +18,25 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 92.24,
-          "note": "92.24% — Group Jigsaw- The Patriarchs posted 0",
+          "note": "92.24% — Group Jigsaw- The Patriarchs posted 0 — Exit Ticket: Numbers Deuteronomy due Sep 21",
           "work": [
+            {
+              "title": "Exit Ticket: Numbers Deuteronomy",
+              "status": "due",
+              "detail": "Due Sep 21",
+              "due": "Sep 21"
+            },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
               "detail": "Posted 0 / Canvas missing",
               "due": "Sep 3"
+            },
+            {
+              "title": "Quiz: Key Terms - Numbers Deuteronomy",
+              "status": "due",
+              "detail": "Due Sep 23",
+              "due": "Sep 23"
             }
           ],
           "grades": [
@@ -749,7 +761,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
