@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 21, 2026 · 12:32 PM CT",
+  "updated": "Monday, Sep 21, 2026 · 4:28 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,7 +7,7 @@ window.RECAP_DATA = {
         "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
         "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 86.18% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein due Sep 21; Vorstellen Introduction due Sep 23",
-        "World Geography 93.24% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Wednesday, September 16th Current Event Posts = 70/100; Unit 1 Test: Foundations of Geography overdue (Sep 18); submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
+        "World Geography 63.54% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 1/100; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
         "Biology 78.04% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 8-12 In-Class Essay overdue (Sep 10)"
       ],
@@ -419,16 +419,9 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 93.24,
-          "note": "93.24% — Unit 1 Test: Foundations of Geography overdue",
-          "work": [
-            {
-              "title": "Unit 1 Test: Foundations of Geography",
-              "status": "overdue",
-              "detail": "Canvas missing",
-              "due": "Sep 18"
-            }
-          ],
+          "grade": 63.54,
+          "note": "63.54% — submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guid…",
+          "work": [],
           "grades": [
             {
               "title": "Unit 1 Vocabulary Matrix",
@@ -464,6 +457,13 @@ window.RECAP_DATA = {
               "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "Unit 1 Test: Foundations of Geography",
+              "score": "1/100",
+              "percent": 1.0,
+              "group": "Summative Assessment",
+              "due": "Sep 18"
             },
             {
               "title": "Wednesday, September 16th Current Event Posts",
@@ -612,6 +612,12 @@ window.RECAP_DATA = {
           "work": [
             {
               "title": "Q1 Membean Program 5",
+              "status": "due",
+              "detail": "Due Sep 23",
+              "due": "Sep 23"
+            },
+            {
+              "title": "TKAM 1-18 Literature Circle",
               "status": "due",
               "detail": "Due Sep 23",
               "due": "Sep 23"
