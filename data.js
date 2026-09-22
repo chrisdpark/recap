@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 22, 2026 · 8:46 AM CT",
+  "updated": "Tuesday, Sep 22, 2026 · 12:42 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1481,6 +1481,13 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Summative Assessment",
               "due": "Sep 25"
+            },
+            {
+              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
             },
             {
               "title": "Surrounded Simulation Post-Survey",
