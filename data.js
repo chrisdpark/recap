@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 22, 2026 · 5:27 PM CT",
+  "updated": "Tuesday, Sep 22, 2026 · 5:33 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1464,57 +1464,51 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
+          "note": "Unit 1 Summative Quiz submitted pending review (auto 0 until essay graded)",
           "work": [
             {
               "title": "Unit 1 Summative Quiz (classic)",
               "status": "zero",
-              "detail": "Posted 0",
+              "detail": null,
               "due": "Sep 25"
             }
           ],
           "grades": [
             {
-              "title": "Your Apologetics Starting Point",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "Video Quiz: Is there Meaning to Life?",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 17"
-            },
-            {
               "title": "Memory Verse 1 (Formative)",
-              "score": "100/100",
+              "score": "100%",
               "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 22"
-            },
-            {
-              "title": "Unit 1 Summative Quiz (classic)",
-              "score": "0/100",
-              "percent": 0.0,
-              "group": "Summative Assessment",
-              "due": "Sep 25"
-            },
-            {
-              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 29"
+              "group": "Formative Assessment"
             },
             {
               "title": "Surrounded Simulation Post-Survey",
-              "score": "100/100",
+              "score": "100",
               "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
+              "group": "Formative Assessment"
+            },
+            {
+              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
+              "score": "100%",
+              "percent": 100.0,
+              "group": "Formative Assessment"
+            },
+            {
+              "title": "Video Quiz: Is there Meaning to Life?",
+              "score": "100%",
+              "percent": 100.0,
+              "group": "Formative Assessment"
+            },
+            {
+              "title": "Your Apologetics Starting Point",
+              "score": "100%",
+              "percent": 100.0,
+              "group": "Formative Assessment"
+            },
+            {
+              "title": "Unit 1 Summative Quiz (classic)",
+              "score": "0",
+              "percent": 0.0,
+              "group": "Summative Assessment"
             }
           ]
         },
@@ -1524,43 +1518,39 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — 9/15-9/18 overdue",
+          "note": "overdue: 9/15-9/18",
           "work": [
             {
               "title": "9/15-9/18",
               "status": "overdue",
-              "detail": "Unsubmitted past due",
+              "detail": "muted/unposted",
               "due": "Sep 18"
             }
           ],
           "grades": [
             {
               "title": "8/18-8/21",
-              "score": "100/100",
+              "score": "100%",
               "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 21"
+              "group": "Formative Assessment"
             },
             {
               "title": "8/24-8/28",
-              "score": "100/100",
+              "score": "100%",
               "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "9/8-9/11",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 11"
+              "group": "Formative Assessment"
             },
             {
               "title": "9/1-9/4",
-              "score": "100/100",
+              "score": "100%",
               "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
+              "group": "Formative Assessment"
+            },
+            {
+              "title": "9/8-9/11",
+              "score": "100%",
+              "percent": 100.0,
+              "group": "Formative Assessment"
             }
           ]
         }
