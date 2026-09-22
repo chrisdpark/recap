@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 21, 2026 · 5:31 PM CT",
+  "updated": "Monday, Sep 21, 2026 · 8:29 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -139,8 +139,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
@@ -742,7 +742,7 @@ window.RECAP_DATA = {
         "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 7 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) due Sep 25 — submitted pending review (auto 0 until essay graded)"
+        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
       "courses": [
         {
@@ -1435,29 +1435,22 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "Unit 1 Summative Quiz (classic) due Sep 25",
+          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
           "work": [
             {
               "title": "Unit 1 Summative Quiz (classic)",
-              "status": "due",
-              "detail": "submitted pending review (auto 0 until essay graded)",
+              "status": "zero",
+              "detail": "Posted 0",
               "due": "Sep 25"
             }
           ],
           "grades": [
             {
-              "title": "Memory Verse 1 (Formative)",
+              "title": "Your Apologetics Starting Point",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 22"
-            },
-            {
-              "title": "Surrounded Simulation Post-Survey",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
+              "due": "Aug 28"
             },
             {
               "title": "Video Quiz: Is there Meaning to Life?",
@@ -1467,11 +1460,11 @@ window.RECAP_DATA = {
               "due": "Sep 17"
             },
             {
-              "title": "Your Apologetics Starting Point",
+              "title": "Memory Verse 1 (Formative)",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Aug 28"
+              "due": "Sep 22"
             },
             {
               "title": "Unit 1 Summative Quiz (classic)",
@@ -1479,6 +1472,13 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Summative Assessment",
               "due": "Sep 25"
+            },
+            {
+              "title": "Surrounded Simulation Post-Survey",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             }
           ]
         },
@@ -1488,12 +1488,12 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "9/15-9/18 overdue Sep 18",
+          "note": "100.0% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
               "status": "overdue",
-              "detail": "due Sep 18 (muted/unposted)",
+              "detail": "Unsubmitted past due",
               "due": "Sep 18"
             }
           ],
@@ -1513,18 +1513,18 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
-              "title": "9/1-9/4",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
-            },
-            {
               "title": "9/8-9/11",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "9/1-9/4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             }
           ]
         }
