@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 22, 2026 · 12:42 PM CT",
+  "updated": "Tuesday, Sep 22, 2026 · 4:30 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
-        "Algebra I 44.58% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Algebra Karaoke Performance overdue (Sep 3); Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 86.18% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Haben and Sein overdue (Sep 21); Vorstellen Introduction due Sep 23",
-        "World Geography 63.54% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 1/100; submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guided Questions, TURN IN - Physical Processes Notes",
+        "Algebra I 54.14% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2); Inequalities Mad Lib (schedule) overdue (Sep 8)",
+        "German I 86.5% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Vorstellen Introduction due Sep 23; Workbook for the week - due Sep 22",
+        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; submitted awaiting grade: TURN IN - Human Environment Interaction Article Activity",
         "Biology 78.04% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 19-24 due overdue (Sep 21)"
       ],
@@ -227,15 +227,9 @@ window.RECAP_DATA = {
           "teacher": "Seegers",
           "period": "P4",
           "source": "Canvas",
-          "grade": 44.58,
-          "note": "44.58% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — Algebra K…",
+          "grade": 54.14,
+          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — Quiz #2: …",
           "work": [
-            {
-              "title": "Algebra Karaoke Performance",
-              "status": "overdue",
-              "detail": "Canvas missing",
-              "due": "Sep 3"
-            },
             {
               "title": "Quiz #2: Lessons 5 - 7",
               "status": "overdue",
@@ -276,6 +270,13 @@ window.RECAP_DATA = {
               "percent": 23.0,
               "group": "Summative Assessment",
               "due": "Sep 2"
+            },
+            {
+              "title": "Algebra Karaoke Performance",
+              "score": "25/25",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 3"
             }
           ]
         },
@@ -284,15 +285,9 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 86.18,
-          "note": "86.18% — Vocab Quiz #1 Written = 36/40 — Haben and Sein overdue — Vorstellen Introduction due Sep 23 — Work…",
+          "grade": 86.5,
+          "note": "86.5% — Vocab Quiz #1 Written = 36/40 — Vorstellen Introduction due Sep 23 — Workbook for the week - due Se…",
           "work": [
-            {
-              "title": "Haben and Sein",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 21"
-            },
             {
               "title": "Vorstellen Introduction",
               "status": "due",
@@ -378,6 +373,13 @@ window.RECAP_DATA = {
               "due": "Sep 2"
             },
             {
+              "title": "Haben and Sein",
+              "score": "4.75/5",
+              "percent": 95.0,
+              "group": "Formative Assessment",
+              "due": "Sep 21"
+            },
+            {
               "title": "Grammar Into and Practice",
               "score": "5/5",
               "percent": 100.0,
@@ -419,8 +421,8 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 63.54,
-          "note": "63.54% — submitted awaiting grade: TURN IN - 5 Themes of Geography Notes, TURN IN - Earth Stations and Guid…",
+          "grade": 86.04,
+          "note": "86.04% — submitted awaiting grade: TURN IN - Human Environment Interaction Article Activity",
           "work": [],
           "grades": [
             {
@@ -460,8 +462,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Unit 1 Test: Foundations of Geography",
-              "score": "1/100",
-              "percent": 1.0,
+              "score": "76/100",
+              "percent": 76.0,
               "group": "Summative Assessment",
               "due": "Sep 18"
             },
