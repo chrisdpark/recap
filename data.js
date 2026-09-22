@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 22, 2026 · 4:30 PM CT",
+  "updated": "Tuesday, Sep 22, 2026 · 5:27 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -228,7 +228,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 54.14,
-          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — Quiz #2: …",
+          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 — Karaoke Performance 25/25 posted…",
           "work": [
             {
               "title": "Quiz #2: Lessons 5 - 7",
@@ -247,6 +247,24 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unit 1 Schedule due 9/8 (B) — schedule-only, not a Canvas assignment",
               "due": "Sep 8"
+            },
+            {
+              "title": "Lesson 5 Practice (schedule)",
+              "status": "overdue",
+              "detail": "Unit 1 Schedule due 9/17 — IXL / schedule-only",
+              "due": "Sep 17"
+            },
+            {
+              "title": "Lesson 6 Practice (schedule)",
+              "status": "overdue",
+              "detail": "Unit 1 Schedule due 9/19 — schedule-only",
+              "due": "Sep 19"
+            },
+            {
+              "title": "Lesson 7 Practice (schedule)",
+              "status": "due",
+              "detail": "Unit 1 Schedule due 9/24 — schedule-only",
+              "due": "Sep 24"
             }
           ],
           "grades": [
