@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 22, 2026 · 12:11 AM CT",
+  "updated": "Tuesday, Sep 22, 2026 · 4:13 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -769,7 +769,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -1019,7 +1019,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 61,
-          "note": "Course at 61% · 3 overdue · 3 posted 0",
+          "note": "Course at 61% · 1 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1038,18 +1038,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, not completed",
               "due": "Due Sep 11"
-            },
-            {
-              "title": "Comparing the House and the Senate",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 17"
-            },
-            {
-              "title": "How a Bill Becomes a Law Game Board",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 21"
             },
             {
               "title": "Check point Quiz",
@@ -1131,15 +1119,15 @@ window.RECAP_DATA = {
             },
             {
               "title": "Comparing the House and the Senate",
-              "score": "—",
-              "percent": null,
+              "score": "100%",
+              "percent": 100,
               "group": "",
               "due": "Sep 17"
             },
             {
               "title": "How a Bill Becomes a Law Game Board",
-              "score": "—",
-              "percent": null,
+              "score": "100%",
+              "percent": 100,
               "group": "",
               "due": "Sep 21"
             },
