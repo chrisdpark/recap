@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 23, 2026 · 5:27 PM CT",
+  "updated": "Wednesday, Sep 23, 2026 · 5:40 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1579,25 +1579,11 @@ window.RECAP_DATA = {
             {
               "title": "Unit 1 Summative Quiz (classic)",
               "status": "zero",
-              "detail": "Posted 0",
+              "detail": "Posted 0 (pending review)",
               "due": "Sep 25"
             }
           ],
           "grades": [
-            {
-              "title": "Your Apologetics Starting Point",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "Video Quiz: Is there Meaning to Life?",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 17"
-            },
             {
               "title": "Memory Verse 1 (Formative)",
               "score": "100/100",
@@ -1606,11 +1592,11 @@ window.RECAP_DATA = {
               "due": "Sep 22"
             },
             {
-              "title": "Unit 1 Summative Quiz (classic)",
-              "score": "0/100",
-              "percent": 0.0,
-              "group": "Summative Assessment",
-              "due": "Sep 25"
+              "title": "Surrounded Simulation Post-Survey",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             },
             {
               "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
@@ -1620,11 +1606,25 @@ window.RECAP_DATA = {
               "due": "Sep 29"
             },
             {
-              "title": "Surrounded Simulation Post-Survey",
+              "title": "Video Quiz: Is there Meaning to Life?",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 4"
+              "due": "Sep 17"
+            },
+            {
+              "title": "Your Apologetics Starting Point",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 28"
+            },
+            {
+              "title": "Unit 1 Summative Quiz (classic)",
+              "score": "0/100",
+              "percent": 0.0,
+              "group": "Summative Assessment",
+              "due": "Sep 25"
             }
           ]
         },
@@ -1659,22 +1659,22 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
-              "title": "9/8-9/11",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 11"
-            },
-            {
               "title": "9/1-9/4",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 4"
+            },
+            {
+              "title": "9/8-9/11",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 11"
             }
           ]
         }
       ]
     }
   }
-};
+}
