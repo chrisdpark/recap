@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 23, 2026 · 4:29 PM CT",
+  "updated": "Wednesday, Sep 23, 2026 · 5:27 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -8,7 +8,7 @@ window.RECAP_DATA = {
         "Algebra I 54.14% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2); Inequalities Mad Lib (schedule) overdue (Sep 8)",
         "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Lord's Pray Final - All Parts due Sep 25",
         "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); September 23rd - Current Event Posts due Sep 25",
-        "Biology 78.04% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
+        "Biology 53.24% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 19-24 due overdue (Sep 21)"
       ],
       "courses": [
@@ -235,7 +235,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 54.14,
-          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW De…",
+          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 — Karaoke Performance 25/25 posted…",
           "work": [
             {
               "title": "2.2 HW Delta Math",
@@ -266,6 +266,24 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unit 1 Schedule due 9/8 (B) — schedule-only, not a Canvas assignment",
               "due": "Sep 8"
+            },
+            {
+              "title": "Lesson 5 Practice (schedule)",
+              "status": "overdue",
+              "detail": "Unit 1 Schedule due 9/17 — IXL / schedule-only",
+              "due": "Sep 17"
+            },
+            {
+              "title": "Lesson 6 Practice (schedule)",
+              "status": "overdue",
+              "detail": "Unit 1 Schedule due 9/19 — schedule-only",
+              "due": "Sep 19"
+            },
+            {
+              "title": "Lesson 7 Practice (schedule)",
+              "status": "due",
+              "detail": "Unit 1 Schedule due 9/24 — schedule-only",
+              "due": "Sep 24"
             }
           ],
           "grades": [
@@ -539,8 +557,8 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 78.04,
-          "note": "78.04% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
+          "grade": 53.24,
+          "note": "53.24% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
@@ -555,10 +573,10 @@ window.RECAP_DATA = {
               "due": "Sep 25"
             },
             {
-              "title": "Cell Analogy Project",
-              "status": "due",
-              "detail": "Due Sep 23",
-              "due": "Sep 23"
+              "title": "Creation Journal Discussion (Journals 1 - 4)",
+              "status": "zero",
+              "detail": "Posted 0",
+              "due": "Sep 18"
             },
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -637,6 +655,20 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Sep 18"
+            },
+            {
+              "title": "Creation Journal Discussion (Journals 1 - 4)",
+              "score": "0/20",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 18"
+            },
+            {
+              "title": "Cell Analogy Project",
+              "score": "1/100",
+              "percent": 1.0,
+              "group": "Summative Assessment",
+              "due": "Sep 23"
             },
             {
               "title": "Macromolecule Matching",
@@ -1645,4 +1677,4 @@ window.RECAP_DATA = {
       ]
     }
   }
-}
+};
