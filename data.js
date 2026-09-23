@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 22, 2026 · 8:20 PM CT",
+  "updated": "Wednesday, Sep 23, 2026 · 12:16 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
         "Algebra I 54.14% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2); Inequalities Mad Lib (schedule) overdue (Sep 8)",
-        "German I 86.5% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Vorstellen Introduction due Sep 23; Workbook for the week - due Sep 22",
-        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; submitted awaiting grade: TURN IN - Human Environment Interaction Article Activity",
+        "German I 86.5% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Vorstellen Introduction due Sep 23",
+        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; September 23rd - Current Event Posts due Sep 25; U.S. Political Map Quiz due Sep 25",
         "Biology 78.04% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 19-24 due overdue (Sep 21)"
       ],
@@ -286,7 +286,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 86.5,
-          "note": "86.5% — Vocab Quiz #1 Written = 36/40 — Vorstellen Introduction due Sep 23 — Workbook for the week - due Se…",
+          "note": "86.5% — Vocab Quiz #1 Written = 36/40 — Vorstellen Introduction due Sep 23 — Workbook for the week - overdu…",
           "work": [
             {
               "title": "Vorstellen Introduction",
@@ -296,9 +296,15 @@ window.RECAP_DATA = {
             },
             {
               "title": "Workbook for the week -",
-              "status": "due",
-              "detail": "Due Sep 22",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 22"
+            },
+            {
+              "title": "Lord's Pray Final - All Parts",
+              "status": "due",
+              "detail": "Due Sep 25",
+              "due": "Sep 25"
             }
           ],
           "grades": [
@@ -422,8 +428,27 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 86.04,
-          "note": "86.04% — submitted awaiting grade: TURN IN - Human Environment Interaction Article Activity",
-          "work": [],
+          "note": "86.04% — September 23rd - Current Event Posts due Sep 25 — submitted awaiting grade: TURN IN - Human Enviro…",
+          "work": [
+            {
+              "title": "September 23rd - Current Event Posts",
+              "status": "due",
+              "detail": "Due Sep 25",
+              "due": "Sep 25"
+            },
+            {
+              "title": "U.S. Political Map Quiz",
+              "status": "due",
+              "detail": "Due Sep 25",
+              "due": "Sep 25"
+            },
+            {
+              "title": "TURN IN - Physical Geography of Country Presentation",
+              "status": "due",
+              "detail": "Due Sep 25",
+              "due": "Sep 25"
+            }
+          ],
           "grades": [
             {
               "title": "Unit 1 Vocabulary Matrix",
@@ -496,6 +521,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0",
               "due": "Sep 18"
+            },
+            {
+              "title": "Cell Transport Activity - Amoeba Sisters (FA)",
+              "status": "due",
+              "detail": "Due Sep 25",
+              "due": "Sep 25"
             },
             {
               "title": "Cell Analogy Project",
@@ -729,8 +760,8 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Government is at 61% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
-        "English 12 still has 2 overdue items including Brave New World Summer Reading Essay Test.",
-        "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
+        "English 12 still has 3 overdue items including Brave New World Summer Reading Essay Test.",
+        "Physics still has 6 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 8 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
@@ -741,7 +772,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "2 overdue · 7 recent submissions ungraded · work due this week",
+          "note": "3 overdue · 8 recent submissions ungraded",
           "work": [
             {
               "title": "Brave New World Summer Reading Essay Test",
@@ -757,9 +788,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Membean 9/7",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 22"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 22"
             }
           ],
           "grades": [
@@ -771,7 +802,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -818,6 +849,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Sep 21"
+            },
+            {
+              "title": "Membean 9/7",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 22"
             }
           ]
         },
@@ -827,7 +865,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 95,
-          "note": "5 overdue · 1 posted 0 · 1 recent submissions ungraded",
+          "note": "6 overdue · 1 posted 0",
           "work": [
             {
               "title": "Lockdown Browser Tutorial",
@@ -867,9 +905,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Position - Time Graph Walking Video Discussion Forum",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 22"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 22"
             }
           ],
           "grades": [
@@ -965,6 +1003,13 @@ window.RECAP_DATA = {
               "due": "Sep 18"
             },
             {
+              "title": "Position - Time Graph Walking Video Discussion Forum",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 22"
+            },
+            {
               "title": "1D Motion Part 2 Notes",
               "score": "100%",
               "percent": 100,
@@ -1012,6 +1057,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Oct 9"
+            },
+            {
+              "title": "2D Kinematics Homework Set",
+              "score": "85%",
+              "percent": 85,
+              "group": "",
+              "due": "Oct 15"
             }
           ]
         },
@@ -1040,6 +1092,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, not completed",
               "due": "Due Sep 11"
+            },
+            {
+              "title": "Political Participation",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 25"
             },
             {
               "title": "Check point Quiz",
@@ -1350,6 +1408,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "",
               "due": "Sep 23"
+            },
+            {
+              "title": "DQ2: Societal Values",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 25"
             }
           ],
           "grades": [
