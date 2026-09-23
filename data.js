@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 23, 2026 · 8:44 AM CT",
+  "updated": "Wednesday, Sep 23, 2026 · 12:42 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
         "Algebra I 54.14% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2); Inequalities Mad Lib (schedule) overdue (Sep 8)",
-        "German I 86.5% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Vorstellen Introduction due Sep 23",
-        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; September 23rd - Current Event Posts due Sep 25; U.S. Political Map Quiz due Sep 25",
+        "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Lord's Pray Final - All Parts due Sep 25",
+        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); September 23rd - Current Event Posts due Sep 25",
         "Biology 78.04% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 19-24 due overdue (Sep 21)"
       ],
@@ -228,8 +228,14 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 54.14,
-          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — Quiz #2: …",
+          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.3 Delta…",
           "work": [
+            {
+              "title": "2.3 Delta Math HW",
+              "status": "due",
+              "detail": "Due Sep 25",
+              "due": "Sep 25"
+            },
             {
               "title": "Quiz #2: Lessons 5 - 7",
               "status": "overdue",
@@ -285,15 +291,9 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 86.5,
-          "note": "86.5% — Vocab Quiz #1 Written = 36/40 — Vorstellen Introduction due Sep 23 — Workbook for the week - overdu…",
+          "grade": 81.95,
+          "note": "81.95% — Vocab Quiz #1 Written = 36/40 — Workbook for the week - overdue — Lord's Pray Final - All Parts du…",
           "work": [
-            {
-              "title": "Vorstellen Introduction",
-              "status": "due",
-              "detail": "Due Sep 23",
-              "due": "Sep 23"
-            },
             {
               "title": "Workbook for the week -",
               "status": "overdue",
@@ -386,6 +386,13 @@ window.RECAP_DATA = {
               "due": "Sep 21"
             },
             {
+              "title": "Vorstellen Introduction",
+              "score": "0.2/20",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Sep 23"
+            },
+            {
               "title": "Grammar Into and Practice",
               "score": "5/5",
               "percent": 100.0,
@@ -428,7 +435,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 86.04,
-          "note": "86.04% — September 23rd - Current Event Posts due Sep 25 — submitted awaiting grade: TURN IN - Human Enviro…",
+          "note": "86.04% — Unit 1 Test: Foundations of Geography Copy overdue — September 23rd - Current Event Posts due Sep 25",
           "work": [
             {
               "title": "September 23rd - Current Event Posts",
@@ -447,6 +454,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Due Sep 25",
               "due": "Sep 25"
+            },
+            {
+              "title": "Unit 1 Test: Foundations of Geography Copy",
+              "status": "overdue",
+              "detail": "Canvas missing",
+              "due": "Sep 18"
             }
           ],
           "grades": [
@@ -772,7 +785,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "3 overdue · 8 recent submissions ungraded",
+          "note": "3 overdue · 9 recent submissions ungraded",
           "work": [
             {
               "title": "Brave New World Summer Reading Essay Test",
@@ -802,7 +815,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
