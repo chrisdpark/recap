@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 23, 2026 · 12:42 PM CT",
+  "updated": "Wednesday, Sep 23, 2026 · 4:29 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
+        "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy posted 0",
         "Algebra I 54.14% — 1.1-1.4 Quiz = 2/20; Unit 1 Test = 23/100; Quiz #2: Lessons 5 - 7 overdue (Sep 11); Lesson 3: Solve and Color (schedule) overdue (Sep 2); Inequalities Mad Lib (schedule) overdue (Sep 8)",
         "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Lord's Pray Final - All Parts due Sep 25",
         "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); September 23rd - Current Event Posts due Sep 25",
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 92.31,
-          "note": "92.31% — Group Jigsaw- The Patriarchs posted 0 — Quiz: Key Terms - Numbers Deuteronomy due Sep 23",
+          "note": "92.31% — Group Jigsaw- The Patriarchs posted 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -28,8 +28,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Quiz: Key Terms - Numbers Deuteronomy",
-              "status": "due",
-              "detail": "Due Sep 23",
+              "status": "zero",
+              "detail": "Posted 0 / Canvas missing",
               "due": "Sep 23"
             }
           ],
@@ -103,6 +103,13 @@ window.RECAP_DATA = {
               "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 21"
+            },
+            {
+              "title": "Quiz: Key Terms - Numbers Deuteronomy",
+              "score": "0/0",
+              "percent": null,
+              "group": "Formative Assessment",
+              "due": "Sep 23"
             },
             {
               "title": "BibleProject- Genesis 12-50",
@@ -228,8 +235,14 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 54.14,
-          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.3 Delta…",
+          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW De…",
           "work": [
+            {
+              "title": "2.2 HW Delta Math",
+              "status": "due",
+              "detail": "Due Sep 24",
+              "due": "Sep 24"
+            },
             {
               "title": "2.3 Delta Math HW",
               "status": "due",
