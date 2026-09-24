@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 23, 2026 · 5:40 PM CT",
+  "updated": "Wednesday, Sep 23, 2026 · 8:28 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -235,7 +235,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 54.14,
-          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 — Karaoke Performance 25/25 posted…",
+          "note": "54.14% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW De…",
           "work": [
             {
               "title": "2.2 HW Delta Math",
@@ -266,24 +266,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unit 1 Schedule due 9/8 (B) — schedule-only, not a Canvas assignment",
               "due": "Sep 8"
-            },
-            {
-              "title": "Lesson 5 Practice (schedule)",
-              "status": "overdue",
-              "detail": "Unit 1 Schedule due 9/17 — IXL / schedule-only",
-              "due": "Sep 17"
-            },
-            {
-              "title": "Lesson 6 Practice (schedule)",
-              "status": "overdue",
-              "detail": "Unit 1 Schedule due 9/19 — schedule-only",
-              "due": "Sep 19"
-            },
-            {
-              "title": "Lesson 7 Practice (schedule)",
-              "status": "due",
-              "detail": "Unit 1 Schedule due 9/24 — schedule-only",
-              "due": "Sep 24"
             }
           ],
           "grades": [
@@ -577,6 +559,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0",
               "due": "Sep 18"
+            },
+            {
+              "title": "Unit 1 Test: The Nature of Life (SA)",
+              "status": "overdue",
+              "detail": "Canvas missing",
+              "due": "Sep 16"
             },
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -1579,31 +1567,17 @@ window.RECAP_DATA = {
             {
               "title": "Unit 1 Summative Quiz (classic)",
               "status": "zero",
-              "detail": "Posted 0 (pending review)",
+              "detail": "Posted 0",
               "due": "Sep 25"
             }
           ],
           "grades": [
             {
-              "title": "Memory Verse 1 (Formative)",
+              "title": "Your Apologetics Starting Point",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 22"
-            },
-            {
-              "title": "Surrounded Simulation Post-Survey",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
-            },
-            {
-              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 29"
+              "due": "Aug 28"
             },
             {
               "title": "Video Quiz: Is there Meaning to Life?",
@@ -1613,11 +1587,11 @@ window.RECAP_DATA = {
               "due": "Sep 17"
             },
             {
-              "title": "Your Apologetics Starting Point",
+              "title": "Memory Verse 1 (Formative)",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Aug 28"
+              "due": "Sep 22"
             },
             {
               "title": "Unit 1 Summative Quiz (classic)",
@@ -1625,6 +1599,20 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Summative Assessment",
               "due": "Sep 25"
+            },
+            {
+              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
+            },
+            {
+              "title": "Surrounded Simulation Post-Survey",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             }
           ]
         },
@@ -1659,18 +1647,18 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
-              "title": "9/1-9/4",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
-            },
-            {
               "title": "9/8-9/11",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "9/1-9/4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             }
           ]
         }
