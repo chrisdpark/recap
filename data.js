@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 24, 2026 · 8:34 AM CT",
+  "updated": "Thursday, Sep 24, 2026 · 12:10 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -842,7 +842,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
