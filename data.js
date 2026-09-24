@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 23, 2026 · 8:28 PM CT",
+  "updated": "Thursday, Sep 24, 2026 · 12:15 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -9,7 +9,7 @@ window.RECAP_DATA = {
         "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Lord's Pray Final - All Parts due Sep 25",
         "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); September 23rd - Current Event Posts due Sep 25",
         "Biology 53.24% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
-        "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; TKAM 8-12 Choice Board overdue (Sep 14); TKAM Ch. 19-24 due overdue (Sep 21)"
+        "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-18 Literature Circle overdue (Sep 23)"
       ],
       "courses": [
         {
@@ -463,12 +463,6 @@ window.RECAP_DATA = {
               "due": "Sep 25"
             },
             {
-              "title": "TURN IN - Physical Geography of Country Presentation",
-              "status": "due",
-              "detail": "Due Sep 25",
-              "due": "Sep 25"
-            },
-            {
               "title": "Unit 1 Test: Foundations of Geography Copy",
               "status": "overdue",
               "detail": "Canvas missing",
@@ -687,18 +681,18 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 84.67,
-          "note": "84.67% — TKAM 8-12 Choice Board overdue — Q1 Membean Program 5 due Sep 23",
+          "note": "84.67% — Q1 Membean Program 5 overdue",
           "work": [
             {
               "title": "Q1 Membean Program 5",
-              "status": "due",
-              "detail": "Due Sep 23",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 23"
             },
             {
               "title": "TKAM 1-18 Literature Circle",
-              "status": "due",
-              "detail": "Due Sep 23",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 23"
             },
             {
@@ -808,7 +802,7 @@ window.RECAP_DATA = {
         "Government is at 61% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 3 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 6 overdue items including Lockdown Browser Tutorial.",
-        "Sociology still has 8 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
+        "Sociology still has 9 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
       "courses": [
@@ -1399,7 +1393,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 91,
-          "note": "8 overdue · work due this week",
+          "note": "9 overdue · work due this week",
           "work": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
@@ -1451,9 +1445,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Concept Module 2: Society and Status",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 23"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 23"
             },
             {
               "title": "DQ2: Societal Values",
@@ -1546,6 +1540,13 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 21"
+            },
+            {
+              "title": "Concept Module 2: Society and Status",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 23"
             },
             {
               "title": "Sociological Scavenger Hunt #2",
