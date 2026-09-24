@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 24, 2026 · 12:10 PM CT",
+  "updated": "Thursday, Sep 24, 2026 · 4:08 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -242,12 +242,6 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Due Sep 24",
               "due": "Sep 24"
-            },
-            {
-              "title": "2.3 Delta Math HW",
-              "status": "due",
-              "detail": "Due Sep 25",
-              "due": "Sep 25"
             },
             {
               "title": "Quiz #2: Lessons 5 - 7",
