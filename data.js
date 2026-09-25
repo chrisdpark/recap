@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Sep 24, 2026 · 8:15 PM CT",
+  "updated": "Friday, Sep 25, 2026 · 12:12 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy posted 0",
-        "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; Lesson 3: Solve and Color (schedule) overdue (Sep 2); Inequalities Mad Lib (schedule) overdue (Sep 8)",
+        "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Quiz: Key Terms - Numbers Deuteronomy posted 0; Exodus 34:6-7a Memory Verse due Sep 28",
+        "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Lord's Pray Final - All Parts due Sep 25",
-        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); September 23rd - Current Event Posts due Sep 25",
+        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); U.S. Political Map Quiz due Sep 25",
         "Biology 53.24% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-18 Literature Circle overdue (Sep 23)"
       ],
@@ -18,8 +18,14 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 92.31,
-          "note": "92.31% — Group Jigsaw- The Patriarchs posted 0",
+          "note": "92.31% — Group Jigsaw- The Patriarchs posted 0 — Exodus 34:6-7a Memory Verse due Sep 28",
           "work": [
+            {
+              "title": "Exodus 34:6-7a Memory Verse",
+              "status": "due",
+              "detail": "Due Sep 28",
+              "due": "Sep 28"
+            },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
@@ -146,8 +152,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
@@ -239,9 +245,21 @@ window.RECAP_DATA = {
           "work": [
             {
               "title": "2.2 HW Delta Math",
-              "status": "due",
-              "detail": "Due Sep 24",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 24"
+            },
+            {
+              "title": "2.3 Delta Math HW",
+              "status": "due",
+              "detail": "Due Sep 28",
+              "due": "Sep 28"
+            },
+            {
+              "title": "Unit 2 Quiz: Functions",
+              "status": "due",
+              "detail": "Due Sep 28",
+              "due": "Sep 28"
             },
             {
               "title": "Lesson 3: Solve and Color (schedule)",
@@ -443,14 +461,8 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 86.04,
-          "note": "86.04% — Unit 1 Test: Foundations of Geography Copy overdue — September 23rd - Current Event Posts due Sep 25",
+          "note": "86.04% — Unit 1 Test: Foundations of Geography Copy overdue — U.S",
           "work": [
-            {
-              "title": "September 23rd - Current Event Posts",
-              "status": "due",
-              "detail": "Due Sep 25",
-              "due": "Sep 25"
-            },
             {
               "title": "U.S. Political Map Quiz",
               "status": "due",
@@ -676,7 +688,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 84.67,
-          "note": "84.67% — Q1 Membean Program 5 overdue",
+          "note": "84.67% — Q1 Membean Program 5 overdue — TKAM Ch. 25-31 due due Sep 28",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -701,6 +713,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 21"
+            },
+            {
+              "title": "TKAM Ch. 25-31 due",
+              "status": "due",
+              "detail": "Due Sep 28",
+              "due": "Sep 28"
             },
             {
               "title": "TKAM Ch. 8-12 In-Class Essay",
@@ -798,7 +816,7 @@ window.RECAP_DATA = {
         "English 12 still has 3 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 6 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 9 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 25"
+        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
       "courses": [
         {
@@ -1557,8 +1575,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100% — Unit 1 Summative Quiz (classic) posted 0",
+          "grade": 100.0,
+          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
           "work": [
             {
               "title": "Unit 1 Summative Quiz (classic)",
@@ -1617,8 +1635,8 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100% — 9/15-9/18 overdue",
+          "grade": 100.0,
+          "note": "100.0% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
