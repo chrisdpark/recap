@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 25, 2026 · 8:13 AM CT",
+  "updated": "Friday, Sep 25, 2026 · 12:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -562,12 +562,6 @@ window.RECAP_DATA = {
               "due": "Sep 18"
             },
             {
-              "title": "Unit 1 Test: The Nature of Life (SA)",
-              "status": "overdue",
-              "detail": "Canvas missing",
-              "due": "Sep 16"
-            },
-            {
               "title": "Biomolecules - Pogil (in class)",
               "status": "overdue",
               "detail": "Unsubmitted past due (muted in Canvas)",
@@ -808,7 +802,7 @@ window.RECAP_DATA = {
       "attention": [
         "Government is at 61% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 3 overdue items including Brave New World Summer Reading Essay Test.",
-        "Physics still has 6 overdue items including Lockdown Browser Tutorial.",
+        "Physics still has 5 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 9 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
@@ -911,8 +905,8 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 95,
-          "note": "6 overdue · 1 posted 0",
+          "grade": 82,
+          "note": "5 overdue · 2 posted 0",
           "work": [
             {
               "title": "Lockdown Browser Tutorial",
@@ -922,8 +916,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
-              "status": "overdue",
-              "detail": "Not completed",
+              "status": "zero",
+              "detail": "Posted 0, not completed",
               "due": "Due Aug 20"
             },
             {
@@ -948,13 +942,13 @@ window.RECAP_DATA = {
               "title": "Motion Graphs Packet & Activity",
               "status": "zero",
               "detail": "Posted 0, not completed",
-              "due": "Due Sep 18"
+              "due": "Due Sep 17"
             },
             {
               "title": "Position - Time Graph Walking Video Discussion Forum",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 22"
+              "due": "Due Sep 21"
             }
           ],
           "grades": [
@@ -967,8 +961,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
-              "score": "—",
-              "percent": null,
+              "score": "0%",
+              "percent": 0,
               "group": "",
               "due": "Aug 20"
             },
@@ -1005,7 +999,7 @@ window.RECAP_DATA = {
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 3"
+              "due": "Sep 2"
             },
             {
               "title": "Prerequisite Skills Test",
@@ -1047,21 +1041,21 @@ window.RECAP_DATA = {
               "score": "0%",
               "percent": 0,
               "group": "",
-              "due": "Sep 18"
+              "due": "Sep 17"
             },
             {
               "title": "Position - Time Graph Walking Video Discussion Forum",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 22"
+              "due": "Sep 21"
             },
             {
               "title": "1D Motion Part 2 Notes",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 24"
+              "due": "Sep 23"
             },
             {
               "title": "1D Kinematics Homework Set",
@@ -1089,28 +1083,28 @@ window.RECAP_DATA = {
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Oct 5"
+              "due": "Oct 2"
             },
             {
               "title": "1D Motion Test",
               "score": "95%",
               "percent": 95,
               "group": "",
-              "due": "Oct 7"
+              "due": "Oct 6"
             },
             {
               "title": "2D Motion Notes",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Oct 9"
+              "due": "Oct 8"
             },
             {
               "title": "2D Kinematics Homework Set",
               "score": "85%",
               "percent": 85,
               "group": "",
-              "due": "Oct 15"
+              "due": "Oct 14"
             }
           ]
         },
@@ -1260,7 +1254,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "5 posted 0",
+          "note": "6 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1291,6 +1285,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, completed Sep 17",
               "due": "Due Sep 28"
+            },
+            {
+              "title": "Test Unit 2",
+              "status": "zero",
+              "detail": "Posted 0, completed Sep 24",
+              "due": "Due Oct 5"
             }
           ],
           "grades": [
@@ -1391,6 +1391,20 @@ window.RECAP_DATA = {
               "percent": 94,
               "group": "",
               "due": "Oct 1"
+            },
+            {
+              "title": "Test Unit 2",
+              "score": "0%",
+              "percent": 0,
+              "group": "",
+              "due": "Oct 5"
+            },
+            {
+              "title": "Dropbox Test Unit 2",
+              "score": "84%",
+              "percent": 84,
+              "group": "",
+              "due": "Oct 7"
             }
           ]
         },
