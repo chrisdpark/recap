@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 25, 2026 · 4:15 AM CT",
+  "updated": "Friday, Sep 25, 2026 · 8:13 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -152,8 +152,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0%",
+          "grade": 100,
+          "note": "100%",
           "work": [],
           "grades": [
             {
@@ -688,7 +688,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 84.67,
-          "note": "84.67% — Q1 Membean Program 5 overdue — TKAM Ch. 25-31 due due Sep 28",
+          "note": "84.67% — Q1 Membean Program 5 overdue",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -713,12 +713,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 21"
-            },
-            {
-              "title": "TKAM Ch. 25-31 due",
-              "status": "due",
-              "detail": "Due Sep 28",
-              "due": "Sep 28"
             },
             {
               "title": "TKAM Ch. 8-12 In-Class Essay",
@@ -816,7 +810,7 @@ window.RECAP_DATA = {
         "English 12 still has 3 overdue items including Brave New World Summer Reading Essay Test.",
         "Physics still has 6 overdue items including Lockdown Browser Tutorial.",
         "Sociology still has 9 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 25"
+        "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 25"
       ],
       "courses": [
         {
@@ -855,7 +849,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -1575,8 +1569,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
+          "grade": 100,
+          "note": "100% — Unit 1 Summative Quiz (classic) posted 0",
           "work": [
             {
               "title": "Unit 1 Summative Quiz (classic)",
@@ -1635,8 +1629,8 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0% — 9/15-9/18 overdue",
+          "grade": 100,
+          "note": "100% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
