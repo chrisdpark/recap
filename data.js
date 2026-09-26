@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Sep 26, 2026 · 8:13 AM CT",
+  "updated": "Saturday, Sep 26, 2026 · 12:06 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -139,8 +139,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100%",
+          "grade": 100.0,
+          "note": "100.0%",
           "work": [],
           "grades": [
             {
@@ -799,7 +799,7 @@ window.RECAP_DATA = {
         "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 7 overdue items including Final Test Review Problems.",
         "Sociology still has 11 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 28"
+        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 28"
       ],
       "courses": [
         {
@@ -1868,8 +1868,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100% — Unit 1 Summative Quiz (classic) posted 0",
+          "grade": 100.0,
+          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
           "work": [
             {
               "title": "Unit 1 Summative Quiz (classic)",
@@ -1935,8 +1935,8 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100% — 9/15-9/18 overdue",
+          "grade": 100.0,
+          "note": "100.0% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
