@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 25, 2026 · 8:14 PM CT",
+  "updated": "Saturday, Sep 26, 2026 · 12:05 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exodus 34:6-7a Memory Verse due Sep 28",
         "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22)",
-        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); U.S. Political Map Quiz due Sep 25",
+        "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Lord's Pray Final - All Parts overdue (Sep 25)",
+        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 53.88% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-18 Literature Circle overdue (Sep 23)"
       ],
@@ -312,7 +312,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 81.95,
-          "note": "81.95% — Vocab Quiz #1 Written = 36/40 — Workbook for the week - overdue",
+          "note": "81.95% — Vocab Quiz #1 Written = 36/40 — Workbook for the week - overdue — Lord's Pray Final - All Parts ov…",
           "work": [
             {
               "title": "Workbook for the week -",
@@ -322,7 +322,7 @@ window.RECAP_DATA = {
             },
             {
               "title": "Lord's Pray Final - All Parts",
-              "status": "missing",
+              "status": "overdue",
               "detail": "Canvas missing",
               "due": "Sep 25"
             }
@@ -455,12 +455,12 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 86.04,
-          "note": "86.04% — Unit 1 Test: Foundations of Geography Copy overdue — U.S",
+          "note": "86.04% — U.S. Political Map Quiz overdue",
           "work": [
             {
               "title": "U.S. Political Map Quiz",
-              "status": "due",
-              "detail": "Due Sep 25",
+              "status": "overdue",
+              "detail": "Canvas missing",
               "due": "Sep 25"
             },
             {
@@ -798,7 +798,7 @@ window.RECAP_DATA = {
         "Government is at 61% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 7 overdue items including Final Test Review Problems.",
-        "Sociology still has 10 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
+        "Sociology still has 11 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 28"
       ],
       "courses": [
@@ -1335,7 +1335,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 61,
-          "note": "Course at 61% · 2 overdue · 3 posted 0",
+          "note": "Course at 61% · 3 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1363,9 +1363,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Political Participation",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 25"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 25"
             },
             {
               "title": "Synch Session #4 9/21",
@@ -1478,6 +1478,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Sep 20"
+            },
+            {
+              "title": "Political Participation",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 25"
             },
             {
               "title": "Check point Quiz",
@@ -1654,7 +1661,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 91,
-          "note": "10 overdue · work due this week",
+          "note": "11 overdue · work due this week",
           "work": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
@@ -1718,9 +1725,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "DQ2: Societal Values",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 25"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 25"
             },
             {
               "title": "Disney Socialization Assignment",
@@ -1846,6 +1853,13 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 23"
+            },
+            {
+              "title": "DQ2: Societal Values",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 25"
             }
           ]
         },
