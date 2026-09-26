@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Sep 26, 2026 · 4:08 AM CT",
+  "updated": "Saturday, Sep 26, 2026 · 8:13 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -795,7 +795,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 61% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
+        "Government is at 60.8858% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 7 overdue items including Final Test Review Problems.",
         "Sociology still has 11 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
@@ -1025,7 +1025,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -1094,7 +1094,7 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 82,
+          "grade": 81.87899,
           "note": "7 overdue · 2 posted 0 · work due this week",
           "work": [
             {
@@ -1334,8 +1334,8 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 61,
-          "note": "Course at 61% · 3 overdue · 3 posted 0",
+          "grade": 60.88579,
+          "note": "Course at 60.8858% · 3 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1500,7 +1500,7 @@ window.RECAP_DATA = {
           "teacher": "Pinson",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 89,
+          "grade": 88.92308,
           "note": "6 posted 0",
           "work": [
             {
@@ -1660,7 +1660,7 @@ window.RECAP_DATA = {
           "teacher": "Lane",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 91,
+          "grade": 90.98361,
           "note": "11 overdue · work due this week",
           "work": [
             {
