@@ -1,24 +1,24 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Sep 25, 2026 \u00b7 5:25 PM CT",
+  "updated": "Friday, Sep 25, 2026 · 8:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.31% \u2014 Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exodus 34:6-7a Memory Verse due Sep 28",
-        "Algebra I 53.65% \u2014 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 81.95% \u2014 Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22)",
-        "World Geography 86.04% \u2014 September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); U.S. Political Map Quiz due Sep 25",
-        "Biology 53.88% \u2014 Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
-        "English I 84.67% \u2014 SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-18 Literature Circle overdue (Sep 23)"
+        "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exodus 34:6-7a Memory Verse due Sep 28",
+        "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
+        "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22)",
+        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); U.S. Political Map Quiz due Sep 25",
+        "Biology 53.88% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
+        "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-18 Literature Circle overdue (Sep 23)"
       ],
       "courses": [
         {
           "name": "Bible",
           "teacher": "Arredondo",
           "period": "P2",
-          "source": "canvas",
+          "source": "Canvas",
           "grade": 92.31,
-          "note": "92.31% \u2014 Group Jigsaw- The Patriarchs posted 0 \u2014 Exodus 34:6-7a Memory Verse due Sep 28",
+          "note": "92.31% — Group Jigsaw- The Patriarchs posted 0 — Exodus 34:6-7a Memory Verse due Sep 28",
           "work": [
             {
               "title": "Exodus 34:6-7a Memory Verse",
@@ -138,7 +138,7 @@ window.RECAP_DATA = {
           "name": "Intro to Worship Culture",
           "teacher": "Titus",
           "period": "P3",
-          "source": "canvas",
+          "source": "Canvas",
           "grade": 100,
           "note": "100%",
           "work": [],
@@ -226,9 +226,9 @@ window.RECAP_DATA = {
           "name": "Algebra I",
           "teacher": "Seegers",
           "period": "P4",
-          "source": "canvas",
+          "source": "Canvas",
           "grade": 53.65,
-          "note": "53.65% \u2014 Quiz 1.1\u20131.4 is 2/20 \u2014 Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) \u2014 2.2 HW Delta Math overdue \u2014 2.3 Delta Math HW due Sep 28 \u2014 Unit 2 Quiz: Functions due Sep 28 \u2014 Lesson 3: Solve and Color (schedule) overdue \u2014 Inequalities Mad Lib (schedule) overdue",
+          "note": "53.65% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW De…",
           "work": [
             {
               "title": "2.2 HW Delta Math",
@@ -251,13 +251,13 @@ window.RECAP_DATA = {
             {
               "title": "Lesson 3: Solve and Color (schedule)",
               "status": "overdue",
-              "detail": "Unit 1 Schedule due 9/2 \u2014 not a Canvas assignment submission",
+              "detail": "Unit 1 Schedule due 9/2 — not a Canvas assignment submission",
               "due": "Sep 2"
             },
             {
               "title": "Inequalities Mad Lib (schedule)",
               "status": "overdue",
-              "detail": "Unit 1 Schedule due 9/8 (B) \u2014 schedule-only, not a Canvas assignment",
+              "detail": "Unit 1 Schedule due 9/8 (B) — schedule-only, not a Canvas assignment",
               "due": "Sep 8"
             }
           ],
@@ -310,9 +310,9 @@ window.RECAP_DATA = {
           "name": "German I",
           "teacher": "Porter",
           "period": "P5",
-          "source": "canvas",
+          "source": "Canvas",
           "grade": 81.95,
-          "note": "81.95% \u2014 Vocab Quiz #1 Written = 36/40 \u2014 Workbook for the week - overdue",
+          "note": "81.95% — Vocab Quiz #1 Written = 36/40 — Workbook for the week - overdue",
           "work": [
             {
               "title": "Workbook for the week -",
@@ -453,9 +453,9 @@ window.RECAP_DATA = {
           "name": "World Geography",
           "teacher": "Callahan",
           "period": "P6",
-          "source": "canvas",
+          "source": "Canvas",
           "grade": 86.04,
-          "note": "86.04% \u2014 Unit 1 Test: Foundations of Geography Copy overdue \u2014 U.S. Political Map Quiz due Sep 25",
+          "note": "86.04% — Unit 1 Test: Foundations of Geography Copy overdue — U.S",
           "work": [
             {
               "title": "U.S. Political Map Quiz",
@@ -533,9 +533,9 @@ window.RECAP_DATA = {
           "name": "Biology",
           "teacher": "DeGrenier",
           "period": "P7",
-          "source": "canvas",
+          "source": "Canvas",
           "grade": 53.88,
-          "note": "53.88% \u2014 Get to Know You Submission = 50/100 \u2014 Pogil - Interpreting Data (in class) = 83/100 \u2014 Lab 02: Microscopy = 50/100 \u2014 Unit 1 Test: The Nature of Life = 82/100 \u2014 Cell Organelle Crossword Puzzle = 0/100",
+          "note": "53.88% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
@@ -675,9 +675,9 @@ window.RECAP_DATA = {
           "name": "English I",
           "teacher": "MacAllister",
           "period": "P8",
-          "source": "canvas",
+          "source": "Canvas",
           "grade": 84.67,
-          "note": "84.67% \u2014 Q1 Membean Program 5 overdue",
+          "note": "84.67% — Q1 Membean Program 5 overdue",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -795,12 +795,11 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 61% \u2014 Federalists v. Anti Federalists, Bill of Rights posted 0.",
-        "English 12 still has 6 overdue items including Brave New World Summer Reading Essay Test.",
-        "Physics still has 6 overdue items including Lockdown Browser Tutorial.",
+        "Government is at 61% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
+        "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
+        "Physics still has 7 overdue items including Final Test Review Problems.",
         "Sociology still has 10 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 100% \u2014 Unit 1 Summative Quiz (classic) zero Sep 28 (pending review; due moved to Mon)",
-        "Graphic Design 100% \u2014 9/15-9/18 overdue Sep 18"
+        "Apologetics 100% — Unit 1 Summative Quiz (classic) zero Sep 28"
       ],
       "courses": [
         {
@@ -809,7 +808,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "17 overdue \u00b7 9 recent submissions ungraded \u00b7 work due this week",
+          "note": "17 overdue · 9 recent submissions ungraded · work due this week",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -929,98 +928,98 @@ window.RECAP_DATA = {
           "grades": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 21"
             },
             {
               "title": "Membean 9/21",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 21"
             },
             {
               "title": "Persuasive Paper",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 28"
             },
             {
               "title": "Membean Practice 10/19",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Oct 19"
             },
             {
               "title": "Intro to the English Renaissance on StudySync",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Oct 19"
             },
             {
               "title": "Macbeth Act 3 Scene Study in StudySync",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Oct 26"
             },
             {
               "title": "Mbn 10/27",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Oct 26"
             },
             {
               "title": "Mbn 11/2",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Nov 2"
             },
             {
               "title": "Mbn 11/09",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Nov 9"
             },
             {
               "title": "Macbeth Act 5 Discussion Questions",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Nov 9"
             },
             {
               "title": "StudySync Act 5, scene 5 Paragraph Response",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Nov 9"
             },
             {
               "title": "Mbn 11/16",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Nov 16"
             },
             {
               "title": "Mbn 11/23",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Nov 23"
             },
             {
               "title": "Brave New World Summer Reading Essay Test",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 20"
@@ -1048,14 +1047,14 @@ window.RECAP_DATA = {
             },
             {
               "title": "Membean 8/30",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 30"
             },
             {
               "title": "Membean 9/7",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 6"
@@ -1076,7 +1075,7 @@ window.RECAP_DATA = {
             },
             {
               "title": "Membean 9/13",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 13"
@@ -1096,7 +1095,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 82,
-          "note": "7 overdue \u00b7 2 posted 0 \u00b7 work due this week",
+          "note": "7 overdue · 2 posted 0 · work due this week",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1162,14 +1161,14 @@ window.RECAP_DATA = {
           "grades": [
             {
               "title": "Final Test Review Problems",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Dec 14"
             },
             {
               "title": "Lockdown Browser Tutorial",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 18"
@@ -1260,21 +1259,21 @@ window.RECAP_DATA = {
             },
             {
               "title": "Define 1D Motion Discussion Forum",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 8"
             },
             {
               "title": "Velocity Teaching Video",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 10"
             },
             {
               "title": "Position Time Graphs Teaching Video",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 14"
@@ -1288,14 +1287,14 @@ window.RECAP_DATA = {
             },
             {
               "title": "Position - Time Graph Walking Video Discussion Forum",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 21"
             },
             {
               "title": "Forces and Newton's Laws Notes",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 23"
@@ -1336,7 +1335,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 61,
-          "note": "Course at 61% \u00b7 2 overdue \u00b7 3 posted 0",
+          "note": "Course at 61% · 2 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1384,7 +1383,7 @@ window.RECAP_DATA = {
           "grades": [
             {
               "title": "Synch #1 Make Up",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 23"
@@ -1447,7 +1446,7 @@ window.RECAP_DATA = {
             },
             {
               "title": "Synch Session #3 9/7",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 13"
@@ -1655,7 +1654,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 91,
-          "note": "10 overdue \u00b7 work due this week",
+          "note": "10 overdue · work due this week",
           "work": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
@@ -1745,21 +1744,21 @@ window.RECAP_DATA = {
           "grades": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 19"
             },
             {
               "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 21"
             },
             {
               "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 25"
@@ -1787,21 +1786,21 @@ window.RECAP_DATA = {
             },
             {
               "title": "Concept Module 1: Perspectives",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 31"
             },
             {
               "title": "Concept Module 2: Research",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 2"
             },
             {
               "title": "DQ1: The Sociological Imagination",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 4"
@@ -1822,28 +1821,28 @@ window.RECAP_DATA = {
             },
             {
               "title": "OPT. Assignment #2: Violate a Social Norm",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 13"
             },
             {
               "title": "OPT. Assignment #1: Journal of Mundane Behavior",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 15"
             },
             {
               "title": "Concept Module 1: Culture",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 21"
             },
             {
               "title": "Concept Module 2: Society and Status",
-              "score": "\u2014",
+              "score": "—",
               "percent": null,
               "group": "",
               "due": "Sep 23"
@@ -1856,36 +1855,22 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 100,
-          "note": "100% \u2014 Unit 1 Summative Quiz (classic) posted 0",
+          "note": "100% — Unit 1 Summative Quiz (classic) posted 0",
           "work": [
             {
               "title": "Unit 1 Summative Quiz (classic)",
               "status": "zero",
-              "detail": "Posted 0 (pending review)",
+              "detail": "Posted 0",
               "due": "Sep 28"
             }
           ],
           "grades": [
             {
-              "title": "Memory Verse 1 (Formative)",
+              "title": "Your Apologetics Starting Point",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 28"
-            },
-            {
-              "title": "Surrounded Simulation Post-Survey",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
-            },
-            {
-              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 29"
+              "due": "Aug 28"
             },
             {
               "title": "Understanding Truth Assignments 3-4: Truth Test and Truth Statements",
@@ -1902,11 +1887,11 @@ window.RECAP_DATA = {
               "due": "Sep 17"
             },
             {
-              "title": "Your Apologetics Starting Point",
+              "title": "Memory Verse 1 (Formative)",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Aug 28"
+              "due": "Sep 28"
             },
             {
               "title": "Unit 1 Summative Quiz (classic)",
@@ -1914,6 +1899,20 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Summative Assessment",
               "due": "Sep 28"
+            },
+            {
+              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
+            },
+            {
+              "title": "Surrounded Simulation Post-Survey",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             }
           ]
         },
@@ -1923,7 +1922,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100,
-          "note": "100% \u2014 9/15-9/18 overdue",
+          "note": "100% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
@@ -1948,22 +1947,22 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
-              "title": "9/1-9/4",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
-            },
-            {
               "title": "9/8-9/11",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "9/1-9/4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             }
           ]
         }
       ]
     }
   }
-};
+}
