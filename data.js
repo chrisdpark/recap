@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Sep 26, 2026 · 8:16 PM CT",
+  "updated": "Sunday, Sep 27, 2026 · 12:15 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -550,6 +550,18 @@ window.RECAP_DATA = {
               "due": "Sep 18"
             },
             {
+              "title": "Lab 03: Enzymes",
+              "status": "due",
+              "detail": "Due Sep 29",
+              "due": "Sep 29"
+            },
+            {
+              "title": "Osmosis Post-Lab Analysis (FA)",
+              "status": "due",
+              "detail": "Due Sep 29",
+              "due": "Sep 29"
+            },
+            {
               "title": "Biomolecules - Pogil (in class)",
               "status": "overdue",
               "detail": "Unsubmitted past due (muted in Canvas)",
@@ -797,7 +809,7 @@ window.RECAP_DATA = {
       "attention": [
         "Government is at 60.8858% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
-        "Physics still has 7 overdue items including Final Test Review Problems.",
+        "Physics still has 8 overdue items including Final Test Review Problems.",
         "Sociology still has 11 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 82.0% — 82.0%"
       ],
@@ -1095,7 +1107,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81.87899,
-          "note": "7 overdue · 2 posted 0 · work due this week",
+          "note": "8 overdue · 2 posted 0",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1153,9 +1165,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "2D Motion Digital Lab",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 26"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 26"
             }
           ],
           "grades": [
@@ -1312,6 +1324,13 @@ window.RECAP_DATA = {
               "percent": 85,
               "group": "",
               "due": "Sep 23"
+            },
+            {
+              "title": "2D Motion Digital Lab",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 26"
             },
             {
               "title": "1D Motion Quiz",
