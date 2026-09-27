@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Sep 26, 2026 · 4:12 PM CT",
+  "updated": "Saturday, Sep 26, 2026 · 8:16 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -799,7 +799,7 @@ window.RECAP_DATA = {
         "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 7 overdue items including Final Test Review Problems.",
         "Sociology still has 11 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 100.0% — Unit 1 Summative Quiz (classic) zero Sep 28"
+        "Apologetics 82.0% — 82.0%"
       ],
       "courses": [
         {
@@ -1868,16 +1868,9 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0% — Unit 1 Summative Quiz (classic) posted 0",
-          "work": [
-            {
-              "title": "Unit 1 Summative Quiz (classic)",
-              "status": "zero",
-              "detail": "Posted 0",
-              "due": "Sep 28"
-            }
-          ],
+          "grade": 82.0,
+          "note": "82.0%",
+          "work": [],
           "grades": [
             {
               "title": "Your Apologetics Starting Point",
@@ -1909,8 +1902,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Unit 1 Summative Quiz (classic)",
-              "score": "0/100",
-              "percent": 0.0,
+              "score": "70/100",
+              "percent": 70.0,
               "group": "Summative Assessment",
               "due": "Sep 28"
             },
