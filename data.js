@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 28, 2026 · 5:17 PM CT",
+  "updated": "Monday, Sep 28, 2026 · 5:19 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 90.17% — Exit Ticket: Joshua Judges = 0/100; Group Jigsaw- The Patriarchs = 0/100; Exit Ticket: Joshua Judges posted 0; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 1 due Oct 1",
+        "Bible 92.72% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 30; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
         "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 72.04% — Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Workbook for the week - = 0.3/30; Alphabet Part 1 Video due Sep 30",
         "World Geography 83.83% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
@@ -17,14 +17,14 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 90.17,
-          "note": "90.17% — Exit Ticket: Joshua Judges posted 0 — Judges Cycle part 1 due Oct 1",
+          "grade": 92.72,
+          "note": "92.72% — Group Jigsaw- The Patriarchs posted 0 — Exit Ticket: Joshua Judges due Sep 30",
           "work": [
             {
               "title": "Exit Ticket: Joshua Judges",
-              "status": "zero",
-              "detail": "Posted 0 / Canvas missing",
-              "due": "Sep 28"
+              "status": "due",
+              "detail": "Due Sep 30",
+              "due": "Sep 30"
             },
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -122,13 +122,6 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 24"
-            },
-            {
-              "title": "Exit Ticket: Joshua Judges",
-              "score": "0/100",
-              "percent": 0.0,
-              "group": "Formative Assessment",
-              "due": "Sep 28"
             },
             {
               "title": "Exodus 34:6-7a Memory Verse",
@@ -303,7 +296,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 53.65,
-          "note": "53.65% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW De…",
+          "note": "53.65% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW Delta Math overdue — 2.3 Delta Math HW due Sep 28 — Unit 2 Quiz: Functions due Sep 28 — Lesson 3: Solve and Colo…",
           "work": [
             {
               "title": "2.2 HW Delta Math",
@@ -631,7 +624,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "Canvas",
           "grade": 53.88,
-          "note": "53.88% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
+          "note": "53.88% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Microscopy = 50/100 — Unit 1 Test: The Nature of Life = 82/100 — Cell Organelle Crossword Puzzle = 0/100",
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
