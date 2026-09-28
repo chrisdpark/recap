@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Sep 27, 2026 · 8:09 PM CT",
+  "updated": "Monday, Sep 28, 2026 · 12:08 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.31% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exodus 34:6-7a Memory Verse due Sep 28",
+        "Bible 92.7% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 28; Exodus 34:6-7a Memory Verse due Sep 28; Judges Cycle part 1 due Oct 1",
         "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Lord's Pray Final - All Parts overdue (Sep 25)",
         "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
@@ -17,9 +17,15 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 92.31,
-          "note": "92.31% — Group Jigsaw- The Patriarchs posted 0 — Exodus 34:6-7a Memory Verse due Sep 28",
+          "grade": 92.7,
+          "note": "92.7% — Group Jigsaw- The Patriarchs posted 0 — Exit Ticket: Joshua Judges due Sep 28",
           "work": [
+            {
+              "title": "Exit Ticket: Joshua Judges",
+              "status": "due",
+              "detail": "Due Sep 28",
+              "due": "Sep 28"
+            },
             {
               "title": "Exodus 34:6-7a Memory Verse",
               "status": "due",
@@ -31,6 +37,18 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0 / Canvas missing",
               "due": "Sep 3"
+            },
+            {
+              "title": "Judges Cycle part 1",
+              "status": "due",
+              "detail": "Due Oct 1",
+              "due": "Oct 1"
+            },
+            {
+              "title": "Judges Cycle part 2",
+              "status": "due",
+              "detail": "Due Oct 1",
+              "due": "Oct 1"
             }
           ],
           "grades": [
@@ -103,6 +121,13 @@ window.RECAP_DATA = {
               "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 21"
+            },
+            {
+              "title": "Explore Part 1: Numbers and Deuteronomy",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 24"
             },
             {
               "title": "BibleProject- Genesis 12-50",
@@ -312,8 +337,14 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 81.95,
-          "note": "81.95% — Vocab Quiz #1 Written = 36/40 — Workbook for the week - overdue — Lord's Pray Final - All Parts ov…",
+          "note": "81.95% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook for the week - overdue…",
           "work": [
+            {
+              "title": "Alphabet Part 1 Video",
+              "status": "due",
+              "detail": "Due Sep 30",
+              "due": "Sep 30"
+            },
             {
               "title": "Workbook for the week -",
               "status": "overdue",
@@ -455,8 +486,14 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 86.04,
-          "note": "86.04% — U.S. Political Map Quiz overdue",
+          "note": "86.04% — U.S. Political Map Quiz overdue — September 30th - Current Event Post due Oct 2",
           "work": [
+            {
+              "title": "September 30th - Current Event Post",
+              "status": "due",
+              "detail": "Due Oct 2",
+              "due": "Oct 2"
+            },
             {
               "title": "U.S. Political Map Quiz",
               "status": "overdue",
@@ -560,6 +597,24 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Due Sep 29",
               "due": "Sep 29"
+            },
+            {
+              "title": "Creation Journals 5: Cellular Unit",
+              "status": "due",
+              "detail": "Due Sep 30",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Creation Journals 6: Cellular Unit",
+              "status": "due",
+              "detail": "Due Sep 30",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Unit 2 Test: Cell Structure and Environment (SA)",
+              "status": "due",
+              "detail": "Due Oct 2",
+              "due": "Oct 2"
             },
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -689,13 +744,19 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 84.67,
-          "note": "84.67% — Q1 Membean Program 5 overdue",
+          "note": "84.67% — Q1 Membean Program 5 overdue — Q1 Membean Program 6 due Sep 30",
           "work": [
             {
               "title": "Q1 Membean Program 5",
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 23"
+            },
+            {
+              "title": "Q1 Membean Program 6",
+              "status": "due",
+              "detail": "Due Sep 30",
+              "due": "Sep 30"
             },
             {
               "title": "TKAM 1-18 Literature Circle",
@@ -714,6 +775,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 21"
+            },
+            {
+              "title": "TKAM Ch. 25-31 due",
+              "status": "due",
+              "detail": "Due Sep 30",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Q1 Membean Quiz 3",
+              "status": "due",
+              "detail": "Due Oct 1",
+              "due": "Oct 1"
             },
             {
               "title": "TKAM Ch. 8-12 In-Class Essay",
@@ -808,7 +881,7 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Government is at 60.8858% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
-        "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
+        "English 12 still has 19 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 8 overdue items including Final Test Review Problems.",
         "Sociology still has 11 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 82.0% — 82.0%"
@@ -820,7 +893,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "17 overdue · 9 recent submissions ungraded · work due this week",
+          "note": "19 overdue · 9 recent submissions ungraded · work due this week",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -926,15 +999,21 @@ window.RECAP_DATA = {
             },
             {
               "title": "John Donne's \"Death Be Not Proud\" assignment",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 27"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 27"
             },
             {
               "title": "Membean 9/27",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 27"
+            },
+            {
+              "title": "DWS #4 Quiz",
               "status": "due",
               "detail": "",
-              "due": "Sep 27"
+              "due": "Sep 30"
             }
           ],
           "grades": [
@@ -1098,6 +1177,20 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Sep 21"
+            },
+            {
+              "title": "John Donne's \"Death Be Not Proud\" assignment",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 27"
+            },
+            {
+              "title": "Membean 9/27",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 27"
             }
           ]
         },
@@ -1107,7 +1200,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81.87899,
-          "note": "8 overdue · 2 posted 0",
+          "note": "8 overdue · 2 posted 0 · work due this week",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1168,6 +1261,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 26"
+            },
+            {
+              "title": "Free Body Diagram Worksheet",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Newton's 2nd Law Problem Set (No Friction)",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 30"
             }
           ],
           "grades": [
@@ -1354,7 +1459,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 60.88579,
-          "note": "Course at 60.8858% · 3 overdue · 3 posted 0",
+          "note": "Course at 60.8858% · 4 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1388,9 +1493,21 @@ window.RECAP_DATA = {
             },
             {
               "title": "Synch Session #4 9/21",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 27"
+            },
+            {
+              "title": "Civic Participation",
               "status": "due",
               "detail": "",
-              "due": "Sep 27"
+              "due": "Sep 30"
+            },
+            {
+              "title": "Midterm",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 2"
             },
             {
               "title": "Check point Quiz",
@@ -1504,6 +1621,13 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 25"
+            },
+            {
+              "title": "Synch Session #4 9/21",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 27"
             },
             {
               "title": "Check point Quiz",
