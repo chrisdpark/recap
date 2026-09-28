@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 28, 2026 · 5:19 PM CT",
+  "updated": "Monday, Sep 28, 2026 · 5:33 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -932,10 +932,10 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 60.8858% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
-        "English 12 still has 19 overdue items including Poetic Elements and Structure (StudySync).",
-        "Physics still has 8 overdue items including Final Test Review Problems.",
-        "Sociology still has 11 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
+        "Government is at 62.2091% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
+        "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
+        "Physics still has 7 overdue items including Final Test Review Problems.",
+        "Sociology still has 9 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 82% — Unit 1 Summative Quiz scored 70/100 (due Mon Sep 28)."
       ],
       "courses": [
@@ -945,7 +945,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "19 overdue · 9 recent submissions ungraded · work due this week",
+          "note": "17 overdue · 10 recent submissions ungraded · work due this week",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -958,12 +958,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 21"
-            },
-            {
-              "title": "Persuasive Paper",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 28"
             },
             {
               "title": "Membean Practice 10/19",
@@ -1050,12 +1044,6 @@ window.RECAP_DATA = {
               "due": "Due Sep 13"
             },
             {
-              "title": "John Donne's \"Death Be Not Proud\" assignment",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 27"
-            },
-            {
               "title": "Membean 9/27",
               "status": "overdue",
               "detail": "Not completed",
@@ -1063,6 +1051,12 @@ window.RECAP_DATA = {
             },
             {
               "title": "DWS #4 Quiz",
+              "status": "due",
+              "detail": "",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Persuasive Paper",
               "status": "due",
               "detail": "",
               "due": "Sep 30"
@@ -1082,13 +1076,6 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 21"
-            },
-            {
-              "title": "Persuasive Paper",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 28"
             },
             {
               "title": "Membean Practice 10/19",
@@ -1231,13 +1218,6 @@ window.RECAP_DATA = {
               "due": "Sep 21"
             },
             {
-              "title": "John Donne's \"Death Be Not Proud\" assignment",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 27"
-            },
-            {
               "title": "Membean 9/27",
               "score": "—",
               "percent": null,
@@ -1251,8 +1231,8 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 81.87899,
-          "note": "8 overdue · 2 posted 0 · work due this week",
+          "grade": 84.25995,
+          "note": "7 overdue · 2 posted 0 · 1 recent submissions ungraded",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1307,12 +1287,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 23"
-            },
-            {
-              "title": "2D Motion Digital Lab",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 26"
             },
             {
               "title": "Free Body Diagram Worksheet",
@@ -1483,13 +1457,6 @@ window.RECAP_DATA = {
               "due": "Sep 23"
             },
             {
-              "title": "2D Motion Digital Lab",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 26"
-            },
-            {
               "title": "1D Motion Quiz",
               "score": "80%",
               "percent": 80,
@@ -1502,6 +1469,13 @@ window.RECAP_DATA = {
               "percent": 95,
               "group": "",
               "due": "Oct 6"
+            },
+            {
+              "title": "2D Motion Quiz",
+              "score": "90%",
+              "percent": 90,
+              "group": "",
+              "due": "Oct 19"
             }
           ]
         },
@@ -1510,8 +1484,8 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 60.88579,
-          "note": "Course at 60.8858% · 4 overdue · 3 posted 0",
+          "grade": 62.20908,
+          "note": "Course at 62.2091% · 3 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1538,22 +1512,10 @@ window.RECAP_DATA = {
               "due": "Due Sep 13"
             },
             {
-              "title": "Political Participation",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 25"
-            },
-            {
               "title": "Synch Session #4 9/21",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 27"
-            },
-            {
-              "title": "Civic Participation",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 30"
             },
             {
               "title": "Midterm",
@@ -1669,8 +1631,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Political Participation",
-              "score": "—",
-              "percent": null,
+              "score": "100%",
+              "percent": 100,
               "group": "",
               "due": "Sep 25"
             },
@@ -1680,6 +1642,13 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 27"
+            },
+            {
+              "title": "Civic Participation",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Sep 30"
             },
             {
               "title": "Check point Quiz",
@@ -1855,8 +1824,8 @@ window.RECAP_DATA = {
           "teacher": "Lane",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 90.98361,
-          "note": "11 overdue · work due this week",
+          "grade": 92.85714,
+          "note": "9 overdue · work due this week",
           "work": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
@@ -1905,18 +1874,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 15"
-            },
-            {
-              "title": "Concept Module 1: Culture",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 21"
-            },
-            {
-              "title": "Concept Module 2: Society and Status",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 23"
             },
             {
               "title": "DQ2: Societal Values",
@@ -2037,15 +1994,15 @@ window.RECAP_DATA = {
             },
             {
               "title": "Concept Module 1: Culture",
-              "score": "—",
-              "percent": null,
+              "score": "100%",
+              "percent": 100,
               "group": "",
               "due": "Sep 21"
             },
             {
               "title": "Concept Module 2: Society and Status",
-              "score": "—",
-              "percent": null,
+              "score": "100%",
+              "percent": 100,
               "group": "",
               "due": "Sep 23"
             },
@@ -2055,6 +2012,20 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 25"
+            },
+            {
+              "title": "Concept Module 1: Theoretical Perspectives on Socialization",
+              "score": "78%",
+              "percent": 78,
+              "group": "",
+              "due": "Oct 8"
+            },
+            {
+              "title": "Concept Module 2: Know Your Terms",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Oct 12"
             }
           ]
         },
