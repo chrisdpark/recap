@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 28, 2026 · 12:14 PM CT",
+  "updated": "Monday, Sep 28, 2026 · 4:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.72% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 28; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
+        "Bible 90.17% — Exit Ticket: Joshua Judges = 0/100; Group Jigsaw- The Patriarchs = 0/100; Exit Ticket: Joshua Judges posted 0; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 1 due Oct 1",
         "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 77.28% — Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Vorstellen Introduction = 0.2/20; Workbook for the week - overdue (Sep 22); Alphabet Part 1 Video due Sep 30",
+        "German I 72.04% — Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Workbook for the week - = 0.3/30; Alphabet Part 1 Video due Sep 30",
         "World Geography 83.83% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 53.88% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-18 Literature Circle overdue (Sep 23)"
@@ -17,13 +17,13 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 92.72,
-          "note": "92.72% — Group Jigsaw- The Patriarchs posted 0 — Exit Ticket: Joshua Judges due Sep 28",
+          "grade": 90.17,
+          "note": "90.17% — Exit Ticket: Joshua Judges posted 0 — Judges Cycle part 1 due Oct 1",
           "work": [
             {
               "title": "Exit Ticket: Joshua Judges",
-              "status": "due",
-              "detail": "Due Sep 28",
+              "status": "zero",
+              "detail": "Posted 0 / Canvas missing",
               "due": "Sep 28"
             },
             {
@@ -124,6 +124,13 @@ window.RECAP_DATA = {
               "due": "Sep 24"
             },
             {
+              "title": "Exit Ticket: Joshua Judges",
+              "score": "0/100",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 28"
+            },
+            {
               "title": "Exodus 34:6-7a Memory Verse",
               "score": "90/100",
               "percent": 90.0,
@@ -165,8 +172,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0%",
+          "grade": 99.95,
+          "note": "99.95% — Sight-Singing 6 due Sep 30",
           "work": [],
           "grades": [
             {
@@ -184,7 +191,7 @@ window.RECAP_DATA = {
               "due": "Aug 25"
             },
             {
-              "title": "Sight-Reading 1",
+              "title": "Sight-Singing 1",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
@@ -216,14 +223,56 @@ window.RECAP_DATA = {
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
+              "due": "Sep 10"
+            },
+            {
+              "title": "Brave part 1",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 15"
+            },
+            {
+              "title": "Sight-Singing 4",
+              "score": "98/100",
+              "percent": 98.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
+            },
+            {
+              "title": "TAPPS Piece",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
               "due": "Sep 18"
             },
             {
-              "title": "Sight-Reading 2",
+              "title": "Sight-Singing 2",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 2"
+            },
+            {
+              "title": "Brave Part 2",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 22"
+            },
+            {
+              "title": "Sight-Singing 5",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 23"
+            },
+            {
+              "title": "National Anthem Part 4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 25"
             },
             {
               "title": "National Anthem part 2",
@@ -240,7 +289,7 @@ window.RECAP_DATA = {
               "due": "Sep 8"
             },
             {
-              "title": "Sight-Reading 3",
+              "title": "Sight-Singing 3",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
@@ -337,20 +386,14 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 77.28,
-          "note": "77.28% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook for the week - overdue",
+          "grade": 72.04,
+          "note": "72.04% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
               "status": "due",
               "detail": "Due Sep 30",
               "due": "Sep 30"
-            },
-            {
-              "title": "Workbook for the week -",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 22"
             }
           ],
           "grades": [
@@ -430,6 +473,13 @@ window.RECAP_DATA = {
               "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 21"
+            },
+            {
+              "title": "Workbook for the week -",
+              "score": "0.3/30",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Sep 22"
             },
             {
               "title": "Vorstellen Introduction",
@@ -2046,18 +2096,18 @@ window.RECAP_DATA = {
               "due": "Sep 17"
             },
             {
-              "title": "Memory Verse 1 (Formative)",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 28"
-            },
-            {
               "title": "Unit 1 Summative Quiz (classic)",
               "score": "70/100",
               "percent": 70.0,
               "group": "Summative Assessment",
               "due": "Sep 28"
+            },
+            {
+              "title": "Memory Verse 1 (Formative)",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
             },
             {
               "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
