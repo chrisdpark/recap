@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 28, 2026 · 4:09 AM CT",
+  "updated": "Monday, Sep 28, 2026 · 8:18 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -2114,5 +2114,8 @@ window.RECAP_DATA = {
         }
       ]
     }
-  }
+  },
+  "errors": [
+    "Ethos login blank at ~8:15 AM CT Sep 28; reused scrape pulled_at 2026-09-26T08:13:35-05:00"
+  ]
 }
