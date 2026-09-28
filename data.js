@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 28, 2026 · 8:18 AM CT",
+  "updated": "Monday, Sep 28, 2026 · 12:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.7% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 28; Exodus 34:6-7a Memory Verse due Sep 28; Judges Cycle part 1 due Oct 1",
+        "Bible 92.72% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 28; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
         "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
-        "German I 81.95% — Follow Up Quiz on Conjugation = 10.5/15; HW in Workbook sept 16 = 0.1/10; Lords prayer Part 3 = 0.1/10; Workbook for the week - overdue (Sep 22); Lord's Pray Final - All Parts overdue (Sep 25)",
-        "World Geography 86.04% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
+        "German I 77.28% — Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Vorstellen Introduction = 0.2/20; Workbook for the week - overdue (Sep 22); Alphabet Part 1 Video due Sep 30",
+        "World Geography 83.83% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 53.88% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
         "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-18 Literature Circle overdue (Sep 23)"
       ],
@@ -17,17 +17,11 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 92.7,
-          "note": "92.7% — Group Jigsaw- The Patriarchs posted 0 — Exit Ticket: Joshua Judges due Sep 28",
+          "grade": 92.72,
+          "note": "92.72% — Group Jigsaw- The Patriarchs posted 0 — Exit Ticket: Joshua Judges due Sep 28",
           "work": [
             {
               "title": "Exit Ticket: Joshua Judges",
-              "status": "due",
-              "detail": "Due Sep 28",
-              "due": "Sep 28"
-            },
-            {
-              "title": "Exodus 34:6-7a Memory Verse",
               "status": "due",
               "detail": "Due Sep 28",
               "due": "Sep 28"
@@ -128,6 +122,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 24"
+            },
+            {
+              "title": "Exodus 34:6-7a Memory Verse",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 28"
             },
             {
               "title": "BibleProject- Genesis 12-50",
@@ -336,8 +337,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 81.95,
-          "note": "81.95% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook for the week - overdue…",
+          "grade": 77.28,
+          "note": "77.28% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook for the week - overdue",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
@@ -350,12 +351,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 22"
-            },
-            {
-              "title": "Lord's Pray Final - All Parts",
-              "status": "overdue",
-              "detail": "Canvas missing",
-              "due": "Sep 25"
             }
           ],
           "grades": [
@@ -410,8 +405,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "HW in Workbook sept 16",
-              "score": "0.1/10",
-              "percent": 1.0,
+              "score": "9/10",
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 16"
             },
@@ -442,6 +437,13 @@ window.RECAP_DATA = {
               "percent": 1.0,
               "group": "Formative Assessment",
               "due": "Sep 23"
+            },
+            {
+              "title": "Lord's Pray Final - All Parts",
+              "score": "0.1/10",
+              "percent": 1.0,
+              "group": "Summative Assessment",
+              "due": "Sep 25"
             },
             {
               "title": "Grammar Into and Practice",
@@ -485,8 +487,8 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 86.04,
-          "note": "86.04% — U.S. Political Map Quiz overdue — September 30th - Current Event Post due Oct 2",
+          "grade": 83.83,
+          "note": "83.83% — U.S. Political Map Quiz overdue — September 30th - Current Event Post due Oct 2",
           "work": [
             {
               "title": "September 30th - Current Event Post",
@@ -556,6 +558,13 @@ window.RECAP_DATA = {
               "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 18"
+            },
+            {
+              "title": "September 23rd - Current Event Posts",
+              "score": "50/100",
+              "percent": 50.0,
+              "group": "Formative Assessment",
+              "due": "Sep 25"
             },
             {
               "title": "Biomes Brochure",
@@ -2114,8 +2123,5 @@ window.RECAP_DATA = {
         }
       ]
     }
-  },
-  "errors": [
-    "Ethos login blank at ~8:15 AM CT Sep 28; reused scrape pulled_at 2026-09-26T08:13:35-05:00"
-  ]
+  }
 }
