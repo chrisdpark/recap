@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 29, 2026 · 5:19 PM CT",
+  "updated": "Tuesday, Sep 29, 2026 · 5:21 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -945,7 +945,7 @@ window.RECAP_DATA = {
         "English 12 still has 28 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 8 overdue items including Final Test Review Problems.",
         "Sociology still has 12 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 82.0% — 82.0%"
+        "Apologetics 82% — Unit 1 Summative Quiz 70 (muted)"
       ],
       "courses": [
         {
@@ -2226,108 +2226,48 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 82.0,
-          "note": "82.0%",
-          "work": [],
-          "grades": [
-            {
-              "title": "Your Apologetics Starting Point",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "Understanding Truth Assignments 3-4: Truth Test and Truth Statements",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 2"
-            },
-            {
-              "title": "Video Quiz: Is there Meaning to Life?",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 17"
-            },
-            {
-              "title": "Unit 1 Summative Quiz (classic)",
-              "score": "70/100",
-              "percent": 70.0,
-              "group": "Summative Assessment",
-              "due": "Sep 28"
-            },
+          "grade": 82,
+          "note": "Unit 1 Summative Quiz 70 (muted); Truth Assignments 1-2 & Memory Verse due Tue night already 100; Truth 3-4…",
+          "work": [
             {
               "title": "Memory Verse 1 (Formative)",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 29"
+              "status": "due",
+              "detail": "100% (muted) — due Tue Sep 29 EOD",
+              "due": "Tue Sep 29, 12:00am"
             },
             {
-              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 29"
+              "title": "Understanding Truth Assignments 1-2",
+              "status": "due",
+              "detail": "100% (muted) — Self-Defeating Claims + Tolerance; due Tue Sep 29 EOD",
+              "due": "Tue Sep 29, 12:00am"
             },
             {
-              "title": "Surrounded Simulation Post-Survey",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
+              "title": "Understanding Truth Assignments 3-4",
+              "status": "due",
+              "detail": "100% (muted) — Truth Test + Truth Statements; due Fri Oct 2",
+              "due": "Fri Oct 2, 12:00am"
             }
-          ]
+          ],
+          "grades": []
         },
         {
           "name": "Graphic Design",
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0% — 9/15-9/18 overdue",
+          "grade": 100,
+          "note": "Course average 100%; week of 9/15-9/18 still shows unsubmitted/ungraded (muted) after Sep 18 due",
           "work": [
             {
-              "title": "9/15-9/18",
+              "title": "9/15-9/18 (iPad/Procreate Artwork)",
               "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 18"
+              "detail": "Unsubmitted / not graded yet (muted)",
+              "due": "Fri Sep 18, 12:00am"
             }
           ],
-          "grades": [
-            {
-              "title": "8/18-8/21",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 21"
-            },
-            {
-              "title": "8/24-8/28",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "9/8-9/11",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 11"
-            },
-            {
-              "title": "9/1-9/4",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
-            }
-          ]
+          "grades": []
         }
       ]
     }
   }
-}
+};
