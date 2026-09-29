@@ -1,15 +1,15 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 29, 2026 · 12:14 PM CT",
+  "updated": "Tuesday, Sep 29, 2026 · 4:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.72% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 30; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
         "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); 2.3 Delta Math HW overdue (Sep 28)",
-        "German I 72.04% — Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Workbook for the week - = 0.3/30; Alphabet Part 1 Video due Sep 30",
-        "World Geography 83.83% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
+        "German I 79.24% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video due Sep 30; Workbook Kap 2 pages  13-14 (FA) due Sep 30",
+        "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 53.88% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
-        "English I 84.67% — SKDM Assessment = 70/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Quiz 1 = 80/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-18 Literature Circle overdue (Sep 23)"
+        "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-24 Literature Circle overdue (Sep 23)"
       ],
       "courses": [
         {
@@ -380,11 +380,17 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 72.04,
-          "note": "72.04% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30",
+          "grade": 79.24,
+          "note": "79.24% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook Kap 2 pages  13-14 (FA…",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
+              "status": "due",
+              "detail": "Due Sep 30",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Workbook Kap 2 pages  13-14 (FA)",
               "status": "due",
               "detail": "Due Sep 30",
               "due": "Sep 30"
@@ -425,6 +431,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 28"
+            },
+            {
+              "title": "Vorstellen Introduction a friend (FA) - Before Class",
+              "score": "0.2/20",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Oct 7"
             },
             {
               "title": "Haben/Sein HW Quiz",
@@ -470,17 +483,10 @@ window.RECAP_DATA = {
             },
             {
               "title": "Workbook for the week -",
-              "score": "0.3/30",
-              "percent": 1.0,
+              "score": "30/30",
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 22"
-            },
-            {
-              "title": "Vorstellen Introduction",
-              "score": "0.2/20",
-              "percent": 1.0,
-              "group": "Formative Assessment",
-              "due": "Sep 23"
             },
             {
               "title": "Lord's Pray Final - All Parts",
@@ -531,8 +537,8 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 83.83,
-          "note": "83.83% — U.S. Political Map Quiz overdue — September 30th - Current Event Post due Oct 2",
+          "grade": 86.23,
+          "note": "86.23% — U.S. Political Map Quiz overdue — September 30th - Current Event Post due Oct 2",
           "work": [
             {
               "title": "September 30th - Current Event Post",
@@ -611,6 +617,13 @@ window.RECAP_DATA = {
               "due": "Sep 25"
             },
             {
+              "title": "TURN IN - Physical Geography of Country Presentation",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 25"
+            },
+            {
               "title": "Biomes Brochure",
               "score": "100/100",
               "percent": 100.0,
@@ -641,12 +654,6 @@ window.RECAP_DATA = {
             },
             {
               "title": "Lab 03: Enzymes",
-              "status": "due",
-              "detail": "Due Sep 29",
-              "due": "Sep 29"
-            },
-            {
-              "title": "Osmosis Post-Lab Analysis (FA)",
               "status": "due",
               "detail": "Due Sep 29",
               "due": "Sep 29"
@@ -796,8 +803,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 84.67,
-          "note": "84.67% — Q1 Membean Program 5 overdue — Q1 Membean Program 6 due Sep 30",
+          "grade": 81.75,
+          "note": "81.75% — Q1 Membean Program 5 overdue — Q1 Membean Program 6 due Sep 30",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -812,7 +819,7 @@ window.RECAP_DATA = {
               "due": "Sep 30"
             },
             {
-              "title": "TKAM 1-18 Literature Circle",
+              "title": "TKAM 1-24 Literature Circle",
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 23"
@@ -840,12 +847,6 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Due Oct 1",
               "due": "Oct 1"
-            },
-            {
-              "title": "TKAM Ch. 8-12 In-Class Essay",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 10"
             }
           ],
           "grades": [
@@ -869,6 +870,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
+            },
+            {
+              "title": "TKAM Ch. 8-12 In-Class Essay",
+              "score": "65/100",
+              "percent": 65.0,
+              "group": "Summative Assessment",
+              "due": "Sep 10"
             },
             {
               "title": "Q1 Membean Program 4",
@@ -933,9 +941,9 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 62.2091% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
-        "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
-        "Physics still has 7 overdue items including Final Test Review Problems.",
+        "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
+        "English 12 still has 28 overdue items including Poetic Elements and Structure (StudySync).",
+        "Physics still has 8 overdue items including Final Test Review Problems.",
         "Sociology still has 12 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 82.0% — 82.0%"
       ],
@@ -946,10 +954,22 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "17 overdue · 10 recent submissions ungraded · work due this week",
+          "note": "28 overdue · work due this week",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 21"
+            },
+            {
+              "title": "Ben Jonson's \"On My First Son\" assignment",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 21"
+            },
+            {
+              "title": "First draft of Intro, first two body paragraphs and Works Cited page",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 21"
@@ -1021,10 +1041,34 @@ window.RECAP_DATA = {
               "due": "Due Nov 23"
             },
             {
+              "title": "Brave New World Summer Reading Assignment",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 18"
+            },
+            {
               "title": "Brave New World Summer Reading Essay Test",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Aug 20"
+            },
+            {
+              "title": "Final Narrative Essay Writing Assignment",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 30"
+            },
+            {
+              "title": "Why I Write by George Orwell",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 30"
+            },
+            {
+              "title": "Shooting an Elephant by George Orwell",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 30"
             },
             {
               "title": "Membean 8/30",
@@ -1039,10 +1083,40 @@ window.RECAP_DATA = {
               "due": "Due Sep 6"
             },
             {
+              "title": "Rhetorical Appeals Presentation and Assignment",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 6"
+            },
+            {
+              "title": "CHOOSE A TOPIC FOR YOUR PERSUASIVE PAPER",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 6"
+            },
+            {
+              "title": "Prologue to the Canterbury Tales",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 13"
+            },
+            {
               "title": "Membean 9/13",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 13"
+            },
+            {
+              "title": "Five Sources and Persuasive Paper Thesis Statement",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 13"
+            },
+            {
+              "title": "John Donne's \"Death Be Not Proud\" assignment",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 27"
             },
             {
               "title": "Membean 9/27",
@@ -1066,6 +1140,20 @@ window.RECAP_DATA = {
           "grades": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 21"
+            },
+            {
+              "title": "Ben Jonson's \"On My First Son\" assignment",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 21"
+            },
+            {
+              "title": "First draft of Intro, first two body paragraphs and Works Cited page",
               "score": "—",
               "percent": null,
               "group": "",
@@ -1149,6 +1237,13 @@ window.RECAP_DATA = {
               "due": "Nov 23"
             },
             {
+              "title": "Brave New World Summer Reading Assignment",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Aug 18"
+            },
+            {
               "title": "Brave New World Summer Reading Essay Test",
               "score": "—",
               "percent": null,
@@ -1156,7 +1251,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -1175,6 +1270,27 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Aug 26"
+            },
+            {
+              "title": "Final Narrative Essay Writing Assignment",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Aug 30"
+            },
+            {
+              "title": "Why I Write by George Orwell",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Aug 30"
+            },
+            {
+              "title": "Shooting an Elephant by George Orwell",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Aug 30"
             },
             {
               "title": "Membean 8/30",
@@ -1198,6 +1314,20 @@ window.RECAP_DATA = {
               "due": "Sep 6"
             },
             {
+              "title": "Rhetorical Appeals Presentation and Assignment",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 6"
+            },
+            {
+              "title": "CHOOSE A TOPIC FOR YOUR PERSUASIVE PAPER",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 6"
+            },
+            {
               "title": "DWS #2 Quiz--Combining Independent Claues",
               "score": "100%",
               "percent": 100,
@@ -1205,7 +1335,21 @@ window.RECAP_DATA = {
               "due": "Sep 8"
             },
             {
+              "title": "Prologue to the Canterbury Tales",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 13"
+            },
+            {
               "title": "Membean 9/13",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 13"
+            },
+            {
+              "title": "Five Sources and Persuasive Paper Thesis Statement",
               "score": "—",
               "percent": null,
               "group": "",
@@ -1217,6 +1361,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Sep 21"
+            },
+            {
+              "title": "John Donne's \"Death Be Not Proud\" assignment",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 27"
             },
             {
               "title": "Membean 9/27",
@@ -1232,8 +1383,8 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 84.25995,
-          "note": "7 overdue · 2 posted 0 · 1 recent submissions ungraded",
+          "grade": 84,
+          "note": "8 overdue · 2 posted 0 · work due this week",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1288,6 +1439,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 23"
+            },
+            {
+              "title": "2D Motion Digital Lab",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 26"
             },
             {
               "title": "Free Body Diagram Worksheet",
@@ -1458,6 +1615,13 @@ window.RECAP_DATA = {
               "due": "Sep 23"
             },
             {
+              "title": "2D Motion Digital Lab",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 26"
+            },
+            {
               "title": "1D Motion Quiz",
               "score": "80%",
               "percent": 80,
@@ -1485,14 +1649,20 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 62.20908,
-          "note": "Course at 62.2091% · 3 overdue · 3 posted 0",
+          "grade": 62,
+          "note": "Course at 62% · 4 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Aug 23"
+            },
+            {
+              "title": "Synch Session #2 8/24 Make up",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Aug 30"
             },
             {
               "title": "Federalists v. Anti Federalists",
@@ -1557,6 +1727,13 @@ window.RECAP_DATA = {
               "title": "Understanding the Weaknesses of the Articles of Confederation",
               "score": "100%",
               "percent": 100,
+              "group": "",
+              "due": "Aug 30"
+            },
+            {
+              "title": "Synch Session #2 8/24 Make up",
+              "score": "—",
+              "percent": null,
               "group": "",
               "due": "Aug 30"
             },
@@ -1665,43 +1842,43 @@ window.RECAP_DATA = {
           "teacher": "Pinson",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 88.92308,
+          "grade": 89,
           "note": "6 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
               "status": "zero",
-              "detail": "Posted 0, completed Aug 31",
+              "detail": "Posted 0, not completed",
               "due": "Due Aug 21"
             },
             {
               "title": "QUIZ 1.4 - 1.7",
               "status": "zero",
-              "detail": "Posted 0, completed Aug 31",
+              "detail": "Posted 0, not completed",
               "due": "Due Sep 1"
             },
             {
               "title": "Test Unit 1",
               "status": "zero",
-              "detail": "Posted 0, completed Sep 03",
+              "detail": "Posted 0, not completed",
               "due": "Due Sep 3"
             },
             {
               "title": "Quiz 2.1-2.2",
               "status": "zero",
-              "detail": "Posted 0, completed Sep 10",
+              "detail": "Posted 0, not completed",
               "due": "Due Sep 10"
             },
             {
               "title": "QUIZ 2.3 - 2.7",
               "status": "zero",
-              "detail": "Posted 0, completed Sep 17",
+              "detail": "Posted 0, not completed",
               "due": "Due Sep 28"
             },
             {
               "title": "Test Unit 2",
               "status": "zero",
-              "detail": "Posted 0, completed Sep 24",
+              "detail": "Posted 0, not completed",
               "due": "Due Oct 5"
             }
           ],
@@ -1825,7 +2002,7 @@ window.RECAP_DATA = {
           "teacher": "Lane",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 92.85714,
+          "grade": 93,
           "note": "12 overdue",
           "work": [
             {
@@ -1922,13 +2099,6 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Aug 25"
-            },
-            {
-              "title": "Assignment #1: Profile a Sociologist",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 30"
             },
             {
               "title": "Sociological Scavenger Hunt #1",
