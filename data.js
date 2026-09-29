@@ -1,11 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 28, 2026 · 5:33 PM CT",
+  "updated": "Monday, Sep 28, 2026 · 8:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.72% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 30; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
-        "Algebra I 53.65% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
+        "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
         "German I 72.04% — Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Workbook for the week - = 0.3/30; Alphabet Part 1 Video due Sep 30",
         "World Geography 83.83% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 53.88% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
@@ -295,8 +295,8 @@ window.RECAP_DATA = {
           "teacher": "Seegers",
           "period": "P4",
           "source": "Canvas",
-          "grade": 53.65,
-          "note": "53.65% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW Delta Math overdue — 2.3 Delta Math HW due Sep 28 — Unit 2 Quiz: Functions due Sep 28 — Lesson 3: Solve and Colo…",
+          "grade": 52.61,
+          "note": "52.61% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW De…",
           "work": [
             {
               "title": "2.2 HW Delta Math",
@@ -306,12 +306,6 @@ window.RECAP_DATA = {
             },
             {
               "title": "2.3 Delta Math HW",
-              "status": "due",
-              "detail": "Due Sep 28",
-              "due": "Sep 28"
-            },
-            {
-              "title": "Unit 2 Quiz: Functions",
               "status": "due",
               "detail": "Due Sep 28",
               "due": "Sep 28"
@@ -364,6 +358,13 @@ window.RECAP_DATA = {
               "percent": 23.0,
               "group": "Summative Assessment",
               "due": "Sep 2"
+            },
+            {
+              "title": "Unit 2 Quiz: Functions",
+              "score": "4/20",
+              "percent": 20.0,
+              "group": "Summative Assessment",
+              "due": "Sep 28"
             },
             {
               "title": "Algebra Karaoke Performance",
@@ -624,7 +625,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "Canvas",
           "grade": 53.88,
-          "note": "53.88% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Microscopy = 50/100 — Unit 1 Test: The Nature of Life = 82/100 — Cell Organelle Crossword Puzzle = 0/100",
+          "note": "53.88% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
@@ -936,7 +937,7 @@ window.RECAP_DATA = {
         "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 7 overdue items including Final Test Review Problems.",
         "Sociology still has 9 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 82% — Unit 1 Summative Quiz scored 70/100 (due Mon Sep 28)."
+        "Apologetics 82.0% — 82.0%"
       ],
       "courses": [
         {
@@ -2035,7 +2036,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 82.0,
-          "note": "82% — Unit 1 Summative Quiz 70/100",
+          "note": "82.0%",
           "work": [],
           "grades": [
             {
@@ -2095,7 +2096,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100% — 9/15-9/18 overdue",
+          "note": "100.0% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
