@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 29, 2026 · 8:16 AM CT",
+  "updated": "Tuesday, Sep 29, 2026 · 12:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1504,7 +1504,7 @@ window.RECAP_DATA = {
               "title": "Bill of Rights",
               "status": "zero",
               "detail": "Posted 0, not completed",
-              "due": "Due Sep 11"
+              "due": "Due Sep 10"
             },
             {
               "title": "Synch Session #3 9/7",
@@ -1522,13 +1522,13 @@ window.RECAP_DATA = {
               "title": "Midterm",
               "status": "due",
               "detail": "",
-              "due": "Oct 2"
+              "due": "Oct 1"
             },
             {
               "title": "Check point Quiz",
               "status": "zero",
               "detail": "Posted 0, not completed",
-              "due": "Due Dec 14"
+              "due": "Due Dec 10"
             }
           ],
           "grades": [
@@ -1579,7 +1579,7 @@ window.RECAP_DATA = {
               "score": "0%",
               "percent": 0,
               "group": "",
-              "due": "Sep 11"
+              "due": "Sep 10"
             },
             {
               "title": "Constitutional Scavenger Hunt",
@@ -1607,7 +1607,7 @@ window.RECAP_DATA = {
               "score": "87%",
               "percent": 87,
               "group": "",
-              "due": "Sep 15"
+              "due": "Sep 14"
             },
             {
               "title": "Comparing the House and the Senate",
@@ -1649,14 +1649,14 @@ window.RECAP_DATA = {
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 30"
+              "due": "Sep 29"
             },
             {
               "title": "Check point Quiz",
               "score": "0%",
               "percent": 0,
               "group": "",
-              "due": "Dec 14"
+              "due": "Dec 10"
             }
           ]
         },
