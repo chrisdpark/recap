@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 29, 2026 · 4:11 PM CT",
+  "updated": "Tuesday, Sep 29, 2026 · 5:19 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -296,7 +296,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 52.61,
-          "note": "52.61% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW De…",
+          "note": "52.61% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW Delta Math overdue — 2.3 Delta Math HW overdue — Lesson 3: Solve and Color (schedule) overdue — Inequalities Mad Lib (schedule) overdue",
           "work": [
             {
               "title": "2.2 HW Delta Math",
@@ -381,7 +381,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 79.24,
-          "note": "79.24% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook Kap 2 pages  13-14 (FA…",
+          "note": "79.24% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook Kap 2 pages  13-14 (FA) due Sep 30",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
@@ -638,7 +638,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "Canvas",
           "grade": 53.88,
-          "note": "53.88% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
+          "note": "53.88% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Microscopy = 50/100 — Unit 1 Test: The Nature of Life = 82/100 — Cell Organelle Crossword Puzzle = 0/100",
           "work": [
             {
               "title": "Cell Organelle Crossword Puzzle",
