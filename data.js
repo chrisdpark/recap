@@ -1,11 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Sep 28, 2026 · 8:13 PM CT",
+  "updated": "Tuesday, Sep 29, 2026 · 12:07 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.72% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 30; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
-        "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); Lesson 3: Solve and Color (schedule) overdue (Sep 2)",
+        "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); 2.3 Delta Math HW overdue (Sep 28)",
         "German I 72.04% — Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Workbook for the week - = 0.3/30; Alphabet Part 1 Video due Sep 30",
         "World Geography 83.83% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 53.88% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Cell Organelle Crossword Puzzle posted 0; Creation Journal Discussion (Journals 1 - 4) posted 0",
@@ -306,8 +306,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "2.3 Delta Math HW",
-              "status": "due",
-              "detail": "Due Sep 28",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 28"
             },
             {
@@ -936,7 +936,7 @@ window.RECAP_DATA = {
         "Government is at 62.2091% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
         "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 7 overdue items including Final Test Review Problems.",
-        "Sociology still has 9 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
+        "Sociology still has 12 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 82.0% — 82.0%"
       ],
       "courses": [
@@ -1826,7 +1826,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 92.85714,
-          "note": "9 overdue · work due this week",
+          "note": "12 overdue",
           "work": [
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
@@ -1884,21 +1884,21 @@ window.RECAP_DATA = {
             },
             {
               "title": "Disney Socialization Assignment",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 28"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 28"
             },
             {
               "title": "Sociological Scavenger Hunt #3",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 28"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 28"
             },
             {
               "title": "OPT. Assignment #3: Song Analysis",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 28"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 28"
             }
           ],
           "grades": [
@@ -2013,6 +2013,27 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 25"
+            },
+            {
+              "title": "Disney Socialization Assignment",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 28"
+            },
+            {
+              "title": "Sociological Scavenger Hunt #3",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 28"
+            },
+            {
+              "title": "OPT. Assignment #3: Song Analysis",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 28"
             },
             {
               "title": "Concept Module 1: Theoretical Perspectives on Socialization",
