@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 30, 2026 · 12:15 PM CT",
+  "updated": "Wednesday, Sep 30, 2026 · 4:18 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.74% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
         "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); 2.3 Delta Math HW overdue (Sep 28)",
-        "German I 79.24% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video due Sep 30; Workbook Kap 2 pages  13-14 (FA) due Sep 30",
+        "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video due Sep 30; Workbook page 15 Ex. 3 due Oct 2",
         "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 57.06% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Lab 03: Enzymes overdue (Sep 29)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-24 Literature Circle overdue (Sep 23)"
@@ -381,8 +381,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 79.24,
-          "note": "79.24% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook Kap 2 pages  13-14 (FA…",
+          "grade": 87.21,
+          "note": "87.21% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook page 15 Ex",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
@@ -391,10 +391,10 @@ window.RECAP_DATA = {
               "due": "Sep 30"
             },
             {
-              "title": "Workbook Kap 2 pages  13-14 (FA)",
+              "title": "Workbook page 15 Ex. 3",
               "status": "due",
-              "detail": "Due Sep 30",
-              "due": "Sep 30"
+              "detail": "Due Oct 2",
+              "due": "Oct 2"
             }
           ],
           "grades": [
@@ -476,11 +476,32 @@ window.RECAP_DATA = {
               "due": "Sep 2"
             },
             {
+              "title": "Haben and Sein",
+              "score": "4.5/5",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 21"
+            },
+            {
               "title": "Workbook for the week -",
               "score": "30/30",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 22"
+            },
+            {
+              "title": "Lord's Pray Final - All Parts",
+              "score": "9.5/10",
+              "percent": 95.0,
+              "group": "Summative Assessment",
+              "due": "Sep 25"
+            },
+            {
+              "title": "Workbook Kap 2 pages  13-14 (FA)",
+              "score": "10/10",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
             },
             {
               "title": "Grammar Into and Practice",
@@ -1145,7 +1166,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
