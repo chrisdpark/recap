@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Sep 29, 2026 · 8:13 PM CT",
+  "updated": "Wednesday, Sep 30, 2026 · 12:06 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -8,7 +8,7 @@ window.RECAP_DATA = {
         "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); 2.3 Delta Math HW overdue (Sep 28)",
         "German I 79.24% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video due Sep 30; Workbook Kap 2 pages  13-14 (FA) due Sep 30",
         "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
-        "Biology 57.06% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
+        "Biology 57.06% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Lab 03: Enzymes overdue (Sep 29)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-24 Literature Circle overdue (Sep 23)"
       ],
       "courses": [
@@ -166,7 +166,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 99.95,
-          "note": "99.95% — Sight-Singing 6 due Sep 30",
+          "note": "99.95% — You Raise Me Up overdue — Sight-Singing 6 due Sep 30",
           "work": [],
           "grades": [
             {
@@ -634,8 +634,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Lab 03: Enzymes",
-              "status": "due",
-              "detail": "Due Sep 29",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 29"
             },
             {
