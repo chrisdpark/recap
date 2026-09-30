@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 30, 2026 · 8:09 AM CT",
+  "updated": "Wednesday, Sep 30, 2026 · 12:15 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.72% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Exit Ticket: Joshua Judges due Sep 30; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
+        "Bible 92.74% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
         "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); 2.3 Delta Math HW overdue (Sep 28)",
         "German I 79.24% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video due Sep 30; Workbook Kap 2 pages  13-14 (FA) due Sep 30",
         "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
@@ -17,15 +17,9 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 92.72,
-          "note": "92.72% — Group Jigsaw- The Patriarchs posted 0 — Exit Ticket: Joshua Judges due Sep 30",
+          "grade": 92.74,
+          "note": "92.74% — Group Jigsaw- The Patriarchs posted 0 — Judges Cycle part 1 due Oct 1",
           "work": [
-            {
-              "title": "Exit Ticket: Joshua Judges",
-              "status": "due",
-              "detail": "Due Sep 30",
-              "due": "Sep 30"
-            },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
@@ -150,6 +144,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 3"
+            },
+            {
+              "title": "Exit Ticket: Joshua Judges",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
             },
             {
               "title": "How Does God Save?",
@@ -1144,7 +1145,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
