@@ -1,11 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 1, 2026 · 12:06 PM CT",
+  "updated": "Thursday, Oct 1, 2026 · 4:09 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.74% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 due Oct 1",
-        "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); 2.3 Delta Math HW overdue (Sep 28)",
+        "Bible 92.74% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0",
+        "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
         "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video overdue (Sep 30); Workbook page 15 Ex. 3 due Oct 2",
         "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 80.91% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Lab 03: Enzymes overdue (Sep 29)",
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 92.74,
-          "note": "92.74% — Group Jigsaw- The Patriarchs posted 0 — Judges Cycle part 2 due Oct 1",
+          "note": "92.74% — Group Jigsaw- The Patriarchs posted 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -28,8 +28,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Judges Cycle part 2",
-              "status": "due",
-              "detail": "Due Oct 1",
+              "status": "missing",
+              "detail": "Canvas missing",
               "due": "Oct 1"
             }
           ],
@@ -290,19 +290,19 @@ window.RECAP_DATA = {
           "teacher": "Seegers",
           "period": "P4",
           "source": "Canvas",
-          "grade": 52.61,
-          "note": "52.61% — Quiz 1.1–1.4 is 2/20 — Unit 1 Test 23/100 unmuted/posted Sep 10 (course % still 44.58) — 2.2 HW De…",
+          "grade": 28.61,
+          "note": "28.61% — Quiz 1.1–1.4 is 2/20 — 2.2 Delta Math HW posted 0 — 2.3 Delta Math HW posted 0 — Lesson 3: Solve a…",
           "work": [
             {
-              "title": "2.2 HW Delta Math",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
+              "title": "2.2 Delta Math HW",
+              "status": "zero",
+              "detail": "Posted 0",
               "due": "Sep 24"
             },
             {
               "title": "2.3 Delta Math HW",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
+              "status": "zero",
+              "detail": "Posted 0",
               "due": "Sep 28"
             },
             {
@@ -327,35 +327,42 @@ window.RECAP_DATA = {
               "due": "Aug 24"
             },
             {
-              "title": "1.1-1.4 Quiz",
+              "title": "Quiz 1: 1.1-1.4",
               "score": "2/20",
               "percent": 10.0,
               "group": "Summative Assessment",
               "due": "Aug 27"
             },
             {
-              "title": "Algebra Karaoke Lyrics",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 27"
-            },
-            {
-              "title": "Quiz #2: Lessons 5 - 7",
+              "title": "Quiz 2: 1.5-1.7",
               "score": "5.75/20",
               "percent": 28.8,
               "group": "Summative Assessment",
               "due": "Sep 11"
             },
             {
-              "title": "Unit 1 Test",
+              "title": "Chapter 1 Test: 1.1-1.4",
               "score": "23/100",
               "percent": 23.0,
               "group": "Summative Assessment",
               "due": "Sep 2"
             },
             {
-              "title": "Unit 2 Quiz: Functions",
+              "title": "2.2 Delta Math HW",
+              "score": "0/20",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 24"
+            },
+            {
+              "title": "2.3 Delta Math HW",
+              "score": "0/20",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 28"
+            },
+            {
+              "title": "Quiz 3: 2.1-2.4",
               "score": "4/20",
               "percent": 20.0,
               "group": "Summative Assessment",
