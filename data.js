@@ -1,15 +1,15 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Sep 30, 2026 · 8:14 PM CT",
+  "updated": "Thursday, Oct 1, 2026 · 12:05 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 92.74% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
         "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); 2.3 Delta Math HW overdue (Sep 28)",
-        "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video due Sep 30; Workbook page 15 Ex. 3 due Oct 2",
+        "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video overdue (Sep 30); Workbook page 15 Ex. 3 due Oct 2",
         "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
         "Biology 80.76% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Lab 03: Enzymes overdue (Sep 29)",
-        "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); TKAM 1-24 Literature Circle overdue (Sep 23)"
+        "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
       ],
       "courses": [
         {
@@ -167,7 +167,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 99.95,
-          "note": "99.95% — You Raise Me Up overdue — Sight-Singing 6 due Sep 30",
+          "note": "99.95% — Sight-Singing 6 overdue — TAPPS Solos due Oct 2",
           "work": [],
           "grades": [
             {
@@ -382,12 +382,12 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 87.21,
-          "note": "87.21% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video due Sep 30 — Workbook page 15 Ex",
+          "note": "87.21% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video overdue — Workbook page 15 Ex",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
-              "status": "due",
-              "detail": "Due Sep 30",
+              "status": "overdue",
+              "detail": "Canvas missing",
               "due": "Sep 30"
             },
             {
@@ -662,14 +662,14 @@ window.RECAP_DATA = {
             },
             {
               "title": "Creation Journals 5: Cellular Unit",
-              "status": "due",
-              "detail": "Due Sep 30",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 30"
             },
             {
               "title": "Creation Journals 6: Cellular Unit",
-              "status": "due",
-              "detail": "Due Sep 30",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 30"
             },
             {
@@ -806,7 +806,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81.75,
-          "note": "81.75% — Q1 Membean Program 5 overdue — Q1 Membean Program 6 due Sep 30",
+          "note": "81.75% — Q1 Membean Program 5 overdue — Q1 Membean Quiz 3 due Oct 1",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -816,8 +816,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Q1 Membean Program 6",
-              "status": "due",
-              "detail": "Due Sep 30",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 30"
             },
             {
@@ -840,8 +840,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "TKAM Ch. 25-31 due",
-              "status": "due",
-              "detail": "Due Sep 30",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Sep 30"
             },
             {
@@ -944,8 +944,8 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
-        "English 12 still has 17 overdue items including Poetic Elements and Structure (StudySync).",
-        "Physics still has 7 overdue items including Final Test Review Problems.",
+        "English 12 still has 19 overdue items including Poetic Elements and Structure (StudySync).",
+        "Physics still has 9 overdue items including Final Test Review Problems.",
         "Sociology still has 10 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
         "Apologetics 82.0% — 82.0%"
       ],
@@ -956,7 +956,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "17 overdue · 10 recent submissions ungraded · work due this week",
+          "note": "19 overdue · 10 recent submissions ungraded",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1062,15 +1062,15 @@ window.RECAP_DATA = {
             },
             {
               "title": "DWS #4 Quiz",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 30"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 30"
             },
             {
               "title": "Persuasive Paper",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 30"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 30"
             }
           ],
           "grades": [
@@ -1234,6 +1234,20 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Sep 27"
+            },
+            {
+              "title": "DWS #4 Quiz",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Persuasive Paper",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 30"
             }
           ]
         },
@@ -1242,8 +1256,8 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 84,
-          "note": "7 overdue · 2 posted 0 · 1 recent submissions ungraded",
+          "grade": 82,
+          "note": "9 overdue · 2 posted 0 · 1 recent submissions ungraded",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1301,15 +1315,15 @@ window.RECAP_DATA = {
             },
             {
               "title": "Free Body Diagram Worksheet",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 30"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 30"
             },
             {
               "title": "Newton's 2nd Law Problem Set (No Friction)",
-              "status": "due",
-              "detail": "",
-              "due": "Sep 30"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Sep 30"
             }
           ],
           "grades": [
@@ -1466,6 +1480,20 @@ window.RECAP_DATA = {
               "percent": 85,
               "group": "",
               "due": "Sep 23"
+            },
+            {
+              "title": "Free Body Diagram Worksheet",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Newton's 2nd Law Problem Set (No Friction)",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 30"
             },
             {
               "title": "1D Motion Quiz",
