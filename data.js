@@ -1,14 +1,14 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 1, 2026 · 8:17 AM CT",
+  "updated": "Thursday, Oct 1, 2026 · 12:06 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 92.74% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 1 due Oct 1; Judges Cycle part 2 due Oct 1",
+        "Bible 92.74% — Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 due Oct 1",
         "Algebra I 52.61% — 1.1-1.4 Quiz = 2/20; Quiz #2: Lessons 5 - 7 = 5.75/20; Unit 1 Test = 23/100; 2.2 HW Delta Math overdue (Sep 24); 2.3 Delta Math HW overdue (Sep 28)",
         "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video overdue (Sep 30); Workbook page 15 Ex. 3 due Oct 2",
         "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
-        "Biology 80.76% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Lab 03: Enzymes overdue (Sep 29)",
+        "Biology 80.91% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Lab 03: Enzymes overdue (Sep 29)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
       ],
       "courses": [
@@ -18,19 +18,13 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 92.74,
-          "note": "92.74% — Group Jigsaw- The Patriarchs posted 0 — Judges Cycle part 1 due Oct 1",
+          "note": "92.74% — Group Jigsaw- The Patriarchs posted 0 — Judges Cycle part 2 due Oct 1",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
               "detail": "Posted 0 / Canvas missing",
               "due": "Sep 3"
-            },
-            {
-              "title": "Judges Cycle part 1",
-              "status": "due",
-              "detail": "Due Oct 1",
-              "due": "Oct 1"
             },
             {
               "title": "Judges Cycle part 2",
@@ -645,8 +639,8 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 80.76,
-          "note": "80.76% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
+          "grade": 80.91,
+          "note": "80.91% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -776,6 +770,13 @@ window.RECAP_DATA = {
               "percent": 91.0,
               "group": "Formative Assessment",
               "due": "Sep 25"
+            },
+            {
+              "title": "Osmosis Post-Lab Analysis (FA)",
+              "score": "85.6/100",
+              "percent": 85.6,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
             },
             {
               "title": "Macromolecule Matching",
@@ -2080,7 +2081,14 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
-              "title": "Understanding Truth Assignments 3-4: Truth Test and Truth Statements",
+              "title": "Understanding Truth Assignment 3: Truth Test",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 2"
+            },
+            {
+              "title": "Understanding Truth Assignment 4: Truth Statements",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
@@ -2094,7 +2102,7 @@ window.RECAP_DATA = {
               "due": "Sep 17"
             },
             {
-              "title": "Unit 1 Summative Quiz (classic)",
+              "title": "Unit 1 Summative Quiz (Essay)",
               "score": "70/100",
               "percent": 70.0,
               "group": "Summative Assessment",
@@ -2108,7 +2116,14 @@ window.RECAP_DATA = {
               "due": "Sep 29"
             },
             {
-              "title": "Understanding Truth Assignments 1-2: Self-Defeating Claims and Tolerance Activity",
+              "title": "Understanding Truth Assignment 1: Self-Defeating Claims",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
+            },
+            {
+              "title": "Understanding Truth Assignment 2: Tolerance Activity",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
