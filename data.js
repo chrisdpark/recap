@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 1, 2026 · 8:11 PM CT",
+  "updated": "Friday, Oct 2, 2026 · 12:11 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -821,7 +821,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81.75,
-          "note": "81.75% — Q1 Membean Program 5 overdue — Q1 Membean Quiz 3 due Oct 1",
+          "note": "81.75% — Q1 Membean Program 5 overdue",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -861,8 +861,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Q1 Membean Quiz 3",
-              "status": "due",
-              "detail": "Due Oct 1",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
               "due": "Oct 1"
             }
           ],
@@ -1545,7 +1545,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 62,
-          "note": "Course at 62% · 3 overdue · 3 posted 0",
+          "note": "Course at 62% · 4 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1579,9 +1579,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Midterm",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 1"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 1"
             },
             {
               "title": "Synch Session #5 Make Up",
@@ -1715,6 +1715,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Sep 29"
+            },
+            {
+              "title": "Midterm",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Oct 1"
             },
             {
               "title": "Check point Quiz",
@@ -1890,7 +1897,7 @@ window.RECAP_DATA = {
           "teacher": "Lane",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 93,
+          "grade": 85,
           "note": "10 overdue · 2 recent submissions ungraded",
           "work": [
             {
