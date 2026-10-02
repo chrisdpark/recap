@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 2, 2026 · 12:08 PM CT",
+  "updated": "Friday, Oct 2, 2026 · 4:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 90.36% — Judges Cycle part 2 = 0/100; Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0",
+        "Bible 90.36% — Judges Cycle part 2 = 0/100; Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; Test: Torah Exam Units 1-5 due Oct 5",
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
         "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video overdue (Sep 30); Workbook page 15 Ex. 3 due Oct 2",
-        "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
+        "World Geography 88.48% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); submitted awaiting grade: September 30th - Current Event Post, TURN IN - Human Environment Interaction Article Activity, TURN IN - Political Organizations Vocab Matrix",
         "Biology 80.56% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
       ],
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 90.36,
-          "note": "90.36% — Group Jigsaw- The Patriarchs posted 0",
+          "note": "90.36% — Group Jigsaw- The Patriarchs posted 0 — Test: Torah Exam Units 1-5 due Oct 5",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -31,6 +31,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0 / Canvas missing",
               "due": "Oct 1"
+            },
+            {
+              "title": "Test: Torah Exam Units 1-5",
+              "status": "due",
+              "detail": "Due Oct 5",
+              "due": "Oct 5"
             }
           ],
           "grades": [
@@ -298,7 +304,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "Canvas",
           "grade": 28.61,
-          "note": "28.61% — Quiz 1.1–1.4 is 2/20 — 2.2 Delta Math HW posted 0 — 2.3 Delta Math HW posted 0 — Lesson 3: Solve a…",
+          "note": "28.61% — Quiz 1.1–1.4 is 2/20 — 2.2 Delta Math HW posted 0 — 2.3 Delta Math HW posted 0 — 2.5-2.7 Delta Mat…",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -311,6 +317,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0",
               "due": "Sep 28"
+            },
+            {
+              "title": "2.5-2.7 Delta Math HW",
+              "status": "due",
+              "detail": "Due Oct 5",
+              "due": "Oct 5"
             },
             {
               "title": "Lesson 3: Solve and Color (schedule)",
@@ -553,15 +565,9 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 86.23,
-          "note": "86.23% — U.S. Political Map Quiz overdue",
+          "grade": 88.48,
+          "note": "88.48% — Unit 1 Test: Foundations of Geography Copy overdue",
           "work": [
-            {
-              "title": "U.S. Political Map Quiz",
-              "status": "overdue",
-              "detail": "Canvas missing",
-              "due": "Sep 25"
-            },
             {
               "title": "Unit 1 Test: Foundations of Geography Copy",
               "status": "overdue",
@@ -634,6 +640,13 @@ window.RECAP_DATA = {
               "due": "Sep 25"
             },
             {
+              "title": "U.S. Political Map Quiz",
+              "score": "200/200",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 25"
+            },
+            {
               "title": "Biomes Brochure",
               "score": "100/100",
               "percent": 100.0,
@@ -655,12 +668,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0",
               "due": "Sep 18"
-            },
-            {
-              "title": "Unit 2 Test: Cell Structure and Environment (SA)",
-              "status": "due",
-              "detail": "Due Oct 2",
-              "due": "Oct 2"
             },
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -818,7 +825,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81.75,
-          "note": "81.75% — Q1 Membean Program 5 overdue",
+          "note": "81.75% — Q1 Membean Program 5 overdue — TKAM Novel Test due Oct 5",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -861,6 +868,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Oct 1"
+            },
+            {
+              "title": "TKAM Novel Test",
+              "status": "due",
+              "detail": "Due Oct 5",
+              "due": "Oct 5"
             }
           ],
           "grades": [
