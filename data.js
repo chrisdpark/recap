@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 1, 2026 · 5:18 PM CT",
+  "updated": "Thursday, Oct 1, 2026 · 8:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -962,7 +962,7 @@ window.RECAP_DATA = {
         "English 12 still has 19 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 9 overdue items including Final Test Review Problems.",
         "Sociology still has 10 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 82.0% — Unit 1 Summative Quiz (Essay) = 70/100; Case for Truth Summative Exam due Oct 9 (P3 Fri); Spider Web handout/presentation/project due Oct 9"
+        "Apologetics 82.0% — 82.0%"
       ],
       "courses": [
         {
@@ -2096,33 +2096,8 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 82.0,
-          "note": "82.0% — Unit 1 Summative Quiz 70/100; Truth Assignments 3–4 already 100 (due Oct 2); Exam Fri Oct 9 (P3)",
-          "work": [
-            {
-              "title": "Summative Exam - The Case for Truth",
-              "status": "due",
-              "detail": "P3 exam Friday Oct 9 (announcement); Canvas due Oct 9 / lock Oct 10; review PDF posted",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Formative - Spider Web of Beliefs Handout Completion",
-              "status": "due",
-              "detail": "Upcoming within ~7 days; not yet submitted",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Formative - Spider Web of Beliefs Presentation Completion",
-              "status": "due",
-              "detail": "Upcoming within ~7 days; not yet submitted",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Summative Project - Spider Web of Beliefs Overall Grade",
-              "status": "due",
-              "detail": "Upcoming within ~7 days; not yet submitted",
-              "due": "Oct 9"
-            }
-          ],
+          "note": "82.0%",
+          "work": [],
           "grades": [
             {
               "title": "Your Apologetics Starting Point",
@@ -2132,11 +2107,18 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
-              "title": "Surrounded Simulation Post-Survey",
+              "title": "Understanding Truth Assignment 3: Truth Test",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 4"
+              "due": "Oct 2"
+            },
+            {
+              "title": "Understanding Truth Assignment 4: Truth Statements",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 2"
             },
             {
               "title": "Video Quiz: Is there Meaning to Life?",
@@ -2174,18 +2156,11 @@ window.RECAP_DATA = {
               "due": "Sep 29"
             },
             {
-              "title": "Understanding Truth Assignment 3: Truth Test",
+              "title": "Surrounded Simulation Post-Survey",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 2"
-            },
-            {
-              "title": "Understanding Truth Assignment 4: Truth Statements",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 2"
+              "due": "Sep 4"
             }
           ]
         },
@@ -2195,12 +2170,12 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — 9/15-9/18 overdue; no new week assignments on Canvas after 9/15-9/18",
+          "note": "100.0% — 9/15-9/18 overdue",
           "work": [
             {
               "title": "9/15-9/18",
               "status": "overdue",
-              "detail": "Unsubmitted past due (iPad/Procreate Artwork)",
+              "detail": "Unsubmitted past due",
               "due": "Sep 18"
             }
           ],
@@ -2220,18 +2195,18 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
-              "title": "9/1-9/4",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
-            },
-            {
               "title": "9/8-9/11",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "9/1-9/4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             }
           ]
         }
