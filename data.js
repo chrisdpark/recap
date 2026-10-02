@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 2, 2026 · 8:15 AM CT",
+  "updated": "Friday, Oct 2, 2026 · 12:08 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -8,7 +8,7 @@ window.RECAP_DATA = {
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
         "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video overdue (Sep 30); Workbook page 15 Ex. 3 due Oct 2",
         "World Geography 86.23% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; U.S. Political Map Quiz overdue (Sep 25); Unit 1 Test: Foundations of Geography Copy overdue (Sep 18)",
-        "Biology 80.91% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Lab 03: Enzymes overdue (Sep 29)",
+        "Biology 80.56% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
       ],
       "courses": [
@@ -554,14 +554,8 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 86.23,
-          "note": "86.23% — U.S. Political Map Quiz overdue — September 30th - Current Event Post due Oct 2",
+          "note": "86.23% — U.S. Political Map Quiz overdue",
           "work": [
-            {
-              "title": "September 30th - Current Event Post",
-              "status": "due",
-              "detail": "Due Oct 2",
-              "due": "Oct 2"
-            },
             {
               "title": "U.S. Political Map Quiz",
               "status": "overdue",
@@ -653,32 +647,14 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 80.91,
-          "note": "80.91% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
+          "grade": 80.56,
+          "note": "80.56% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
               "status": "zero",
               "detail": "Posted 0",
               "due": "Sep 18"
-            },
-            {
-              "title": "Lab 03: Enzymes",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 29"
-            },
-            {
-              "title": "Creation Journals 5: Cellular Unit",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Creation Journals 6: Cellular Unit",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 30"
             },
             {
               "title": "Unit 2 Test: Cell Structure and Environment (SA)",
@@ -786,11 +762,32 @@ window.RECAP_DATA = {
               "due": "Sep 25"
             },
             {
+              "title": "Lab 03: Enzymes",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
+            },
+            {
               "title": "Osmosis Post-Lab Analysis (FA)",
               "score": "85.6/100",
               "percent": 85.6,
               "group": "Formative Assessment",
               "due": "Sep 29"
+            },
+            {
+              "title": "Creation Journals 5: Cellular Unit",
+              "score": "5/10",
+              "percent": 50.0,
+              "group": "Summative Assessment",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Creation Journals 6: Cellular Unit",
+              "score": "10/10",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 30"
             },
             {
               "title": "Macromolecule Matching",
@@ -959,10 +956,10 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
-        "English 12 still has 19 overdue items including Poetic Elements and Structure (StudySync).",
-        "Physics still has 9 overdue items including Final Test Review Problems.",
-        "Sociology still has 10 overdue items including Sociology Unit 1&2 Test (Requires Respondus LockDown Browser).",
-        "Apologetics 82.0% — 82.0%"
+        "English 12 still has 1 overdue item including DWS #4 Quiz.",
+        "Sociology still has 6 overdue items including Synchro Session Attendance: Units 4-6.",
+        "Apologetics 82.0% — 82.0%",
+        "Graphic Design/Digital Art 100.0% — 9/15-9/18 overdue Sep 18"
       ],
       "courses": [
         {
@@ -971,215 +968,16 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "19 overdue · 10 recent submissions ungraded",
+          "note": "1 overdue · 9 recent submissions ungraded",
           "work": [
             {
-              "title": "Poetic Elements and Structure (StudySync)",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 21"
-            },
-            {
-              "title": "Membean 9/21",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 21"
-            },
-            {
-              "title": "Membean Practice 10/19",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 19"
-            },
-            {
-              "title": "Intro to the English Renaissance on StudySync",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 19"
-            },
-            {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 26"
-            },
-            {
-              "title": "Mbn 10/27",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 26"
-            },
-            {
-              "title": "Mbn 11/2",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 2"
-            },
-            {
-              "title": "Mbn 11/09",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 9"
-            },
-            {
-              "title": "Macbeth Act 5 Discussion Questions",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 9"
-            },
-            {
-              "title": "StudySync Act 5, scene 5 Paragraph Response",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 9"
-            },
-            {
-              "title": "Mbn 11/16",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 16"
-            },
-            {
-              "title": "Mbn 11/23",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 23"
-            },
-            {
-              "title": "Brave New World Summer Reading Essay Test",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 20"
-            },
-            {
-              "title": "Membean 8/30",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 30"
-            },
-            {
-              "title": "Membean 9/7",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 6"
-            },
-            {
-              "title": "Membean 9/13",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 13"
-            },
-            {
-              "title": "Membean 9/27",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 27"
-            },
-            {
               "title": "DWS #4 Quiz",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 30"
-            },
-            {
-              "title": "Persuasive Paper",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 30"
             }
           ],
           "grades": [
-            {
-              "title": "Poetic Elements and Structure (StudySync)",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 21"
-            },
-            {
-              "title": "Membean 9/21",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 21"
-            },
-            {
-              "title": "Membean Practice 10/19",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 19"
-            },
-            {
-              "title": "Intro to the English Renaissance on StudySync",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 19"
-            },
-            {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 26"
-            },
-            {
-              "title": "Mbn 10/27",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 26"
-            },
-            {
-              "title": "Mbn 11/2",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 2"
-            },
-            {
-              "title": "Mbn 11/09",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 9"
-            },
-            {
-              "title": "Macbeth Act 5 Discussion Questions",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 9"
-            },
-            {
-              "title": "StudySync Act 5, scene 5 Paragraph Response",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 9"
-            },
-            {
-              "title": "Mbn 11/16",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 16"
-            },
-            {
-              "title": "Mbn 11/23",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 23"
-            },
-            {
-              "title": "Brave New World Summer Reading Essay Test",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 20"
-            },
             {
               "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100%",
@@ -1202,20 +1000,6 @@ window.RECAP_DATA = {
               "due": "Aug 26"
             },
             {
-              "title": "Membean 8/30",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 30"
-            },
-            {
-              "title": "Membean 9/7",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 6"
-            },
-            {
               "title": "Beowulf Questions",
               "score": "100%",
               "percent": 100,
@@ -1230,13 +1014,6 @@ window.RECAP_DATA = {
               "due": "Sep 8"
             },
             {
-              "title": "Membean 9/13",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 13"
-            },
-            {
               "title": "Daily Writing Skills Quiz #3: Identifying Independent and Dependent Clauses",
               "score": "100%",
               "percent": 100,
@@ -1244,21 +1021,7 @@ window.RECAP_DATA = {
               "due": "Sep 21"
             },
             {
-              "title": "Membean 9/27",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 27"
-            },
-            {
               "title": "DWS #4 Quiz",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Persuasive Paper",
               "score": "—",
               "percent": null,
               "group": "",
@@ -1272,20 +1035,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 82,
-          "note": "9 overdue · 2 posted 0 · 1 recent submissions ungraded",
+          "note": "2 posted 0 · 1 recent submissions ungraded",
           "work": [
-            {
-              "title": "Final Test Review Problems",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Dec 14"
-            },
-            {
-              "title": "Lockdown Browser Tutorial",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 18"
-            },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
               "status": "zero",
@@ -1297,71 +1048,9 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, not completed",
               "due": "Due Aug 29"
-            },
-            {
-              "title": "Define 1D Motion Discussion Forum",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 8"
-            },
-            {
-              "title": "Velocity Teaching Video",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 10"
-            },
-            {
-              "title": "Position Time Graphs Teaching Video",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 14"
-            },
-            {
-              "title": "Position - Time Graph Walking Video Discussion Forum",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 21"
-            },
-            {
-              "title": "Forces and Newton's Laws Notes",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 23"
-            },
-            {
-              "title": "Free Body Diagram Worksheet",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 30"
-            },
-            {
-              "title": "Newton's 2nd Law Problem Set (No Friction)",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 30"
-            },
-            {
-              "title": "2D Motion Test Review",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 3"
             }
           ],
           "grades": [
-            {
-              "title": "Final Test Review Problems",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Dec 14"
-            },
-            {
-              "title": "Lockdown Browser Tutorial",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 18"
-            },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
               "score": "0%",
@@ -1412,13 +1101,6 @@ window.RECAP_DATA = {
               "due": "Aug 29"
             },
             {
-              "title": "Significant Figure Lab Explanation",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 1"
-            },
-            {
               "title": "Prerequisite Skills Test",
               "score": "69%",
               "percent": 69,
@@ -1447,46 +1129,11 @@ window.RECAP_DATA = {
               "due": "Sep 5"
             },
             {
-              "title": "Define 1D Motion Discussion Forum",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 8"
-            },
-            {
-              "title": "Velocity Teaching Video",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 10"
-            },
-            {
-              "title": "Position Time Graphs Teaching Video",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 14"
-            },
-            {
               "title": "1D Motion Test Review",
               "score": "100%",
               "percent": 100,
               "group": "",
               "due": "Sep 19"
-            },
-            {
-              "title": "Position - Time Graph Walking Video Discussion Forum",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 21"
-            },
-            {
-              "title": "Forces and Newton's Laws Notes",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 23"
             },
             {
               "title": "2D Motion Notes",
@@ -1503,18 +1150,11 @@ window.RECAP_DATA = {
               "due": "Sep 23"
             },
             {
-              "title": "Free Body Diagram Worksheet",
-              "score": "—",
-              "percent": null,
+              "title": "2D Motion Digital Lab",
+              "score": "75%",
+              "percent": 75,
               "group": "",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Newton's 2nd Law Problem Set (No Friction)",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 30"
+              "due": "Sep 26"
             },
             {
               "title": "1D Motion Quiz",
@@ -1545,14 +1185,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 62,
-          "note": "Course at 62% · 4 overdue · 3 posted 0",
+          "note": "Course at 62% · 1 overdue · 2 posted 0",
           "work": [
-            {
-              "title": "Synch #1 Make Up",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 23"
-            },
             {
               "title": "Federalists v. Anti Federalists",
               "status": "zero",
@@ -1566,44 +1200,13 @@ window.RECAP_DATA = {
               "due": "Due Sep 10"
             },
             {
-              "title": "Synch Session #3 9/7",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 13"
-            },
-            {
-              "title": "Synch Session #4 9/21",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 27"
-            },
-            {
               "title": "Midterm",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 1"
-            },
-            {
-              "title": "Synch Session #5 Make Up",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 4"
-            },
-            {
-              "title": "Check point Quiz",
-              "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Dec 10"
             }
           ],
           "grades": [
-            {
-              "title": "Synch #1 Make Up",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 23"
-            },
             {
               "title": "Systems of Government Comparison",
               "score": "100%",
@@ -1661,13 +1264,6 @@ window.RECAP_DATA = {
               "due": "Sep 13"
             },
             {
-              "title": "Synch Session #3 9/7",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 13"
-            },
-            {
               "title": "Checkpoint Quiz",
               "score": "87%",
               "percent": 87,
@@ -1703,13 +1299,6 @@ window.RECAP_DATA = {
               "due": "Sep 25"
             },
             {
-              "title": "Synch Session #4 9/21",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 27"
-            },
-            {
               "title": "Civic Participation",
               "score": "100%",
               "percent": 100,
@@ -1722,13 +1311,6 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Oct 1"
-            },
-            {
-              "title": "Check point Quiz",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Dec 10"
             }
           ]
         },
@@ -1898,90 +1480,79 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "10 overdue · 2 recent submissions ungraded",
+          "note": "6 overdue · 1 posted 0",
           "work": [
             {
-              "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
-              "status": "overdue",
-              "detail": "Not completed",
+              "title": "Synchro Session Attendance: Units 1-3",
+              "status": "zero",
+              "detail": "Posted 0, not completed",
               "due": "Due Aug 19"
             },
             {
-              "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
+              "title": "Synchro Session Attendance: Units 4-6",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Aug 21"
             },
             {
-              "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
+              "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 25"
+              "due": "Due Aug 27"
             },
             {
-              "title": "Concept Module 1: Perspectives",
+              "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Aug 31"
             },
             {
-              "title": "Concept Module 2: Research",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 2"
-            },
-            {
-              "title": "DQ1: The Sociological Imagination",
+              "title": "Concept Module 1: Perspectives",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 4"
             },
             {
-              "title": "OPT. Assignment #2: Violate a Social Norm",
+              "title": "Concept Module 2: Research",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 13"
+              "due": "Due Sep 8"
             },
             {
-              "title": "OPT. Assignment #1: Journal of Mundane Behavior",
+              "title": "DQ1: The Sociological Imagination",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 15"
-            },
-            {
-              "title": "DQ2: Societal Values",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 25"
-            },
-            {
-              "title": "OPT. Assignment #3: Song Analysis",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 28"
+              "due": "Due Sep 10"
             }
           ],
           "grades": [
             {
-              "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
-              "score": "—",
-              "percent": null,
+              "title": "Synchro Session Attendance: Units 1-3",
+              "score": "0%",
+              "percent": 0,
               "group": "",
               "due": "Aug 19"
             },
             {
-              "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
+              "title": "Synchro Session Attendance: Units 4-6",
               "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 21"
             },
             {
-              "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
+              "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
+              "score": "86%",
+              "percent": 86,
+              "group": "",
+              "due": "Aug 25"
+            },
+            {
+              "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Aug 25"
+              "due": "Aug 27"
             },
             {
               "title": "Assignment #1: Profile a Sociologist",
@@ -2005,25 +1576,32 @@ window.RECAP_DATA = {
               "due": "Aug 30"
             },
             {
-              "title": "Concept Module 1: Perspectives",
+              "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
               "score": "—",
               "percent": null,
               "group": "",
               "due": "Aug 31"
             },
             {
+              "title": "Concept Module 1: Perspectives",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Sep 4"
+            },
+            {
               "title": "Concept Module 2: Research",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 2"
+              "due": "Sep 8"
             },
             {
               "title": "DQ1: The Sociological Imagination",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 4"
+              "due": "Sep 10"
             },
             {
               "title": "Culture & Media Assignment",
@@ -2040,58 +1618,44 @@ window.RECAP_DATA = {
               "due": "Sep 13"
             },
             {
-              "title": "OPT. Assignment #2: Violate a Social Norm",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 13"
-            },
-            {
-              "title": "OPT. Assignment #1: Journal of Mundane Behavior",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 15"
-            },
-            {
               "title": "Concept Module 1: Culture",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 21"
+              "due": "Sep 24"
             },
             {
               "title": "Concept Module 2: Society and Status",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 23"
+              "due": "Sep 28"
+            },
+            {
+              "title": "Disney Socialization Assignment",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Sep 28"
+            },
+            {
+              "title": "Sociological Scavenger Hunt #3",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Sep 28"
             },
             {
               "title": "DQ2: Societal Values",
-              "score": "—",
-              "percent": null,
+              "score": "100%",
+              "percent": 100,
               "group": "",
-              "due": "Sep 25"
-            },
-            {
-              "title": "OPT. Assignment #3: Song Analysis",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 28"
+              "due": "Sep 30"
             },
             {
               "title": "Concept Module 1: Theoretical Perspectives on Socialization",
               "score": "78%",
               "percent": 78,
-              "group": "",
-              "due": "Oct 8"
-            },
-            {
-              "title": "Concept Module 2: Know Your Terms",
-              "score": "100%",
-              "percent": 100,
               "group": "",
               "due": "Oct 12"
             }
