@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 3, 2026 · 4:17 PM CT",
+  "updated": "Saturday, Oct 3, 2026 · 8:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1185,7 +1185,7 @@ window.RECAP_DATA = {
               "due": "Aug 20"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100%",
               "percent": 100,
               "group": "",
@@ -1549,7 +1549,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 62,
-          "note": "Course at 62% · 4 overdue · 3 posted 0",
+          "note": "Course at 62% · 4 overdue · 2 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1592,12 +1592,6 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "",
               "due": "Oct 4"
-            },
-            {
-              "title": "Check point Quiz",
-              "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Dec 10"
             }
           ],
           "grades": [
@@ -1726,13 +1720,6 @@ window.RECAP_DATA = {
               "percent": null,
               "group": "",
               "due": "Oct 1"
-            },
-            {
-              "title": "Check point Quiz",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Dec 10"
             }
           ]
         },
