@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Oct 4, 2026 · 4:18 AM CT",
+  "updated": "Sunday, Oct 4, 2026 · 8:13 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1345,6 +1345,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 2"
+            },
+            {
+              "title": "Synch Session #5 Make Up",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 4"
             },
             {
               "title": "Check point Quiz",
