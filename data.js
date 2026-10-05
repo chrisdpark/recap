@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Oct 4, 2026 · 8:16 PM CT",
+  "updated": "Monday, Oct 5, 2026 · 12:24 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 90.36% — Judges Cycle part 2 = 0/100; Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; Test: Torah Exam Units 1-5 due Oct 5",
+        "Bible 91.03% — Judges Cycle part 2 = 0/100; Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; 1 Samuel Overview Video Check due Oct 5",
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
         "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video overdue (Sep 30); Workbook page 15 Ex. 3 overdue (Oct 2)",
-        "World Geography 88.48% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); submitted awaiting grade: September 30th - Current Event Post, TURN IN - Human Environment Interaction Article Activity, TURN IN - Political Organizations Vocab Matrix",
+        "World Geography 88.48% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); Political Organizations Vocab Quiz due Oct 9",
         "Biology 80.56% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
       ],
@@ -17,9 +17,15 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 90.36,
-          "note": "90.36% — Group Jigsaw- The Patriarchs posted 0 — Test: Torah Exam Units 1-5 due Oct 5",
+          "grade": 91.03,
+          "note": "91.03% — Group Jigsaw- The Patriarchs posted 0 — 1 Samuel Overview Video Check due Oct 5",
           "work": [
+            {
+              "title": "1 Samuel Overview Video Check",
+              "status": "due",
+              "detail": "Due Oct 5",
+              "due": "Oct 5"
+            },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
@@ -33,7 +39,7 @@ window.RECAP_DATA = {
               "due": "Oct 1"
             },
             {
-              "title": "Test: Torah Exam Units 1-5",
+              "title": "Test — Torah Summative Exam",
               "status": "due",
               "detail": "Due Oct 5",
               "due": "Oct 5"
@@ -67,6 +73,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 27"
+            },
+            {
+              "title": "Judges Cycle part 1",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 1"
             },
             {
               "title": "Judges Cycle part 2",
@@ -126,8 +139,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Exodus 34:6-7a Memory Verse",
-              "score": "90/100",
-              "percent": 90.0,
+              "score": "100/100",
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 28"
             },
@@ -174,7 +187,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 99.95,
-          "note": "99.95% — Sight-Singing 6 overdue",
+          "note": "99.95% — Sight-Singing 6 overdue — Sight-Singing 7 due Oct 7",
           "work": [],
           "grades": [
             {
@@ -325,6 +338,12 @@ window.RECAP_DATA = {
               "due": "Oct 5"
             },
             {
+              "title": "Chapter 2 Test: 2.1-2.7",
+              "status": "due",
+              "detail": "Due Oct 7",
+              "due": "Oct 7"
+            },
+            {
               "title": "Lesson 3: Solve and Color (schedule)",
               "status": "overdue",
               "detail": "Unit 1 Schedule due 9/2 — not a Canvas assignment submission",
@@ -402,13 +421,37 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 87.21,
-          "note": "87.21% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video overdue — Workbook page 15 Ex",
+          "note": "87.21% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video overdue — Farben due Oct 6 — Review Packet (…",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
               "status": "overdue",
               "detail": "Canvas missing",
               "due": "Sep 30"
+            },
+            {
+              "title": "Farben",
+              "status": "due",
+              "detail": "Due Oct 6",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Review Packet (FA)",
+              "status": "due",
+              "detail": "Due Oct 6",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Vocabulary Quiz #1 (FA)",
+              "status": "due",
+              "detail": "Due Oct 6",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Watch Video - Write a summary of 10 things about the family",
+              "status": "due",
+              "detail": "Due Oct 6",
+              "due": "Oct 6"
             },
             {
               "title": "Workbook page 15 Ex. 3",
@@ -566,8 +609,14 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 88.48,
-          "note": "88.48% — Unit 1 Test: Foundations of Geography Copy overdue",
+          "note": "88.48% — Unit 1 Test: Foundations of Geography Copy overdue — Political Organizations Vocab Quiz due Oct 9",
           "work": [
+            {
+              "title": "Political Organizations Vocab Quiz",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
+            },
             {
               "title": "Unit 1 Test: Foundations of Geography Copy",
               "status": "overdue",
@@ -668,6 +717,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0",
               "due": "Sep 18"
+            },
+            {
+              "title": "Lab 03 Post Post Lab (FA)",
+              "status": "due",
+              "detail": "Due Oct 6",
+              "due": "Oct 6"
             },
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -825,7 +880,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81.75,
-          "note": "81.75% — Q1 Membean Program 5 overdue — TKAM Novel Test due Oct 5",
+          "note": "81.75% — Q1 Membean Program 5 overdue — Q1 Membean Program 7 due Oct 7",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -838,6 +893,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 30"
+            },
+            {
+              "title": "Q1 Membean Program 7",
+              "status": "due",
+              "detail": "Due Oct 7",
+              "due": "Oct 7"
             },
             {
               "title": "TKAM 1-24 Literature Circle",
@@ -972,7 +1033,7 @@ window.RECAP_DATA = {
         "English 12 still has 18 overdue items including Poetic Elements and Structure (StudySync).",
         "Physics still has 10 overdue items including Final Test Review Problems.",
         "Sociology still has 9 overdue items including Synchro Session Attendance: Units 4-6.",
-        "Apologetics 82.0% — 82.0%"
+        "Apologetics 82.0% — Formative - Spider Web of Beliefs Handout Completion due Oct 9; Formative - Spider Web of Beliefs Presentation Completion due Oct 9; Summative Exam - The Case for Truth due Oct 9; Summative Project - Spider Web of Beliefs Overall Grade due Oct 9"
       ],
       "courses": [
         {
@@ -981,7 +1042,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "18 overdue · 11 recent submissions ungraded",
+          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · 18 overdue · 11 recent submissions ungraded",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1269,7 +1330,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 82,
-          "note": "10 overdue · 2 posted 0",
+          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · 10 overdue · 2 posted 0 · work due this week",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1342,6 +1403,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 3"
+            },
+            {
+              "title": "Newton's 2nd Law Problem Set #2 (Friction & Inclines)",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 7"
+            },
+            {
+              "title": "Cart on Incline Lab",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 9"
             }
           ],
           "grades": [
@@ -1556,7 +1629,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 62,
-          "note": "Course at 62% · 4 overdue · 3 posted 0",
+          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · Course at 62% · 5 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1596,9 +1669,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Synch Session #5 Make Up",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 4"
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 4"
             },
             {
               "title": "Check point Quiz",
@@ -1735,6 +1808,13 @@ window.RECAP_DATA = {
               "due": "Oct 1"
             },
             {
+              "title": "Synch Session #5 Make Up",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Oct 4"
+            },
+            {
               "title": "Check point Quiz",
               "score": "0%",
               "percent": 0,
@@ -1749,7 +1829,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "6 posted 0",
+          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · 6 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1909,7 +1989,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "9 overdue · 1 posted 0",
+          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · 9 overdue · 1 posted 0",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
@@ -2142,8 +2222,33 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 82.0,
-          "note": "82.0%",
-          "work": [],
+          "note": "82.0% — Formative - Spider Web of Beliefs Handout Completion due Oct 9",
+          "work": [
+            {
+              "title": "Formative - Spider Web of Beliefs Handout Completion",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Formative - Spider Web of Beliefs Presentation Completion",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Summative Exam - The Case for Truth",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Summative Project - Spider Web of Beliefs Overall Grade",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
+            }
+          ],
           "grades": [
             {
               "title": "Your Apologetics Starting Point",
