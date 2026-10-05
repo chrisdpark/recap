@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 5, 2026 · 12:24 AM CT",
+  "updated": "Monday, Oct 5, 2026 · 4:09 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1042,7 +1042,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 100,
-          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · 18 overdue · 11 recent submissions ungraded",
+          "note": "18 overdue · 11 recent submissions ungraded",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1330,7 +1330,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 82,
-          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · 10 overdue · 2 posted 0 · work due this week",
+          "note": "10 overdue · 2 posted 0 · work due this week",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1620,6 +1620,13 @@ window.RECAP_DATA = {
               "percent": 90,
               "group": "",
               "due": "Oct 19"
+            },
+            {
+              "title": "2D Motion Test",
+              "score": "82%",
+              "percent": 82,
+              "group": "",
+              "due": "Oct 23"
             }
           ]
         },
@@ -1629,7 +1636,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 62,
-          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · Course at 62% · 5 overdue · 3 posted 0",
+          "note": "Course at 62% · 5 overdue · 3 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1829,7 +1836,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · 6 posted 0",
+          "note": "6 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1989,7 +1996,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "Ethos as of Sun Oct 4, 8:14 PM CT (no fresh scrape this run) · 9 overdue · 1 posted 0",
+          "note": "9 overdue · 1 posted 0",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
