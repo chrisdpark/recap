@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 5, 2026 · 12:07 PM CT",
+  "updated": "Monday, Oct 5, 2026 · 4:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -621,6 +621,12 @@ window.RECAP_DATA = {
             },
             {
               "title": "Political Organizations Vocab Quiz",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
+            },
+            {
+              "title": "TURN IN - Europe Mapping Activity",
               "status": "due",
               "detail": "Due Oct 9",
               "due": "Oct 9"
@@ -2342,13 +2348,19 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — 9/15-9/18 overdue",
+          "note": "100.0% — Quarter 1_Proj2 due Oct 9",
           "work": [
             {
-              "title": "9/15-9/18",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 18"
+              "title": "Quarter 1_Proj2",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Quarter1_Proj1",
+              "status": "due",
+              "detail": "Due Oct 6",
+              "due": "Oct 6"
             }
           ],
           "grades": [
@@ -2367,11 +2379,32 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
+              "title": "9/29-10/2",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 2"
+            },
+            {
               "title": "9/8-9/11",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
+            },
+            {
+              "title": "9/15-9/18",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 18"
+            },
+            {
+              "title": "9/22-9/25",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 25"
             },
             {
               "title": "9/1-9/4",
