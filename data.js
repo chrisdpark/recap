@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 5, 2026 · 8:12 AM CT",
+  "updated": "Monday, Oct 5, 2026 · 12:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 91.03% — Judges Cycle part 2 = 0/100; Group Jigsaw- The Patriarchs = 0/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; 1 Samuel Overview Video Check due Oct 5",
+        "Bible 91.02% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 72/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0",
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
         "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video overdue (Sep 30); Workbook page 15 Ex. 3 overdue (Oct 2)",
-        "World Geography 89.22% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); Political Organizations Vocab Quiz due Oct 9",
+        "World Geography 89.22% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); October 7th Current Event Post due Oct 9",
         "Biology 80.56% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
       ],
@@ -17,15 +17,9 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 91.03,
-          "note": "91.03% — Group Jigsaw- The Patriarchs posted 0 — 1 Samuel Overview Video Check due Oct 5",
+          "grade": 91.02,
+          "note": "91.02% — Group Jigsaw- The Patriarchs posted 0",
           "work": [
-            {
-              "title": "1 Samuel Overview Video Check",
-              "status": "due",
-              "detail": "Due Oct 5",
-              "due": "Oct 5"
-            },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
@@ -37,12 +31,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0 / Canvas missing",
               "due": "Oct 1"
-            },
-            {
-              "title": "Test — Torah Summative Exam",
-              "status": "due",
-              "detail": "Due Oct 5",
-              "due": "Oct 5"
             }
           ],
           "grades": [
@@ -87,6 +75,20 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Oct 1"
+            },
+            {
+              "title": "1 Samuel Overview Video Check",
+              "score": "5/6",
+              "percent": 83.3,
+              "group": "Formative Assessment",
+              "due": "Oct 5"
+            },
+            {
+              "title": "Test — Torah Summative Exam",
+              "score": "72/100",
+              "percent": 72.0,
+              "group": "Summative Assessment",
+              "due": "Oct 5"
             },
             {
               "title": "Quiz Key Terms Unit 3",
@@ -609,8 +611,14 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 89.22,
-          "note": "89.22% — Unit 1 Test: Foundations of Geography Copy overdue — Political Organizations Vocab Quiz due Oct 9",
+          "note": "89.22% — Unit 1 Test: Foundations of Geography Copy overdue — October 7th Current Event Post due Oct 9",
           "work": [
+            {
+              "title": "October 7th Current Event Post",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
+            },
             {
               "title": "Political Organizations Vocab Quiz",
               "status": "due",
