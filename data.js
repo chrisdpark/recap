@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 5, 2026 · 5:14 PM CT",
+  "updated": "Monday, Oct 5, 2026 · 5:20 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 91.02,
-          "note": "91.02% — Group Jigsaw- The Patriarchs posted 0",
+          "note": "91.02% (up from 90.36) — Torah Exam 72/100; Judges Cycle pt 2 still 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -336,13 +336,13 @@ window.RECAP_DATA = {
             {
               "title": "2.5-2.7 Delta Math HW",
               "status": "due",
-              "detail": "Due Oct 5",
+              "detail": "Due Mon Oct 5 11:00 AM — not showing submitted yet",
               "due": "Oct 5"
             },
             {
               "title": "Chapter 2 Test: 2.1-2.7",
               "status": "due",
-              "detail": "Due Oct 7",
+              "detail": "Wed Oct 7 9:30 AM (in class)",
               "due": "Oct 7"
             },
             {
@@ -611,7 +611,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 89.22,
-          "note": "89.22% — Unit 1 Test: Foundations of Geography Copy overdue — October 7th Current Event Post due Oct 9",
+          "note": "89.22% (up from 88.48) — Vocab Matrix 100; mapping + vocab quiz Thu/Fri",
           "work": [
             {
               "title": "October 7th Current Event Post",
@@ -730,7 +730,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "Canvas",
           "grade": 80.56,
-          "note": "80.56% — Get to Know You Submission = 50/100 — Pogil - Interpreting Data (in class) = 83/100 — Lab 02: Micr…",
+          "note": "80.56% — Unit 2 Test graded, score not released yet; Lab 03 Post Lab due Tue",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -900,7 +900,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81.75,
-          "note": "81.75% — Q1 Membean Program 5 overdue — Q1 Membean Program 7 due Oct 7",
+          "note": "81.75% — TKAM Novel Test today (no score yet); Membean 5/6 + Quiz 3 open",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -953,7 +953,7 @@ window.RECAP_DATA = {
             {
               "title": "TKAM Novel Test",
               "status": "due",
-              "detail": "Due Oct 5",
+              "detail": "In class Mon Oct 5 (P8) — no score posted yet",
               "due": "Oct 5"
             }
           ],
