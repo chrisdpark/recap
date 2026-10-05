@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 5, 2026 · 4:11 PM CT",
+  "updated": "Monday, Oct 5, 2026 · 5:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1049,11 +1049,11 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights posted 0.",
-        "English 12 still has 18 overdue items including Poetic Elements and Structure (StudySync).",
-        "Physics still has 10 overdue items including Final Test Review Problems.",
-        "Sociology still has 9 overdue items including Synchro Session Attendance: Units 4-6.",
-        "Apologetics 82.0% — Formative - Spider Web of Beliefs Handout Completion due Oct 9; Formative - Spider Web of Beliefs Presentation Completion due Oct 9; Summative Exam - The Case for Truth due Oct 9; Summative Project - Spider Web of Beliefs Overall Grade due Oct 9"
+        "Graphic Design: Quarter1_Proj1 is due tomorrow (Tue Oct 6) and isn't turned in on Canvas yet.",
+        "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz posted 0; Midterm (due Oct 1) still not marked completed.",
+        "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due today).",
+        "Physics: Newton's 2nd Law Problem Set #2 due Wed Oct 7; 2 posted 0 and 10 older items overdue.",
+        "Apologetics: Case for Truth Summative Exam Fri Oct 9 (P3); Spider Web of Beliefs handout, presentation, and project due Oct 9."
       ],
       "courses": [
         {
@@ -2348,19 +2348,19 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — Quarter 1_Proj2 due Oct 9",
+          "note": "100.0% — Quarter1_Proj1 due Oct 6",
           "work": [
-            {
-              "title": "Quarter 1_Proj2",
-              "status": "due",
-              "detail": "Due Oct 9",
-              "due": "Oct 9"
-            },
             {
               "title": "Quarter1_Proj1",
               "status": "due",
               "detail": "Due Oct 6",
               "due": "Oct 6"
+            },
+            {
+              "title": "Quarter 1_Proj2",
+              "status": "due",
+              "detail": "Due Oct 9",
+              "due": "Oct 9"
             }
           ],
           "grades": [
