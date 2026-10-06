@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 5, 2026 · 8:08 PM CT",
+  "updated": "Tuesday, Oct 6, 2026 · 12:06 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 91.02,
-          "note": "91.02% (up from 90.36) — Torah Exam 72/100; Judges Cycle pt 2 still 0",
+          "note": "91.02% — Torah Exam 72/100; Judges Cycle pt 2 still 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -335,14 +335,14 @@ window.RECAP_DATA = {
             },
             {
               "title": "2.5-2.7 Delta Math HW",
-              "status": "due",
-              "detail": "Due Mon Oct 5 11:00 AM — not showing submitted yet",
+              "status": "overdue",
+              "detail": "Was due Mon Oct 5 11:00 AM — not showing submitted in Canvas yet",
               "due": "Oct 5"
             },
             {
               "title": "Chapter 2 Test: 2.1-2.7",
               "status": "due",
-              "detail": "Wed Oct 7 9:30 AM (in class)",
+              "detail": "Due Oct 7",
               "due": "Oct 7"
             },
             {
@@ -611,7 +611,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 89.22,
-          "note": "89.22% (up from 88.48) — Vocab Matrix 100; mapping + vocab quiz Thu/Fri",
+          "note": "89.22% — Vocab Matrix 100; mapping + vocab quiz Thu/Fri",
           "work": [
             {
               "title": "October 7th Current Event Post",
@@ -730,7 +730,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "Canvas",
           "grade": 80.56,
-          "note": "80.56% — Unit 2 Test graded, score not released yet; Lab 03 Post Lab due Tue",
+          "note": "80.56% — Unit 2 Test graded, score not released yet; Lab 03 Post Lab due today",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -900,7 +900,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81.75,
-          "note": "81.75% — TKAM Novel Test today (no score yet); Membean 5/6 + Quiz 3 open",
+          "note": "81.75% — TKAM Novel Test taken Mon (no score yet); Membean 5/6 + Quiz 3 open",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -949,12 +949,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Oct 1"
-            },
-            {
-              "title": "TKAM Novel Test",
-              "status": "due",
-              "detail": "In class Mon Oct 5 (P8) — no score posted yet",
-              "due": "Oct 5"
             }
           ],
           "grades": [
@@ -1049,9 +1043,9 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Graphic Design: Quarter1_Proj1 is due tomorrow (Tue Oct 6) and isn't turned in on Canvas yet.",
+        "Graphic Design: Quarter1_Proj1 is due today (Tue Oct 6) and isn't turned in on Canvas yet.",
         "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz posted 0; Midterm (due Oct 1) still not marked completed.",
-        "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due today).",
+        "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5).",
         "Physics: Newton's 2nd Law Problem Set #2 due Wed Oct 7; 2 posted 0 and 10 older items overdue.",
         "Apologetics: Case for Truth Summative Exam Fri Oct 9 (P3); Spider Web of Beliefs handout, presentation, and project due Oct 9."
       ],
