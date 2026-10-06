@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 6, 2026 · 5:15 PM CT",
+  "updated": "Tuesday, Oct 6, 2026 · 5:17 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1060,10 +1060,10 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Graphic Design: Quarter1_Proj1 (on paper) was due today at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
+        "Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) is due tomorrow (Wed Oct 7); Cart on Incline Lab Fri Oct 9; 2 posted 0 and 10 older items overdue.",
         "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz posted 0; Midterm (due Oct 1) still not marked completed.",
-        "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5).",
-        "Physics: Newton's 2nd Law Problem Set #2 due Wed Oct 7; 2 posted 0 and 10 older items overdue.",
-        "Apologetics is up to 91% — Spider Web of Beliefs handout, presentation, and project all graded 100; Case for Truth Summative Exam is Fri Oct 9 (P3)."
+        "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5); Fall Midterm Exam Mon Oct 12.",
+        "Apologetics is at 91% — Case for Truth Summative Exam is Fri Oct 9 (P3)."
       ],
       "courses": [
         {
@@ -2032,43 +2032,43 @@ window.RECAP_DATA = {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
               "detail": "Posted 0, not completed",
-              "due": "Due Aug 19"
+              "due": "Due Aug 18"
             },
             {
               "title": "Synchro Session Attendance: Units 4-6",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 21"
+              "due": "Due Aug 20"
             },
             {
               "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 27"
+              "due": "Due Aug 26"
             },
             {
               "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 31"
+              "due": "Due Aug 28"
             },
             {
               "title": "Concept Module 1: Perspectives",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 4"
+              "due": "Due Sep 3"
             },
             {
               "title": "Concept Module 2: Research",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 8"
+              "due": "Due Sep 7"
             },
             {
               "title": "DQ1: The Sociological Imagination",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 10"
+              "due": "Due Sep 9"
             },
             {
               "title": "OPT. Assignment #2: Violate a Social Norm",
@@ -2080,7 +2080,7 @@ window.RECAP_DATA = {
               "title": "OPT. Assignment #1: Journal of Mundane Behavior",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 18"
+              "due": "Due Sep 17"
             },
             {
               "title": "OPT. Assignment #3: Song Analysis",
@@ -2095,28 +2095,35 @@ window.RECAP_DATA = {
               "score": "0%",
               "percent": 0,
               "group": "",
-              "due": "Aug 19"
+              "due": "Aug 18"
             },
             {
               "title": "Synchro Session Attendance: Units 4-6",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Aug 21"
+              "due": "Aug 20"
             },
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
               "score": "86%",
               "percent": 86,
               "group": "",
-              "due": "Aug 25"
+              "due": "Aug 24"
             },
             {
               "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Aug 27"
+              "due": "Aug 26"
+            },
+            {
+              "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Aug 28"
             },
             {
               "title": "Assignment #1: Profile a Sociologist",
@@ -2140,32 +2147,25 @@ window.RECAP_DATA = {
               "due": "Aug 30"
             },
             {
-              "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 31"
-            },
-            {
               "title": "Concept Module 1: Perspectives",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 4"
+              "due": "Sep 3"
             },
             {
               "title": "Concept Module 2: Research",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 8"
+              "due": "Sep 7"
             },
             {
               "title": "DQ1: The Sociological Imagination",
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 10"
+              "due": "Sep 9"
             },
             {
               "title": "Culture & Media Assignment",
@@ -2193,21 +2193,21 @@ window.RECAP_DATA = {
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 18"
+              "due": "Sep 17"
             },
             {
               "title": "Concept Module 1: Culture",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 24"
+              "due": "Sep 23"
             },
             {
               "title": "Concept Module 2: Society and Status",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 28"
+              "due": "Sep 25"
             },
             {
               "title": "Disney Socialization Assignment",
@@ -2235,21 +2235,21 @@ window.RECAP_DATA = {
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 30"
+              "due": "Sep 29"
             },
             {
               "title": "Concept Module 1: Theoretical Perspectives on Socialization",
               "score": "78%",
               "percent": 78,
               "group": "",
-              "due": "Oct 12"
+              "due": "Oct 9"
             },
             {
               "title": "Concept Module 2: Know Your Terms",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Oct 14"
+              "due": "Oct 13"
             }
           ]
         },
@@ -2259,7 +2259,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 91.0,
-          "note": "91.0% — Spider Web of Beliefs graded 100 — Summative Exam - The Case for Truth due Oct 9",
+          "note": "91.0% — Spider Web of Beliefs handout, presentation, and project all 100 — Case for Truth Summative Exam Fri Oct 9 (P3)",
           "work": [
             {
               "title": "Summative Exam - The Case for Truth",
@@ -2361,7 +2361,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — Quarter1_Proj1 (on paper) not showing submitted in Canvas yet — Quarter 1_Proj2 due Oct 9",
+          "note": "100.0% — Quarter1_Proj1 (on paper, due today 3:59 PM) not showing submitted in Canvas yet — Quarter 1_Proj2 due Fri Oct 9",
           "work": [
             {
               "title": "Quarter1_Proj1",
@@ -2431,4 +2431,4 @@ window.RECAP_DATA = {
       ]
     }
   }
-}
+};
