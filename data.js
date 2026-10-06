@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 6, 2026 · 4:07 AM CT",
+  "updated": "Tuesday, Oct 6, 2026 · 12:15 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 91.02% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 72/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0",
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
-        "German I 87.21% — Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Follow Up Quiz on Conjugation = 10.5/15; Lords prayer Part 3 = 0.1/10; Alphabet Part 1 Video overdue (Sep 30); Workbook page 15 Ex. 3 overdue (Oct 2)",
+        "German I 84.01% — Review Packet (FA) = 0.2/20; Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Lords prayer Part 3 = 0.1/10; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 89.22% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); October 7th Current Event Post due Oct 9",
         "Biology 80.56% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
@@ -422,8 +422,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 87.21,
-          "note": "87.21% — Vocab Quiz #1 Written = 36/40 — Alphabet Part 1 Video overdue — Farben due Oct 6 — Review Packet (…",
+          "grade": 84.01,
+          "note": "84.01% — Review Packet (FA) = 0.2/20 — Farben missing (Oct 6) — Alphabet Part 1 Video overdue",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
@@ -433,26 +433,20 @@ window.RECAP_DATA = {
             },
             {
               "title": "Farben",
-              "status": "due",
-              "detail": "Due Oct 6",
-              "due": "Oct 6"
-            },
-            {
-              "title": "Review Packet (FA)",
-              "status": "due",
-              "detail": "Due Oct 6",
+              "status": "missing",
+              "detail": "Was due Tue Oct 6 10:30 AM — Canvas marks it missing",
               "due": "Oct 6"
             },
             {
               "title": "Vocabulary Quiz #1 (FA)",
-              "status": "due",
-              "detail": "Due Oct 6",
+              "status": "overdue",
+              "detail": "Was due Tue Oct 6 11:00 AM — not showing submitted in Canvas yet",
               "due": "Oct 6"
             },
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
-              "status": "due",
-              "detail": "Due Oct 6",
+              "status": "overdue",
+              "detail": "Was due Tue Oct 6 11:00 AM — not showing submitted in Canvas yet",
               "due": "Oct 6"
             },
             {
@@ -602,6 +596,13 @@ window.RECAP_DATA = {
               "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
+            },
+            {
+              "title": "Review Packet (FA)",
+              "score": "0.2/20",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Oct 6"
             }
           ]
         },
@@ -1047,7 +1048,7 @@ window.RECAP_DATA = {
         "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz posted 0; Midterm (due Oct 1) still not marked completed.",
         "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5).",
         "Physics: Newton's 2nd Law Problem Set #2 due Wed Oct 7; 2 posted 0 and 10 older items overdue.",
-        "Apologetics: Case for Truth Summative Exam Fri Oct 9 (P3); Spider Web of Beliefs handout, presentation, and project due Oct 9."
+        "Apologetics is up to 91% — Spider Web of Beliefs handout, presentation, and project all graded 100; Case for Truth Summative Exam is Fri Oct 9 (P3)."
       ],
       "courses": [
         {
@@ -2242,29 +2243,11 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 82.0,
-          "note": "82.0% — Formative - Spider Web of Beliefs Handout Completion due Oct 9",
+          "grade": 91.0,
+          "note": "91.0% — Spider Web of Beliefs graded 100 — Summative Exam - The Case for Truth due Oct 9",
           "work": [
             {
-              "title": "Formative - Spider Web of Beliefs Handout Completion",
-              "status": "due",
-              "detail": "Due Oct 9",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Formative - Spider Web of Beliefs Presentation Completion",
-              "status": "due",
-              "detail": "Due Oct 9",
-              "due": "Oct 9"
-            },
-            {
               "title": "Summative Exam - The Case for Truth",
-              "status": "due",
-              "detail": "Due Oct 9",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Summative Project - Spider Web of Beliefs Overall Grade",
               "status": "due",
               "detail": "Due Oct 9",
               "due": "Oct 9"
@@ -2333,6 +2316,27 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 4"
+            },
+            {
+              "title": "Formative - Spider Web of Beliefs Handout Completion",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Formative - Spider Web of Beliefs Presentation Completion",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Summative Project - Spider Web of Beliefs Overall Grade",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Oct 9"
             }
           ]
         },
@@ -2412,4 +2416,4 @@ window.RECAP_DATA = {
       ]
     }
   }
-}
+};
