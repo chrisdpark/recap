@@ -1,14 +1,14 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 6, 2026 · 12:15 PM CT",
+  "updated": "Tuesday, Oct 6, 2026 · 4:12 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 91.02% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 72/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0",
+        "Bible 88.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 82/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0",
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
         "German I 84.01% — Review Packet (FA) = 0.2/20; Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Lords prayer Part 3 = 0.1/10; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
-        "World Geography 89.22% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; Unit 1 Test: Foundations of Geography Copy overdue (Sep 18); October 7th Current Event Post due Oct 9",
-        "Biology 80.56% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
+        "World Geography 87.82% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; September 30th - Current Event Post = 50/100; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
+        "Biology 80.78% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
       ],
       "courses": [
@@ -17,8 +17,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 91.02,
-          "note": "91.02% — Torah Exam 72/100; Judges Cycle pt 2 still 0",
+          "grade": 88.42,
+          "note": "88.42% — Torah Exam 82/100 (re-scored from 72, now counting); Judges Cycle pt 2 still 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -85,8 +85,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Test — Torah Summative Exam",
-              "score": "72/100",
-              "percent": 72.0,
+              "score": "82/100",
+              "percent": 82.0,
               "group": "Summative Assessment",
               "due": "Oct 5"
             },
@@ -189,8 +189,27 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 99.95,
-          "note": "99.95% — Sight-Singing 6 overdue — Sight-Singing 7 due Oct 7",
-          "work": [],
+          "note": "99.95% — Run-through of Program (Summative) due tonight 11:59 PM — Sight-Singing 6 overdue — Sight-Singing 7 due Oct 7 — Sight-Singing Exam Oct 9",
+          "work": [
+            {
+              "title": "Run-through of Program (Summative)",
+              "status": "due",
+              "detail": "Due tonight, Tue Oct 6 11:59 PM",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Sight-Singing 7",
+              "status": "due",
+              "detail": "Due Wed Oct 7 11:59 PM",
+              "due": "Oct 7"
+            },
+            {
+              "title": "Sight-Singing Exam",
+              "status": "due",
+              "detail": "Due Fri Oct 9 11:59 PM (Summative)",
+              "due": "Oct 9"
+            }
+          ],
           "grades": [
             {
               "title": "Binder",
@@ -342,7 +361,7 @@ window.RECAP_DATA = {
             {
               "title": "Chapter 2 Test: 2.1-2.7",
               "status": "due",
-              "detail": "Due Oct 7",
+              "detail": "Due Wed Oct 7 9:30 AM",
               "due": "Oct 7"
             },
             {
@@ -445,9 +464,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
-              "status": "overdue",
-              "detail": "Was due Tue Oct 6 11:00 AM — not showing submitted in Canvas yet",
-              "due": "Oct 6"
+              "status": "due",
+              "detail": "Due moved to Wed Oct 7 11:00 AM",
+              "due": "Oct 7"
             },
             {
               "title": "Workbook page 15 Ex. 3",
@@ -611,32 +630,20 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 89.22,
-          "note": "89.22% — Vocab Matrix 100; mapping + vocab quiz Thu/Fri",
+          "grade": 87.82,
+          "note": "87.82% — Sept 30 Current Event 50/100; Europe Mapping turned in Tue (awaiting grade); Current Event Post Wed + vocab quiz Thu/Fri",
           "work": [
             {
               "title": "October 7th Current Event Post",
               "status": "due",
-              "detail": "Due Oct 9",
+              "detail": "Post Wed Oct 7 (week page) — Canvas due Fri Oct 9",
               "due": "Oct 9"
             },
             {
               "title": "Political Organizations Vocab Quiz",
               "status": "due",
-              "detail": "Due Oct 9",
+              "detail": "Thu/Fri this week (week page) — Canvas due Fri Oct 9",
               "due": "Oct 9"
-            },
-            {
-              "title": "TURN IN - Europe Mapping Activity",
-              "status": "due",
-              "detail": "Due Oct 9",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Unit 1 Test: Foundations of Geography Copy",
-              "status": "overdue",
-              "detail": "Canvas missing",
-              "due": "Sep 18"
             }
           ],
           "grades": [
@@ -722,6 +729,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 9"
+            },
+            {
+              "title": "September 30th - Current Event Post",
+              "score": "50/100",
+              "percent": 50.0,
+              "group": "Formative Assessment",
+              "due": "Oct 2"
             }
           ]
         },
@@ -730,20 +744,14 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 80.56,
-          "note": "80.56% — Unit 2 Test graded, score not released yet; Lab 03 Post Lab due today",
+          "grade": 80.78,
+          "note": "80.78% — Lab 03 Post Lab 89.17/100; Unit 2 Test graded, score not released yet",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
               "status": "zero",
               "detail": "Posted 0",
               "due": "Sep 18"
-            },
-            {
-              "title": "Lab 03 Post Post Lab (FA)",
-              "status": "due",
-              "detail": "Due Oct 6",
-              "due": "Oct 6"
             },
             {
               "title": "Biomolecules - Pogil (in class)",
@@ -892,6 +900,13 @@ window.RECAP_DATA = {
               "percent": 79.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
+            },
+            {
+              "title": "Lab 03 Post Post Lab (FA)",
+              "score": "89.17/100",
+              "percent": 89.2,
+              "group": "Formative Assessment",
+              "due": "Oct 6"
             }
           ]
         },
@@ -918,7 +933,7 @@ window.RECAP_DATA = {
             {
               "title": "Q1 Membean Program 7",
               "status": "due",
-              "detail": "Due Oct 7",
+              "detail": "Due Wed Oct 7 11:59 PM",
               "due": "Oct 7"
             },
             {
@@ -1044,7 +1059,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Graphic Design: Quarter1_Proj1 is due today (Tue Oct 6) and isn't turned in on Canvas yet.",
+        "Graphic Design: Quarter1_Proj1 (on paper) was due today at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
         "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz posted 0; Midterm (due Oct 1) still not marked completed.",
         "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5).",
         "Physics: Newton's 2nd Law Problem Set #2 due Wed Oct 7; 2 posted 0 and 10 older items overdue.",
@@ -2346,18 +2361,18 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — Quarter1_Proj1 due Oct 6",
+          "note": "100.0% — Quarter1_Proj1 (on paper) not showing submitted in Canvas yet — Quarter 1_Proj2 due Oct 9",
           "work": [
             {
               "title": "Quarter1_Proj1",
-              "status": "due",
-              "detail": "Due Oct 6",
+              "status": "overdue",
+              "detail": "Was due Tue Oct 6 3:59 PM (on paper) — not showing submitted in Canvas yet",
               "due": "Oct 6"
             },
             {
               "title": "Quarter 1_Proj2",
               "status": "due",
-              "detail": "Due Oct 9",
+              "detail": "Due Fri Oct 9 3:59 PM",
               "due": "Oct 9"
             }
           ],
