@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 7, 2026 · 8:15 AM CT",
+  "updated": "Wednesday, Oct 7, 2026 · 12:18 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -366,8 +366,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Chapter 2 Test: 2.1-2.7",
-              "status": "due",
-              "detail": "Today, Wed Oct 7 9:30 AM",
+              "status": "overdue",
+              "detail": "Was today, Wed Oct 7 9:30 AM (in class, no online submission) — not graded yet",
               "due": "Oct 7"
             },
             {
@@ -470,8 +470,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
-              "status": "due",
-              "detail": "Due today, Wed Oct 7 11:00 AM",
+              "status": "overdue",
+              "detail": "Was due today, Wed Oct 7 11:00 AM (on paper) — not graded yet",
               "due": "Oct 7"
             },
             {
@@ -1066,8 +1066,8 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Graphic Design: Quarter1_Proj1 (on paper) was due Tue Oct 6 at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
-        "Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) is due today (Wed Oct 7); Cart on Incline Lab Fri Oct 9; 2 posted 0 and 10 older items overdue.",
-        "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz posted 0; Midterm (due Oct 1) still not marked completed.",
+        "Physics (81%): Newton's 2nd Law Problem Set #2 (Friction & Inclines) is due today (Wed Oct 7); Cart on Incline Lab Fri Oct 9; 2 posted 0 and 10 older items overdue.",
+        "Government is at 62% — Midterm now graded 76; Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz still posted 0.",
         "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5); Fall Midterm Exam Mon Oct 12.",
         "Apologetics is at 91% — Case for Truth Summative Exam is Fri Oct 9 (P3)."
       ],
@@ -1365,7 +1365,7 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 82,
+          "grade": 81,
           "note": "10 overdue · 2 posted 0 · work due this week",
           "work": [
             {
@@ -1672,7 +1672,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 62,
-          "note": "Course at 62% · 5 overdue · 3 posted 0",
+          "note": "Course at 62% · 4 overdue · 3 posted 0 · Midterm graded 76",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1705,12 +1705,6 @@ window.RECAP_DATA = {
               "due": "Due Sep 27"
             },
             {
-              "title": "Midterm",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 1"
-            },
-            {
               "title": "Synch Session #5 Make Up",
               "status": "overdue",
               "detail": "Not completed",
@@ -1719,7 +1713,7 @@ window.RECAP_DATA = {
             {
               "title": "Check point Quiz",
               "status": "zero",
-              "detail": "Posted 0, not completed",
+              "detail": "Posted 0 (marked completed Oct 6)",
               "due": "Due Dec 10"
             }
           ],
@@ -1845,8 +1839,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Midterm",
-              "score": "—",
-              "percent": null,
+              "score": "76%",
+              "percent": 76,
               "group": "",
               "due": "Oct 1"
             },
