@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 7, 2026 · 12:18 PM CT",
+  "updated": "Wednesday, Oct 7, 2026 · 4:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 88.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 82/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0",
+        "Bible 90.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100 (regraded up from 82); Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0",
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
         "German I 84.01% — Review Packet (FA) = 0.2/20; Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Lords prayer Part 3 = 0.1/10; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 87.82% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; September 30th - Current Event Post = 50/100; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
@@ -17,8 +17,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 88.42,
-          "note": "88.42% — Torah Exam 82/100; Leviticus Jigsaw 94 (not counted); Judges Cycle pt 2 still 0",
+          "grade": 90.42,
+          "note": "90.42% — Torah Exam regraded 92/100 (was 82); Leviticus Jigsaw 94 (not counted); Judges Cycle pt 2 still 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -85,8 +85,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Test — Torah Summative Exam",
-              "score": "82/100",
-              "percent": 82.0,
+              "score": "92/100",
+              "percent": 92.0,
               "group": "Summative Assessment",
               "due": "Oct 5"
             },
@@ -1066,7 +1066,7 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Graphic Design: Quarter1_Proj1 (on paper) was due Tue Oct 6 at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
-        "Physics (81%): Newton's 2nd Law Problem Set #2 (Friction & Inclines) is due today (Wed Oct 7); Cart on Incline Lab Fri Oct 9; 2 posted 0 and 10 older items overdue.",
+        "Physics (81%): Newton's 2nd Law Problem Set #2 (Friction & Inclines) is due today (Wed Oct 7); Cart on Incline Lab Fri Oct 9; 2D Motion Test Review graded 50; 2 posted 0 and 9 older items overdue.",
         "Government is at 62% — Midterm now graded 76; Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz still posted 0.",
         "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5); Fall Midterm Exam Mon Oct 12.",
         "Apologetics is at 91% — Case for Truth Summative Exam is Fri Oct 9 (P3)."
@@ -1366,7 +1366,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "10 overdue · 2 posted 0 · work due this week",
+          "note": "9 overdue · 2 posted 0 · 2D Motion Test Review graded 50 · work due this week",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1433,12 +1433,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 30"
-            },
-            {
-              "title": "2D Motion Test Review",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 3"
             },
             {
               "title": "Newton's 2nd Law Problem Set #2 (Friction & Inclines)",
@@ -1638,8 +1632,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "2D Motion Test Review",
-              "score": "—",
-              "percent": null,
+              "score": "50%",
+              "percent": 50,
               "group": "",
               "due": "Oct 3"
             },
