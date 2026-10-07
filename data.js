@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 6, 2026 · 8:05 PM CT",
+  "updated": "Wednesday, Oct 7, 2026 · 12:10 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 88.42,
-          "note": "88.42% — Torah Exam 82/100 (re-scored from 72, now counting); Judges Cycle pt 2 still 0",
+          "note": "88.42% — Torah Exam 82/100; Leviticus Jigsaw 94 (not counted); Judges Cycle pt 2 still 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -180,6 +180,12 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
+            },
+            {
+              "title": "Individual Jigsaw: Leviticus",
+              "score": "94/100",
+              "percent": 94.0,
+              "group": "Formative Assessment (not counted in average)"
             }
           ]
         },
@@ -189,18 +195,18 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 99.95,
-          "note": "99.95% — Run-through of Program (Summative) due tonight 11:59 PM — Sight-Singing 6 overdue — Sight-Singing 7 due Oct 7 — Sight-Singing Exam Oct 9",
+          "note": "99.95% — Run-through of Program (Summative, in class) was due Tue, not graded yet — Sight-Singing 6 overdue — Sight-Singing 7 due tonight — Sight-Singing Exam Fri Oct 9",
           "work": [
             {
               "title": "Run-through of Program (Summative)",
-              "status": "due",
-              "detail": "Due tonight, Tue Oct 6 11:59 PM",
+              "status": "overdue",
+              "detail": "Was due Tue Oct 6 11:59 PM (in class, no online submission) — not graded yet",
               "due": "Oct 6"
             },
             {
               "title": "Sight-Singing 7",
               "status": "due",
-              "detail": "Due Wed Oct 7 11:59 PM",
+              "detail": "Due tonight, Wed Oct 7 11:59 PM",
               "due": "Oct 7"
             },
             {
@@ -361,7 +367,7 @@ window.RECAP_DATA = {
             {
               "title": "Chapter 2 Test: 2.1-2.7",
               "status": "due",
-              "detail": "Due Wed Oct 7 9:30 AM",
+              "detail": "Today, Wed Oct 7 9:30 AM",
               "due": "Oct 7"
             },
             {
@@ -465,7 +471,7 @@ window.RECAP_DATA = {
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
               "status": "due",
-              "detail": "Due moved to Wed Oct 7 11:00 AM",
+              "detail": "Due today, Wed Oct 7 11:00 AM",
               "due": "Oct 7"
             },
             {
@@ -933,7 +939,7 @@ window.RECAP_DATA = {
             {
               "title": "Q1 Membean Program 7",
               "status": "due",
-              "detail": "Due Wed Oct 7 11:59 PM",
+              "detail": "Due tonight, Wed Oct 7 11:59 PM",
               "due": "Oct 7"
             },
             {
@@ -1059,8 +1065,8 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Graphic Design: Quarter1_Proj1 (on paper) was due today at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
-        "Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) is due tomorrow (Wed Oct 7); Cart on Incline Lab Fri Oct 9; 2 posted 0 and 10 older items overdue.",
+        "Graphic Design: Quarter1_Proj1 (on paper) was due Tue Oct 6 at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
+        "Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) is due today (Wed Oct 7); Cart on Incline Lab Fri Oct 9; 2 posted 0 and 10 older items overdue.",
         "Government is at 62% — Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz posted 0; Midterm (due Oct 1) still not marked completed.",
         "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5); Fall Midterm Exam Mon Oct 12.",
         "Apologetics is at 91% — Case for Truth Summative Exam is Fri Oct 9 (P3)."
@@ -2361,7 +2367,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — Quarter1_Proj1 (on paper, due today 3:59 PM) not showing submitted in Canvas yet — Quarter 1_Proj2 due Fri Oct 9",
+          "note": "100.0% — Quarter1_Proj1 (on paper, due Tue Oct 6 3:59 PM) not showing submitted in Canvas yet — Quarter 1_Proj2 due Fri Oct 9",
           "work": [
             {
               "title": "Quarter1_Proj1",
