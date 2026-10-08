@@ -1,15 +1,15 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 8, 2026 · 8:14 AM CT",
+  "updated": "Thursday, Oct 8, 2026 · 1:25 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 90.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100 (regraded up from 82); Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; 3 \"What Kind of King?\" assignments due today 10:55 AM",
+        "Bible 90.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100 (regraded up from 82); Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; 3 \"What Kind of King?\" assignments turned in on time today (awaiting grade)",
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
         "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 87.82% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; September 30th - Current Event Post = 50/100; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
         "Biology 80.78% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
+        "English I 82.2% — TKAM Literature Circle 200/200 (graded today); SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
       ],
       "courses": [
         {
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 90.42,
-          "note": "90.42% — 3 \"What Kind of King?\" pieces due today 10:55 AM; Torah Exam 92/100; Judges Cycle pt 2 still 0",
+          "note": "90.42% — all 3 \"What Kind of King?\" pieces turned in on time this morning (awaiting grade); Torah Exam 92/100; Judges Cycle pt 2 still 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -31,24 +31,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0 / Canvas missing",
               "due": "Oct 1"
-            },
-            {
-              "title": "Samuel — What Kind of King? Part 1",
-              "status": "due",
-              "detail": "Due today, Thu Oct 8 10:55 AM (8 pts, Formative, online)",
-              "due": "Oct 8"
-            },
-            {
-              "title": "Samuel — What Kind of King? Part 2",
-              "status": "due",
-              "detail": "Due today, Thu Oct 8 10:55 AM (8 pts, Formative, online)",
-              "due": "Oct 8"
-            },
-            {
-              "title": "What Kind of King? — Exit Ticket",
-              "status": "due",
-              "detail": "Due today, Thu Oct 8 10:55 AM (4 pts, Formative, online)",
-              "due": "Oct 8"
             }
           ],
           "grades": [
@@ -939,8 +921,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 81.75,
-          "note": "81.75% — TKAM Novel Test taken Mon (no score yet); Membean 5, 6, and 7 + Quiz 3 open",
+          "grade": 82.2,
+          "note": "82.2% — TKAM Literature Circle graded 200/200 today (was the TKAM 8-12 Choice Board, unsubmitted); TKAM Novel Test taken Mon (no score yet); Membean 5, 6, and 7 + Quiz 3 open",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -965,12 +947,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 23"
-            },
-            {
-              "title": "TKAM 8-12 Choice Board",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 14"
             },
             {
               "title": "TKAM Ch. 19-24 due",
@@ -1075,6 +1051,13 @@ window.RECAP_DATA = {
               "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
+            },
+            {
+              "title": "TKAM Literature Circle",
+              "score": "200/200",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 14"
             }
           ]
         }
