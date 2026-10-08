@@ -1,15 +1,15 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 7, 2026 · 8:06 PM CT",
+  "updated": "Thursday, Oct 8, 2026 · 12:12 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 90.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100 (regraded up from 82); Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0",
+        "Bible 90.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100 (regraded up from 82); Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; 3 \"What Kind of King?\" assignments due today 10:55 AM",
         "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
-        "German I 84.01% — Review Packet (FA) = 0.2/20; Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Lords prayer Part 3 = 0.1/10; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
+        "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 87.82% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; September 30th - Current Event Post = 50/100; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
         "Biology 80.78% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30)"
+        "English I 81.75% — SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
       ],
       "courses": [
         {
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "Canvas",
           "grade": 90.42,
-          "note": "90.42% — Torah Exam regraded 92/100 (was 82); Leviticus Jigsaw 94 (not counted); Judges Cycle pt 2 still 0",
+          "note": "90.42% — 3 \"What Kind of King?\" pieces due today 10:55 AM; Torah Exam 92/100; Judges Cycle pt 2 still 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -31,6 +31,24 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0 / Canvas missing",
               "due": "Oct 1"
+            },
+            {
+              "title": "Samuel — What Kind of King? Part 1",
+              "status": "due",
+              "detail": "Due today, Thu Oct 8 10:55 AM (8 pts, Formative, online)",
+              "due": "Oct 8"
+            },
+            {
+              "title": "Samuel — What Kind of King? Part 2",
+              "status": "due",
+              "detail": "Due today, Thu Oct 8 10:55 AM (8 pts, Formative, online)",
+              "due": "Oct 8"
+            },
+            {
+              "title": "What Kind of King? — Exit Ticket",
+              "status": "due",
+              "detail": "Due today, Thu Oct 8 10:55 AM (4 pts, Formative, online)",
+              "due": "Oct 8"
             }
           ],
           "grades": [
@@ -195,7 +213,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 99.95,
-          "note": "99.95% — Run-through of Program (Summative, in class) was due Tue, not graded yet — Sight-Singing 6 overdue — Sight-Singing 7 due tonight — Sight-Singing Exam Fri Oct 9",
+          "note": "99.95% — Run-through of Program (Summative, in class) was due Tue, not graded yet — Sight-Singing 6 and 7 overdue — Sight-Singing Exam Fri Oct 9",
           "work": [
             {
               "title": "Run-through of Program (Summative)",
@@ -205,8 +223,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Sight-Singing 7",
-              "status": "due",
-              "detail": "Due tonight, Wed Oct 7 11:59 PM",
+              "status": "overdue",
+              "detail": "Was due Wed Oct 7 11:59 PM (no online submission) — not graded yet",
               "due": "Oct 7"
             },
             {
@@ -367,7 +385,7 @@ window.RECAP_DATA = {
             {
               "title": "Chapter 2 Test: 2.1-2.7",
               "status": "overdue",
-              "detail": "Was today, Wed Oct 7 9:30 AM (in class, no online submission) — not graded yet",
+              "detail": "Was Wed Oct 7 9:30 AM (in class, no online submission) — not graded yet",
               "due": "Oct 7"
             },
             {
@@ -447,8 +465,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "Canvas",
-          "grade": 84.01,
-          "note": "84.01% — Review Packet (FA) = 0.2/20 — Farben missing (Oct 6) — Alphabet Part 1 Video overdue",
+          "grade": 89.28,
+          "note": "89.28% — Review Packet regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were 0.2 and 0.1 placeholders) — Farben missing (Oct 6) — Alphabet Part 1 Video overdue",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
@@ -471,7 +489,7 @@ window.RECAP_DATA = {
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
               "status": "overdue",
-              "detail": "Was due today, Wed Oct 7 11:00 AM (on paper) — not graded yet",
+              "detail": "Was due Wed Oct 7 11:00 AM (on paper) — not graded yet",
               "due": "Oct 7"
             },
             {
@@ -547,8 +565,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Lords prayer Part 3",
-              "score": "0.1/10",
-              "percent": 1.0,
+              "score": "9/10",
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 18"
             },
@@ -624,8 +642,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Review Packet (FA)",
-              "score": "0.2/20",
-              "percent": 1.0,
+              "score": "17/20",
+              "percent": 85.0,
               "group": "Formative Assessment",
               "due": "Oct 6"
             }
@@ -922,7 +940,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "Canvas",
           "grade": 81.75,
-          "note": "81.75% — TKAM Novel Test taken Mon (no score yet); Membean 5/6 + Quiz 3 open",
+          "note": "81.75% — TKAM Novel Test taken Mon (no score yet); Membean 5, 6, and 7 + Quiz 3 open",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -938,8 +956,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Q1 Membean Program 7",
-              "status": "due",
-              "detail": "Due tonight, Wed Oct 7 11:59 PM",
+              "status": "overdue",
+              "detail": "Unsubmitted past due (was due Wed Oct 7 11:59 PM)",
               "due": "Oct 7"
             },
             {
@@ -1066,8 +1084,8 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Graphic Design: Quarter1_Proj1 (on paper) was due Tue Oct 6 at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
-        "Physics (81%): Newton's 2nd Law Problem Set #2 (Friction & Inclines) is due today (Wed Oct 7); Cart on Incline Lab Fri Oct 9; 2D Motion Test Review graded 50; 2 posted 0 and 9 older items overdue.",
-        "Government is at 62% — Midterm now graded 76; Federalists v. Anti Federalists, Bill of Rights, and Check point Quiz still posted 0.",
+        "Physics (80%): Newton's 2nd Law Problem Set #2 (Friction & Inclines) was due Wed Oct 7 and isn't marked completed; Cart on Incline Lab Fri Oct 9; Midterm Test Review Problems graded 50; 2 posted 0 and 9 older items overdue.",
+        "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
         "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5); Fall Midterm Exam Mon Oct 12.",
         "Apologetics is at 91% — Case for Truth Summative Exam is Fri Oct 9 (P3)."
       ],
@@ -1365,8 +1383,8 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 81,
-          "note": "9 overdue · 2 posted 0 · 2D Motion Test Review graded 50 · work due this week",
+          "grade": 80,
+          "note": "10 overdue · 2 posted 0 · Midterm Test Review Problems graded 50 · Cart on Incline Lab due Fri",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1436,9 +1454,9 @@ window.RECAP_DATA = {
             },
             {
               "title": "Newton's 2nd Law Problem Set #2 (Friction & Inclines)",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 7"
+              "status": "overdue",
+              "detail": "Not completed (was due Wed Oct 7)",
+              "due": "Due Oct 7"
             },
             {
               "title": "Cart on Incline Lab",
@@ -1657,6 +1675,13 @@ window.RECAP_DATA = {
               "percent": 82,
               "group": "",
               "due": "Oct 23"
+            },
+            {
+              "title": "Midterm Test Review Problems",
+              "score": "50%",
+              "percent": 50,
+              "group": "",
+              "due": "Oct 10"
             }
           ]
         },
@@ -1665,26 +1690,14 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 62,
-          "note": "Course at 62% · 4 overdue · 3 posted 0 · Midterm graded 76",
+          "grade": 86,
+          "note": "Course at 86% · 4 overdue · Federalists and Bill of Rights now 80, Check point Quiz 87 (were 0) · Midterm 76",
           "work": [
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Aug 23"
-            },
-            {
-              "title": "Federalists v. Anti Federalists",
-              "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Sep 2"
-            },
-            {
-              "title": "Bill of Rights",
-              "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Sep 10"
             },
             {
               "title": "Synch Session #3 9/7",
@@ -1703,12 +1716,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 4"
-            },
-            {
-              "title": "Check point Quiz",
-              "status": "zero",
-              "detail": "Posted 0 (marked completed Oct 6)",
-              "due": "Due Dec 10"
             }
           ],
           "grades": [
@@ -1742,8 +1749,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Federalists v. Anti Federalists",
-              "score": "0%",
-              "percent": 0,
+              "score": "80%",
+              "percent": 80,
               "group": "",
               "due": "Sep 2"
             },
@@ -1756,8 +1763,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Bill of Rights",
-              "score": "0%",
-              "percent": 0,
+              "score": "80%",
+              "percent": 80,
               "group": "",
               "due": "Sep 10"
             },
@@ -1847,8 +1854,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Check point Quiz",
-              "score": "0%",
-              "percent": 0,
+              "score": "87%",
+              "percent": 87,
               "group": "",
               "due": "Dec 10"
             }
