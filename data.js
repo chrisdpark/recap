@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 9, 2026 · 12:26 PM CT",
+  "updated": "Friday, Oct 9, 2026 · 4:17 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,9 +7,9 @@ window.RECAP_DATA = {
         "Bible 90.5% (up from 90.42) — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; Samuel — What Kind of King? Parts 1–2 = 8/8 and Exit Ticket = 4/4 (graded overnight)",
         "Algebra I 24.36% (down from 28.61) — Chapter 2 Test: 2.1-2.7 = 15/100 (graded today; teacher sent a below-75% message); Quiz 1: 1.1-1.4 = 2/20; Quiz 3: 2.1-2.4 = 4/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 and 2.3 Delta Math HW posted 0; 2.5-2.7 Delta Math HW not submitted",
         "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
-        "World Geography 87.82% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; September 30th - Current Event Post = 50/100; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
+        "World Geography 89.32% (up from 87.82) — Political Organizations Vocab Quiz = 87.5/100 (today); September 30th Current Event Post now excused; September 9th Current Event #1 = 35/50; Wednesday September 9th Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
         "Biology 80.69% — Unit 2 Test: Cell Structure and Environment = 80/100 (released today); Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 82.2% — TKAM Literature Circle 200/200 (graded today); SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
+        "English I 81.83% (down from 82.2) — TKAM Novel Test = 134/200 (67%, graded today); Q1 Membean Quiz 3 = 93/100; SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
       ],
       "courses": [
         {
@@ -658,19 +658,13 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "Canvas",
-          "grade": 87.82,
-          "note": "87.82% — Sept 30 Current Event 50/100; Europe Mapping turned in Tue (awaiting grade); Current Event Post Wed + vocab quiz Thu/Fri",
+          "grade": 89.32,
+          "note": "89.32% (up from 87.82) — Political Organizations Vocab Quiz 87.5/100 today; Sept 30 Current Event Post now excused (was 50/100); Europe Mapping turned in (awaiting grade); October 7th Current Event Post due Fri Oct 9",
           "work": [
             {
               "title": "October 7th Current Event Post",
               "status": "due",
               "detail": "Post Wed Oct 7 (week page) — Canvas due Fri Oct 9",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Political Organizations Vocab Quiz",
-              "status": "due",
-              "detail": "Thu/Fri this week (week page) — Canvas due Fri Oct 9",
               "due": "Oct 9"
             }
           ],
@@ -759,9 +753,15 @@ window.RECAP_DATA = {
               "due": "Sep 9"
             },
             {
+              "title": "Political Organizations Vocab Quiz",
+              "score": "87.5/100",
+              "percent": 87.5,
+              "group": "Formative Assessment",
+              "due": "Oct 9"
+            },
+            {
               "title": "September 30th - Current Event Post",
-              "score": "50/100",
-              "percent": 50.0,
+              "score": "Excused",
               "group": "Formative Assessment",
               "due": "Oct 2"
             }
@@ -950,8 +950,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 82.2,
-          "note": "82.2% — TKAM Literature Circle graded 200/200 today (was the TKAM 8-12 Choice Board, unsubmitted); TKAM Novel Test taken Mon (no score yet); Membean 5, 6, and 7 + Quiz 3 open",
+          "grade": 81.83,
+          "note": "81.83% (down from 82.2) — TKAM Novel Test graded 134/200 (67%) and Membean Quiz 3 93/100 this afternoon; TKAM Post-Reading Reflection 100/100; Membean 5, 6, and 7 still open",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -972,12 +972,6 @@ window.RECAP_DATA = {
               "due": "Oct 7"
             },
             {
-              "title": "TKAM 1-24 Literature Circle",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 23"
-            },
-            {
               "title": "TKAM Ch. 19-24 due",
               "status": "overdue",
               "detail": "Unsubmitted past due",
@@ -988,12 +982,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 30"
-            },
-            {
-              "title": "Q1 Membean Quiz 3",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Oct 1"
             }
           ],
           "grades": [
@@ -1087,6 +1075,27 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 14"
+            },
+            {
+              "title": "TKAM Novel Test",
+              "score": "134/200",
+              "percent": 67.0,
+              "group": "Summative Assessment",
+              "due": "Oct 5"
+            },
+            {
+              "title": "Q1 Membean Quiz 3",
+              "score": "93/100",
+              "percent": 93.0,
+              "group": "Summative Assessment",
+              "due": "Oct 1"
+            },
+            {
+              "title": "TKAM Post-Reading Reflection",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 7"
             }
           ]
         }
@@ -1095,7 +1104,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Graphic Design: Quarter1_Proj1 (on paper) was due Tue Oct 6 at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
+        "Graphic Design: Quarter1_Proj1 (on paper, due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9 at 3:59 PM) aren't showing submitted in Canvas yet.",
         "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (Friction & Inclines) was due Wed Oct 7 and isn't marked completed; Cart on Incline Lab Fri Oct 9; Midterm Test Review Problems graded 50; 2 posted 0 and 9 older items overdue.",
         "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
         "Precalculus has 7 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5) and Fall Midterm Exam (due Oct 12, completed Oct 8 at 0).",
@@ -2401,7 +2410,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 100.0,
-          "note": "100.0% — Quarter1_Proj1 (on paper, due Tue Oct 6 3:59 PM) not showing submitted in Canvas yet — Quarter 1_Proj2 due Fri Oct 9",
+          "note": "100.0% — Quarter1_Proj1 (due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9 3:59 PM) not showing submitted in Canvas yet",
           "work": [
             {
               "title": "Quarter1_Proj1",
@@ -2411,8 +2420,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Quarter 1_Proj2",
-              "status": "due",
-              "detail": "Due Fri Oct 9 3:59 PM",
+              "status": "overdue",
+              "detail": "Was due Fri Oct 9 3:59 PM — not showing submitted in Canvas yet",
               "due": "Oct 9"
             }
           ],
