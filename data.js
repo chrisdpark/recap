@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 8, 2026 · 9:30 PM CT",
+  "updated": "Friday, Oct 9, 2026 · 12:10 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 90.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100 (regraded up from 82); Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; 3 \"What Kind of King?\" assignments turned in on time today (awaiting grade)",
+        "Bible 90.5% (up from 90.42) — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; Samuel — What Kind of King? Parts 1–2 = 8/8 and Exit Ticket = 4/4 (graded overnight)",
         "Algebra I 24.36% (down from 28.61) — Chapter 2 Test: 2.1-2.7 = 15/100 (graded today; teacher sent a below-75% message); Quiz 1: 1.1-1.4 = 2/20; Quiz 3: 2.1-2.4 = 4/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 and 2.3 Delta Math HW posted 0; 2.5-2.7 Delta Math HW not submitted",
         "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 87.82% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; September 30th - Current Event Post = 50/100; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
@@ -17,8 +17,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "Canvas",
-          "grade": 90.42,
-          "note": "90.42% — all 3 \"What Kind of King?\" pieces turned in on time this morning (awaiting grade); Torah Exam 92/100; Judges Cycle pt 2 still 0",
+          "grade": 90.5,
+          "note": "90.5% (up from 90.42) — all 3 \"What Kind of King?\" pieces graded 100% overnight; Torah Exam 92/100; Judges Cycle pt 2 still 0",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -186,6 +186,27 @@ window.RECAP_DATA = {
               "score": "94/100",
               "percent": 94.0,
               "group": "Formative Assessment (not counted in average)"
+            },
+            {
+              "title": "Samuel — What Kind of King? Part 1",
+              "score": "8/8",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 8"
+            },
+            {
+              "title": "Samuel — What Kind of King? Part 2",
+              "score": "8/8",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 8"
+            },
+            {
+              "title": "What Kind of King? — Exit Ticket",
+              "score": "4/4",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 8"
             }
           ]
         },
@@ -1068,9 +1089,9 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Graphic Design: Quarter1_Proj1 (on paper) was due Tue Oct 6 at 3:59 PM and isn't showing submitted in Canvas yet; Quarter 1_Proj2 is due Fri Oct 9.",
-        "Physics (80%): Newton's 2nd Law Problem Set #2 (Friction & Inclines) was due Wed Oct 7 and isn't marked completed; Cart on Incline Lab Fri Oct 9; Midterm Test Review Problems graded 50; 2 posted 0 and 9 older items overdue.",
+        "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (Friction & Inclines) was due Wed Oct 7 and isn't marked completed; Cart on Incline Lab Fri Oct 9; Midterm Test Review Problems graded 50; 2 posted 0 and 9 older items overdue.",
         "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
-        "Precalculus has 6 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5); Fall Midterm Exam Mon Oct 12.",
+        "Precalculus has 7 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5) and Fall Midterm Exam (due Oct 12, completed Oct 8 at 0).",
         "Apologetics is at 91% — Case for Truth Summative Exam is Fri Oct 9 (P3)."
       ],
       "courses": [
@@ -1368,7 +1389,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 80,
-          "note": "10 overdue · 2 posted 0 · Midterm Test Review Problems graded 50 · Cart on Incline Lab due Fri",
+          "note": "10 overdue · 2 posted 0 · Semester 1 Midterm graded 75 · Midterm Test Review Problems graded 50 · Cart on Incline Lab due Fri",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1666,6 +1687,13 @@ window.RECAP_DATA = {
               "percent": 50,
               "group": "",
               "due": "Oct 10"
+            },
+            {
+              "title": "Semester 1 Midterm",
+              "score": "75%",
+              "percent": 75,
+              "group": "",
+              "due": "Oct 29"
             }
           ]
         },
@@ -1851,7 +1879,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "6 posted 0",
+          "note": "7 posted 0 (Fall Midterm Exam now 0, completed Oct 8)",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1888,6 +1916,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, completed Sep 24",
               "due": "Due Oct 5"
+            },
+            {
+              "title": "Fall Midterm Exam",
+              "status": "zero",
+              "detail": "Posted 0, completed Oct 08",
+              "due": "Due Oct 12"
             }
           ],
           "grades": [
@@ -2002,6 +2036,13 @@ window.RECAP_DATA = {
               "percent": 0,
               "group": "",
               "due": "Oct 5"
+            },
+            {
+              "title": "Fall Midterm Exam",
+              "score": "0%",
+              "percent": 0,
+              "group": "",
+              "due": "Oct 12"
             }
           ]
         },
