@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 9, 2026 · 4:17 PM CT",
+  "updated": "Friday, Oct 9, 2026 · 5:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -9,7 +9,7 @@ window.RECAP_DATA = {
         "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 89.32% (up from 87.82) — Political Organizations Vocab Quiz = 87.5/100 (today); September 30th Current Event Post now excused; September 9th Current Event #1 = 35/50; Wednesday September 9th Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
         "Biology 80.69% — Unit 2 Test: Cell Structure and Environment = 80/100 (released today); Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81.83% (down from 82.2) — TKAM Novel Test = 134/200 (67%, graded today); Q1 Membean Quiz 3 = 93/100; SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
+        "English I 81.51% (down from 82.2) — TKAM Novel Test = 134/200 (67%, graded today); TKAM Ch. 25-31 = 80/100 (today); Q1 Membean Quiz 3 = 93/100; SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; TKAM Ch. 19-24 overdue (Sep 21); Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
       ],
       "courses": [
         {
@@ -950,8 +950,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "Canvas",
-          "grade": 81.83,
-          "note": "81.83% (down from 82.2) — TKAM Novel Test graded 134/200 (67%) and Membean Quiz 3 93/100 this afternoon; TKAM Post-Reading Reflection 100/100; Membean 5, 6, and 7 still open",
+          "grade": 81.51,
+          "note": "81.51% (down from 82.2 Thu) — TKAM Novel Test 134/200 (67%), Membean Quiz 3 93/100, and TKAM Ch. 25-31 80/100 graded this afternoon; Membean 5, 6, and 7 and TKAM Ch. 19-24 still open",
           "work": [
             {
               "title": "Q1 Membean Program 5",
@@ -976,12 +976,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Unsubmitted past due",
               "due": "Sep 21"
-            },
-            {
-              "title": "TKAM Ch. 25-31 due",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Sep 30"
             }
           ],
           "grades": [
@@ -1096,6 +1090,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 7"
+            },
+            {
+              "title": "TKAM Ch. 25-31 due",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
             }
           ]
         }
