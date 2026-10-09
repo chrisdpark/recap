@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 9, 2026 · 8:33 AM CT",
+  "updated": "Friday, Oct 9, 2026 · 12:26 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -8,7 +8,7 @@ window.RECAP_DATA = {
         "Algebra I 24.36% (down from 28.61) — Chapter 2 Test: 2.1-2.7 = 15/100 (graded today; teacher sent a below-75% message); Quiz 1: 1.1-1.4 = 2/20; Quiz 3: 2.1-2.4 = 4/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 and 2.3 Delta Math HW posted 0; 2.5-2.7 Delta Math HW not submitted",
         "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 87.82% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; September 30th - Current Event Post = 50/100; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
-        "Biology 80.78% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
+        "Biology 80.69% — Unit 2 Test: Cell Structure and Environment = 80/100 (released today); Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 82.2% — TKAM Literature Circle 200/200 (graded today); SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
       ],
       "courses": [
@@ -772,8 +772,8 @@ window.RECAP_DATA = {
           "teacher": "DeGrenier",
           "period": "P7",
           "source": "Canvas",
-          "grade": 80.78,
-          "note": "80.78% — Lab 03 Post Lab 89.17/100; Unit 2 Test graded, score not released yet",
+          "grade": 80.69,
+          "note": "80.69% — Unit 2 Test: Cell Structure and Environment = 80/100 (released today); Lab 03 Post Lab 89.17/100",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -935,6 +935,13 @@ window.RECAP_DATA = {
               "percent": 89.2,
               "group": "Formative Assessment",
               "due": "Oct 6"
+            },
+            {
+              "title": "Unit 2 Test: Cell Structure and Environment (SA)",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Summative Assessment",
+              "due": "Oct 2"
             }
           ]
         },
@@ -1092,7 +1099,7 @@ window.RECAP_DATA = {
         "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (Friction & Inclines) was due Wed Oct 7 and isn't marked completed; Cart on Incline Lab Fri Oct 9; Midterm Test Review Problems graded 50; 2 posted 0 and 9 older items overdue.",
         "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
         "Precalculus has 7 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5) and Fall Midterm Exam (due Oct 12, completed Oct 8 at 0).",
-        "Apologetics is at 91% — Case for Truth Summative Exam is Fri Oct 9 (P3)."
+        "Apologetics is at 87.2% (down from 91%) — Case for Truth Summative Exam came back 66/100 today."
       ],
       "courses": [
         {
@@ -2051,8 +2058,8 @@ window.RECAP_DATA = {
           "teacher": "Lane",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 85,
-          "note": "9 overdue · 1 posted 0",
+          "grade": 84,
+          "note": "9 overdue · 1 posted 0 · Sociology Midterm graded 81 (completed Oct 5)",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
@@ -2276,6 +2283,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "",
               "due": "Oct 13"
+            },
+            {
+              "title": "Sociology Midterm (LockDown Browser & Proctoring Required)",
+              "score": "81%",
+              "percent": 81,
+              "group": "",
+              "due": "Oct 22"
             }
           ]
         },
@@ -2284,16 +2298,9 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 91.0,
-          "note": "91.0% — Spider Web of Beliefs handout, presentation, and project all 100 — Case for Truth Summative Exam Fri Oct 9 (P3)",
-          "work": [
-            {
-              "title": "Summative Exam - The Case for Truth",
-              "status": "due",
-              "detail": "Due Oct 9",
-              "due": "Oct 9"
-            }
-          ],
+          "grade": 87.2,
+          "note": "87.2% (down from 91.0) — Case for Truth Summative Exam = 66/100 (taken today); Spider Web of Beliefs handout, presentation, and project all 100",
+          "work": [],
           "grades": [
             {
               "title": "Your Apologetics Starting Point",
@@ -2376,6 +2383,13 @@ window.RECAP_DATA = {
               "title": "Summative Project - Spider Web of Beliefs Overall Grade",
               "score": "100/100",
               "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Summative Exam - The Case for Truth",
+              "score": "66/100",
+              "percent": 66.0,
               "group": "Summative Assessment",
               "due": "Oct 9"
             }
