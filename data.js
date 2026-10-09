@@ -1,11 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 8, 2026 · 1:25 PM CT",
+  "updated": "Thursday, Oct 8, 2026 · 9:30 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Bible 90.42% — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100 (regraded up from 82); Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; 3 \"What Kind of King?\" assignments turned in on time today (awaiting grade)",
-        "Algebra I 28.61% — Quiz 1: 1.1-1.4 = 2/20; Quiz 2: 1.5-1.7 = 5.75/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 Delta Math HW posted 0; 2.3 Delta Math HW posted 0",
+        "Algebra I 24.36% (down from 28.61) — Chapter 2 Test: 2.1-2.7 = 15/100 (graded today; teacher sent a below-75% message); Quiz 1: 1.1-1.4 = 2/20; Quiz 3: 2.1-2.4 = 4/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 and 2.3 Delta Math HW posted 0; 2.5-2.7 Delta Math HW not submitted",
         "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 87.82% — September 9th - Current Event #1 = 35/50; Wednesday September 9th - Current Event #2 = 35/50; September 30th - Current Event Post = 50/100; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
         "Biology 80.78% — Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
@@ -343,8 +343,8 @@ window.RECAP_DATA = {
           "teacher": "Seegers",
           "period": "P4",
           "source": "Canvas",
-          "grade": 28.61,
-          "note": "28.61% — Quiz 1.1–1.4 is 2/20 — 2.2 Delta Math HW posted 0 — 2.3 Delta Math HW posted 0 — 2.5-2.7 Delta Mat…",
+          "grade": 24.36,
+          "note": "24.36% (down from 28.61) — Chapter 2 Test graded 15/100 today; Mr. Seegers sent a below-75% message — Quiz 1.1–1.4 is 2/20 — 2.2 and 2.3 Delta Math HW posted 0 — 2.5-2.7 Delta Math HW still not submitted",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -363,12 +363,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Was due Mon Oct 5 11:00 AM — not showing submitted in Canvas yet",
               "due": "Oct 5"
-            },
-            {
-              "title": "Chapter 2 Test: 2.1-2.7",
-              "status": "overdue",
-              "detail": "Was Wed Oct 7 9:30 AM (in class, no online submission) — not graded yet",
-              "due": "Oct 7"
             },
             {
               "title": "Lesson 3: Solve and Color (schedule)",
@@ -439,6 +433,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 3"
+            },
+            {
+              "title": "Chapter 2 Test: 2.1-2.7",
+              "score": "15/100",
+              "percent": 15.0,
+              "group": "Summative Assessment",
+              "due": "Oct 7"
             }
           ]
         },
