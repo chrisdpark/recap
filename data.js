@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 9, 2026 · 8:10 PM CT",
+  "updated": "Saturday, Oct 10, 2026 · 12:04 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,7 +7,7 @@ window.RECAP_DATA = {
         "Bible 90.5% (up from 90.42) — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; Samuel — What Kind of King? Parts 1–2 = 8/8 and Exit Ticket = 4/4 (graded overnight)",
         "Algebra I 24.36% (down from 28.61) — Chapter 2 Test: 2.1-2.7 = 15/100 (graded today; teacher sent a below-75% message); Quiz 1: 1.1-1.4 = 2/20; Quiz 3: 2.1-2.4 = 4/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 and 2.3 Delta Math HW posted 0; 2.5-2.7 Delta Math HW not submitted",
         "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
-        "World Geography 89.32% (up from 87.82) — Political Organizations Vocab Quiz = 87.5/100 (today); September 30th Current Event Post now excused; September 9th Current Event #1 = 35/50; Wednesday September 9th Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post due Oct 9",
+        "World Geography 89.32% (up from 87.82) — Political Organizations Vocab Quiz = 87.5/100 (today); September 30th Current Event Post now excused; September 9th Current Event #1 = 35/50; Wednesday September 9th Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post turned in Fri Oct 9 (awaiting grade)",
         "Biology 80.69% — Unit 2 Test: Cell Structure and Environment = 80/100 (released today); Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
         "English I 81.51% (down from 82.2) — TKAM Novel Test = 134/200 (67%, graded today); TKAM Ch. 25-31 = 80/100 (today); Q1 Membean Quiz 3 = 93/100; SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; TKAM Ch. 19-24 overdue (Sep 21); Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
       ],
@@ -216,7 +216,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 99.95,
-          "note": "99.95% — Run-through of Program (Summative, in class) was due Tue, not graded yet — Sight-Singing 6 and 7 overdue — Sight-Singing Exam Fri Oct 9",
+          "note": "99.95% — Run-through of Program (Summative, in class) was due Tue, not graded yet — Sight-Singing 7 and the Sight-Singing Exam (due Fri) not graded yet",
           "work": [
             {
               "title": "Run-through of Program (Summative)",
@@ -232,8 +232,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Sight-Singing Exam",
-              "status": "due",
-              "detail": "Due Fri Oct 9 11:59 PM (Summative)",
+              "status": "overdue",
+              "detail": "Was due Fri Oct 9 11:59 PM (Summative, no online submission) — not graded yet",
               "due": "Oct 9"
             }
           ],
@@ -659,15 +659,8 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "Canvas",
           "grade": 89.32,
-          "note": "89.32% (up from 87.82) — Political Organizations Vocab Quiz 87.5/100 today; Sept 30 Current Event Post now excused (was 50/100); Europe Mapping turned in (awaiting grade); October 7th Current Event Post due Fri Oct 9",
-          "work": [
-            {
-              "title": "October 7th Current Event Post",
-              "status": "due",
-              "detail": "Post Wed Oct 7 (week page) — Canvas due Fri Oct 9",
-              "due": "Oct 9"
-            }
-          ],
+          "note": "89.32% (up from 87.82) — Political Organizations Vocab Quiz 87.5/100 today; Sept 30 Current Event Post now excused (was 50/100); Europe Mapping turned in (awaiting grade); October 7th Current Event Post turned in Fri night (awaiting grade)",
+          "work": [],
           "grades": [
             {
               "title": "TURN IN - Political Organizations Vocab Matrix",
