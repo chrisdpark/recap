@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 10, 2026 · 8:08 AM CT",
+  "updated": "Saturday, Oct 10, 2026 · 12:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1099,7 +1099,7 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Graphic Design: Quarter1_Proj1 (on paper, due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9 at 3:59 PM) aren't showing submitted in Canvas yet.",
-        "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (Friction & Inclines) was due Wed Oct 7 and isn't marked completed; Cart on Incline Lab Fri Oct 9; Midterm Test Review Problems graded 50; 2 posted 0 and 9 older items overdue.",
+        "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (due Wed Oct 7) and Cart on Incline Lab (due Fri Oct 9) aren't marked completed; Forces and Newton's Laws Notes moved from Sep 23 to Sat Oct 17; Midterm Test Review Problems graded 50; 2 posted 0 and 8 older items overdue.",
         "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
         "Precalculus has 7 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5) and Fall Midterm Exam (due Oct 12, completed Oct 8 at 0).",
         "Apologetics is at 87.2% (down from 91%) — Case for Truth Summative Exam came back 66/100 today."
@@ -1399,7 +1399,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 80,
-          "note": "10 overdue · 2 posted 0 · Semester 1 Midterm graded 75 · Midterm Test Review Problems graded 50 · Cart on Incline Lab due Fri",
+          "note": "10 overdue · 2 posted 0 · Semester 1 Midterm graded 75 · Midterm Test Review Problems graded 50 · Test Review due Wed Oct 14",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1450,12 +1450,6 @@ window.RECAP_DATA = {
               "due": "Due Sep 21"
             },
             {
-              "title": "Forces and Newton's Laws Notes",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 23"
-            },
-            {
               "title": "Free Body Diagram Worksheet",
               "status": "overdue",
               "detail": "Not completed",
@@ -1475,9 +1469,21 @@ window.RECAP_DATA = {
             },
             {
               "title": "Cart on Incline Lab",
+              "status": "overdue",
+              "detail": "Not completed (was due Fri Oct 9)",
+              "due": "Due Oct 9"
+            },
+            {
+              "title": "Forces & Newton's Laws Test Review",
               "status": "due",
               "detail": "",
-              "due": "Oct 9"
+              "due": "Oct 14"
+            },
+            {
+              "title": "Forces and Newton's Laws Notes",
+              "status": "due",
+              "detail": "Due date moved from Sep 23 to Sat Oct 17",
+              "due": "Oct 17"
             }
           ],
           "grades": [
@@ -1619,7 +1625,7 @@ window.RECAP_DATA = {
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 23"
+              "due": "Oct 17"
             },
             {
               "title": "2D Motion Notes",
