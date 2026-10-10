@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 10, 2026 · 12:13 PM CT",
+  "updated": "Saturday, Oct 10, 2026 · 4:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 90.5% (up from 90.42) — Judges Cycle part 2 = 0/100; 1 Samuel Overview Video Check = 5/6; Test — Torah Summative Exam = 92/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; Samuel — What Kind of King? Parts 1–2 = 8/8 and Exit Ticket = 4/4 (graded overnight)",
+        "Bible 90.5% (up from 90.42) — Judges Cycle part 2 = 0/100; Test — Torah Summative Exam = 92/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; Samuel — What Kind of King? Parts 1–2 = 8/8 and Exit Ticket = 4/4 (graded overnight)",
         "Algebra I 24.36% (down from 28.61) — Chapter 2 Test: 2.1-2.7 = 15/100 (graded today; teacher sent a below-75% message); Quiz 1: 1.1-1.4 = 2/20; Quiz 3: 2.1-2.4 = 4/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 and 2.3 Delta Math HW posted 0; 2.5-2.7 Delta Math HW not submitted",
         "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
         "World Geography 89.32% (up from 87.82) — Political Organizations Vocab Quiz = 87.5/100 (today); September 30th Current Event Post now excused; September 9th Current Event #1 = 35/50; Wednesday September 9th Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post turned in Fri Oct 9 (awaiting grade)",
@@ -75,13 +75,6 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Oct 1"
-            },
-            {
-              "title": "1 Samuel Overview Video Check",
-              "score": "5/6",
-              "percent": 83.3,
-              "group": "Formative Assessment",
-              "due": "Oct 5"
             },
             {
               "title": "Test — Torah Summative Exam",
