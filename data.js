@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 10, 2026 · 8:11 PM CT",
+  "updated": "Sunday, Oct 11, 2026 · 12:08 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1094,7 +1094,7 @@ window.RECAP_DATA = {
         "Graphic Design: Quarter1_Proj1 (on paper, due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9 at 3:59 PM) aren't showing submitted in Canvas yet.",
         "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (due Wed Oct 7) and Cart on Incline Lab (due Fri Oct 9) aren't marked completed; Forces and Newton's Laws Notes moved from Sep 23 to Sat Oct 17; Midterm Test Review Problems graded 50; 2 posted 0 and 8 older items overdue.",
         "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
-        "Precalculus has 7 quizzes/tests posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 5) and Fall Midterm Exam (due Oct 12, completed Oct 8 at 0).",
+        "Precalculus is up to 90% — Dropbox Fall Midterm Exam graded 94; 7 quizzes/tests still posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 2) and Fall Midterm Exam (due Oct 9, completed Oct 8). Pinson also shifted several due dates (Quiz 3.1-3.3 now Oct 20).",
         "Apologetics is at 87.2% (down from 91%) — Case for Truth Summative Exam came back 66/100 today."
       ],
       "courses": [
@@ -1887,8 +1887,8 @@ window.RECAP_DATA = {
           "teacher": "Pinson",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 89,
-          "note": "7 posted 0 (Fall Midterm Exam now 0, completed Oct 8)",
+          "grade": 90,
+          "note": "7 posted 0 · Dropbox Fall Midterm Exam graded 94 · next up Week 9 Homework (Oct 15)",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1918,19 +1918,19 @@ window.RECAP_DATA = {
               "title": "QUIZ 2.3 - 2.7",
               "status": "zero",
               "detail": "Posted 0, completed Sep 17",
-              "due": "Due Sep 28"
+              "due": "Due Sep 25"
             },
             {
               "title": "Test Unit 2",
               "status": "zero",
               "detail": "Posted 0, completed Sep 24",
-              "due": "Due Oct 5"
+              "due": "Due Oct 2"
             },
             {
               "title": "Fall Midterm Exam",
               "status": "zero",
               "detail": "Posted 0, completed Oct 08",
-              "due": "Due Oct 12"
+              "due": "Due Oct 9"
             }
           ],
           "grades": [
@@ -2023,7 +2023,7 @@ window.RECAP_DATA = {
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 22"
+              "due": "Sep 21"
             },
             {
               "title": "Dropbox Test Unit 2",
@@ -2037,21 +2037,28 @@ window.RECAP_DATA = {
               "score": "0%",
               "percent": 0,
               "group": "",
-              "due": "Sep 28"
+              "due": "Sep 25"
             },
             {
               "title": "Test Unit 2",
               "score": "0%",
               "percent": 0,
               "group": "",
-              "due": "Oct 5"
+              "due": "Oct 2"
             },
             {
               "title": "Fall Midterm Exam",
               "score": "0%",
               "percent": 0,
               "group": "",
-              "due": "Oct 12"
+              "due": "Oct 9"
+            },
+            {
+              "title": "Dropbox Fall Midterm Exam",
+              "score": "94%",
+              "percent": 94,
+              "group": "",
+              "due": "Oct 9"
             }
           ]
         },
