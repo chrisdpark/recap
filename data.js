@@ -1,35 +1,35 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 12, 2026 · 4:15 PM CT",
+  "updated": "Monday, Oct 12, 2026 · 5:22 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Bible 90.5% (up from 90.42) — Judges Cycle part 2 = 0/100; Test — Torah Summative Exam = 92/100; Group Jigsaw- The Patriarchs posted 0; Judges Cycle part 2 posted 0; Samuel — What Kind of King? Parts 1–2 = 8/8 and Exit Ticket = 4/4 (graded overnight)",
-        "Algebra I 24.36% (down from 28.61) — Chapter 2 Test: 2.1-2.7 = 15/100 (graded today; teacher sent a below-75% message); Quiz 1: 1.1-1.4 = 2/20; Quiz 3: 2.1-2.4 = 4/20; Chapter 1 Test: 1.1-1.4 = 23/100; 2.2 and 2.3 Delta Math HW posted 0; 2.5-2.7 Delta Math HW not submitted",
-        "German I 89.28% — Review Packet (FA) regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were placeholders); Vorstellen Introduction a friend (FA) - Before Class = 0.2/20; Farben missing (Oct 6); Alphabet Part 1 Video overdue (Sep 30)",
-        "World Geography 89.32% (up from 87.82) — Political Organizations Vocab Quiz = 87.5/100 (today); September 30th Current Event Post now excused; September 9th Current Event #1 = 35/50; Wednesday September 9th Current Event #2 = 35/50; Unit 1 Test: Foundations of Geography = 76/100; October 7th Current Event Post turned in Fri Oct 9 (awaiting grade)",
-        "Biology 80.69% — Unit 2 Test: Cell Structure and Environment = 80/100 (released today); Get to Know You Submission = 50/100; Pogil - Interpreting Data (in class) = 83/100; Lab 02: Microscopy = 50/100; Creation Journal Discussion (Journals 1 - 4) posted 0; Biomolecules - Pogil (in class) overdue (Sep 4)",
-        "English I 81.51% (down from 82.2) — TKAM Novel Test = 134/200 (67%, graded today); TKAM Ch. 25-31 = 80/100 (today); Q1 Membean Quiz 3 = 93/100; SKDM Assessment = 70/100; TKAM Ch. 8-12 In-Class Essay = 65/100; TKAM Ch. 13-18 due = 55/100; TKAM Ch. 19-24 overdue (Sep 21); Q1 Membean Program 5 overdue (Sep 23); Q1 Membean Program 6 overdue (Sep 30); Q1 Membean Program 7 overdue (Oct 7)"
+        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu is still unread in Canvas.",
+        "German I 89.28% — Farben (Tue Oct 6) and Alphabet Part 1 Video (Sep 30) marked missing; Vocabulary Quiz #1 online part and Workbook p.15 Ex. 3 still not turned in; family video summary (Wed) open; Vorstellen introduction still 0.2/20.",
+        "Bible 90.5% — Judges Cycle part 2 and Group Jigsaw: The Patriarchs still 0 (missing); Meet Samuel, Saul, and David turned in Wed (awaiting grade).",
+        "English I 81.51% — Membean Programs 5, 6 and 7 and TKAM Ch. 19–24 still not turned in; TKAM Novel Test remains 134/200 (67%).",
+        "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16.",
+        "Worship 99.95% — Sight-Singing 6 and 7, TAPPS Solos, You Raise Me Up, Run-through of Program, and Sight-Singing Exam still aren’t marked turned in on Canvas."
       ],
       "courses": [
         {
           "name": "Bible",
           "teacher": "Arredondo",
           "period": "P2",
-          "source": "Canvas",
+          "source": "canvas",
           "grade": 90.5,
-          "note": "90.5% (up from 90.42) — all 3 \"What Kind of King?\" pieces graded 100% overnight; Torah Exam 92/100; Judges Cycle pt 2 still 0",
+          "note": "90.5% — unchanged since Fri. Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel/Saul/David awaiting grade.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
               "status": "zero",
-              "detail": "Posted 0 / Canvas missing",
+              "detail": "0/100 missing",
               "due": "Sep 3"
             },
             {
               "title": "Judges Cycle part 2",
               "status": "zero",
-              "detail": "Posted 0 / Canvas missing",
+              "detail": "0/100 missing",
               "due": "Oct 1"
             }
           ],
@@ -207,27 +207,39 @@ window.RECAP_DATA = {
           "name": "Intro to Worship Culture",
           "teacher": "Titus",
           "period": "P3",
-          "source": "Canvas",
+          "source": "canvas",
           "grade": 99.95,
-          "note": "99.95% — Run-through of Program (Summative, in class) was due Tue, not graded yet — Sight-Singing 7 and the Sight-Singing Exam (due Fri) not graded yet",
+          "note": "99.95% — Sight-Singing 6/7, TAPPS Solos, You Raise Me Up, Run-through, and Sight-Singing Exam still unmarked on Canvas.",
           "work": [
             {
-              "title": "Run-through of Program (Summative)",
+              "title": "Sight-Singing 6",
               "status": "overdue",
-              "detail": "Was due Tue Oct 6 11:59 PM (in class, no online submission) — not graded yet",
-              "due": "Oct 6"
+              "detail": "not marked turned in",
+              "due": "Sep 30"
             },
             {
               "title": "Sight-Singing 7",
               "status": "overdue",
-              "detail": "Was due Wed Oct 7 11:59 PM (no online submission) — not graded yet",
+              "detail": "not marked turned in",
               "due": "Oct 7"
             },
             {
               "title": "Sight-Singing Exam",
               "status": "overdue",
-              "detail": "Was due Fri Oct 9 11:59 PM (Summative, no online submission) — not graded yet",
+              "detail": "was due Fri Oct 9; not marked turned in",
               "due": "Oct 9"
+            },
+            {
+              "title": "TAPPS Solos",
+              "status": "overdue",
+              "detail": "not marked turned in",
+              "due": "Oct 2"
+            },
+            {
+              "title": "Run-through of Program",
+              "status": "overdue",
+              "detail": "in class; not marked turned in",
+              "due": "Oct 6"
             }
           ],
           "grades": [
@@ -356,39 +368,33 @@ window.RECAP_DATA = {
           "name": "Algebra I",
           "teacher": "Seegers",
           "period": "P4",
-          "source": "Canvas",
+          "source": "canvas",
           "grade": 24.36,
-          "note": "24.36% (down from 28.61) — Chapter 2 Test graded 15/100 today; Mr. Seegers sent a below-75% message — Quiz 1.1–1.4 is 2/20 — 2.2 and 2.3 Delta Math HW posted 0 — 2.5-2.7 Delta Math HW still not submitted",
+          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
               "status": "zero",
-              "detail": "Posted 0",
+              "detail": "0/20",
               "due": "Sep 24"
             },
             {
               "title": "2.3 Delta Math HW",
               "status": "zero",
-              "detail": "Posted 0",
+              "detail": "0/20",
               "due": "Sep 28"
             },
             {
               "title": "2.5-2.7 Delta Math HW",
               "status": "overdue",
-              "detail": "Was due Mon Oct 5 11:00 AM — not showing submitted in Canvas yet",
+              "detail": "not submitted",
               "due": "Oct 5"
             },
             {
-              "title": "Lesson 3: Solve and Color (schedule)",
-              "status": "overdue",
-              "detail": "Unit 1 Schedule due 9/2 — not a Canvas assignment submission",
-              "due": "Sep 2"
-            },
-            {
-              "title": "Inequalities Mad Lib (schedule)",
-              "status": "overdue",
-              "detail": "Unit 1 Schedule due 9/8 (B) — schedule-only, not a Canvas assignment",
-              "due": "Sep 8"
+              "title": "Chapter 2 Test: 2.1-2.7",
+              "status": "zero",
+              "detail": "15/100",
+              "due": "Oct 7"
             }
           ],
           "grades": [
@@ -461,39 +467,39 @@ window.RECAP_DATA = {
           "name": "German I",
           "teacher": "Porter",
           "period": "P5",
-          "source": "Canvas",
+          "source": "canvas",
           "grade": 89.28,
-          "note": "89.28% — Review Packet regraded 17/20 and Lords prayer Part 3 regraded 9/10 (were 0.2 and 0.1 placeholders) — Farben missing (Oct 6) — Alphabet Part 1 Video overdue",
+          "note": "89.28% — Farben + Alphabet Part 1 Video missing; Vocab Quiz #1 online, Workbook p.15 Ex.3, family video summary open; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
-              "status": "overdue",
-              "detail": "Canvas missing",
+              "status": "missing",
+              "detail": "marked missing",
               "due": "Sep 30"
             },
             {
               "title": "Farben",
               "status": "missing",
-              "detail": "Was due Tue Oct 6 10:30 AM — Canvas marks it missing",
+              "detail": "marked missing",
               "due": "Oct 6"
             },
             {
               "title": "Vocabulary Quiz #1 (FA)",
               "status": "overdue",
-              "detail": "Was due Tue Oct 6 11:00 AM — not showing submitted in Canvas yet",
+              "detail": "online part not submitted",
               "due": "Oct 6"
-            },
-            {
-              "title": "Watch Video - Write a summary of 10 things about the family",
-              "status": "overdue",
-              "detail": "Was due Wed Oct 7 11:00 AM (on paper) — not graded yet",
-              "due": "Oct 7"
             },
             {
               "title": "Workbook page 15 Ex. 3",
               "status": "overdue",
-              "detail": "Unsubmitted past due",
+              "detail": "not submitted",
               "due": "Oct 2"
+            },
+            {
+              "title": "Watch Video - Write a summary of 10 things about the family",
+              "status": "overdue",
+              "detail": "may have been done on paper",
+              "due": "Oct 7"
             }
           ],
           "grades": [
@@ -650,10 +656,17 @@ window.RECAP_DATA = {
           "name": "World Geography",
           "teacher": "Callahan",
           "period": "P6",
-          "source": "Canvas",
+          "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% (up from 87.82) — Political Organizations Vocab Quiz 87.5/100 today; Sept 30 Current Event Post now excused (was 50/100); Europe Mapping turned in (awaiting grade); October 7th Current Event Post turned in Fri night (awaiting grade)",
-          "work": [],
+          "note": "89.32% — Oct 7 Current Event Post submitted Fri night (awaiting grade); Europe Mapping turned in; Week 3 schedule page not posted yet.",
+          "work": [
+            {
+              "title": "October 7th Current Event Post",
+              "status": "due",
+              "detail": "submitted Fri night; awaiting grade",
+              "due": "Oct 9"
+            }
+          ],
           "grades": [
             {
               "title": "TURN IN - Political Organizations Vocab Matrix",
@@ -757,21 +770,21 @@ window.RECAP_DATA = {
           "name": "Biology",
           "teacher": "DeGrenier",
           "period": "P7",
-          "source": "Canvas",
+          "source": "canvas",
           "grade": 80.69,
-          "note": "80.69% — Unit 2 Test: Cell Structure and Environment = 80/100 (released today); Lab 03 Post Lab 89.17/100",
+          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn Fri Oct 16.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
               "status": "zero",
-              "detail": "Posted 0",
+              "detail": "0/20",
               "due": "Sep 18"
             },
             {
-              "title": "Biomolecules - Pogil (in class)",
-              "status": "overdue",
-              "detail": "Unsubmitted past due (muted in Canvas)",
-              "due": "Sep 4"
+              "title": "Lab 4: Photosynthesis",
+              "status": "due",
+              "detail": "write-up due after Fall Break",
+              "due": "Oct 16"
             }
           ],
           "grades": [
@@ -935,32 +948,32 @@ window.RECAP_DATA = {
           "name": "English I",
           "teacher": "MacAllister",
           "period": "P8",
-          "source": "Canvas",
+          "source": "canvas",
           "grade": 81.51,
-          "note": "81.51% (down from 82.2 Thu) — TKAM Novel Test 134/200 (67%), Membean Quiz 3 93/100, and TKAM Ch. 25-31 80/100 graded this afternoon; Membean 5, 6, and 7 and TKAM Ch. 19-24 still open",
+          "note": "81.51% — Membean 5/6/7 and TKAM Ch. 19–24 still not turned in; TKAM Novel Test 134/200.",
           "work": [
             {
               "title": "Q1 Membean Program 5",
               "status": "overdue",
-              "detail": "Unsubmitted past due",
+              "detail": "not submitted",
               "due": "Sep 23"
             },
             {
               "title": "Q1 Membean Program 6",
               "status": "overdue",
-              "detail": "Unsubmitted past due",
+              "detail": "not submitted",
               "due": "Sep 30"
             },
             {
               "title": "Q1 Membean Program 7",
               "status": "overdue",
-              "detail": "Unsubmitted past due (was due Wed Oct 7 11:59 PM)",
+              "detail": "not submitted",
               "due": "Oct 7"
             },
             {
               "title": "TKAM Ch. 19-24 due",
               "status": "overdue",
-              "detail": "Unsubmitted past due",
+              "detail": "not submitted",
               "due": "Sep 21"
             }
           ],
@@ -2502,4 +2515,4 @@ window.RECAP_DATA = {
       ]
     }
   }
-};
+}
