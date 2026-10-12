@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Oct 11, 2026 · 8:13 PM CT",
+  "updated": "Monday, Oct 12, 2026 · 12:05 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
