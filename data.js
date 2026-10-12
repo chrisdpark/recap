@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 12, 2026 · 5:22 PM CT",
+  "updated": "Monday, Oct 12, 2026 · 6:51 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1109,7 +1109,7 @@ window.RECAP_DATA = {
         "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (due Wed Oct 7) and Cart on Incline Lab (due Fri Oct 9) aren't marked completed; Forces and Newton's Laws Notes moved from Sep 23 to Sat Oct 17; Midterm Test Review Problems graded 50; 2 posted 0 and 8 older items overdue.",
         "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
         "Precalculus is up to 90% — Dropbox Fall Midterm Exam graded 94; 7 quizzes/tests still posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 2) and Fall Midterm Exam (due Oct 9, completed Oct 8). Pinson also shifted several due dates (Quiz 3.1-3.3 now Oct 20).",
-        "Apologetics is at 87.2% (down from 91%) — Case for Truth Summative Exam came back 66/100 today."
+        "Apologetics is at 87.2% (down from 91%) — Case for Truth Summative Exam came back 66/100 on Fri Oct 9."
       ],
       "courses": [
         {
@@ -2343,7 +2343,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% (down from 91.0) — Case for Truth Summative Exam = 66/100 (taken today); Spider Web of Beliefs handout, presentation, and project all 100",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100",
           "work": [],
           "grades": [
             {
