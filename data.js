@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 12, 2026 · 8:24 AM CT",
+  "updated": "Monday, Oct 12, 2026 · 12:26 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1091,6 +1091,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "English 12 is at 96% (was 100%) — five items were just graded: Final Narrative Essay 92, research paper first draft 90, and Shooting an Elephant, Canterbury Tales Prologue, and the Five Sources/thesis assignment at 100. 16 older items still show not completed.",
         "Graphic Design: Quarter1_Proj1 (on paper, due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9 at 3:59 PM) aren't showing submitted in Canvas yet.",
         "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (due Wed Oct 7) and Cart on Incline Lab (due Fri Oct 9) aren't marked completed; Forces and Newton's Laws Notes moved from Sep 23 to Sat Oct 17; Midterm Test Review Problems graded 50; 2 posted 0 and 8 older items overdue.",
         "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
@@ -1103,8 +1104,8 @@ window.RECAP_DATA = {
           "teacher": "Denton",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 100,
-          "note": "18 overdue · 11 recent submissions ungraded",
+          "grade": 96,
+          "note": "16 overdue · 5 newly graded (Final Narrative Essay 92, research paper first draft 90, three at 100) · 6 submissions ungraded",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1117,18 +1118,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 21, 2025"
-            },
-            {
-              "title": "Membean Practice 10/19",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 19, 2025"
-            },
-            {
-              "title": "Intro to the English Renaissance on StudySync",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 19, 2025"
             },
             {
               "title": "Macbeth Act 3 Scene Study in StudySync",
@@ -1213,6 +1202,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 30"
+            },
+            {
+              "title": "Intro to the English Renaissance on StudySync",
+              "status": "due",
+              "detail": "Due date moved from Oct 19, 2025 to Sun Oct 18",
+              "due": "Oct 18"
+            },
+            {
+              "title": "Membean Practice 10/19",
+              "status": "due",
+              "detail": "Due date moved from Oct 19, 2025 to Sun Oct 18",
+              "due": "Oct 18"
             }
           ],
           "grades": [
@@ -1224,6 +1225,13 @@ window.RECAP_DATA = {
               "due": "Sep 21, 2025"
             },
             {
+              "title": "First draft of Intro, first two body paragraphs and Works Cited page",
+              "score": "90%",
+              "percent": 90,
+              "group": "",
+              "due": "Sep 21, 2025"
+            },
+            {
               "title": "Membean 9/21",
               "score": "—",
               "percent": null,
@@ -1231,28 +1239,14 @@ window.RECAP_DATA = {
               "due": "Sep 21, 2025"
             },
             {
-              "title": "Membean Practice 10/19",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 19, 2025"
-            },
-            {
-              "title": "Intro to the English Renaissance on StudySync",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 19, 2025"
-            },
-            {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
+              "title": "Mbn 10/27",
               "score": "—",
               "percent": null,
               "group": "",
               "due": "Oct 26, 2025"
             },
             {
-              "title": "Mbn 10/27",
+              "title": "Macbeth Act 3 Scene Study in StudySync",
               "score": "—",
               "percent": null,
               "group": "",
@@ -1329,6 +1323,20 @@ window.RECAP_DATA = {
               "due": "Aug 26"
             },
             {
+              "title": "Final Narrative Essay Writing Assignment",
+              "score": "92%",
+              "percent": 92,
+              "group": "",
+              "due": "Aug 30"
+            },
+            {
+              "title": "Shooting an Elephant by George Orwell",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Aug 30"
+            },
+            {
               "title": "Membean 8/30",
               "score": "—",
               "percent": null,
@@ -1357,9 +1365,23 @@ window.RECAP_DATA = {
               "due": "Sep 8"
             },
             {
+              "title": "Prologue to the Canterbury Tales",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Sep 13"
+            },
+            {
               "title": "Membean 9/13",
               "score": "—",
               "percent": null,
+              "group": "",
+              "due": "Sep 13"
+            },
+            {
+              "title": "Five Sources and Persuasive Paper Thesis Statement",
+              "score": "100%",
+              "percent": 100,
               "group": "",
               "due": "Sep 13"
             },
