@@ -1,13 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 13, 2026 · 12:24 PM CT",
+  "updated": "Tuesday, Oct 13, 2026 · 4:16 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu is still unread in Canvas.",
         "German I 89.28% — Farben (Tue Oct 6) and Alphabet Part 1 Video (Sep 30) marked missing; Vocabulary Quiz #1 online part and Workbook p.15 Ex. 3 still not turned in; family video summary (Wed) open; Vorstellen introduction still 0.2/20.",
-        "Bible 90.5% — Judges Cycle part 2 and Group Jigsaw: The Patriarchs still 0 (missing); Meet Samuel, Saul, and David turned in Wed (awaiting grade).",
-        "English I 81.51% — Membean Programs 5, 6 and 7 and TKAM Ch. 19–24 still not turned in; TKAM Novel Test remains 134/200 (67%).",
+        "Bible 90.37% (down from 90.5) — Exit Ticket: Numbers Deuteronomy removed; Torah/Unit tests renamed; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
         "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16."
       ],
       "courses": [
@@ -16,8 +15,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "canvas",
-          "grade": 90.5,
-          "note": "90.5% — unchanged since Fri. Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel/Saul/David awaiting grade.",
+          "grade": 90.37,
+          "note": "90.37% (down from 90.5) — Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -76,7 +75,7 @@ window.RECAP_DATA = {
               "due": "Oct 1"
             },
             {
-              "title": "Test — Torah Summative Exam",
+              "title": "SummativeTest — Torah Summative Exam",
               "score": "92/100",
               "percent": 92.0,
               "group": "Summative Assessment",
@@ -104,7 +103,7 @@ window.RECAP_DATA = {
               "due": "Sep 16"
             },
             {
-              "title": "Test: Units 2 and 3",
+              "title": "U2&3Test: Units 2 and 3",
               "score": "90/100",
               "percent": 90.0,
               "group": "Summative Assessment",
@@ -116,13 +115,6 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 2"
-            },
-            {
-              "title": "Exit Ticket: Numbers Deuteronomy",
-              "score": "90/100",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Sep 21"
             },
             {
               "title": "Explore Part 1: Numbers and Deuteronomy",
@@ -153,7 +145,7 @@ window.RECAP_DATA = {
               "due": "Sep 3"
             },
             {
-              "title": "Test: Units 1: Genesis 1-11",
+              "title": "U1Test: Units 1: Genesis 1-11",
               "score": "100/100",
               "percent": 100.0,
               "group": "Summative Assessment",
@@ -945,34 +937,9 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "canvas",
-          "grade": 81.51,
-          "note": "81.51% — Membean 5/6/7 and TKAM Ch. 19–24 still not turned in; TKAM Novel Test 134/200.",
-          "work": [
-            {
-              "title": "Q1 Membean Program 5",
-              "status": "overdue",
-              "detail": "not submitted",
-              "due": "Sep 23"
-            },
-            {
-              "title": "Q1 Membean Program 6",
-              "status": "overdue",
-              "detail": "not submitted",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Q1 Membean Program 7",
-              "status": "overdue",
-              "detail": "not submitted",
-              "due": "Oct 7"
-            },
-            {
-              "title": "TKAM Ch. 19-24 due",
-              "status": "overdue",
-              "detail": "not submitted",
-              "due": "Sep 21"
-            }
-          ],
+          "grade": 81.14,
+          "note": "81.14% (down from 81.51) — Membean Programs 5/6/7 graded 100/90/80 and TKAM Ch. 19–24 graded 80 (all posted today); TKAM Novel Test remains 134/200 (67%).",
+          "work": [],
           "grades": [
             {
               "title": "SKDM Assessment",
@@ -1092,6 +1059,34 @@ window.RECAP_DATA = {
               "percent": 80.0,
               "group": "Formative Assessment",
               "due": "Sep 30"
+            },
+            {
+              "title": "Q1 Membean Program 5",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 23"
+            },
+            {
+              "title": "Q1 Membean Program 6",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Q1 Membean Program 7",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Oct 7"
+            },
+            {
+              "title": "TKAM Ch. 19-24 due",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Sep 21"
             }
           ]
         }
