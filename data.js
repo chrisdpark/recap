@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 13, 2026 · 5:15 PM CT",
+  "updated": "Tuesday, Oct 13, 2026 · 5:16 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -646,12 +646,12 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% — Oct 7 Current Event Post submitted Fri night (awaiting grade); Europe Mapping turned in; Week 3 schedule page not posted yet.",
+          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in Fri (awaiting grades); new Sub-Saharan Africa assignment posted (no due date yet); Week 3 schedule page not posted yet.",
           "work": [
             {
               "title": "October 7th Current Event Post",
               "status": "due",
-              "detail": "submitted Fri night; awaiting grade",
+              "detail": "submitted Fri Oct 9 — awaiting grade",
               "due": "Oct 9"
             }
           ],
@@ -760,7 +760,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 80.69,
-          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn Fri Oct 16.",
+          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up due next class after Fall Break (Thu Oct 15/Fri Oct 16; Canvas Fri 8:00 AM); Cellular Respiration Venn Fri Oct 16; Cellular Energy Summative Project Wed Oct 21.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -771,8 +771,20 @@ window.RECAP_DATA = {
             {
               "title": "Lab 4: Photosynthesis",
               "status": "due",
-              "detail": "write-up due after Fall Break",
+              "detail": "write-up due next class after Fall Break",
               "due": "Oct 16"
+            },
+            {
+              "title": "Cellular Respiration Venn Diagram (in class)",
+              "status": "due",
+              "detail": "in class",
+              "due": "Oct 16"
+            },
+            {
+              "title": "Cellular Energy Summative Project",
+              "status": "due",
+              "detail": "due start of class",
+              "due": "Oct 21"
             }
           ],
           "grades": [
