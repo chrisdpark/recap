@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 13, 2026 · 4:16 PM CT",
+  "updated": "Tuesday, Oct 13, 2026 · 5:15 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1095,12 +1095,11 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "English 12 is at 96% (was 100%) — five items were just graded: Final Narrative Essay 92, research paper first draft 90, and Shooting an Elephant, Canterbury Tales Prologue, and the Five Sources/thesis assignment at 100. 16 older items still show not completed.",
-        "Graphic Design: Quarter1_Proj1 (on paper, due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9 at 3:59 PM) aren't showing submitted in Canvas yet.",
-        "Physics (81%): Midterm Free Response Questions graded 100; several due dates shifted (Newton's 2nd Law sets and Cart on Incline Lab pushed to late Oct); 2D Flight Paths (due Mon Oct 12) not completed; Forces & Newton's Laws Test Review due Wed Oct 14; 2 posted 0 and older items overdue.",
-        "Government is at 86% — Synch Session #6 Make up added (due Oct 19); President and Bureaucracy Test due Wed Oct 14; Midterm 76; 4 synch sessions still overdue.",
-        "Precalculus is up to 90% — Dropbox Fall Midterm Exam graded 94; 7 quizzes/tests still posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 2) and Fall Midterm Exam (due Oct 9, completed Oct 8). Pinson also shifted several due dates (Quiz 3.1-3.3 now Oct 20).",
-        "Apologetics is at 87.2% (down from 91%) — Case for Truth Summative Exam came back 66/100 on Fri Oct 9."
+        "Graphic Design: Quarter1_Proj1 (due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9) still aren't showing submitted in Canvas.",
+        "Physics is at 81% — Midterm Free Response Questions graded 100; Forces & Newton's Laws Test Review is due Wed Oct 14; Midterm Test Review Problems graded 50; 2 posted 0 and several older items overdue.",
+        "Precalculus is at 90% — 7 quizzes/tests still posted 0 even though Ethos shows them completed; Dropbox Week 9 Homework due Thu Oct 15.",
+        "Apologetics is at 87.2% — Case for Truth Summative Exam came back 66/100 on Fri Oct 9.",
+        "English 12 is at 96% — 16 older items still show not completed; Intro to the English Renaissance and Membean Practice due Sun Oct 18/19."
       ],
       "courses": [
         {
@@ -1109,7 +1108,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "16 overdue · 5 newly graded (Final Narrative Essay 92, research paper first draft 90, three at 100) · 6 submissions ungraded",
+          "note": "16 overdue · 6 recent submissions ungraded · Intro to English Renaissance / Membean Practice due Oct 18–19",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1124,13 +1123,13 @@ window.RECAP_DATA = {
               "due": "Due Sep 21, 2025"
             },
             {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
+              "title": "Mbn 10/27",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 26, 2025"
             },
             {
-              "title": "Mbn 10/27",
+              "title": "Macbeth Act 3 Scene Study in StudySync",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 26, 2025"
@@ -1206,18 +1205,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 30"
-            },
-            {
-              "title": "Intro to the English Renaissance on StudySync",
-              "status": "due",
-              "detail": "Due date moved from Oct 19, 2025 to Sun Oct 18",
-              "due": "Oct 18"
-            },
-            {
-              "title": "Membean Practice 10/19",
-              "status": "due",
-              "detail": "Due date moved from Oct 19, 2025 to Sun Oct 18",
-              "due": "Oct 18"
             }
           ],
           "grades": [
@@ -1418,7 +1405,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "7 overdue · 2 posted 0 · Midterm Free Response Questions graded 100 (overall 81) · Semester 1 Midterm 75 · Midterm Test Review Problems 50 · Test Review due Wed Oct 14",
+          "note": "81% · Midterm FRQ graded 100 · Forces & Newton's Laws Test Review due Wed Oct 14 · Midterm Test Review Problems 50 · 2 posted 0 · 7 overdue",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1473,18 +1460,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 12"
-            },
-            {
-              "title": "Forces & Newton's Laws Test Review",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 14"
-            },
-            {
-              "title": "Forces and Newton's Laws Notes",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 17"
             }
           ],
           "grades": [
@@ -1713,7 +1688,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "Course at 86% · 4 overdue · Synch Session #6 Make up added (due Oct 19) · President and Bureaucracy Test due Wed Oct 14 · Midterm 76",
+          "note": "86% · Midterm 76 · 4 synch sessions overdue · Synch Session #6 Make up due Oct 19 · President and Bureaucracy Test due Wed Oct 14",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1738,30 +1713,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 4"
-            },
-            {
-              "title": "President and Bureaucracy Test",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 14"
-            },
-            {
-              "title": "7 Roles of the President",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 18"
-            },
-            {
-              "title": "Foreign Policy Practice",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 18"
-            },
-            {
-              "title": "Synch Session #6 Make up",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 19"
             }
           ],
           "grades": [
@@ -1904,13 +1855,6 @@ window.RECAP_DATA = {
               "percent": 87,
               "group": "",
               "due": "Dec 8"
-            },
-            {
-              "title": "Synch Session #6 Make up",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 19"
             }
           ]
         },
@@ -1920,7 +1864,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 90,
-          "note": "7 posted 0 · Dropbox Fall Midterm Exam graded 94 · Dropbox Week 9 Homework due Thu Oct 15",
+          "note": "90% · 7 posted 0 (completed in Ethos) · Dropbox Fall Midterm Exam 94 · Week 9 Homework due Thu Oct 15 · Quiz 3.1-3.3 due Oct 20",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1963,12 +1907,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, completed Oct 08",
               "due": "Due Oct 9"
-            },
-            {
-              "title": "Dropbox Week 9 Homework",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 15"
             }
           ],
           "grades": [
@@ -2106,7 +2044,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "9 overdue · 1 posted 0 · Sociology Midterm graded 81 (completed Oct 5) · DQ3 due Thu Oct 15",
+          "note": "84% · Midterm 81 · 9 overdue · 1 posted 0 · DQ3: The Creation of You due Thu Oct 15",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
@@ -2167,12 +2105,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 28"
-            },
-            {
-              "title": "DQ3: The Creation of You",
-              "status": "due",
-              "detail": "",
-              "due": "Oct 15"
             }
           ],
           "grades": [
@@ -2377,6 +2309,34 @@ window.RECAP_DATA = {
               "due": "Oct 2"
             },
             {
+              "title": "Formative - Spider Web of Beliefs Handout Completion",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Formative - Spider Web of Beliefs Presentation Completion",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Summative Exam - The Case for Truth",
+              "score": "66/100",
+              "percent": 66.0,
+              "group": "Summative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Summative Project - Spider Web of Beliefs Overall Grade",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Oct 9"
+            },
+            {
               "title": "Video Quiz: Is there Meaning to Life?",
               "score": "100/100",
               "percent": 100.0,
@@ -2417,34 +2377,6 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 4"
-            },
-            {
-              "title": "Formative - Spider Web of Beliefs Handout Completion",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Formative - Spider Web of Beliefs Presentation Completion",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Summative Project - Spider Web of Beliefs Overall Grade",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Summative Assessment",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Summative Exam - The Case for Truth",
-              "score": "66/100",
-              "percent": 66.0,
-              "group": "Summative Assessment",
-              "due": "Oct 9"
             }
           ]
         },
@@ -2453,20 +2385,20 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100.0,
-          "note": "100.0% — Quarter1_Proj1 (due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9 3:59 PM) not showing submitted in Canvas yet",
+          "grade": 100,
+          "note": "100% — Quarter1_Proj1 (due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9) not showing submitted in Canvas yet",
           "work": [
-            {
-              "title": "Quarter1_Proj1",
-              "status": "overdue",
-              "detail": "Was due Tue Oct 6 3:59 PM (on paper) — not showing submitted in Canvas yet",
-              "due": "Oct 6"
-            },
             {
               "title": "Quarter 1_Proj2",
               "status": "overdue",
-              "detail": "Was due Fri Oct 9 3:59 PM — not showing submitted in Canvas yet",
+              "detail": "Unsubmitted past due",
               "due": "Oct 9"
+            },
+            {
+              "title": "Quarter1_Proj1",
+              "status": "overdue",
+              "detail": "Unsubmitted past due",
+              "due": "Oct 6"
             }
           ],
           "grades": [
