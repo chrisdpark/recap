@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 13, 2026 · 8:12 AM CT",
+  "updated": "Tuesday, Oct 13, 2026 · 12:24 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -8,8 +8,7 @@ window.RECAP_DATA = {
         "German I 89.28% — Farben (Tue Oct 6) and Alphabet Part 1 Video (Sep 30) marked missing; Vocabulary Quiz #1 online part and Workbook p.15 Ex. 3 still not turned in; family video summary (Wed) open; Vorstellen introduction still 0.2/20.",
         "Bible 90.5% — Judges Cycle part 2 and Group Jigsaw: The Patriarchs still 0 (missing); Meet Samuel, Saul, and David turned in Wed (awaiting grade).",
         "English I 81.51% — Membean Programs 5, 6 and 7 and TKAM Ch. 19–24 still not turned in; TKAM Novel Test remains 134/200 (67%).",
-        "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16.",
-        "Worship 99.95% — Sight-Singing 6 and 7, TAPPS Solos, You Raise Me Up, Run-through of Program, and Sight-Singing Exam still aren’t marked turned in on Canvas."
+        "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16."
       ],
       "courses": [
         {
@@ -208,40 +207,9 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "canvas",
-          "grade": 99.95,
-          "note": "99.95% — Sight-Singing 6/7, TAPPS Solos, You Raise Me Up, Run-through, and Sight-Singing Exam still unmarked on Canvas.",
-          "work": [
-            {
-              "title": "Sight-Singing 6",
-              "status": "overdue",
-              "detail": "not marked turned in",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Sight-Singing 7",
-              "status": "overdue",
-              "detail": "not marked turned in",
-              "due": "Oct 7"
-            },
-            {
-              "title": "Sight-Singing Exam",
-              "status": "overdue",
-              "detail": "was due Fri Oct 9; not marked turned in",
-              "due": "Oct 9"
-            },
-            {
-              "title": "TAPPS Solos",
-              "status": "overdue",
-              "detail": "not marked turned in",
-              "due": "Oct 2"
-            },
-            {
-              "title": "Run-through of Program",
-              "status": "overdue",
-              "detail": "in class; not marked turned in",
-              "due": "Oct 6"
-            }
-          ],
+          "grade": 99.96,
+          "note": "99.96% — Sight-Singing 6/7, You Raise Me Up, and Run-through of Program graded 100; TAPPS Solos and Sight-Singing Exam removed from Canvas.",
+          "work": [],
           "grades": [
             {
               "title": "Binder",
@@ -361,6 +329,34 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
+            },
+            {
+              "title": "You Raise Me Up",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
+            },
+            {
+              "title": "Sight-Singing 6",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Run-through of Program",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Sight-Singing 7",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 7"
             }
           ]
         },
@@ -1106,8 +1102,8 @@ window.RECAP_DATA = {
       "attention": [
         "English 12 is at 96% (was 100%) — five items were just graded: Final Narrative Essay 92, research paper first draft 90, and Shooting an Elephant, Canterbury Tales Prologue, and the Five Sources/thesis assignment at 100. 16 older items still show not completed.",
         "Graphic Design: Quarter1_Proj1 (on paper, due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9 at 3:59 PM) aren't showing submitted in Canvas yet.",
-        "Physics (80%): Semester 1 Midterm graded 75 (completed Oct 8); Newton's 2nd Law Problem Set #2 (due Wed Oct 7) and Cart on Incline Lab (due Fri Oct 9) aren't marked completed; Forces and Newton's Laws Notes moved from Sep 23 to Sat Oct 17; Midterm Test Review Problems graded 50; 2 posted 0 and 8 older items overdue.",
-        "Government is up to 86% — Federalists v. Anti Federalists and Bill of Rights now graded 80 and Check point Quiz 87 (were 0); Midterm 76; 4 synch sessions still overdue.",
+        "Physics (81%): Midterm Free Response Questions graded 100; several due dates shifted (Newton's 2nd Law sets and Cart on Incline Lab pushed to late Oct); 2D Flight Paths (due Mon Oct 12) not completed; Forces & Newton's Laws Test Review due Wed Oct 14; 2 posted 0 and older items overdue.",
+        "Government is at 86% — Synch Session #6 Make up added (due Oct 19); President and Bureaucracy Test due Wed Oct 14; Midterm 76; 4 synch sessions still overdue.",
         "Precalculus is up to 90% — Dropbox Fall Midterm Exam graded 94; 7 quizzes/tests still posted 0 even though Ethos shows them completed, including Test Unit 2 (due Oct 2) and Fall Midterm Exam (due Oct 9, completed Oct 8). Pinson also shifted several due dates (Quiz 3.1-3.3 now Oct 20).",
         "Apologetics is at 87.2% (down from 91%) — Case for Truth Summative Exam came back 66/100 on Fri Oct 9."
       ],
@@ -1426,8 +1422,8 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 80,
-          "note": "10 overdue · 2 posted 0 · Semester 1 Midterm graded 75 · Midterm Test Review Problems graded 50 · Test Review due Wed Oct 14",
+          "grade": 81,
+          "note": "7 overdue · 2 posted 0 · Midterm Free Response Questions graded 100 (overall 81) · Semester 1 Midterm 75 · Midterm Test Review Problems 50 · Test Review due Wed Oct 14",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1478,28 +1474,10 @@ window.RECAP_DATA = {
               "due": "Due Sep 21"
             },
             {
-              "title": "Free Body Diagram Worksheet",
+              "title": "2D Flight Paths",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 30"
-            },
-            {
-              "title": "Newton's 2nd Law Problem Set (No Friction)",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 30"
-            },
-            {
-              "title": "Newton's 2nd Law Problem Set #2 (Friction & Inclines)",
-              "status": "overdue",
-              "detail": "Not completed (was due Wed Oct 7)",
-              "due": "Due Oct 7"
-            },
-            {
-              "title": "Cart on Incline Lab",
-              "status": "overdue",
-              "detail": "Not completed (was due Fri Oct 9)",
-              "due": "Due Oct 9"
+              "due": "Due Oct 12"
             },
             {
               "title": "Forces & Newton's Laws Test Review",
@@ -1510,7 +1488,7 @@ window.RECAP_DATA = {
             {
               "title": "Forces and Newton's Laws Notes",
               "status": "due",
-              "detail": "Due date moved from Sep 23 to Sat Oct 17",
+              "detail": "",
               "due": "Oct 17"
             }
           ],
@@ -1649,13 +1627,6 @@ window.RECAP_DATA = {
               "due": "Sep 21"
             },
             {
-              "title": "Forces and Newton's Laws Notes",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 17"
-            },
-            {
               "title": "2D Motion Notes",
               "score": "100%",
               "percent": 100,
@@ -1675,20 +1646,6 @@ window.RECAP_DATA = {
               "percent": 75,
               "group": "",
               "due": "Sep 26"
-            },
-            {
-              "title": "Free Body Diagram Worksheet",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Newton's 2nd Law Problem Set (No Friction)",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 30"
             },
             {
               "title": "1D Motion Quiz",
@@ -1712,6 +1669,20 @@ window.RECAP_DATA = {
               "due": "Oct 6"
             },
             {
+              "title": "2D Flight Paths",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Oct 12"
+            },
+            {
+              "title": "Midterm Test Review Problems",
+              "score": "50%",
+              "percent": 50,
+              "group": "",
+              "due": "Oct 17"
+            },
+            {
               "title": "2D Motion Quiz",
               "score": "90%",
               "percent": 90,
@@ -1726,18 +1697,18 @@ window.RECAP_DATA = {
               "due": "Oct 23"
             },
             {
-              "title": "Midterm Test Review Problems",
-              "score": "50%",
-              "percent": 50,
-              "group": "",
-              "due": "Oct 10"
-            },
-            {
               "title": "Semester 1 Midterm",
               "score": "75%",
               "percent": 75,
               "group": "",
               "due": "Oct 29"
+            },
+            {
+              "title": "Midterm Free Response Questions",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Nov 2"
             }
           ]
         },
@@ -1747,7 +1718,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "Course at 86% · 4 overdue · Federalists and Bill of Rights now 80, Check point Quiz 87 (were 0) · Midterm 76",
+          "note": "Course at 86% · 4 overdue · Synch Session #6 Make up added (due Oct 19) · President and Bureaucracy Test due Wed Oct 14 · Midterm 76",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1772,6 +1743,30 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 4"
+            },
+            {
+              "title": "President and Bureaucracy Test",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 14"
+            },
+            {
+              "title": "7 Roles of the President",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 18"
+            },
+            {
+              "title": "Foreign Policy Practice",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 18"
+            },
+            {
+              "title": "Synch Session #6 Make up",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 19"
             }
           ],
           "grades": [
@@ -1878,7 +1873,7 @@ window.RECAP_DATA = {
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 25"
+              "due": "Sep 24"
             },
             {
               "title": "Synch Session #4 9/21",
@@ -1892,14 +1887,14 @@ window.RECAP_DATA = {
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 29"
+              "due": "Sep 28"
             },
             {
               "title": "Midterm",
               "score": "76%",
               "percent": 76,
               "group": "",
-              "due": "Oct 1"
+              "due": "Sep 30"
             },
             {
               "title": "Synch Session #5 Make Up",
@@ -1913,7 +1908,14 @@ window.RECAP_DATA = {
               "score": "87%",
               "percent": 87,
               "group": "",
-              "due": "Dec 10"
+              "due": "Dec 8"
+            },
+            {
+              "title": "Synch Session #6 Make up",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Oct 19"
             }
           ]
         },
@@ -1923,7 +1925,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 90,
-          "note": "7 posted 0 · Dropbox Fall Midterm Exam graded 94 · next up Week 9 Homework (Oct 15)",
+          "note": "7 posted 0 · Dropbox Fall Midterm Exam graded 94 · Dropbox Week 9 Homework due Thu Oct 15",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1966,6 +1968,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, completed Oct 08",
               "due": "Due Oct 9"
+            },
+            {
+              "title": "Dropbox Week 9 Homework",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 15"
             }
           ],
           "grades": [
@@ -2103,7 +2111,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "9 overdue · 1 posted 0 · Sociology Midterm graded 81 (completed Oct 5)",
+          "note": "9 overdue · 1 posted 0 · Sociology Midterm graded 81 (completed Oct 5) · DQ3 due Thu Oct 15",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
@@ -2164,6 +2172,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 28"
+            },
+            {
+              "title": "DQ3: The Creation of You",
+              "status": "due",
+              "detail": "",
+              "due": "Oct 15"
             }
           ],
           "grades": [
@@ -2515,4 +2529,4 @@ window.RECAP_DATA = {
       ]
     }
   }
-};
+}
