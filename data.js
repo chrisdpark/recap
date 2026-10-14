@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 14, 2026 · 4:12 PM CT",
+  "updated": "Wednesday, Oct 14, 2026 · 5:17 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu is still unread in Canvas.",
+        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
         "German I 89.49% (up from 89.28) — Workbook p.15 Ex. 3 graded 9.5/10 today; Farben (Tue Oct 6) and Alphabet Part 1 Video (Sep 30) still marked missing; Vocabulary Quiz #1 online part still not turned in; family video summary open; Vorstellen introduction still 0.2/20.",
         "Bible 90.37% (down from 90.5) — Exit Ticket: Numbers Deuteronomy removed; Torah/Unit tests renamed; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
         "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16."
@@ -457,7 +457,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 89.49,
-          "note": "89.49% (up from 89.28) — Workbook p.15 Ex. 3 graded 9.5/10 today; Farben + Alphabet Part 1 Video missing; Vocab Quiz #1 online part and family video summary open; Vorstellen 0.2/20.",
+          "note": "89.49% (up from 89.28) — Workbook p.15 Ex. 3 graded 9.5/10 Wed Oct 14; Farben + Alphabet Part 1 Video missing; Vocab Quiz #1 online part and family video summary open; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
