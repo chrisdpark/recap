@@ -1,11 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 14, 2026 · 8:16 AM CT",
+  "updated": "Wednesday, Oct 14, 2026 · 12:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu is still unread in Canvas.",
-        "German I 89.28% — Farben (Tue Oct 6) and Alphabet Part 1 Video (Sep 30) marked missing; Vocabulary Quiz #1 online part and Workbook p.15 Ex. 3 still not turned in; family video summary (Wed) open; Vorstellen introduction still 0.2/20.",
+        "German I 89.49% (up from 89.28) — Workbook p.15 Ex. 3 graded 9.5/10 today; Farben (Tue Oct 6) and Alphabet Part 1 Video (Sep 30) still marked missing; Vocabulary Quiz #1 online part still not turned in; family video summary open; Vorstellen introduction still 0.2/20.",
         "Bible 90.37% (down from 90.5) — Exit Ticket: Numbers Deuteronomy removed; Torah/Unit tests renamed; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
         "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16."
       ],
@@ -456,8 +456,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "canvas",
-          "grade": 89.28,
-          "note": "89.28% — Farben + Alphabet Part 1 Video missing; Vocab Quiz #1 online, Workbook p.15 Ex.3, family video summary open; Vorstellen 0.2/20.",
+          "grade": 89.49,
+          "note": "89.49% (up from 89.28) — Workbook p.15 Ex. 3 graded 9.5/10 today; Farben + Alphabet Part 1 Video missing; Vocab Quiz #1 online part and family video summary open; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Alphabet Part 1 Video",
@@ -476,12 +476,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "online part not submitted",
               "due": "Oct 6"
-            },
-            {
-              "title": "Workbook page 15 Ex. 3",
-              "status": "overdue",
-              "detail": "not submitted",
-              "due": "Oct 2"
             },
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
@@ -637,6 +631,13 @@ window.RECAP_DATA = {
               "percent": 85.0,
               "group": "Formative Assessment",
               "due": "Oct 6"
+            },
+            {
+              "title": "Workbook page 15 Ex. 3",
+              "score": "9.5/10",
+              "percent": 95.0,
+              "group": "Formative Assessment",
+              "due": "Oct 2"
             }
           ]
         },
@@ -1107,7 +1108,6 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Graphic Design: Quarter1_Proj1 (due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9) still aren't showing submitted in Canvas.",
         "Physics is at 81% — Midterm Free Response Questions graded 100; Forces & Newton's Laws Test Review is due Wed Oct 14; Midterm Test Review Problems graded 50; 2 posted 0 and several older items overdue.",
         "Precalculus is at 90% — 7 quizzes/tests still posted 0 even though Ethos shows them completed; Dropbox Week 9 Homework due Thu Oct 15.",
         "Apologetics is at 87.2% — Case for Truth Summative Exam came back 66/100 on Fri Oct 9.",
@@ -2397,22 +2397,9 @@ window.RECAP_DATA = {
           "teacher": "Graham",
           "period": "P5",
           "source": "Canvas",
-          "grade": 100,
-          "note": "100% — Quarter1_Proj1 (due Tue Oct 6) and Quarter 1_Proj2 (due Fri Oct 9) not showing submitted in Canvas yet",
-          "work": [
-            {
-              "title": "Quarter 1_Proj2",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Quarter1_Proj1",
-              "status": "overdue",
-              "detail": "Unsubmitted past due",
-              "due": "Oct 6"
-            }
-          ],
+          "grade": 97.3,
+          "note": "97.3% (was 100) — Quarter1_Proj1 graded 96 and Quarter 1_Proj2 graded 95 today; nothing outstanding.",
+          "work": [],
           "grades": [
             {
               "title": "8/18-8/21",
@@ -2462,10 +2449,24 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 4"
+            },
+            {
+              "title": "Quarter1_Proj1",
+              "score": "96/100",
+              "percent": 96.0,
+              "group": "Summative Assessment",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Quarter 1_Proj2",
+              "score": "95/100",
+              "percent": 95.0,
+              "group": "Summative Assessment",
+              "due": "Oct 9"
             }
           ]
         }
       ]
     }
   }
-};
+}
