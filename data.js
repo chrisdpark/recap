@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 14, 2026 · 12:14 PM CT",
+  "updated": "Wednesday, Oct 14, 2026 · 4:12 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -2296,8 +2296,15 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100",
-          "work": [],
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; new Spider Web of Beliefs Reflection due Fri Oct 23",
+          "work": [
+            {
+              "title": "Spider Web of Beliefs Reflection",
+              "status": "due",
+              "detail": "posted today — online text entry, not yet submitted",
+              "due": "Oct 23"
+            }
+          ],
           "grades": [
             {
               "title": "Your Apologetics Starting Point",
