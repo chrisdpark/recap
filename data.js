@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 14, 2026 · 5:17 PM CT",
+  "updated": "Wednesday, Oct 14, 2026 · 5:21 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1108,10 +1108,11 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Physics is at 81% — Midterm Free Response Questions graded 100; Forces & Newton's Laws Test Review is due Wed Oct 14; Midterm Test Review Problems graded 50; 2 posted 0 and several older items overdue.",
-        "Precalculus is at 90% — 7 quizzes/tests still posted 0 even though Ethos shows them completed; Dropbox Week 9 Homework due Thu Oct 15.",
-        "Apologetics is at 87.2% — Case for Truth Summative Exam came back 66/100 on Fri Oct 9.",
-        "English 12 is at 96% — 16 older items still show not completed; Intro to the English Renaissance and Membean Practice due Sun Oct 18/19."
+        "Due today (Wed Oct 14), not showing completed in Ethos yet: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test.",
+        "Due Thu Oct 15: Precalculus — Dropbox Week 9 Homework; Sociology — DQ3: The Creation of You.",
+        "Precalculus is at 90% — 7 quizzes/tests still posted 0 even though Ethos shows them completed.",
+        "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23.",
+        "English 12 is at 96% — 16 older items still show not completed; Intro to the English Renaissance and Membean Practice due Sun Oct 18."
       ],
       "courses": [
         {
@@ -1700,7 +1701,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% · Midterm 76 · 4 synch sessions overdue · Synch Session #6 Make up due Oct 19 · President and Bureaucracy Test due Wed Oct 14",
+          "note": "86% · Midterm 76 · President and Bureaucracy Test due Wed Oct 14 · 7 Roles of the President / Foreign Policy Practice due Oct 18 · Synch Session #6 Make up due Oct 19 · 4 synch sessions overdue",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -2296,7 +2297,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; new Spider Web of Beliefs Reflection due Fri Oct 23",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection due Fri Oct 23",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
