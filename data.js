@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 15, 2026 · 5:13 PM CT",
+  "updated": "Thursday, Oct 15, 2026 · 5:18 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1123,12 +1123,11 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Overdue (due Wed Oct 14), not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test; Sociology — DQ3: The Creation of You (Ethos moved it from Oct 15 to Oct 14).",
-        "Due today (Thu Oct 15): Precalculus — Dropbox Week 9 Homework.",
-        "Sociology due dates shifted in Ethos: Midterm (2022) now Fri Oct 23; Scavenger Hunt #4, Teaching Video, and OPT #4 Sociology in Kindergarten now Sun Oct 25.",
+        "Past due (Wed Oct 14), still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test; Sociology — DQ3: The Creation of You (Ethos moved it from Oct 15 to Oct 14).",
+        "Due today (Thu Oct 15), not completed yet: Precalculus — Dropbox Week 9 Homework.",
+        "This weekend: Physics — Forces and Newton's Laws Notes (Sat Oct 17); English — Intro to the English Renaissance and Membean Practice (Sun Oct 18); Government — 7 Roles of the President and Foreign Policy Practice (Sun Oct 18), Synch Session #6 Make up (Mon Oct 19).",
         "Precalculus is at 90% — 7 quizzes/tests still posted 0 even though Ethos shows them completed.",
-        "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23.",
-        "English 12 is at 96% — 16 older items still show not completed; Intro to the English Renaissance and Membean Practice due Sun Oct 18."
+        "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23."
       ],
       "courses": [
         {
@@ -1434,7 +1433,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% · Midterm FRQ graded 100 · Forces & Newton's Laws Test Review (due Wed Oct 14) not completed · Midterm Test Review Problems 50 · 2 posted 0 · 8 overdue",
+          "note": "81% · Forces & Newton's Laws Test Review (due Wed Oct 14) not completed · Forces and Newton's Laws Notes due Sat Oct 17 · Midterm Test Review Problems 50 · Midterm FRQ 100 · 2 posted 0 · 8 overdue",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -2461,7 +2460,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% (was 100) — Quarter1_Proj1 graded 96 and Quarter 1_Proj2 graded 95 today; nothing outstanding.",
+          "note": "97.3% — Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100 (graded Wed Oct 14); nothing outstanding.",
           "work": [],
           "grades": [
             {
