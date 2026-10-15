@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 15, 2026 · 12:08 PM CT",
+  "updated": "Thursday, Oct 15, 2026 · 4:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
+        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New this afternoon: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
         "German I 85.98% (down from 89.49) — Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 tonight; Vocabulary Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen introduction still 0.2/20.",
         "Bible 90.37% (down from 90.5) — David classwork and Exit Ticket turned in on time this morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
-        "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16."
+        "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16. New: Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
         {
@@ -358,7 +358,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 24.36,
-          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6.",
+          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. New: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -383,6 +383,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "15/100",
               "due": "Oct 7"
+            },
+            {
+              "title": "Slope Intercept Form Homework",
+              "status": "due",
+              "detail": "new this afternoon · 20 pts · Mon 11:00 AM",
+              "due": "Oct 19"
             }
           ],
           "grades": [
@@ -764,7 +770,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 80.69,
-          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up due next class after Fall Break (Thu Oct 15/Fri Oct 16; Canvas Fri 8:00 AM); Cellular Respiration Venn Fri Oct 16; Cellular Energy Summative Project Wed Oct 21.",
+          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up due next class after Fall Break (Thu Oct 15/Fri Oct 16; Canvas Fri 8:00 AM); Cellular Respiration Venn Fri Oct 16; Cellular Energy Summative Project Wed Oct 21. New: Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -789,6 +795,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "due start of class",
               "due": "Oct 21"
+            },
+            {
+              "title": "Makeup Lab - Lights and Photosynthesis",
+              "status": "due",
+              "detail": "makeup lab · 17 pts · new on Canvas",
+              "due": "Oct 23"
             }
           ],
           "grades": [
