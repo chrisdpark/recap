@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 15, 2026 · 8:17 AM CT",
+  "updated": "Thursday, Oct 15, 2026 · 12:08 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
-        "German I 85.98% (down from 89.49) — Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 tonight; Vocabulary Quiz #1 (FA) graded 20/20; family video summary due extended to Thu Oct 16; Vorstellen introduction still 0.2/20.",
-        "Bible 90.37% (down from 90.5) — new David classwork + Exit Ticket due today in class (~10:55 AM); Exit Ticket: Numbers Deuteronomy removed; Torah/Unit tests renamed; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
+        "German I 85.98% (down from 89.49) — Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 tonight; Vocabulary Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen introduction still 0.2/20.",
+        "Bible 90.37% (down from 90.5) — David classwork and Exit Ticket turned in on time this morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
         "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16."
       ],
       "courses": [
@@ -16,7 +16,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.37,
-          "note": "90.37% (down from 90.5) — new David classwork + Exit Ticket due today in class (~10:55 AM); Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "note": "90.37% (down from 90.5) — David classwork (12 pts) and Exit Ticket (4 pts) both submitted on time this morning, awaiting grade; Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -29,18 +29,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "0/100 missing",
               "due": "Oct 1"
-            },
-            {
-              "title": "David — What Kind of King? Classwork",
-              "status": "due",
-              "detail": "new — online text, due in class today ~10:55 AM, not yet submitted (12 pts)",
-              "due": "Oct 15"
-            },
-            {
-              "title": "David — Exit Ticket",
-              "status": "due",
-              "detail": "new — online text, due in class today ~10:55 AM, not yet submitted (4 pts)",
-              "due": "Oct 15"
             }
           ],
           "grades": [
@@ -469,12 +457,12 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% (down from 89.49) — Alphabet Part 1 Video and Farben graded 0 tonight; Vocab Quiz #1 (FA) graded 20/20; family video summary due extended to Thu Oct 16; Vorstellen 0.2/20.",
+          "note": "85.98% (down from 89.49) — Alphabet Part 1 Video and Farben graded 0 tonight; Vocab Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
               "status": "due",
-              "detail": "due extended to Thu Oct 16 — may have been done on paper",
+              "detail": "due extended to Fri Oct 16 — may have been done on paper",
               "due": "Oct 16"
             }
           ],
@@ -1123,8 +1111,9 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Due today (Wed Oct 14), not showing completed in Ethos yet: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test.",
-        "Due Thu Oct 15: Precalculus — Dropbox Week 9 Homework; Sociology — DQ3: The Creation of You.",
+        "Overdue (due Wed Oct 14), not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test; Sociology — DQ3: The Creation of You (Ethos moved it from Oct 15 to Oct 14).",
+        "Due today (Thu Oct 15): Precalculus — Dropbox Week 9 Homework.",
+        "Sociology due dates shifted in Ethos: Midterm (2022) now Fri Oct 23; Scavenger Hunt #4, Teaching Video, and OPT #4 Sociology in Kindergarten now Sun Oct 25.",
         "Precalculus is at 90% — 7 quizzes/tests still posted 0 even though Ethos shows them completed.",
         "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23.",
         "English 12 is at 96% — 16 older items still show not completed; Intro to the English Renaissance and Membean Practice due Sun Oct 18."
@@ -1433,7 +1422,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% · Midterm FRQ graded 100 · Forces & Newton's Laws Test Review due Wed Oct 14 · Midterm Test Review Problems 50 · 2 posted 0 · 7 overdue",
+          "note": "81% · Midterm FRQ graded 100 · Forces & Newton's Laws Test Review (due Wed Oct 14) not completed · Midterm Test Review Problems 50 · 2 posted 0 · 8 overdue",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1488,6 +1477,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 12"
+            },
+            {
+              "title": "Forces & Newton's Laws Test Review",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 14"
             }
           ],
           "grades": [
@@ -1674,6 +1669,13 @@ window.RECAP_DATA = {
               "due": "Oct 12"
             },
             {
+              "title": "Forces & Newton's Laws Test Review",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Oct 14"
+            },
+            {
               "title": "Midterm Test Review Problems",
               "score": "50%",
               "percent": 50,
@@ -1716,7 +1718,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% · Midterm 76 · President and Bureaucracy Test due Wed Oct 14 · 7 Roles of the President / Foreign Policy Practice due Oct 18 · Synch Session #6 Make up due Oct 19 · 4 synch sessions overdue",
+          "note": "86% · Midterm 76 · President and Bureaucracy Test (due Wed Oct 14) not completed · 7 Roles of the President / Foreign Policy Practice due Oct 18 · Synch Session #6 Make up due Oct 19 · 5 overdue",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1741,6 +1743,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 4"
+            },
+            {
+              "title": "President and Bureaucracy Test",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 14"
             }
           ],
           "grades": [
@@ -1878,6 +1886,13 @@ window.RECAP_DATA = {
               "due": "Oct 4"
             },
             {
+              "title": "President and Bureaucracy Test",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Oct 14"
+            },
+            {
               "title": "Check point Quiz",
               "score": "87%",
               "percent": 87,
@@ -1892,7 +1907,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 90,
-          "note": "90% · 7 posted 0 (completed in Ethos) · Dropbox Fall Midterm Exam 94 · Week 9 Homework due Thu Oct 15 · Quiz 3.1-3.3 due Oct 20",
+          "note": "90% · 7 posted 0 (completed in Ethos) · Dropbox Fall Midterm Exam 94 · Week 9 Homework due today (Thu Oct 15) · Quiz 3.1-3.3 due Oct 20",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -2072,7 +2087,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% · Midterm 81 · 9 overdue · 1 posted 0 · DQ3: The Creation of You due Thu Oct 15",
+          "note": "84% · Midterm 81 · 10 overdue · 1 posted 0 · Ethos re-dated Sociology: DQ3: The Creation of You now due Wed Oct 14 (not completed); Midterm (2022) Oct 23; Scavenger Hunt #4, Teaching Video, OPT #4 Oct 25; Final Exam Dec 18",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
@@ -2126,13 +2141,19 @@ window.RECAP_DATA = {
               "title": "OPT. Assignment #1: Journal of Mundane Behavior",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 17"
+              "due": "Due Sep 16"
             },
             {
               "title": "OPT. Assignment #3: Song Analysis",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 28"
+            },
+            {
+              "title": "DQ3: The Creation of You",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 14"
             }
           ],
           "grades": [
@@ -2239,21 +2260,28 @@ window.RECAP_DATA = {
               "score": "—",
               "percent": null,
               "group": "",
-              "due": "Sep 17"
+              "due": "Sep 16"
             },
             {
               "title": "Concept Module 1: Culture",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 23"
+              "due": "Sep 22"
             },
             {
               "title": "Concept Module 2: Society and Status",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Sep 25"
+              "due": "Sep 24"
+            },
+            {
+              "title": "DQ2: Societal Values",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Sep 28"
             },
             {
               "title": "Disney Socialization Assignment",
@@ -2277,32 +2305,32 @@ window.RECAP_DATA = {
               "due": "Sep 28"
             },
             {
-              "title": "DQ2: Societal Values",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 29"
-            },
-            {
               "title": "Concept Module 1: Theoretical Perspectives on Socialization",
               "score": "78%",
               "percent": 78,
               "group": "",
-              "due": "Oct 9"
+              "due": "Oct 8"
             },
             {
               "title": "Concept Module 2: Know Your Terms",
               "score": "100%",
               "percent": 100,
               "group": "",
-              "due": "Oct 13"
+              "due": "Oct 12"
+            },
+            {
+              "title": "DQ3: The Creation of You",
+              "score": "—",
+              "percent": null,
+              "group": "",
+              "due": "Oct 14"
             },
             {
               "title": "Sociology Midterm (LockDown Browser & Proctoring Required)",
               "score": "81%",
               "percent": 81,
               "group": "",
-              "due": "Oct 22"
+              "due": "Oct 21"
             }
           ]
         },
