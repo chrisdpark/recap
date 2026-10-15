@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 14, 2026 · 5:21 PM CT",
+  "updated": "Wednesday, Oct 14, 2026 · 8:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -647,7 +647,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in Fri (awaiting grades); new Sub-Saharan Africa assignment posted (no due date yet); Week 3 schedule page not posted yet.",
+          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in Fri (awaiting grades); Week 3 schedule page not posted yet.",
           "work": [
             {
               "title": "October 7th Current Event Post",
