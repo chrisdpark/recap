@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 15, 2026 · 4:07 PM CT",
+  "updated": "Thursday, Oct 15, 2026 · 5:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New this afternoon: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
-        "German I 85.98% (down from 89.49) — Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 tonight; Vocabulary Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen introduction still 0.2/20.",
-        "Bible 90.37% (down from 90.5) — David classwork and Exit Ticket turned in on time this morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
+        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New Thu Oct 15: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
+        "German I 85.98% (down from 89.49) — Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 Wed night; Vocabulary Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen introduction still 0.2/20.",
+        "Bible 90.37% (down from 90.5) — David classwork and Exit Ticket turned in on time Thu morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
         "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16. New: Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
@@ -16,7 +16,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.37,
-          "note": "90.37% (down from 90.5) — David classwork (12 pts) and Exit Ticket (4 pts) both submitted on time this morning, awaiting grade; Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "note": "90.37% (down from 90.5) — David classwork (12 pts) and Exit Ticket (4 pts) both submitted on time Thu morning, awaiting grade; Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -387,7 +387,7 @@ window.RECAP_DATA = {
             {
               "title": "Slope Intercept Form Homework",
               "status": "due",
-              "detail": "new this afternoon · 20 pts · Mon 11:00 AM",
+              "detail": "new Thu Oct 15 · 20 pts · Mon 11:00 AM",
               "due": "Oct 19"
             }
           ],
@@ -463,7 +463,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% (down from 89.49) — Alphabet Part 1 Video and Farben graded 0 tonight; Vocab Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen 0.2/20.",
+          "note": "85.98% (down from 89.49) — Alphabet Part 1 Video and Farben graded 0 Wed night; Vocab Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
@@ -656,7 +656,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in Fri (awaiting grades); Week 3 schedule page not posted yet.",
+          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in Fri (awaiting grades); Week 3 page (Oct 12–16) posted: Thu/Fri notes on how space is politically organized into states and nations.",
           "work": [
             {
               "title": "October 7th Current Event Post",
@@ -966,7 +966,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "canvas",
           "grade": 81.14,
-          "note": "81.14% (down from 81.51) — Membean Programs 5/6/7 graded 100/90/80 and TKAM Ch. 19–24 graded 80 (all posted today); TKAM Novel Test remains 134/200 (67%).",
+          "note": "81.14% (down from 81.51) — Membean Programs 5/6/7 graded 100/90/80 and TKAM Ch. 19–24 graded 80 (all posted Tue Oct 13); TKAM Novel Test remains 134/200 (67%).",
           "work": [],
           "grades": [
             {
