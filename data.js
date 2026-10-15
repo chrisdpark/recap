@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 15, 2026 · 4:07 AM CT",
+  "updated": "Thursday, Oct 15, 2026 · 8:17 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
         "German I 85.98% (down from 89.49) — Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 tonight; Vocabulary Quiz #1 (FA) graded 20/20; family video summary due extended to Thu Oct 16; Vorstellen introduction still 0.2/20.",
-        "Bible 90.37% (down from 90.5) — Exit Ticket: Numbers Deuteronomy removed; Torah/Unit tests renamed; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
+        "Bible 90.37% (down from 90.5) — new David classwork + Exit Ticket due today in class (~10:55 AM); Exit Ticket: Numbers Deuteronomy removed; Torah/Unit tests renamed; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
         "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16."
       ],
       "courses": [
@@ -16,7 +16,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.37,
-          "note": "90.37% (down from 90.5) — Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "note": "90.37% (down from 90.5) — new David classwork + Exit Ticket due today in class (~10:55 AM); Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -29,6 +29,18 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "0/100 missing",
               "due": "Oct 1"
+            },
+            {
+              "title": "David — What Kind of King? Classwork",
+              "status": "due",
+              "detail": "new — online text, due in class today ~10:55 AM, not yet submitted (12 pts)",
+              "due": "Oct 15"
+            },
+            {
+              "title": "David — Exit Ticket",
+              "status": "due",
+              "detail": "new — online text, due in class today ~10:55 AM, not yet submitted (4 pts)",
+              "due": "Oct 15"
             }
           ],
           "grades": [
