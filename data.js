@@ -1,11 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 14, 2026 · 8:13 PM CT",
+  "updated": "Thursday, Oct 15, 2026 · 12:07 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
-        "German I 89.49% (up from 89.28) — Workbook p.15 Ex. 3 graded 9.5/10 today; Farben (Tue Oct 6) and Alphabet Part 1 Video (Sep 30) still marked missing; Vocabulary Quiz #1 online part still not turned in; family video summary open; Vorstellen introduction still 0.2/20.",
+        "German I 85.98% (down from 89.49) — Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 tonight; Vocabulary Quiz #1 (FA) graded 20/20; family video summary due extended to Thu Oct 16; Vorstellen introduction still 0.2/20.",
         "Bible 90.37% (down from 90.5) — Exit Ticket: Numbers Deuteronomy removed; Torah/Unit tests renamed; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
         "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16."
       ],
@@ -456,32 +456,14 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "canvas",
-          "grade": 89.49,
-          "note": "89.49% (up from 89.28) — Workbook p.15 Ex. 3 graded 9.5/10 Wed Oct 14; Farben + Alphabet Part 1 Video missing; Vocab Quiz #1 online part and family video summary open; Vorstellen 0.2/20.",
+          "grade": 85.98,
+          "note": "85.98% (down from 89.49) — Alphabet Part 1 Video and Farben graded 0 tonight; Vocab Quiz #1 (FA) graded 20/20; family video summary due extended to Thu Oct 16; Vorstellen 0.2/20.",
           "work": [
             {
-              "title": "Alphabet Part 1 Video",
-              "status": "missing",
-              "detail": "marked missing",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Farben",
-              "status": "missing",
-              "detail": "marked missing",
-              "due": "Oct 6"
-            },
-            {
-              "title": "Vocabulary Quiz #1 (FA)",
-              "status": "overdue",
-              "detail": "online part not submitted",
-              "due": "Oct 6"
-            },
-            {
               "title": "Watch Video - Write a summary of 10 things about the family",
-              "status": "overdue",
-              "detail": "may have been done on paper",
-              "due": "Oct 7"
+              "status": "due",
+              "detail": "due extended to Thu Oct 16 — may have been done on paper",
+              "due": "Oct 16"
             }
           ],
           "grades": [
@@ -638,6 +620,27 @@ window.RECAP_DATA = {
               "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Oct 2"
+            },
+            {
+              "title": "Alphabet Part 1 Video",
+              "score": "0/20",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Farben",
+              "score": "0/10",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Vocabulary Quiz #1 (FA)",
+              "score": "20/20",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 6"
             }
           ]
         },
