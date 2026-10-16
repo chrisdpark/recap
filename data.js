@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 16, 2026 · 12:13 PM CT",
+  "updated": "Friday, Oct 16, 2026 · 4:06 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,7 +7,7 @@ window.RECAP_DATA = {
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New Thu Oct 15: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
         "German I 85.98% (down from 89.49) — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 Wed night; Vocabulary Quiz #1 (FA) graded 20/20; Vorstellen introduction still 0.2/20.",
         "Bible 90.37% (down from 90.5) — David classwork and Exit Ticket turned in on time Thu morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
-        "Biology 80.69% — Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class) Fri Oct 16. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
+        "Biology 80.69% — Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
         {
@@ -776,7 +776,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 80.69,
-          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class) Fri Oct 16; Cellular Energy Summative Project Wed Oct 21. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23.",
+          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade yet; Cellular Energy Summative Project Wed Oct 21. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -792,8 +792,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Cellular Respiration Venn Diagram (in class)",
-              "status": "due",
-              "detail": "in class",
+              "status": "overdue",
+              "detail": "in-class, on paper — was due Fri Oct 16 4:00 PM; no grade in Canvas yet (may have been handed in on paper)",
               "due": "Oct 16"
             },
             {
@@ -2486,7 +2486,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100 (graded Wed Oct 14); nothing outstanding.",
+          "note": "97.3% — Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100 (graded Wed Oct 14); new 10/16 class grade (100 pts, on paper) posted Fri afternoon, awaiting grade.",
           "work": [],
           "grades": [
             {
