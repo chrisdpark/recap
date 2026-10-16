@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 16, 2026 · 8:09 AM CT",
+  "updated": "Friday, Oct 16, 2026 · 12:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New Thu Oct 15: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
-        "German I 85.98% (down from 89.49) — Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 Wed night; Vocabulary Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen introduction still 0.2/20.",
+        "German I 85.98% (down from 89.49) — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 Wed night; Vocabulary Quiz #1 (FA) graded 20/20; Vorstellen introduction still 0.2/20.",
         "Bible 90.37% (down from 90.5) — David classwork and Exit Ticket turned in on time Thu morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
-        "Biology 80.69% — Creation Journals 1–4 discussion still 0/20; Lab 4 Photosynthesis write-up due Fri Oct 16; Cellular Respiration Venn (in class) Fri Oct 16. New: Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
+        "Biology 80.69% — Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class) Fri Oct 16. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
         {
@@ -463,12 +463,12 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% (down from 89.49) — Alphabet Part 1 Video and Farben graded 0 Wed night; Vocab Quiz #1 (FA) graded 20/20; family video summary due extended to Fri Oct 16; Vorstellen 0.2/20.",
+          "note": "85.98% (down from 89.49) — Alphabet Part 1 Video and Farben graded 0 Wed night; Vocab Quiz #1 (FA) graded 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
-              "status": "due",
-              "detail": "due extended to Fri Oct 16 — may have been done on paper",
+              "status": "overdue",
+              "detail": "was due Fri Oct 16 11 AM — not submitted in Canvas (may have been done on paper)",
               "due": "Oct 16"
             }
           ],
@@ -656,13 +656,19 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in Fri (awaiting grades); Week 3 page (Oct 12–16) posted: Thu/Fri notes on how space is politically organized into states and nations.",
+          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); new Oct. 21st Current Event Post (100 pts) due Fri Oct 23; Week 3 page (Oct 12–16) posted.",
           "work": [
             {
               "title": "October 7th Current Event Post",
               "status": "due",
-              "detail": "submitted Fri Oct 9 — awaiting grade",
-              "due": "Oct 9"
+              "detail": "submitted Fri Oct 9 — awaiting grade (Canvas due date moved to Wed Oct 21)",
+              "due": "Oct 21"
+            },
+            {
+              "title": "Oct. 21st Current Event Post",
+              "status": "due",
+              "detail": "100 pts · new on Canvas",
+              "due": "Oct 23"
             }
           ],
           "grades": [
@@ -670,41 +676,41 @@ window.RECAP_DATA = {
               "title": "TURN IN - Political Organizations Vocab Matrix",
               "score": "100/100",
               "percent": 100.0,
-              "group": "Formative Assessment"
+              "group": "Q1 Formative Assessment"
             },
             {
               "title": "Unit 1 Vocabulary Matrix",
               "score": "98/100",
               "percent": 98.0,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Aug 25"
             },
             {
               "title": "TURN IN - Coffee Activity",
               "score": "90/100",
               "percent": 90.0,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "Unit 1 Vocabulary Quiz",
               "score": "87.5/100",
               "percent": 87.5,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Aug 28"
             },
             {
               "title": "September 9th - Current Event #1",
               "score": "35/50",
               "percent": 70.0,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Sep 11"
             },
             {
               "title": "Wednesday September 9th - Current Event #2",
               "score": "35/50",
               "percent": 70.0,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Sep 11"
             },
             {
@@ -718,14 +724,14 @@ window.RECAP_DATA = {
               "title": "Wednesday, September 16th Current Event Posts",
               "score": "70/100",
               "percent": 70.0,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Sep 18"
             },
             {
               "title": "September 23rd - Current Event Posts",
               "score": "50/100",
               "percent": 50.0,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Sep 25"
             },
             {
@@ -739,7 +745,7 @@ window.RECAP_DATA = {
               "title": "U.S. Political Map Quiz",
               "score": "200/200",
               "percent": 100.0,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Sep 25"
             },
             {
@@ -753,13 +759,13 @@ window.RECAP_DATA = {
               "title": "Political Organizations Vocab Quiz",
               "score": "87.5/100",
               "percent": 87.5,
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Oct 9"
             },
             {
               "title": "September 30th - Current Event Post",
               "score": "Excused",
-              "group": "Formative Assessment",
+              "group": "Q1 Formative Assessment",
               "due": "Oct 2"
             }
           ]
@@ -770,7 +776,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 80.69,
-          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up due next class after Fall Break (Thu Oct 15/Fri Oct 16; Canvas Fri 8:00 AM); Cellular Respiration Venn Fri Oct 16; Cellular Energy Summative Project Wed Oct 21. New: Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23.",
+          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class) Fri Oct 16; Cellular Energy Summative Project Wed Oct 21. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -780,8 +786,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Lab 4: Photosynthesis",
-              "status": "due",
-              "detail": "write-up due next class after Fall Break",
+              "status": "overdue",
+              "detail": "write-up was due Fri Oct 16 8:00 AM on Canvas — not submitted yet",
               "due": "Oct 16"
             },
             {
@@ -1124,10 +1130,10 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Past due (Wed Oct 14), still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test; Sociology — DQ3: The Creation of You (Ethos moved it from Oct 15 to Oct 14).",
-        "Due today (Thu Oct 15), not completed yet: Precalculus — Dropbox Week 9 Homework.",
         "This weekend: Physics — Forces and Newton's Laws Notes (Sat Oct 17); English — Intro to the English Renaissance and Membean Practice (Sun Oct 18); Government — 7 Roles of the President and Foreign Policy Practice (Sun Oct 18), Synch Session #6 Make up (Mon Oct 19).",
-        "Precalculus is at 90% — 7 quizzes/tests still posted 0 even though Ethos shows them completed.",
-        "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23."
+        "Precalculus dropped to 86% (from 90) — Dropbox Quiz 3.1-3.3 was posted 0 Fri (not marked completed; Ethos lists it due Dec 16); 7 quizzes/tests still posted 0 even though Ethos shows them completed. Dropbox Week 9 Homework graded 100. Quiz 3.1-3.3 due Tue Oct 20.",
+        "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23.",
+        "Government up to 87% (from 86) — Midterm regraded 76 → 86."
       ],
       "courses": [
         {
@@ -1728,8 +1734,8 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 86,
-          "note": "86% · Midterm 76 · President and Bureaucracy Test (due Wed Oct 14) not completed · 7 Roles of the President / Foreign Policy Practice due Oct 18 · Synch Session #6 Make up due Oct 19 · 5 overdue",
+          "grade": 87,
+          "note": "87% (up from 86) · Midterm regraded 76 → 86 · President and Bureaucracy Test (due Wed Oct 14) not completed · 7 Roles of the President / Foreign Policy Practice due Oct 18 · Synch Session #6 Make up due Oct 19 · 5 overdue",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1884,8 +1890,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Midterm",
-              "score": "76%",
-              "percent": 76,
+              "score": "86%",
+              "percent": 86,
               "group": "",
               "due": "Sep 30"
             },
@@ -1917,8 +1923,8 @@ window.RECAP_DATA = {
           "teacher": "Pinson",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 90,
-          "note": "90% · 7 posted 0 (completed in Ethos) · Dropbox Fall Midterm Exam 94 · Week 9 Homework due today (Thu Oct 15) · Quiz 3.1-3.3 due Oct 20",
+          "grade": 86,
+          "note": "86% (down from 90) · Dropbox Quiz 3.1-3.3 posted 0 Fri (not marked completed; Ethos due Dec 16) · Dropbox Week 9 Homework graded 100 · 7 more posted 0 (completed in Ethos) · Dropbox Fall Midterm Exam 94 · Quiz 3.1-3.3 due Tue Oct 20",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1961,6 +1967,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, completed Oct 08",
               "due": "Due Oct 9"
+            },
+            {
+              "title": "Dropbox Quiz 3.1-3.3",
+              "status": "zero",
+              "detail": "Posted 0, not marked completed",
+              "due": "Due Dec 16"
             }
           ],
           "grades": [
@@ -2089,6 +2101,20 @@ window.RECAP_DATA = {
               "percent": 94,
               "group": "",
               "due": "Oct 9"
+            },
+            {
+              "title": "Dropbox Week 9 Homework",
+              "score": "100%",
+              "percent": 100,
+              "group": "",
+              "due": "Oct 15"
+            },
+            {
+              "title": "Dropbox Quiz 3.1-3.3",
+              "score": "0%",
+              "percent": 0,
+              "group": "",
+              "due": "Dec 16"
             }
           ]
         },
