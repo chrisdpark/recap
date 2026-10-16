@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 16, 2026 · 5:13 PM CT",
+  "updated": "Friday, Oct 16, 2026 · 5:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1129,11 +1129,11 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Past due (Wed Oct 14), still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test; Sociology — DQ3: The Creation of You (Ethos moved it from Oct 15 to Oct 14).",
-        "This weekend: Physics — Forces and Newton's Laws Notes (Sat Oct 17); English — Intro to the English Renaissance and Membean Practice (Sun Oct 18); Government — 7 Roles of the President and Foreign Policy Practice (Sun Oct 18), Synch Session #6 Make up (Mon Oct 19).",
-        "Precalculus dropped to 86% (from 90) — Dropbox Quiz 3.1-3.3 was posted 0 Fri (not marked completed; Ethos lists it due Dec 16); 7 quizzes/tests still posted 0 even though Ethos shows them completed. Dropbox Week 9 Homework graded 100. Quiz 3.1-3.3 due Tue Oct 20.",
-        "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23.",
-        "Government up to 87% (from 86) — Midterm regraded 76 → 86."
+        "Past due (Wed Oct 14), still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test; Sociology — DQ3: The Creation of You.",
+        "This weekend / Monday: Physics — Forces and Newton's Laws Notes (Sat Oct 17); English — Intro to the English Renaissance on StudySync and Membean Practice 10/19 (Sun Oct 18); Government — 7 Roles of the President and Foreign Policy Practice (Sun Oct 18), Synch Session #6 Make up (Mon Oct 19).",
+        "Precalculus dropped to 86% (from 90) — Dropbox Quiz 3.1-3.3 posted 0 today (not marked completed in Ethos); Dropbox Week 9 Homework graded 100; 7 older quizzes/tests still posted 0 even though Ethos shows them completed. Quiz 3.1-3.3 due Tue Oct 20.",
+        "Government up to 87% (from 86) — Midterm regraded 76 → 86.",
+        "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet)."
       ],
       "courses": [
         {
@@ -2382,7 +2382,7 @@ window.RECAP_DATA = {
             {
               "title": "Spider Web of Beliefs Reflection",
               "status": "due",
-              "detail": "posted today — online text entry, not yet submitted",
+              "detail": "Online text entry — not yet submitted",
               "due": "Oct 23"
             }
           ],
@@ -2486,8 +2486,15 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100 (graded Wed Oct 14); new 10/16 class grade (100 pts, on paper) posted Fri afternoon, awaiting grade.",
-          "work": [],
+          "note": "97.3% — Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100 (graded Wed Oct 14); new 10/16 class grade (100 pts, on paper, due Fri Oct 16) not graded yet.",
+          "work": [
+            {
+              "title": "10/16",
+              "status": "due",
+              "detail": "On paper — due Fri Oct 16, not graded yet",
+              "due": "Oct 16"
+            }
+          ],
           "grades": [
             {
               "title": "8/18-8/21",
