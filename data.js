@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 17, 2026 · 12:05 PM CT",
+  "updated": "Saturday, Oct 17, 2026 · 4:09 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New Thu Oct 15: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
         "German I 85.98% (down from 89.49) — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 Wed night; Vocabulary Quiz #1 (FA) graded 20/20; Vorstellen introduction still 0.2/20.",
-        "Bible 90.37% (down from 90.5) — David classwork and Exit Ticket turned in on time Thu morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
+        "Bible 90.42% (up from 90.37) — David classwork graded 12/12 and David Exit Ticket 3.5/4 (Sat afternoon); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
         "Biology 80.69% — Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
@@ -15,8 +15,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "canvas",
-          "grade": 90.37,
-          "note": "90.37% (down from 90.5) — David classwork (12 pts) and Exit Ticket (4 pts) both submitted on time Thu morning, awaiting grade; Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "grade": 90.42,
+          "note": "90.42% (up from 90.37) — David — What Kind of King? Classwork graded 12/12 and David — Exit Ticket graded 3.5/4 Sat afternoon (both turned in on time Thu); Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -191,6 +191,20 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 8"
+            },
+            {
+              "title": "David — What Kind of King? Classwork",
+              "score": "12/12",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 15"
+            },
+            {
+              "title": "David — Exit Ticket",
+              "score": "3.5/4",
+              "percent": 87.5,
+              "group": "Formative Assessment",
+              "due": "Oct 15"
             }
           ]
         },
