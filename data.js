@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 16, 2026 · 8:09 PM CT",
+  "updated": "Saturday, Oct 17, 2026 · 12:05 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1131,7 +1131,7 @@ window.RECAP_DATA = {
       "attention": [
         "Past due (Wed Oct 14), still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review; Government — President and Bureaucracy Test; Sociology — DQ3: The Creation of You.",
         "This weekend / Monday: Physics — Forces and Newton's Laws Notes (Sat Oct 17); English — Intro to the English Renaissance on StudySync and Membean Practice 10/19 (Sun Oct 18); Government — 7 Roles of the President and Foreign Policy Practice (Sun Oct 18), Synch Session #6 Make up (Mon Oct 19).",
-        "Precalculus dropped to 86% (from 90) — Dropbox Quiz 3.1-3.3 posted 0 today (not marked completed in Ethos); Dropbox Week 9 Homework graded 100; 7 older quizzes/tests still posted 0 even though Ethos shows them completed. Quiz 3.1-3.3 due Tue Oct 20.",
+        "Precalculus dropped to 86% (from 90) — Dropbox Quiz 3.1-3.3 posted 0 Fri Oct 16 (not marked completed in Ethos); Dropbox Week 9 Homework graded 100; 7 older quizzes/tests still posted 0 even though Ethos shows them completed. Quiz 3.1-3.3 due Tue Oct 20.",
         "Government up to 87% (from 86) — Midterm regraded 76 → 86.",
         "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet)."
       ],
