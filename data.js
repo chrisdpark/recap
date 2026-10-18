@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Oct 18, 2026 · 12:04 PM CT",
+  "updated": "Sunday, Oct 18, 2026 · 4:12 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New Thu Oct 15: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
         "German I 85.98% (down from 89.49) — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 Wed night; Vocabulary Quiz #1 (FA) graded 20/20; Vorstellen introduction still 0.2/20.",
-        "Bible 90.42% (up from 90.37) — David classwork graded 12/12 and David Exit Ticket 3.5/4 (Sat afternoon); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade.",
+        "Bible 90.42% (up from 90.37) — David classwork graded 12/12 and David Exit Ticket 3.5/4 (Sat afternoon); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. New Sun Oct 18: David 1 and David 2 due Mon Oct 19 10:55 AM; David 3 and Samuel Key Terms Quiz due Wed Oct 21 10:15 AM.",
         "Biology 80.69% — Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
@@ -16,7 +16,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.42,
-          "note": "90.42% (up from 90.37) — David — What Kind of King? Classwork graded 12/12 and David — Exit Ticket graded 3.5/4 Sat afternoon (both turned in on time Thu); Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "note": "90.42% (up from 90.37) — New Sun Oct 18: David 1 and David 2 (10 pts each) due Mon Oct 19 10:55 AM; David 3 (8 pts) and Samuel Key Terms Quiz (10 pts) due Wed Oct 21 10:15 AM. David — What Kind of King? Classwork graded 12/12 and David — Exit Ticket graded 3.5/4 Sat afternoon (both turned in on time Thu); Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -29,6 +29,30 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "0/100 missing",
               "due": "Oct 1"
+            },
+            {
+              "title": "David 1: Road to the Throne",
+              "status": "due",
+              "detail": "new Sun Oct 18 · 10 pts · Mon 10:55 AM",
+              "due": "Oct 19"
+            },
+            {
+              "title": "David 2: The Promise",
+              "status": "due",
+              "detail": "new Sun Oct 18 · 10 pts · Mon 10:55 AM",
+              "due": "Oct 19"
+            },
+            {
+              "title": "David 3: The Failure",
+              "status": "due",
+              "detail": "new Sun Oct 18 · 8 pts · Wed 10:15 AM",
+              "due": "Oct 21"
+            },
+            {
+              "title": "Samuel Key Terms Quiz",
+              "status": "due",
+              "detail": "new Sun Oct 18 · quiz · 10 pts · Wed 10:15 AM",
+              "due": "Oct 21"
             }
           ],
           "grades": [
