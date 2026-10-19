@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Oct 18, 2026 · 8:11 PM CT",
+  "updated": "Monday, Oct 19, 2026 · 12:12 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New Thu Oct 15: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
+        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New Thu Oct 15: Slope Intercept Form Homework (20 pts) due today (Mon Oct 19) 11:00 AM.",
         "German I 85.98% (down from 89.49) — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 Wed night; Vocabulary Quiz #1 (FA) graded 20/20; Vorstellen introduction still 0.2/20.",
-        "Bible 90.42% (up from 90.37) — David classwork graded 12/12 and David Exit Ticket 3.5/4 (Sat afternoon); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. New Sun Oct 18: David 1 and David 2 due Mon Oct 19 10:55 AM; David 3 and Samuel Key Terms Quiz due Wed Oct 21 10:15 AM.",
+        "Bible 90.42% (up from 90.37) — David classwork graded 12/12 and David Exit Ticket 3.5/4 (Sat afternoon); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. New Sun Oct 18: David 1 and David 2 due today (Mon Oct 19) 10:55 AM; David 3 and Samuel Key Terms Quiz due Wed Oct 21 10:15 AM.",
         "Biology 80.69% — Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
@@ -16,7 +16,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.42,
-          "note": "90.42% (up from 90.37) — New Sun Oct 18: David 1 and David 2 (10 pts each) due Mon Oct 19 10:55 AM; David 3 (8 pts) and Samuel Key Terms Quiz (10 pts) due Wed Oct 21 10:15 AM. David — What Kind of King? Classwork graded 12/12 and David — Exit Ticket graded 3.5/4 Sat afternoon (both turned in on time Thu); Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "note": "90.42% (up from 90.37) — New Sun Oct 18: David 1 and David 2 (10 pts each) due today (Mon Oct 19) 10:55 AM; David 3 (8 pts) and Samuel Key Terms Quiz (10 pts) due Wed Oct 21 10:15 AM. David — What Kind of King? Classwork graded 12/12 and David — Exit Ticket graded 3.5/4 Sat afternoon (both turned in on time Thu); Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -33,13 +33,13 @@ window.RECAP_DATA = {
             {
               "title": "David 1: Road to the Throne",
               "status": "due",
-              "detail": "new Sun Oct 18 · 10 pts · Mon 10:55 AM",
+              "detail": "new Sun Oct 18 · 10 pts · due today 10:55 AM",
               "due": "Oct 19"
             },
             {
               "title": "David 2: The Promise",
               "status": "due",
-              "detail": "new Sun Oct 18 · 10 pts · Mon 10:55 AM",
+              "detail": "new Sun Oct 18 · 10 pts · due today 10:55 AM",
               "due": "Oct 19"
             },
             {
@@ -396,7 +396,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 24.36,
-          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. New: Slope Intercept Form Homework (20 pts) due Mon Oct 19.",
+          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. New: Slope Intercept Form Homework (20 pts) due today (Mon Oct 19) 11:00 AM.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -425,7 +425,7 @@ window.RECAP_DATA = {
             {
               "title": "Slope Intercept Form Homework",
               "status": "due",
-              "detail": "new Thu Oct 15 · 20 pts · Mon 11:00 AM",
+              "detail": "new Thu Oct 15 · 20 pts · due today 11:00 AM",
               "due": "Oct 19"
             }
           ],
@@ -1167,8 +1167,8 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Past due, still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review (Wed Oct 14) and Forces and Newton's Laws Notes (Sat Oct 17); Government — President and Bureaucracy Test (Wed Oct 14); Sociology — DQ3: The Creation of You (Wed Oct 14).",
-        "Due today (Sun Oct 18): English — Intro to the English Renaissance on StudySync and Membean Practice 10/19; Government — 7 Roles of the President and Foreign Policy Practice. Monday (Oct 19): Government — Synch Session #6 Make up.",
+        "Past due, still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review (Wed Oct 14) and Forces and Newton's Laws Notes (Sat Oct 17); Government — President and Bureaucracy Test (Wed Oct 14), 7 Roles of the President and Foreign Policy Practice (Sun Oct 18); English — Intro to the English Renaissance on StudySync and Membean Practice 10/19 (Sun Oct 18); Sociology — DQ3: The Creation of You (Wed Oct 14).",
+        "Due today (Mon Oct 19): Government — Synch Session #6 Make up. Later this week: Precalculus — Quiz 3.1-3.3 (Tue Oct 20), Dropbox Week 10 Homework and Dropbox Quiz 3.4-3.6 (Thu Oct 22); Physics — Circular Motion & Gravitation Notes and Circular Motion and Gravitation Problem Set (Wed Oct 21).",
         "Precalculus dropped to 86% (from 90) — Dropbox Quiz 3.1-3.3 posted 0 Fri Oct 16 (not marked completed in Ethos); Dropbox Week 9 Homework graded 100; 7 older quizzes/tests still posted 0 even though Ethos shows them completed. Quiz 3.1-3.3 due Tue Oct 20.",
         "Government up to 87% (from 86) — Midterm regraded 76 → 86.",
         "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet)."
@@ -1180,7 +1180,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "16 overdue · 6 recent submissions ungraded · Intro to English Renaissance / Membean Practice due Oct 18–19",
+          "note": "18 overdue · 6 recent submissions ungraded · Intro to the English Renaissance on StudySync and Membean Practice 10/19 (due Sun Oct 18) not completed",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1277,6 +1277,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 30"
+            },
+            {
+              "title": "Intro to the English Renaissance on StudySync",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 18"
+            },
+            {
+              "title": "Membean Practice 10/19",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 18"
             }
           ],
           "grades": [
@@ -1779,7 +1791,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (up from 86) · Midterm regraded 76 → 86 · President and Bureaucracy Test (due Wed Oct 14) not completed · 7 Roles of the President / Foreign Policy Practice due Oct 18 · Synch Session #6 Make up due Oct 19 · 5 overdue",
+          "note": "87% (up from 86) · Midterm regraded 76 → 86 · President and Bureaucracy Test (due Wed Oct 14) not completed · 7 Roles of the President and Foreign Policy Practice (due Sun Oct 18) not completed · Synch Session #6 Make up due today (Mon Oct 19) · 7 overdue",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1810,6 +1822,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 14"
+            },
+            {
+              "title": "7 Roles of the President",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 18"
+            },
+            {
+              "title": "Foreign Policy Practice",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 18"
             }
           ],
           "grades": [
