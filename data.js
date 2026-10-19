@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 19, 2026 · 8:10 AM CT",
+  "updated": "Monday, Oct 19, 2026 · 12:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. New Thu Oct 15: Slope Intercept Form Homework (20 pts) due today (Mon Oct 19) 11:00 AM.",
-        "German I 85.98% (down from 89.49) — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video (Sep 30) and Farben (Oct 6) graded 0 Wed night; Vocabulary Quiz #1 (FA) graded 20/20; Vorstellen introduction still 0.2/20.",
-        "Bible 90.42% (up from 90.37) — David classwork graded 12/12 and David Exit Ticket 3.5/4 (Sat afternoon); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. New Sun Oct 18: David 1 and David 2 due today (Mon Oct 19) 10:55 AM; David 3 and Samuel Key Terms Quiz due Wed Oct 21 10:15 AM.",
+        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due today 11:00 AM and isn't submitted in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
+        "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. New: Unit 1 review video + check-up quiz (30 pts) due Tue Oct 20 10 PM; Unit 1 quiz in class Wed Oct 21.",
+        "Bible 90.42% — David 1 and David 2 turned in on time this morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. David 3 and Samuel Key Terms Quiz due Wed Oct 21 10:15 AM.",
         "Biology 80.69% — Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
@@ -16,7 +16,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.42,
-          "note": "90.42% (up from 90.37) — New Sun Oct 18: David 1 and David 2 (10 pts each) due today (Mon Oct 19) 10:55 AM; David 3 (8 pts) and Samuel Key Terms Quiz (10 pts) due Wed Oct 21 10:15 AM. David — What Kind of King? Classwork graded 12/12 and David — Exit Ticket graded 3.5/4 Sat afternoon (both turned in on time Thu); Exit Ticket: Numbers Deuteronomy removed from Canvas; Torah/Unit tests renamed (SummativeTest / U1Test / U2&3Test); Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "note": "90.42% — David 1: Road to the Throne and David 2: The Promise turned in on time this morning (10:51 / 10:49 AM, due 10:55), awaiting grade; David 3 (8 pts) and Samuel Key Terms Quiz (10 pts) due Wed Oct 21 10:15 AM. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -29,18 +29,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "0/100 missing",
               "due": "Oct 1"
-            },
-            {
-              "title": "David 1: Road to the Throne",
-              "status": "due",
-              "detail": "new Sun Oct 18 · 10 pts · due today 10:55 AM",
-              "due": "Oct 19"
-            },
-            {
-              "title": "David 2: The Promise",
-              "status": "due",
-              "detail": "new Sun Oct 18 · 10 pts · due today 10:55 AM",
-              "due": "Oct 19"
             },
             {
               "title": "David 3: The Failure",
@@ -396,7 +384,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 24.36,
-          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. New: Slope Intercept Form Homework (20 pts) due today (Mon Oct 19) 11:00 AM.",
+          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due today (Mon Oct 19) 11:00 AM and isn't submitted in Canvas yet.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -424,8 +412,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Slope Intercept Form Homework",
-              "status": "due",
-              "detail": "new Thu Oct 15 · 20 pts · due today 11:00 AM",
+              "status": "overdue",
+              "detail": "20 pts · was due today 11:00 AM — not submitted in Canvas yet",
               "due": "Oct 19"
             }
           ],
@@ -501,13 +489,19 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% (down from 89.49) — Alphabet Part 1 Video and Farben graded 0 Wed night; Vocab Quiz #1 (FA) graded 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
+          "note": "85.98% — New Mon Oct 19: Unit 1 review video with check-up quiz (30 pts) due Tue Oct 20 10 PM, ahead of the Unit 1 quiz in class Wed Oct 21. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
               "status": "overdue",
               "detail": "was due Fri Oct 16 11 AM — not submitted in Canvas (may have been done on paper)",
               "due": "Oct 16"
+            },
+            {
+              "title": "Unit 1 review video + check-up quiz",
+              "status": "due",
+              "detail": "new Mon Oct 19 · 30 pts · watch video, do check-up quiz · due Tue 10 PM (Unit 1 quiz in class Wed Oct 21)",
+              "due": "Oct 20"
             }
           ],
           "grades": [
@@ -1009,24 +1003,23 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "canvas",
-          "grade": 81.14,
-          "note": "81.14% (down from 81.51) — Membean Programs 5/6/7 graded 100/90/80 and TKAM Ch. 19–24 graded 80 (all posted Tue Oct 13); TKAM Novel Test remains 134/200 (67%).",
-          "work": [],
+          "grade": 81.86,
+          "note": "81.86% (up from 81.14) — SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100) were removed from Canvas Mon. New Q2 research-paper unit: Research Paper Topic due today 4 PM (not graded); Q2 Membean Program 1 due Wed Oct 21; APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). TKAM Novel Test remains 134/200 (67%).",
+          "work": [
+            {
+              "title": "Research Paper Topic",
+              "status": "due",
+              "detail": "new Mon Oct 19 · reminder (not graded) · due today 4 PM",
+              "due": "Oct 19"
+            },
+            {
+              "title": "Q2 Membean Program 1",
+              "status": "due",
+              "detail": "new Mon Oct 19 · 100 pts · Wed 11:59 PM",
+              "due": "Oct 21"
+            }
+          ],
           "grades": [
-            {
-              "title": "SKDM Assessment",
-              "score": "70/100",
-              "percent": 70.0,
-              "group": "Summative Assessment",
-              "due": "Aug 24"
-            },
-            {
-              "title": "Q1 Membean Program 1",
-              "score": "95/100",
-              "percent": 95.0,
-              "group": "Formative Assessment",
-              "due": "Aug 26"
-            },
             {
               "title": "SKDM Reflection",
               "score": "100/100",
