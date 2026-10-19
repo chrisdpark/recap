@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 19, 2026 · 12:07 PM CT",
+  "updated": "Monday, Oct 19, 2026 · 4:09 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -489,7 +489,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% — New Mon Oct 19: Unit 1 review video with check-up quiz (30 pts) due Tue Oct 20 10 PM, ahead of the Unit 1 quiz in class Wed Oct 21. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
+          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative) due Tue Oct 20 10 PM, ahead of the Unit 1 quiz in class Wed Oct 21. New Mon afternoon: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due Mon Oct 26 1 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
@@ -500,7 +500,7 @@ window.RECAP_DATA = {
             {
               "title": "Unit 1 review video + check-up quiz",
               "status": "due",
-              "detail": "new Mon Oct 19 · 30 pts · watch video, do check-up quiz · due Tue 10 PM (Unit 1 quiz in class Wed Oct 21)",
+              "detail": "new Mon Oct 19 · 30 pts formative · watch video, do check-up quiz · due Tue 10 PM (Unit 1 quiz in class Wed Oct 21)",
               "due": "Oct 20"
             }
           ],
@@ -1004,12 +1004,12 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "canvas",
           "grade": 81.86,
-          "note": "81.86% (up from 81.14) — SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100) were removed from Canvas Mon. New Q2 research-paper unit: Research Paper Topic due today 4 PM (not graded); Q2 Membean Program 1 due Wed Oct 21; APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). TKAM Novel Test remains 134/200 (67%).",
+          "note": "81.86% — Research Paper Topic (not graded) was due today 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 due Wed Oct 21; APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment and Q1 Membean Program 1 were removed from Canvas Mon; TKAM Novel Test remains 134/200 (67%).",
           "work": [
             {
               "title": "Research Paper Topic",
-              "status": "due",
-              "detail": "new Mon Oct 19 · reminder (not graded) · due today 4 PM",
+              "status": "overdue",
+              "detail": "reminder (not graded) · was due today 4:00 PM — Canvas takes no online submission for it, so nothing shows as turned in",
               "due": "Oct 19"
             },
             {
