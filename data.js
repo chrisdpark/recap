@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 19, 2026 · 12:12 AM CT",
+  "updated": "Monday, Oct 19, 2026 · 4:11 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1167,7 +1167,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Past due, still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review (Wed Oct 14) and Forces and Newton's Laws Notes (Sat Oct 17); Government — President and Bureaucracy Test (Wed Oct 14), 7 Roles of the President and Foreign Policy Practice (Sun Oct 18); English — Intro to the English Renaissance on StudySync and Membean Practice 10/19 (Sun Oct 18); Sociology — DQ3: The Creation of You (Wed Oct 14).",
+        "Past due, still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review (Wed Oct 14); Government — President and Bureaucracy Test (Wed Oct 14); English — Intro to the English Renaissance on StudySync and Membean Practice 10/19 (Sun Oct 18); Sociology — DQ3: The Creation of You (Wed Oct 14). Now completed (awaiting grades): Physics — Forces and Newton's Laws Notes (Oct 18); Government — 7 Roles of the President (Oct 18) and Foreign Policy Practice (Oct 19).",
         "Due today (Mon Oct 19): Government — Synch Session #6 Make up. Later this week: Precalculus — Quiz 3.1-3.3 (Tue Oct 20), Dropbox Week 10 Homework and Dropbox Quiz 3.4-3.6 (Thu Oct 22); Physics — Circular Motion & Gravitation Notes and Circular Motion and Gravitation Problem Set (Wed Oct 21).",
         "Precalculus dropped to 86% (from 90) — Dropbox Quiz 3.1-3.3 posted 0 Fri Oct 16 (not marked completed in Ethos); Dropbox Week 9 Homework graded 100; 7 older quizzes/tests still posted 0 even though Ethos shows them completed. Quiz 3.1-3.3 due Tue Oct 20.",
         "Government up to 87% (from 86) — Midterm regraded 76 → 86.",
@@ -1489,7 +1489,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% · Forces & Newton's Laws Test Review (due Wed Oct 14) and Forces and Newton's Laws Notes (due Sat Oct 17) not completed · Midterm Test Review Problems 50 · Midterm FRQ 100 · 2 posted 0 · 9 overdue",
+          "note": "81% · Forces & Newton's Laws Test Review (due Wed Oct 14) not completed · Forces and Newton's Laws Notes completed Oct 18, awaiting grade · Midterm Test Review Problems 50 · Midterm FRQ 100 · 2 posted 0 · 8 overdue",
           "work": [
             {
               "title": "Final Test Review Problems",
@@ -1550,12 +1550,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 14"
-            },
-            {
-              "title": "Forces and Newton's Laws Notes",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 17"
             }
           ],
           "grades": [
@@ -1791,7 +1785,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (up from 86) · Midterm regraded 76 → 86 · President and Bureaucracy Test (due Wed Oct 14) not completed · 7 Roles of the President and Foreign Policy Practice (due Sun Oct 18) not completed · Synch Session #6 Make up due today (Mon Oct 19) · 7 overdue",
+          "note": "87% (up from 86) · Midterm regraded 76 → 86 · President and Bureaucracy Test (due Wed Oct 14) not completed · 7 Roles of the President (completed Oct 18) and Foreign Policy Practice (completed Oct 19) now done, awaiting grades · Synch Session #6 Make up due today (Mon Oct 19) · 5 overdue",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1822,18 +1816,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 14"
-            },
-            {
-              "title": "7 Roles of the President",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 18"
-            },
-            {
-              "title": "Foreign Policy Practice",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 18"
             }
           ],
           "grades": [
