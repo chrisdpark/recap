@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 19, 2026 · 8:05 PM CT",
+  "updated": "Tuesday, Oct 20, 2026 · 12:11 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due today 11:00 AM and isn't submitted in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
-        "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. New: Unit 1 review video + check-up quiz (30 pts) due Tue Oct 20 10 PM; Unit 1 quiz in class Wed Oct 21.",
-        "Bible 90.42% — David 1 and David 2 turned in on time this morning (awaiting grade); Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. David 3 and Samuel Key Terms Quiz due Wed Oct 21 10:15 AM.",
+        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
+        "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. New: Unit 1 review video + check-up quiz (30 pts) due today (Tue Oct 20) 10 PM; Unit 1 quiz in class Wed Oct 21.",
+        "Bible 90.35% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz due Wed Oct 21 10:15 AM (David 3 was removed from Canvas).",
         "Biology 80.69% — Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab - Lights and Photosynthesis (17 pts) due Fri Oct 23."
       ],
       "courses": [
@@ -15,8 +15,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "canvas",
-          "grade": 90.42,
-          "note": "90.42% — David 1: Road to the Throne and David 2: The Promise turned in on time this morning (10:51 / 10:49 AM, due 10:55), awaiting grade; David 3 (8 pts) and Samuel Key Terms Quiz (10 pts) due Wed Oct 21 10:15 AM. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "grade": 90.35,
+          "note": "90.35% (was 90.42) — David 1: Road to the Throne and David 2: The Promise (turned in on time Mon) graded Mon night, 7/10 each; Samuel Key Terms Quiz (10 pts) due Wed Oct 21 10:15 AM; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -29,12 +29,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "0/100 missing",
               "due": "Oct 1"
-            },
-            {
-              "title": "David 3: The Failure",
-              "status": "due",
-              "detail": "new Sun Oct 18 · 8 pts · Wed 10:15 AM",
-              "due": "Oct 21"
             },
             {
               "title": "Samuel Key Terms Quiz",
@@ -217,6 +211,20 @@ window.RECAP_DATA = {
               "percent": 87.5,
               "group": "Formative Assessment",
               "due": "Oct 15"
+            },
+            {
+              "title": "David 1: Road to the Throne",
+              "score": "7/10",
+              "percent": 70.0,
+              "group": "Formative Assessment",
+              "due": "Oct 19"
+            },
+            {
+              "title": "David 2: The Promise",
+              "score": "7/10",
+              "percent": 70.0,
+              "group": "Formative Assessment",
+              "due": "Oct 19"
             }
           ]
         },
@@ -384,7 +392,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 24.36,
-          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due today (Mon Oct 19) 11:00 AM and isn't submitted in Canvas yet.",
+          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -413,7 +421,7 @@ window.RECAP_DATA = {
             {
               "title": "Slope Intercept Form Homework",
               "status": "overdue",
-              "detail": "20 pts · was due today 11:00 AM — not submitted in Canvas yet",
+              "detail": "20 pts · was due Mon Oct 19 11:00 AM — not submitted in Canvas yet",
               "due": "Oct 19"
             }
           ],
@@ -489,7 +497,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative) due Tue Oct 20 10 PM, ahead of the Unit 1 quiz in class Wed Oct 21. New Mon afternoon: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due Mon Oct 26 1 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
+          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative) due today (Tue Oct 20) 10 PM, ahead of the Unit 1 quiz in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due Mon Oct 26 1 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
@@ -500,7 +508,7 @@ window.RECAP_DATA = {
             {
               "title": "Unit 1 review video + check-up quiz",
               "status": "due",
-              "detail": "new Mon Oct 19 · 30 pts formative · watch video, do check-up quiz · due Tue 10 PM (Unit 1 quiz in class Wed Oct 21)",
+              "detail": "new Mon Oct 19 · 30 pts formative · watch video, do check-up quiz · due today 10 PM (Unit 1 quiz in class Wed Oct 21)",
               "due": "Oct 20"
             }
           ],
@@ -1004,12 +1012,12 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "canvas",
           "grade": 81.86,
-          "note": "81.86% — Research Paper Topic (not graded) was due today 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 due Wed Oct 21; APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment and Q1 Membean Program 1 were removed from Canvas Mon; TKAM Novel Test remains 134/200 (67%).",
+          "note": "81.86% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 due Wed Oct 21; APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment and Q1 Membean Program 1 were removed from Canvas Mon; TKAM Novel Test remains 134/200 (67%).",
           "work": [
             {
               "title": "Research Paper Topic",
               "status": "overdue",
-              "detail": "reminder (not graded) · was due today 4:00 PM — Canvas takes no online submission for it, so nothing shows as turned in",
+              "detail": "reminder (not graded) · was due Mon Oct 19 4:00 PM — Canvas takes no online submission for it, so nothing shows as turned in",
               "due": "Oct 19"
             },
             {
@@ -1160,9 +1168,9 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Due today through Wed Oct 21 and not completed yet: Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Government: Synch Session #6 Make up (Mon Oct 19); Precalculus: Quiz 3.1-3.3 (Tue Oct 20).",
+        "Due today (Tue Oct 20) through Fri Oct 23 and not completed yet: English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Precalculus: Dropbox Week 10 Homework (Thu Oct 22); Precalculus: Dropbox Quiz 3.4-3.6 (Thu Oct 22); Sociology: Sociology Midterm (2022) (Fri Oct 23).",
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Physics: 2D Flight Paths (Mon Oct 12); Physics: Forces & Newton's Laws Test Review (Wed Oct 14); Government: President and Bureaucracy Test (Wed Oct 14); Sociology: DQ3: The Creation of You (Wed Oct 14).",
+        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Physics: 2D Flight Paths (Mon Oct 12); Physics: Forces & Newton's Laws Test Review (Wed Oct 14); Government: President and Bureaucracy Test (Wed Oct 14); Government: Synch Session #6 Make up (Mon Oct 19); Sociology: DQ3: The Creation of You (Wed Oct 14).",
         "Apologetics: Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet). Graphic Design: the 10/16 class grade still isn't graded."
       ],
       "courses": [
@@ -1172,8 +1180,14 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Friday) · 16 overdue · 0 posted 0",
+          "note": "96% (no change since Friday) · due soon: Participation (Thu Oct 22) · 16 overdue · 0 posted 0",
           "work": [
+            {
+              "title": "Participation",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Oct 22"
+            },
             {
               "title": "Poetic Elements and Structure (StudySync)",
               "status": "overdue",
@@ -1357,7 +1371,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% (no change since Friday) · completed, awaiting grade: Forces and Newton's Laws Notes · due soon: Circular Motion & Gravitation Notes (Wed Oct 21), Circular Motion and Gravitation Problem Set (Wed Oct 21) · 8 overdue · 2 posted 0",
+          "note": "81% (no change since Friday) · newly graded: Forces and Newton's Laws Notes — → 100 · due soon: Circular Motion & Gravitation Notes (Wed Oct 21), Circular Motion and Gravitation Problem Set (Wed Oct 21) · 8 overdue · 2 posted 0",
           "work": [
             {
               "title": "Circular Motion & Gravitation Notes",
@@ -1574,6 +1588,13 @@ window.RECAP_DATA = {
               "due": "Oct 17, 2026"
             },
             {
+              "title": "Forces and Newton's Laws Notes",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Oct 17, 2026"
+            },
+            {
               "title": "2D Motion Quiz",
               "score": "90",
               "percent": 90.0,
@@ -1609,14 +1630,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Friday) · completed, awaiting grade: 7 Roles of the President, Foreign Policy Practice · due soon: Synch Session #6 Make up (Mon Oct 19) · 5 overdue · 0 posted 0",
+          "note": "87% (no change since Friday) · newly graded: 7 Roles of the President — → 80, Foreign Policy Practice — → 100 · 6 overdue · 0 posted 0",
           "work": [
-            {
-              "title": "Synch Session #6 Make up",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Mon Oct 19"
-            },
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
@@ -1646,6 +1661,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 14, 2026"
+            },
+            {
+              "title": "Synch Session #6 Make up",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 19, 2026"
             }
           ],
           "grades": [
@@ -1755,6 +1776,20 @@ window.RECAP_DATA = {
               "due": "Sep 30, 2026"
             },
             {
+              "title": "7 Roles of the President",
+              "score": "80",
+              "percent": 80.0,
+              "group": "Ethos",
+              "due": "Oct 18, 2026"
+            },
+            {
+              "title": "Foreign Policy Practice",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Oct 18, 2026"
+            },
+            {
               "title": "Check point Quiz",
               "score": "87",
               "percent": 87.0,
@@ -1769,13 +1804,25 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since Friday) · due soon: Quiz 3.1-3.3 (Tue Oct 20) · 0 overdue · 8 posted 0",
+          "note": "86% (no change since Friday) · due soon: Quiz 3.1-3.3 (Tue Oct 20), Dropbox Week 10 Homework (Thu Oct 22), Dropbox Quiz 3.4-3.6 (Thu Oct 22) · 0 overdue · 8 posted 0",
           "work": [
             {
               "title": "Quiz 3.1-3.3",
               "status": "due",
               "detail": "Not completed",
               "due": "Due Tue Oct 20"
+            },
+            {
+              "title": "Dropbox Week 10 Homework",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Oct 22"
+            },
+            {
+              "title": "Dropbox Quiz 3.4-3.6",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Oct 22"
             },
             {
               "title": "Quiz 1.1 - 1.3",
@@ -1975,8 +2022,14 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since Friday) · 10 overdue · 1 posted 0",
+          "note": "84% (no change since Friday) · due soon: Sociology Midterm (2022) (Fri Oct 23) · 10 overdue · 1 posted 0",
           "work": [
+            {
+              "title": "Sociology Midterm (2022)",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Fri Oct 23"
+            },
             {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
