@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 20, 2026 · 4:13 PM CT",
+  "updated": "Tuesday, Oct 20, 2026 · 5:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -702,7 +702,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); new Oct. 21st Current Event Post (100 pts) due Fri Oct 23; new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative), no due date set in Canvas yet; Week 3 page (Oct 12–16) posted.",
+          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); new Oct. 21st Current Event Post (100 pts) due Fri Oct 23; new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative), no due date set in Canvas yet; Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day).",
           "work": [
             {
               "title": "October 7th Current Event Post",
