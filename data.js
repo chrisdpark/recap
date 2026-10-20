@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 19, 2026 · 6:49 PM CT",
+  "updated": "Monday, Oct 19, 2026 · 7:05 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1160,11 +1160,10 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Past due, still not showing completed in Ethos: Physics — Forces & Newton's Laws Test Review (Wed Oct 14); Government — President and Bureaucracy Test (Wed Oct 14); English — Intro to the English Renaissance on StudySync and Membean Practice 10/19 (Sun Oct 18); Sociology — DQ3: The Creation of You (Wed Oct 14). Now completed (awaiting grades): Physics — Forces and Newton's Laws Notes (Oct 18); Government — 7 Roles of the President (Oct 18) and Foreign Policy Practice (Oct 19).",
-        "Due today (Mon Oct 19): Government — Synch Session #6 Make up. Later this week: Precalculus — Quiz 3.1-3.3 (Tue Oct 20), Dropbox Week 10 Homework and Dropbox Quiz 3.4-3.6 (Thu Oct 22); Physics — Circular Motion & Gravitation Notes and Circular Motion and Gravitation Problem Set (Wed Oct 21).",
-        "Precalculus dropped to 86% (from 90) — Dropbox Quiz 3.1-3.3 posted 0 Fri Oct 16 (not marked completed in Ethos); Dropbox Week 9 Homework graded 100; 7 older quizzes/tests still posted 0 even though Ethos shows them completed. Quiz 3.1-3.3 due Tue Oct 20.",
-        "Government up to 87% (from 86) — Midterm regraded 76 → 86.",
-        "Apologetics is at 87.2% — Case for Truth Summative Exam 66/100; Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet)."
+        "Due today through Wed Oct 21 and not completed yet: Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Government: Synch Session #6 Make up (Mon Oct 19); Precalculus: Quiz 3.1-3.3 (Tue Oct 20).",
+        "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
+        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Physics: 2D Flight Paths (Mon Oct 12); Physics: Forces & Newton's Laws Test Review (Wed Oct 14); Government: President and Bureaucracy Test (Wed Oct 14); Sociology: DQ3: The Creation of You (Wed Oct 14).",
+        "Apologetics: Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet). Graphic Design: the 10/16 class grade still isn't graded."
       ],
       "courses": [
         {
@@ -1173,7 +1172,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "18 overdue · 6 recent submissions ungraded · Intro to the English Renaissance on StudySync and Membean Practice 10/19 (due Sun Oct 18) not completed",
+          "note": "96% (no change since Friday) · 16 overdue · 0 posted 0",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1188,40 +1187,28 @@ window.RECAP_DATA = {
               "due": "Due Sep 21, 2025"
             },
             {
-              "title": "Mbn 10/27",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 26, 2025"
-            },
-            {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 26, 2025"
-            },
-            {
               "title": "Mbn 11/2",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Nov 2, 2025"
+              "due": "Due Nov 02, 2025"
             },
             {
               "title": "Mbn 11/09",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Nov 9, 2025"
+              "due": "Due Nov 09, 2025"
             },
             {
               "title": "Macbeth Act 5 Discussion Questions",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Nov 9, 2025"
+              "due": "Due Nov 09, 2025"
             },
             {
               "title": "StudySync Act 5, scene 5 Paragraph Response",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Nov 9, 2025"
+              "due": "Due Nov 09, 2025"
             },
             {
               "title": "Mbn 11/16",
@@ -1239,240 +1226,128 @@ window.RECAP_DATA = {
               "title": "Brave New World Summer Reading Essay Test",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 20"
+              "due": "Due Aug 20, 2026"
             },
             {
               "title": "Membean 8/30",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 30"
+              "due": "Due Aug 30, 2026"
             },
             {
               "title": "Membean 9/7",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 6"
+              "due": "Due Sep 06, 2026"
             },
             {
               "title": "Membean 9/13",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 13"
+              "due": "Due Sep 13, 2026"
             },
             {
               "title": "Membean 9/27",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 27"
+              "due": "Due Sep 27, 2026"
             },
             {
               "title": "DWS #4 Quiz",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 30"
-            },
-            {
-              "title": "Intro to the English Renaissance on StudySync",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 18"
+              "due": "Due Sep 30, 2026"
             },
             {
               "title": "Membean Practice 10/19",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Oct 18"
+              "due": "Due Oct 18, 2026"
+            },
+            {
+              "title": "Intro to the English Renaissance on StudySync",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 18, 2026"
             }
           ],
           "grades": [
             {
-              "title": "Poetic Elements and Structure (StudySync)",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 21, 2025"
-            },
-            {
               "title": "First draft of Intro, first two body paragraphs and Works Cited page",
-              "score": "90%",
-              "percent": 90,
-              "group": "",
+              "score": "90",
+              "percent": 90.0,
+              "group": "Ethos",
               "due": "Sep 21, 2025"
-            },
-            {
-              "title": "Membean 9/21",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 21, 2025"
-            },
-            {
-              "title": "Mbn 10/27",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 26, 2025"
-            },
-            {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 26, 2025"
-            },
-            {
-              "title": "Mbn 11/2",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 2, 2025"
-            },
-            {
-              "title": "Mbn 11/09",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 9, 2025"
-            },
-            {
-              "title": "Macbeth Act 5 Discussion Questions",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 9, 2025"
-            },
-            {
-              "title": "StudySync Act 5, scene 5 Paragraph Response",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 9, 2025"
-            },
-            {
-              "title": "Mbn 11/16",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 16, 2025"
-            },
-            {
-              "title": "Mbn 11/23",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Nov 23, 2025"
-            },
-            {
-              "title": "Brave New World Summer Reading Essay Test",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 20"
             },
             {
               "title": "Death of a Moth by Virginia Woolf",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 24"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 24, 2026"
             },
             {
               "title": "First Draft of Personal Narrative",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 24"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 24, 2026"
             },
             {
               "title": "Daily Writing Skills (DWS) Quiz 1 (Parts of Speech)",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 26"
-            },
-            {
-              "title": "Final Narrative Essay Writing Assignment",
-              "score": "92%",
-              "percent": 92,
-              "group": "",
-              "due": "Aug 30"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 26, 2026"
             },
             {
               "title": "Shooting an Elephant by George Orwell",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 30"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 30, 2026"
             },
             {
-              "title": "Membean 8/30",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 30"
-            },
-            {
-              "title": "Membean 9/7",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 6"
+              "title": "Final Narrative Essay Writing Assignment",
+              "score": "92",
+              "percent": 92.0,
+              "group": "Ethos",
+              "due": "Aug 30, 2026"
             },
             {
               "title": "Beowulf Questions",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 6"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 06, 2026"
             },
             {
               "title": "DWS #2 Quiz--Combining Independent Claues",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 8"
-            },
-            {
-              "title": "Prologue to the Canterbury Tales",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 13"
-            },
-            {
-              "title": "Membean 9/13",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 13"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 08, 2026"
             },
             {
               "title": "Five Sources and Persuasive Paper Thesis Statement",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 13"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 13, 2026"
+            },
+            {
+              "title": "Prologue to the Canterbury Tales",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 13, 2026"
             },
             {
               "title": "Daily Writing Skills Quiz #3: Identifying Independent and Dependent Clauses",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 21"
-            },
-            {
-              "title": "Membean 9/27",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 27"
-            },
-            {
-              "title": "DWS #4 Quiz",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 30"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 21, 2026"
             }
           ]
         },
@@ -1482,8 +1357,32 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% · Forces & Newton's Laws Test Review (due Wed Oct 14) not completed · Forces and Newton's Laws Notes completed Oct 18, awaiting grade · Midterm Test Review Problems 50 · Midterm FRQ 100 · 2 posted 0 · 8 overdue",
+          "note": "81% (no change since Friday) · completed, awaiting grade: Forces and Newton's Laws Notes · due soon: Circular Motion & Gravitation Notes (Wed Oct 21), Circular Motion and Gravitation Problem Set (Wed Oct 21) · 8 overdue · 2 posted 0",
           "work": [
+            {
+              "title": "Circular Motion & Gravitation Notes",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Wed Oct 21"
+            },
+            {
+              "title": "Circular Motion and Gravitation Problem Set",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Wed Oct 21"
+            },
+            {
+              "title": "Practice Lockdown Browser Quiz Monitor",
+              "status": "zero",
+              "detail": "Posted 0, not completed",
+              "due": "Due Aug 20, 2026"
+            },
+            {
+              "title": "Motion Graphs Packet & Activity",
+              "status": "zero",
+              "detail": "Posted 0, not completed",
+              "due": "Due Aug 29, 2026"
+            },
             {
               "title": "Final Test Review Problems",
               "status": "overdue",
@@ -1494,281 +1393,213 @@ window.RECAP_DATA = {
               "title": "Lockdown Browser Tutorial",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 18"
-            },
-            {
-              "title": "Practice Lockdown Browser Quiz Monitor",
-              "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Aug 20"
-            },
-            {
-              "title": "Motion Graphs Packet & Activity",
-              "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Aug 29"
+              "due": "Due Aug 18, 2026"
             },
             {
               "title": "Define 1D Motion Discussion Forum",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 8"
+              "due": "Due Sep 08, 2026"
             },
             {
               "title": "Velocity Teaching Video",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 10"
+              "due": "Due Sep 10, 2026"
             },
             {
               "title": "Position Time Graphs Teaching Video",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 14"
+              "due": "Due Sep 14, 2026"
             },
             {
               "title": "Position - Time Graph Walking Video Discussion Forum",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 21"
+              "due": "Due Sep 21, 2026"
             },
             {
               "title": "2D Flight Paths",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Oct 12"
+              "due": "Due Oct 12, 2026"
             },
             {
               "title": "Forces & Newton's Laws Test Review",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Oct 14"
+              "due": "Due Oct 14, 2026"
             }
           ],
           "grades": [
             {
-              "title": "Final Test Review Problems",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Dec 14, 2023"
-            },
-            {
-              "title": "Lockdown Browser Tutorial",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 18"
-            },
-            {
               "title": "Practice Lockdown Browser Quiz Monitor",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Aug 20"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Aug 20, 2026"
             },
             {
               "title": "Prereq Skills: Part 1 Teaching Video",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 24"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 24, 2026"
             },
             {
               "title": "Prereq Skills: Part 2 Teaching Video",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 26"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 26, 2026"
             },
             {
               "title": "Prerequisite Skills Packet",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 29"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 29, 2026"
             },
             {
               "title": "Significant Figures Lab",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 29"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 29, 2026"
             },
             {
               "title": "1D Motion Part 1 Notes",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 29"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 29, 2026"
             },
             {
               "title": "Motion Graphs Packet & Activity",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Aug 29"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Aug 29, 2026"
             },
             {
               "title": "Significant Figure Lab Explanation",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 1"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 01, 2026"
             },
             {
               "title": "Prerequisite Skills Test",
-              "score": "69%",
-              "percent": 69,
-              "group": "",
-              "due": "Sep 4"
+              "score": "69",
+              "percent": 69.0,
+              "group": "Ethos",
+              "due": "Sep 04, 2026"
             },
             {
               "title": "1D Motion Part 2 Notes",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 5"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 05, 2026"
             },
             {
               "title": "1D Kinematics Homework Set",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 5"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 05, 2026"
             },
             {
               "title": "Free Fall Lab",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 5"
-            },
-            {
-              "title": "Define 1D Motion Discussion Forum",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 8"
-            },
-            {
-              "title": "Velocity Teaching Video",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 10"
-            },
-            {
-              "title": "Position Time Graphs Teaching Video",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 14"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 05, 2026"
             },
             {
               "title": "1D Motion Test Review",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 19"
-            },
-            {
-              "title": "Position - Time Graph Walking Video Discussion Forum",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 21"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 19, 2026"
             },
             {
               "title": "2D Motion Notes",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 23"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 23, 2026"
             },
             {
               "title": "2D Kinematics Homework Set",
-              "score": "85%",
-              "percent": 85,
-              "group": "",
-              "due": "Sep 23"
+              "score": "85",
+              "percent": 85.0,
+              "group": "Ethos",
+              "due": "Sep 23, 2026"
             },
             {
               "title": "2D Motion Digital Lab",
-              "score": "75%",
-              "percent": 75,
-              "group": "",
-              "due": "Sep 26"
+              "score": "75",
+              "percent": 75.0,
+              "group": "Ethos",
+              "due": "Sep 26, 2026"
             },
             {
               "title": "1D Motion Quiz",
-              "score": "80%",
-              "percent": 80,
-              "group": "",
-              "due": "Oct 1"
+              "score": "80",
+              "percent": 80.0,
+              "group": "Ethos",
+              "due": "Oct 01, 2026"
             },
             {
               "title": "2D Motion Test Review",
-              "score": "50%",
-              "percent": 50,
-              "group": "",
-              "due": "Oct 3"
+              "score": "50",
+              "percent": 50.0,
+              "group": "Ethos",
+              "due": "Oct 03, 2026"
             },
             {
               "title": "1D Motion Test",
-              "score": "95%",
-              "percent": 95,
-              "group": "",
-              "due": "Oct 6"
-            },
-            {
-              "title": "2D Flight Paths",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 12"
-            },
-            {
-              "title": "Forces & Newton's Laws Test Review",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 14"
+              "score": "95",
+              "percent": 95.0,
+              "group": "Ethos",
+              "due": "Oct 06, 2026"
             },
             {
               "title": "Midterm Test Review Problems",
-              "score": "50%",
-              "percent": 50,
-              "group": "",
-              "due": "Oct 17"
+              "score": "50",
+              "percent": 50.0,
+              "group": "Ethos",
+              "due": "Oct 17, 2026"
             },
             {
               "title": "2D Motion Quiz",
-              "score": "90%",
-              "percent": 90,
-              "group": "",
-              "due": "Oct 19"
+              "score": "90",
+              "percent": 90.0,
+              "group": "Ethos",
+              "due": "Oct 19, 2026"
             },
             {
               "title": "2D Motion Test",
-              "score": "82%",
-              "percent": 82,
-              "group": "",
-              "due": "Oct 23"
+              "score": "82",
+              "percent": 82.0,
+              "group": "Ethos",
+              "due": "Oct 23, 2026"
             },
             {
               "title": "Semester 1 Midterm",
-              "score": "75%",
-              "percent": 75,
-              "group": "",
-              "due": "Oct 29"
+              "score": "75",
+              "percent": 75.0,
+              "group": "Ethos",
+              "due": "Oct 29, 2026"
             },
             {
               "title": "Midterm Free Response Questions",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Nov 2"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 02, 2026"
             }
           ]
         },
@@ -1778,186 +1609,157 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (up from 86) · Midterm regraded 76 → 86 · President and Bureaucracy Test (due Wed Oct 14) not completed · 7 Roles of the President (completed Oct 18) and Foreign Policy Practice (completed Oct 19) now done, awaiting grades · Synch Session #6 Make up due today (Mon Oct 19) · 5 overdue",
+          "note": "87% (no change since Friday) · completed, awaiting grade: 7 Roles of the President, Foreign Policy Practice · due soon: Synch Session #6 Make up (Mon Oct 19) · 5 overdue · 0 posted 0",
           "work": [
+            {
+              "title": "Synch Session #6 Make up",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Mon Oct 19"
+            },
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 23"
+              "due": "Due Aug 23, 2026"
             },
             {
               "title": "Synch Session #3 9/7",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 13"
+              "due": "Due Sep 13, 2026"
             },
             {
               "title": "Synch Session #4 9/21",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 27"
+              "due": "Due Sep 27, 2026"
             },
             {
               "title": "Synch Session #5 Make Up",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Oct 4"
+              "due": "Due Oct 04, 2026"
             },
             {
               "title": "President and Bureaucracy Test",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Oct 14"
+              "due": "Due Oct 14, 2026"
             }
           ],
           "grades": [
             {
-              "title": "Synch #1 Make Up",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 23"
-            },
-            {
               "title": "Systems of Government Comparison",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 23"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 23, 2026"
             },
             {
               "title": "Enlightened Philosophers",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 23"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 23, 2026"
             },
             {
               "title": "Understanding the Weaknesses of the Articles of Confederation",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 30"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 30, 2026"
             },
             {
               "title": "Federalists v. Anti Federalists",
-              "score": "80%",
-              "percent": 80,
-              "group": "",
-              "due": "Sep 2"
+              "score": "80",
+              "percent": 80.0,
+              "group": "Ethos",
+              "due": "Sep 02, 2026"
             },
             {
               "title": "Constitutional Convention Compromises",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 6"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 06, 2026"
             },
             {
               "title": "Bill of Rights",
-              "score": "80%",
-              "percent": 80,
-              "group": "",
-              "due": "Sep 10"
+              "score": "80",
+              "percent": 80.0,
+              "group": "Ethos",
+              "due": "Sep 10, 2026"
             },
             {
               "title": "Constitutional Scavenger Hunt",
-              "score": "95%",
-              "percent": 95,
-              "group": "",
-              "due": "Sep 13"
+              "score": "95",
+              "percent": 95.0,
+              "group": "Ethos",
+              "due": "Sep 13, 2026"
             },
             {
               "title": "Constitutional Principles and Clauses",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 13"
-            },
-            {
-              "title": "Synch Session #3 9/7",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 13"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 13, 2026"
             },
             {
               "title": "Checkpoint Quiz",
-              "score": "87%",
-              "percent": 87,
-              "group": "",
-              "due": "Sep 14"
+              "score": "87",
+              "percent": 87.0,
+              "group": "Ethos",
+              "due": "Sep 14, 2026"
             },
             {
               "title": "Comparing the House and the Senate",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 20"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 20, 2026"
             },
             {
               "title": "How a Bill Becomes a Law Game Board",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 20"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 20, 2026"
             },
             {
               "title": "Congresspeople research",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 20"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 20, 2026"
             },
             {
               "title": "Political Participation",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 24"
-            },
-            {
-              "title": "Synch Session #4 9/21",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 27"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 24, 2026"
             },
             {
               "title": "Civic Participation",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 28"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 28, 2026"
             },
             {
               "title": "Midterm",
-              "score": "86%",
-              "percent": 86,
-              "group": "",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Synch Session #5 Make Up",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 4"
-            },
-            {
-              "title": "President and Bureaucracy Test",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 14"
+              "score": "86",
+              "percent": 86.0,
+              "group": "Ethos",
+              "due": "Sep 30, 2026"
             },
             {
               "title": "Check point Quiz",
-              "score": "87%",
-              "percent": 87,
-              "group": "",
-              "due": "Dec 8"
+              "score": "87",
+              "percent": 87.0,
+              "group": "Ethos",
+              "due": "Dec 08, 2026"
             }
           ]
         },
@@ -1967,197 +1769,203 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (down from 90) · Dropbox Quiz 3.1-3.3 posted 0 Fri (not marked completed; Ethos due Dec 16) · Dropbox Week 9 Homework graded 100 · 7 more posted 0 (completed in Ethos) · Dropbox Fall Midterm Exam 94 · Quiz 3.1-3.3 due Tue Oct 20",
+          "note": "86% (no change since Friday) · due soon: Quiz 3.1-3.3 (Tue Oct 20) · 0 overdue · 8 posted 0",
           "work": [
+            {
+              "title": "Quiz 3.1-3.3",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Tue Oct 20"
+            },
             {
               "title": "Quiz 1.1 - 1.3",
               "status": "zero",
-              "detail": "Posted 0, completed Aug 31",
-              "due": "Due Aug 21"
+              "detail": "Posted 0, completed Aug 31, 2026",
+              "due": "Due Aug 21, 2026"
             },
             {
               "title": "QUIZ 1.4 - 1.7",
               "status": "zero",
-              "detail": "Posted 0, completed Aug 31",
-              "due": "Due Sep 1"
+              "detail": "Posted 0, completed Aug 31, 2026",
+              "due": "Due Sep 01, 2026"
             },
             {
               "title": "Test Unit 1",
               "status": "zero",
-              "detail": "Posted 0, completed Sep 03",
-              "due": "Due Sep 3"
+              "detail": "Posted 0, completed Sep 03, 2026",
+              "due": "Due Sep 03, 2026"
             },
             {
               "title": "Quiz 2.1-2.2",
               "status": "zero",
-              "detail": "Posted 0, completed Sep 10",
-              "due": "Due Sep 10"
+              "detail": "Posted 0, completed Sep 10, 2026",
+              "due": "Due Sep 10, 2026"
             },
             {
               "title": "QUIZ 2.3 - 2.7",
               "status": "zero",
-              "detail": "Posted 0, completed Sep 17",
-              "due": "Due Sep 25"
+              "detail": "Posted 0, completed Sep 17, 2026",
+              "due": "Due Sep 25, 2026"
             },
             {
               "title": "Test Unit 2",
               "status": "zero",
-              "detail": "Posted 0, completed Sep 24",
-              "due": "Due Oct 2"
+              "detail": "Posted 0, completed Sep 24, 2026",
+              "due": "Due Oct 02, 2026"
             },
             {
               "title": "Fall Midterm Exam",
               "status": "zero",
-              "detail": "Posted 0, completed Oct 08",
-              "due": "Due Oct 9"
+              "detail": "Posted 0, completed Oct 08, 2026",
+              "due": "Due Oct 09, 2026"
             },
             {
               "title": "Dropbox Quiz 3.1-3.3",
               "status": "zero",
-              "detail": "Posted 0, not marked completed",
-              "due": "Due Dec 16"
+              "detail": "Posted 0, not completed",
+              "due": "Due Dec 16, 2026"
             }
           ],
           "grades": [
             {
               "title": "Dropbox Week 1 Homework",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 20"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 20, 2026"
             },
             {
               "title": "Dropbox Quiz 1.1- 1.3",
-              "score": "95%",
-              "percent": 95,
-              "group": "",
-              "due": "Aug 20"
+              "score": "95",
+              "percent": 95.0,
+              "group": "Ethos",
+              "due": "Aug 20, 2026"
             },
             {
               "title": "Quiz 1.1 - 1.3",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Aug 21"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Aug 21, 2026"
             },
             {
               "title": "Dropbox Week 2 Homework",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 27"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 27, 2026"
             },
             {
               "title": "Dropbox Quiz 1.4 - 1.7",
-              "score": "95%",
-              "percent": 95,
-              "group": "",
-              "due": "Aug 27"
+              "score": "95",
+              "percent": 95.0,
+              "group": "Ethos",
+              "due": "Aug 27, 2026"
             },
             {
               "title": "QUIZ 1.4 - 1.7",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Sep 1"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Sep 01, 2026"
             },
             {
               "title": "Test Unit 1",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Sep 3"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Sep 03, 2026"
             },
             {
               "title": "Test Unit 1",
-              "score": "83%",
-              "percent": 83,
-              "group": "",
-              "due": "Sep 10"
+              "score": "83",
+              "percent": 83.0,
+              "group": "Ethos",
+              "due": "Sep 10, 2026"
             },
             {
               "title": "Dropbox Week 4 Homework",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 10"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 10, 2026"
             },
             {
               "title": "Quiz 2.1-2.2",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Sep 10"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Sep 10, 2026"
             },
             {
               "title": "Dropbox Week 5 Homework",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 17"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 17, 2026"
             },
             {
               "title": "Dropbox QUIZ 2.3 - 2.7",
-              "score": "94%",
-              "percent": 94,
-              "group": "",
-              "due": "Sep 17"
+              "score": "94",
+              "percent": 94.0,
+              "group": "Ethos",
+              "due": "Sep 17, 2026"
             },
             {
               "title": "Quiz 2.1-2.2",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 21"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 21, 2026"
             },
             {
               "title": "Dropbox Test Unit 2",
-              "score": "84%",
-              "percent": 84,
-              "group": "",
-              "due": "Sep 24"
+              "score": "84",
+              "percent": 84.0,
+              "group": "Ethos",
+              "due": "Sep 24, 2026"
             },
             {
               "title": "QUIZ 2.3 - 2.7",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Sep 25"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Sep 25, 2026"
             },
             {
               "title": "Test Unit 2",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Oct 2"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Oct 02, 2026"
             },
             {
               "title": "Fall Midterm Exam",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Oct 9"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Oct 09, 2026"
             },
             {
               "title": "Dropbox Fall Midterm Exam",
-              "score": "94%",
-              "percent": 94,
-              "group": "",
-              "due": "Oct 9"
+              "score": "94",
+              "percent": 94.0,
+              "group": "Ethos",
+              "due": "Oct 09, 2026"
             },
             {
               "title": "Dropbox Week 9 Homework",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Oct 15"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Oct 15, 2026"
             },
             {
               "title": "Dropbox Quiz 3.1-3.3",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Dec 16"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Dec 16, 2026"
             }
           ]
         },
@@ -2167,250 +1975,180 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% · Midterm 81 · 10 overdue · 1 posted 0 · Ethos re-dated Sociology: DQ3: The Creation of You now due Wed Oct 14 (not completed); Midterm (2022) Oct 23; Scavenger Hunt #4, Teaching Video, OPT #4 Oct 25; Final Exam Dec 18",
+          "note": "84% (no change since Friday) · 10 overdue · 1 posted 0",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
               "detail": "Posted 0, not completed",
-              "due": "Due Aug 18"
+              "due": "Due Aug 18, 2026"
             },
             {
               "title": "Synchro Session Attendance: Units 4-6",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 20"
+              "due": "Due Aug 20, 2026"
             },
             {
               "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 26"
+              "due": "Due Aug 26, 2026"
             },
             {
               "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Aug 28"
+              "due": "Due Aug 28, 2026"
             },
             {
               "title": "Concept Module 1: Perspectives",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 3"
+              "due": "Due Sep 03, 2026"
             },
             {
               "title": "Concept Module 2: Research",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 7"
+              "due": "Due Sep 07, 2026"
             },
             {
               "title": "DQ1: The Sociological Imagination",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 9"
+              "due": "Due Sep 09, 2026"
             },
             {
               "title": "OPT. Assignment #2: Violate a Social Norm",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 13"
+              "due": "Due Sep 13, 2026"
             },
             {
               "title": "OPT. Assignment #1: Journal of Mundane Behavior",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 16"
+              "due": "Due Sep 16, 2026"
             },
             {
               "title": "OPT. Assignment #3: Song Analysis",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Sep 28"
+              "due": "Due Sep 28, 2026"
             },
             {
               "title": "DQ3: The Creation of You",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Oct 14"
+              "due": "Due Oct 14, 2026"
             }
           ],
           "grades": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
-              "score": "0%",
-              "percent": 0,
-              "group": "",
-              "due": "Aug 18"
-            },
-            {
-              "title": "Synchro Session Attendance: Units 4-6",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 20"
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Aug 18, 2026"
             },
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
-              "score": "86%",
-              "percent": 86,
-              "group": "",
-              "due": "Aug 24"
-            },
-            {
-              "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 26"
-            },
-            {
-              "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Aug 28"
+              "score": "86",
+              "percent": 86.0,
+              "group": "Ethos",
+              "due": "Aug 24, 2026"
             },
             {
               "title": "Assignment #1: Profile a Sociologist",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 30"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 30, 2026"
             },
             {
               "title": "Sociological Scavenger Hunt #1",
-              "score": "92%",
-              "percent": 92,
-              "group": "",
-              "due": "Aug 30"
+              "score": "92",
+              "percent": 92.0,
+              "group": "Ethos",
+              "due": "Aug 30, 2026"
             },
             {
               "title": "OPT.Assignment #1b: Profile a Second Sociologist",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Aug 30"
-            },
-            {
-              "title": "Concept Module 1: Perspectives",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 3"
-            },
-            {
-              "title": "Concept Module 2: Research",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 7"
-            },
-            {
-              "title": "DQ1: The Sociological Imagination",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 9"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Aug 30, 2026"
             },
             {
               "title": "Culture & Media Assignment",
-              "score": "75%",
-              "percent": 75,
-              "group": "",
-              "due": "Sep 13"
+              "score": "75",
+              "percent": 75.0,
+              "group": "Ethos",
+              "due": "Sep 13, 2026"
             },
             {
               "title": "Sociological Scavenger Hunt #2",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 13"
-            },
-            {
-              "title": "OPT. Assignment #2: Violate a Social Norm",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 13"
-            },
-            {
-              "title": "OPT. Assignment #1: Journal of Mundane Behavior",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 16"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 13, 2026"
             },
             {
               "title": "Concept Module 1: Culture",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 22"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 22, 2026"
             },
             {
               "title": "Concept Module 2: Society and Status",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 24"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 24, 2026"
             },
             {
               "title": "DQ2: Societal Values",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 28"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 28, 2026"
             },
             {
               "title": "Disney Socialization Assignment",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 28"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 28, 2026"
             },
             {
               "title": "Sociological Scavenger Hunt #3",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Sep 28"
-            },
-            {
-              "title": "OPT. Assignment #3: Song Analysis",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Sep 28"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 28, 2026"
             },
             {
               "title": "Concept Module 1: Theoretical Perspectives on Socialization",
-              "score": "78%",
-              "percent": 78,
-              "group": "",
-              "due": "Oct 8"
+              "score": "78",
+              "percent": 78.0,
+              "group": "Ethos",
+              "due": "Oct 08, 2026"
             },
             {
               "title": "Concept Module 2: Know Your Terms",
-              "score": "100%",
-              "percent": 100,
-              "group": "",
-              "due": "Oct 12"
-            },
-            {
-              "title": "DQ3: The Creation of You",
-              "score": "—",
-              "percent": null,
-              "group": "",
-              "due": "Oct 14"
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Oct 12, 2026"
             },
             {
               "title": "Sociology Midterm (LockDown Browser & Proctoring Required)",
-              "score": "81%",
-              "percent": 81,
-              "group": "",
-              "due": "Oct 21"
+              "score": "81",
+              "percent": 81.0,
+              "group": "Ethos",
+              "due": "Oct 21, 2026"
             }
           ]
         },
