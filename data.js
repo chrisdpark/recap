@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 20, 2026 · 5:11 PM CT",
+  "updated": "Tuesday, Oct 20, 2026 · 5:15 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1188,10 +1188,10 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Due today (Tue Oct 20) through Fri Oct 23 and not completed yet: English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Precalculus: Dropbox Quiz 3.4-3.6 (Thu Oct 22); Sociology: Sociology Midterm (2022) (Fri Oct 23).",
+        "Due today through Thu Oct 22 and not completed yet: Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); English 12: Participation (Thu Oct 22); Precalculus: Dropbox Quiz 3.4-3.6 (Thu Oct 22).",
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Physics: 2D Flight Paths (Mon Oct 12); Physics: Forces & Newton's Laws Test Review (Wed Oct 14); Government: President and Bureaucracy Test (Wed Oct 14); Sociology: DQ3: The Creation of You (Wed Oct 14). Now completed (awaiting grades): Government: Synch Session #6 Make up (Oct 19); Precalculus: Dropbox Week 10 Homework (Oct 19).",
-        "Apologetics: Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet). Graphic Design: the 10/16 class grade still isn't graded."
+        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Physics: Forces & Newton's Laws Test Review (Wed Oct 14); Government: President and Bureaucracy Test (Wed Oct 14); Sociology: DQ3: The Creation of You (Wed Oct 14).",
+        "Canvas: Apologetics Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet); Graphic Design \"10/16\" class grade still isn't graded."
       ],
       "courses": [
         {
@@ -1200,7 +1200,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Friday) · due soon: Participation (Thu Oct 22) · 16 overdue · 0 posted 0",
+          "note": "96% (no change since yesterday) · due soon: Participation (Thu Oct 22) · 16 overdue · 0 posted 0",
           "work": [
             {
               "title": "Participation",
@@ -1391,7 +1391,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% (no change since Friday) · newly graded: Forces and Newton's Laws Notes — → 100 · due soon: Circular Motion & Gravitation Notes (Wed Oct 21), Circular Motion and Gravitation Problem Set (Wed Oct 21) · 8 overdue · 2 posted 0",
+          "note": "81% (no change since yesterday) · newly graded: Forces and Newton's Laws Notes — → 100 · due soon: Circular Motion & Gravitation Notes (Wed Oct 21), Circular Motion and Gravitation Problem Set (Wed Oct 21) · 8 overdue · 2 posted 0",
           "work": [
             {
               "title": "Circular Motion & Gravitation Notes",
@@ -1650,7 +1650,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Friday) · newly graded: 7 Roles of the President — → 80, Foreign Policy Practice — → 100 · Synch Session #6 Make up completed Oct 19, awaiting grade · 5 overdue · 0 posted 0",
+          "note": "87% (no change since yesterday) · newly graded: 7 Roles of the President — → 80, Foreign Policy Practice — → 100 · completed, awaiting grade: Synch Session #6 Make up · 5 overdue · 0 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1818,7 +1818,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since Friday) · due soon: Quiz 3.1-3.3 (Tue Oct 20), Dropbox Quiz 3.4-3.6 (Thu Oct 22) · Dropbox Week 10 Homework completed Oct 19, awaiting grade · 0 overdue · 8 posted 0",
+          "note": "86% (no change since yesterday) · completed, awaiting grade: Dropbox Week 10 Homework · due soon: Quiz 3.1-3.3 (Tue Oct 20), Dropbox Quiz 3.4-3.6 (Thu Oct 22) · 0 overdue · 8 posted 0",
           "work": [
             {
               "title": "Quiz 3.1-3.3",
@@ -2030,14 +2030,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since Friday) · due soon: Sociology Midterm (2022) (Fri Oct 23) · 10 overdue · 1 posted 0",
+          "note": "84% (no change since yesterday) · 10 overdue · 1 posted 0",
           "work": [
-            {
-              "title": "Sociology Midterm (2022)",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Fri Oct 23"
-            },
             {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
