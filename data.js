@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 20, 2026 · 12:07 PM CT",
+  "updated": "Tuesday, Oct 20, 2026 · 4:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -503,7 +503,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative) due today (Tue Oct 20) 10 PM, ahead of the Unit 1 quiz in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due Mon Oct 26 1 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
+          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative) due today (Tue Oct 20) 10 PM, ahead of the Unit 1 quiz in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due Mon Oct 26 1 PM. New Tue Oct 20: Telling Time quiz (20 pts, summative, on paper) at the start of class Tue Oct 27. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
@@ -702,7 +702,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); new Oct. 21st Current Event Post (100 pts) due Fri Oct 23; Week 3 page (Oct 12–16) posted.",
+          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); new Oct. 21st Current Event Post (100 pts) due Fri Oct 23; new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative), no due date set in Canvas yet; Week 3 page (Oct 12–16) posted.",
           "work": [
             {
               "title": "October 7th Current Event Post",
