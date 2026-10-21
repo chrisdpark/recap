@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 21, 2026 · 5:12 PM CT",
+  "updated": "Wednesday, Oct 21, 2026 · 5:19 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1183,10 +1183,11 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
-        "Due today (Wed Oct 21) through Fri Oct 23 and not completed yet: Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); English 12: Participation (Thu Oct 22); Precalculus: Dropbox Quiz 3.4-3.6 (Thu Oct 22); Sociology: Sociology Midterm (2022) (Fri Oct 23).",
+        "Due today (Wed Oct 21) through Fri Oct 23 and not completed as of this morning: English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Dropbox Quiz 3.4-3.6 (Thu Oct 22); Sociology: Sociology Midterm (2022) (Fri Oct 23); Canvas Apologetics: Spider Web of Beliefs Reflection (Fri Oct 23, not submitted yet).",
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Physics: Forces & Newton's Laws Test Review (Wed Oct 14); Government: President and Bureaucracy Test (Wed Oct 14); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: DQ3: The Creation of You (Wed Oct 14).",
-        "Canvas: Apologetics Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet); Apologetics handout \"What Does It Mean to Believe in Christ?\" (due Thu Oct 29) already graded 100/100; Graphic Design \"10/16\" class grade still isn't graded."
+        "Overdue from the last week, still not completed in Ethos: Physics: Forces & Newton's Laws Test Review (Wed Oct 14); Government: President and Bureaucracy Test (Wed Oct 14); Sociology: DQ3: The Creation of You (Wed Oct 14); English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Precalculus: Quiz 3.1-3.3 (Tue Oct 20) — Precalculus Quiz 3.1-3.3 became overdue since yesterday's recap.",
+        "Ethos overall grades are live (no changes since yesterday: English 12 96, Physics 81, Government 87, Precalculus 86, Sociology 84), but the item-level Ethos detail couldn't be loaded this evening, so assignment lists are from this morning.",
+        "Canvas: Apologetics handout \"What Does It Mean to Believe in Christ?\" (due Thu Oct 29) was graded 100/100 today; Graphic Design \"10/16\" class grade still isn't graded."
       ],
       "courses": [
         {
@@ -1195,7 +1196,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since yesterday) · due soon: Participation (Thu Oct 22) · 16 overdue · 0 posted 0",
+          "note": "96% (no change since yesterday) · due soon: Participation (Thu Oct 22) · 16 overdue · 0 posted 0 · item detail as of 8:13 AM — Ethos assignment pages wouldn't load this evening",
           "work": [
             {
               "title": "Participation",
@@ -1386,7 +1387,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% (no change since yesterday) · newly graded: Forces and Newton's Laws Notes — → 100 · due soon: Circular Motion & Gravitation Notes (Wed Oct 21), Circular Motion and Gravitation Problem Set (Wed Oct 21) · 8 overdue · 2 posted 0",
+          "note": "81% (no change since yesterday) · due soon: Circular Motion & Gravitation Notes (Wed Oct 21), Circular Motion and Gravitation Problem Set (Wed Oct 21) · 8 overdue · 2 posted 0 · item detail as of 8:13 AM — Ethos assignment pages wouldn't load this evening",
           "work": [
             {
               "title": "Circular Motion & Gravitation Notes",
@@ -1645,7 +1646,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since yesterday) · newly graded: 7 Roles of the President — → 80, Foreign Policy Practice — → 100 · completed, awaiting grade: Synch Session #6 Make up · 5 overdue · 0 posted 0",
+          "note": "87% (no change since yesterday) · 5 overdue · 0 posted 0 · item detail as of 8:13 AM — Ethos assignment pages wouldn't load this evening",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1813,7 +1814,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since yesterday) · completed, awaiting grade: Dropbox Week 10 Homework · due soon: Dropbox Quiz 3.4-3.6 (Thu Oct 22) · 1 overdue · 8 posted 0",
+          "note": "86% (no change since yesterday) · due soon: Dropbox Quiz 3.4-3.6 (Thu Oct 22) · 1 overdue · 8 posted 0 · item detail as of 8:13 AM — Ethos assignment pages wouldn't load this evening",
           "work": [
             {
               "title": "Dropbox Quiz 3.4-3.6",
@@ -2025,7 +2026,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since yesterday) · due soon: Sociology Midterm (2022) (Fri Oct 23) · 10 overdue · 1 posted 0",
+          "note": "84% (no change since yesterday) · due soon: Sociology Midterm (2022) (Fri Oct 23) · 10 overdue · 1 posted 0 · item detail as of 8:13 AM — Ethos assignment pages wouldn't load this evening",
           "work": [
             {
               "title": "Sociology Midterm (2022)",
