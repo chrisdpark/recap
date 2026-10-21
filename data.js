@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 21, 2026 · 12:33 PM CT",
+  "updated": "Wednesday, Oct 21, 2026 · 4:06 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,7 +7,7 @@ window.RECAP_DATA = {
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due today 9:30 AM in class — nothing submitted or graded in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
         "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz in class today (Wed Oct 21).",
         "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 this morning (David 3 was removed from Canvas).",
-        "Biology 80.69% — Cellular Energy Summative Project (100 pts) was due today 9:00 AM and Canvas now marks it missing; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (now 48 pts) due Fri Oct 23 11:59 PM."
+        "Biology 80.69% — Cellular Energy Summative Project (100 pts, due today 9:00 AM) was turned in late at 2:38 PM — no longer missing, awaiting grade; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (now 48 pts) due Fri Oct 23 11:59 PM."
       ],
       "courses": [
         {
@@ -823,7 +823,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 80.69,
-          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade yet; Cellular Energy Summative Project (100 pts, summative) was due today (Wed Oct 21) 9:00 AM — Canvas now marks it missing. Makeup Lab 04: Lights and Photosynthesis (now 48 pts) due Fri Oct 23 11:59 PM.",
+          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade yet; Cellular Energy Summative Project (100 pts, summative) was due today (Wed Oct 21) 9:00 AM — submitted late at 2:38 PM, awaiting grade. Makeup Lab 04: Lights and Photosynthesis (now 48 pts) due Fri Oct 23 11:59 PM.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -842,12 +842,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "in-class, on paper — was due Fri Oct 16 4:00 PM; no grade in Canvas yet (may have been handed in on paper)",
               "due": "Oct 16"
-            },
-            {
-              "title": "Cellular Energy Summative Project",
-              "status": "missing",
-              "detail": "100 pts summative · was due today (Wed Oct 21) 9:00 AM — Canvas now marks it missing",
-              "due": "Oct 21"
             },
             {
               "title": "Makeup Lab 04: Lights and Photosynthesis",
@@ -1192,7 +1186,7 @@ window.RECAP_DATA = {
         "Due today (Wed Oct 21) through Fri Oct 23 and not completed yet: Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); English 12: Participation (Thu Oct 22); Precalculus: Dropbox Quiz 3.4-3.6 (Thu Oct 22); Sociology: Sociology Midterm (2022) (Fri Oct 23).",
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Physics: Forces & Newton's Laws Test Review (Wed Oct 14); Government: President and Bureaucracy Test (Wed Oct 14); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: DQ3: The Creation of You (Wed Oct 14).",
-        "Canvas: Apologetics Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet); new Apologetics handout \"What Does It Mean to Believe in Christ?\" due Thu Oct 29; Graphic Design \"10/16\" class grade still isn't graded."
+        "Canvas: Apologetics Spider Web of Beliefs Reflection due Fri Oct 23 (not submitted yet); Apologetics handout \"What Does It Mean to Believe in Christ?\" (due Thu Oct 29) already graded 100/100; Graphic Design \"10/16\" class grade still isn't graded."
       ],
       "courses": [
         {
@@ -2220,19 +2214,13 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection due Fri Oct 23; new Handout: What Does It Mean to Believe in Christ? (100 pts, formative) due Thu Oct 29 11:59 PM",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection due Fri Oct 23; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
               "status": "due",
               "detail": "Online text entry — not yet submitted",
               "due": "Oct 23"
-            },
-            {
-              "title": "Handout: What Does It Mean to Believe in Christ?",
-              "status": "due",
-              "detail": "new · 100 pts formative · not yet submitted · Thu 11:59 PM",
-              "due": "Oct 29"
             }
           ],
           "grades": [
@@ -2326,6 +2314,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 4"
+            },
+            {
+              "title": "Handout: What Does It Mean to Believe in Christ?",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 29"
             }
           ]
         },
