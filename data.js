@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 22, 2026 · 12:09 PM CT",
+  "updated": "Thursday, Oct 22, 2026 · 4:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due Wed Oct 21 9:30 AM in class — nothing submitted or graded in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
+        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due Wed Oct 21 9:30 AM in class — Mr. Seegers marked it graded in Canvas Thu 12:23 PM, but the score isn't released yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
         "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21.",
         "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). New Samuel Summative: The Kingship Case File (100 pts) due Thu Oct 29 4:00 PM.",
         "Biology 80.69% — Cellular Energy Summative Project (100 pts, due Wed Oct 21 9:00 AM) was turned in late Wed 2:38 PM — no longer missing, awaiting grade; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (now 48 pts) due Fri Oct 23 11:59 PM."
@@ -393,7 +393,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 24.36,
-          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due Wed Oct 21 9:30 AM in class — nothing submitted or graded in Canvas yet.",
+          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due Wed Oct 21 9:30 AM in class — Mr. Seegers marked it graded in Canvas Thu 12:23 PM, but the score isn't released yet.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -427,8 +427,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Quiz 4: Quiz 3.1 - 3.4",
-              "status": "overdue",
-              "detail": "20 pts · was due Wed Oct 21 9:30 AM in class — not submitted or graded in Canvas yet",
+              "status": "due",
+              "detail": "20 pts · was due Wed Oct 21 9:30 AM in class — marked graded in Canvas Thu Oct 22 12:23 PM, score not released yet",
               "due": "Oct 21"
             }
           ],
@@ -504,7 +504,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due Mon Oct 26 1 PM. New Tue Oct 20: Telling Time quiz (20 pts, summative, on paper) at the start of class Tue Oct 27. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
+          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due Mon Oct 26 1 PM. New Tue Oct 20: Telling Time quiz (20 pts, summative, on paper) at the start of class Tue Oct 27. New Thu Oct 22: Quick Vocabulary Quiz (10 pts, formative, on paper — cognates, know the articles) Tue Oct 27 8:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
@@ -1013,7 +1013,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "canvas",
           "grade": 81.14,
-          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); new Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts) due today Thu Oct 22 4:00 PM; APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%).",
+          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu 2:51 PM, awaiting grade; APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%).",
           "work": [
             {
               "title": "Research Paper Topic",
@@ -1030,7 +1030,7 @@ window.RECAP_DATA = {
             {
               "title": "Act 1, Scenes 1-3",
               "status": "due",
-              "detail": "new Thu Oct 22 · Romeo and Juliet discussion post (initial post + replies) · 100 pts · due today 4:00 PM",
+              "detail": "Romeo and Juliet discussion post · 100 pts · was due Thu Oct 22 4:00 PM — turned in Thu 2:51 PM, awaiting grade",
               "due": "Oct 22"
             }
           ],
