@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 22, 2026 · 8:07 AM CT",
+  "updated": "Thursday, Oct 22, 2026 · 12:09 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1013,7 +1013,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "canvas",
           "grade": 81.14,
-          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%).",
+          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); new Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts) due today Thu Oct 22 4:00 PM; APA Research Paper Outline and Sources Mon Oct 26; Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%).",
           "work": [
             {
               "title": "Research Paper Topic",
@@ -1026,6 +1026,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "new Mon Oct 19 · 100 pts · was due Wed Oct 21 11:59 PM — no score in Canvas yet (tracked in Membean)",
               "due": "Oct 21"
+            },
+            {
+              "title": "Act 1, Scenes 1-3",
+              "status": "due",
+              "detail": "new Thu Oct 22 · Romeo and Juliet discussion post (initial post + replies) · 100 pts · due today 4:00 PM",
+              "due": "Oct 22"
             }
           ],
           "grades": [
