@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 21, 2026 · 5:19 PM CT",
+  "updated": "Wednesday, Oct 21, 2026 · 8:09 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due today 9:30 AM in class — nothing submitted or graded in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
         "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz in class today (Wed Oct 21).",
-        "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 this morning (David 3 was removed from Canvas).",
+        "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 this morning (David 3 was removed from Canvas). New Samuel Summative: The Kingship Case File (100 pts) due Thu Oct 29 4:00 PM.",
         "Biology 80.69% — Cellular Energy Summative Project (100 pts, due today 9:00 AM) was turned in late at 2:38 PM — no longer missing, awaiting grade; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (now 48 pts) due Fri Oct 23 11:59 PM."
       ],
       "courses": [
@@ -16,7 +16,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.31,
-          "note": "90.31% (was 90.35) — Samuel Key Terms Quiz (10 pts) taken this morning, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0.",
+          "note": "90.31% (was 90.35) — Samuel Key Terms Quiz (10 pts) taken this morning, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. New: Samuel Summative: The Kingship Case File (Combined) (100 pts, summative quiz) posted tonight, due Thu Oct 29 4:00 PM.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -1379,7 +1379,8 @@ window.RECAP_DATA = {
               "group": "Ethos",
               "due": "Sep 21, 2026"
             }
-          ]
+          ],
+          "detail_as_of": "Wed Oct 21 8:13 AM CT"
         },
         {
           "name": "Physics",
@@ -1638,7 +1639,8 @@ window.RECAP_DATA = {
               "group": "Ethos",
               "due": "Nov 02, 2026"
             }
-          ]
+          ],
+          "detail_as_of": "Wed Oct 21 8:13 AM CT"
         },
         {
           "name": "Government",
@@ -1806,7 +1808,8 @@ window.RECAP_DATA = {
               "group": "Ethos",
               "due": "Dec 08, 2026"
             }
-          ]
+          ],
+          "detail_as_of": "Wed Oct 21 8:13 AM CT"
         },
         {
           "name": "Precalculus",
@@ -2018,7 +2021,8 @@ window.RECAP_DATA = {
               "group": "Ethos",
               "due": "Oct 15, 2026"
             }
-          ]
+          ],
+          "detail_as_of": "Wed Oct 21 8:13 AM CT"
         },
         {
           "name": "Sociology",
@@ -2207,7 +2211,8 @@ window.RECAP_DATA = {
               "group": "Ethos",
               "due": "Oct 21, 2026"
             }
-          ]
+          ],
+          "detail_as_of": "Wed Oct 21 8:13 AM CT"
         },
         {
           "name": "Apologetics",
