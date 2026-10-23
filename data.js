@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 22, 2026 · 8:07 PM CT",
+  "updated": "Friday, Oct 23, 2026 · 12:10 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1190,9 +1190,10 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20).",
-        "Due today (Thu Oct 22) through Mon Oct 26 and not marked completed in Ethos: English 12: Participation (Thu Oct 22); Precalculus: Dropbox Quiz 3.4-3.6 (Thu Oct 22); Sociology: Sociology Midterm (2022) (Fri Oct 23); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26).",
-        "Canvas: Apologetics Spider Web of Beliefs Reflection is due tomorrow, Fri Oct 23, and isn't submitted yet; Graphic Design \"10/16\" class grade still isn't graded."
+        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20) — English 12 Participation became overdue at midnight.",
+        "Due today (Fri Oct 23) through Tue Oct 27 and not marked completed in Ethos: Sociology: Sociology Midterm (2022) (Fri Oct 23); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26).",
+        "New in Ethos since Thursday's 5 PM recap: Physics Free Body Diagram Worksheet graded 50; Physics Newton's 2nd Law Problem Set (No Friction) graded 95; Precalculus QUIZ 3.4 - 3.6 graded 0 (marked completed Oct 22); Precalculus Dropbox Quiz 3.4-3.6 marked completed (awaiting grade).",
+        "Canvas: Apologetics Spider Web of Beliefs Reflection is due today, Fri Oct 23 (11:59 PM), and isn't submitted yet; Graphic Design \"10/16\" class grade still isn't graded."
       ],
       "courses": [
         {
@@ -1201,14 +1202,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since yesterday's recap) · due soon: Participation (Thu Oct 22), Macbeth Act 3 Scene Study in StudySync (Sun Oct 25), Mbn Week 10 (Sun Oct 25), Fall Mid-term Exam (Mon Oct 26) · 16 overdue · 0 posted 0",
+          "note": "96% (no change since yesterday's recap) · due soon: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25), Mbn Week 10 (Sun Oct 25), Fall Mid-term Exam (Mon Oct 26) · 17 overdue · 0 posted 0",
           "work": [
-            {
-              "title": "Participation",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Thu Oct 22"
-            },
             {
               "title": "Macbeth Act 3 Scene Study in StudySync",
               "status": "due",
@@ -1322,6 +1317,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 18, 2026"
+            },
+            {
+              "title": "Participation",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 22, 2026"
             }
           ],
           "grades": [
@@ -1410,7 +1411,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% (no change since yesterday's recap) · completed, awaiting grade: Free Body Diagram Worksheet, Newton's 2nd Law Problem Set (No Friction) · 10 overdue · 2 posted 0",
+          "note": "81% (no change since yesterday's recap) · newly graded: Free Body Diagram Worksheet (50), Newton's 2nd Law Problem Set (No Friction) (95) · 10 overdue · 2 posted 0",
           "work": [
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
@@ -1648,6 +1649,20 @@ window.RECAP_DATA = {
               "due": "Oct 23, 2026"
             },
             {
+              "title": "Free Body Diagram Worksheet",
+              "score": "50",
+              "percent": 50.0,
+              "group": "Ethos",
+              "due": "Oct 24, 2026"
+            },
+            {
+              "title": "Newton's 2nd Law Problem Set (No Friction)",
+              "score": "95",
+              "percent": 95.0,
+              "group": "Ethos",
+              "due": "Oct 24, 2026"
+            },
+            {
               "title": "Semester 1 Midterm",
               "score": "75",
               "percent": 75.0,
@@ -1669,7 +1684,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since yesterday's recap) · newly graded: Build Your Own Cabinet (100) · completed, awaiting grade: Save My Agency · 5 overdue · 0 posted 0",
+          "note": "87% (no change since yesterday's recap) · 5 overdue · 0 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1844,14 +1859,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since yesterday's recap) · due soon: Dropbox Quiz 3.4-3.6 (Thu Oct 22) · 1 overdue · 8 posted 0",
+          "note": "86% (no change since yesterday's recap) · newly graded: QUIZ 3.4 - 3.6 (0) · completed, awaiting grade: Dropbox Quiz 3.4-3.6 · 1 overdue · 9 posted 0",
           "work": [
-            {
-              "title": "Dropbox Quiz 3.4-3.6",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Thu Oct 22"
-            },
             {
               "title": "Quiz 1.1 - 1.3",
               "status": "zero",
@@ -1899,6 +1908,12 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "Posted 0, not completed",
               "due": "Due Oct 15, 2026"
+            },
+            {
+              "title": "QUIZ 3.4 - 3.6",
+              "status": "zero",
+              "detail": "Posted 0, completed Oct 22, 2026",
+              "due": "Due Oct 29, 2026"
             },
             {
               "title": "Quiz 3.1-3.3",
@@ -2047,6 +2062,13 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Ethos",
               "due": "Oct 15, 2026"
+            },
+            {
+              "title": "QUIZ 3.4 - 3.6",
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Oct 29, 2026"
             }
           ]
         },
