@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 23, 2026 · 12:20 PM CT",
+  "updated": "Friday, Oct 23, 2026 · 4:12 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1193,7 +1193,7 @@ window.RECAP_DATA = {
         "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20) — English 12 Participation became overdue at midnight.",
         "Due today (Fri Oct 23) through Tue Oct 27 and not marked completed in Ethos: Sociology: Sociology Midterm (2022) (Fri Oct 23); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26).",
         "New in Ethos since Thursday's 5 PM recap: Physics Free Body Diagram Worksheet graded 50; Physics Newton's 2nd Law Problem Set (No Friction) graded 95; Government Save My Agency graded 100; Precalculus QUIZ 3.4 - 3.6 graded 0 (marked completed Oct 22); Precalculus Dropbox Quiz 3.4-3.6 marked completed (awaiting grade).",
-        "Canvas: Apologetics Spider Web of Beliefs Reflection is due today, Fri Oct 23 (11:59 PM), and isn't submitted yet; new Apologetics Contingency Argument: Understanding Check (100 pts) due Tue Nov 3. Graphic Design class grades \"10/16\" and \"10/20-10/21\" posted 100/100 this morning."
+        "Canvas: Apologetics Spider Web of Beliefs Reflection (due today, Fri Oct 23 11:59 PM) was submitted Fri 2:19 PM, awaiting grade; new Apologetics Contingency Argument: Understanding Check (100 pts) due Tue Nov 3. Graphic Design class grades \"10/16\" and \"10/20-10/21\" posted 100/100 this morning."
       ],
       "courses": [
         {
@@ -2292,12 +2292,12 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection due today, Fri Oct 23 (11:59 PM), not yet submitted; new Contingency Argument: Understanding Check due Tue Nov 3; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due today, Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; new Contingency Argument: Understanding Check due Tue Nov 3; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
               "status": "due",
-              "detail": "Online text entry — not yet submitted",
+              "detail": "Submitted Fri 2:19 PM — awaiting grade",
               "due": "Oct 23"
             },
             {
