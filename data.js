@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 23, 2026 · 8:04 PM CT",
+  "updated": "Saturday, Oct 24, 2026 · 12:10 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,7 +7,8 @@ window.RECAP_DATA = {
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due Wed Oct 21 9:30 AM in class — Mr. Seegers marked it graded in Canvas Thu 12:23 PM, but the score isn't released yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
         "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21.",
         "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). New Samuel Summative: The Kingship Case File (100 pts) due Thu Oct 29 4:00 PM.",
-        "Biology 80.69% — Cellular Energy Summative Project (100 pts, due Wed Oct 21 9:00 AM) was turned in late Wed 2:38 PM — no longer missing, awaiting grade; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (now 48 pts) due Fri Oct 23 11:59 PM."
+        "Biology 80.69% — Cellular Energy Summative Project (100 pts, due Wed Oct 21 9:00 AM) was turned in late Wed 2:38 PM — no longer missing, awaiting grade; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet.",
+        "World Geography 89.32% — Oct. 21st Current Event Post (100 pts) was due Fri Oct 23 11:59 PM and isn't submitted; Canvas now marks it missing."
       ],
       "courses": [
         {
@@ -703,7 +704,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); new Oct. 21st Current Event Post (100 pts) due Fri Oct 23; new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote).",
+          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts) was due Fri Oct 23 11:59 PM — not submitted, Canvas now marks it missing; new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote).",
           "work": [
             {
               "title": "October 7th Current Event Post",
@@ -713,8 +714,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Oct. 21st Current Event Post",
-              "status": "due",
-              "detail": "100 pts · new on Canvas",
+              "status": "overdue",
+              "detail": "100 pts · was due Fri Oct 23 11:59 PM — not submitted (Canvas marks it missing)",
               "due": "Oct 23"
             }
           ],
@@ -823,7 +824,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 80.69,
-          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade yet; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed 2:38 PM, awaiting grade. Makeup Lab 04: Lights and Photosynthesis (now 48 pts) due Fri Oct 23 11:59 PM.",
+          "note": "80.69% — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade yet; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed 2:38 PM, awaiting grade. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -845,8 +846,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Makeup Lab 04: Lights and Photosynthesis",
-              "status": "due",
-              "detail": "makeup lab · 48 pts (was 17) · Fri 11:59 PM",
+              "status": "overdue",
+              "detail": "makeup lab · 48 pts · was due Fri Oct 23 11:59 PM — not submitted yet",
               "due": "Oct 23"
             }
           ],
@@ -1190,10 +1191,10 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "New since yesterday's recap: Precalculus QUIZ 3.4 - 3.6 posted 0 even though Ethos shows it completed Oct 22 (worth checking with Pinson); Physics Free Body Diagram Worksheet graded 50 (Newton's 2nd Law Problem Set 95).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20).",
-        "Due today (Fri Oct 23) through Mon Oct 26 and not marked completed in Ethos: Sociology: Sociology Midterm (2022) (Fri Oct 23); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26).",
-        "Canvas: nothing due in Apologetics or Graphic Design through Mon Oct 26 — Spider Web of Beliefs Reflection was submitted today (2:19 PM), awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3."
+        "New since Thursday's recap: Precalculus QUIZ 3.4 - 3.6 posted 0 even though Ethos shows it completed Oct 22 (worth checking with Pinson); Physics Free Body Diagram Worksheet graded 50 (Newton's 2nd Law Problem Set 95).",
+        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: Sociology Midterm (2022) (Fri Oct 23 — became overdue at midnight).",
+        "Due this weekend through Mon Oct 26 and not marked completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26).",
+        "Canvas: nothing due in Apologetics or Graphic Design through Mon Oct 26 — Spider Web of Beliefs Reflection was submitted Fri Oct 23 (2:19 PM), awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3."
       ],
       "courses": [
         {
@@ -2085,14 +2086,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since yesterday's recap) · due soon: Sociology Midterm (2022) (Fri Oct 23), OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25), Teaching Video Assignment (Sun Oct 25), Sociological Scavenger Hunt #4 (Sun Oct 25) · 10 overdue · 1 posted 0",
+          "note": "84% (no change since yesterday's recap) · due soon: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25), Teaching Video Assignment (Sun Oct 25), Sociological Scavenger Hunt #4 (Sun Oct 25) · 11 overdue (Sociology Midterm (2022), due Fri Oct 23, now overdue) · 1 posted 0",
           "work": [
-            {
-              "title": "Sociology Midterm (2022)",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Fri Oct 23"
-            },
             {
               "title": "OPT. Assignment #4: Sociology in Kindergarten",
               "status": "due",
@@ -2176,6 +2171,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 14, 2026"
+            },
+            {
+              "title": "Sociology Midterm (2022)",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 23, 2026"
             }
           ],
           "grades": [
@@ -2292,7 +2293,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due today, Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; new Contingency Argument: Understanding Check due Tue Nov 3; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; new Contingency Argument: Understanding Check due Tue Nov 3; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
