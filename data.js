@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 24, 2026 · 8:04 AM CT",
+  "updated": "Saturday, Oct 24, 2026 · 12:12 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1203,7 +1203,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since yesterday's recap) · due soon: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25), Mbn Week 10 (Sun Oct 25), Fall Mid-term Exam (Mon Oct 26) · 17 overdue · 0 posted 0",
+          "note": "96% (no change since yesterday's recap) · due soon: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25), Mbn Week 10 (Sun Oct 25), Fall Mid-term Exam (Mon Oct 26) · 17 overdue · 0 posted 0 · Ethos as of Sat Oct 24 8:03 AM CT (Ethos login expired at noon; not refreshed)",
           "work": [
             {
               "title": "Macbeth Act 3 Scene Study in StudySync",
@@ -1412,7 +1412,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% (no change since yesterday's recap) · newly graded: Free Body Diagram Worksheet (50), Newton's 2nd Law Problem Set (No Friction) (95) · 10 overdue · 2 posted 0",
+          "note": "81% (no change since yesterday's recap) · newly graded: Free Body Diagram Worksheet (50), Newton's 2nd Law Problem Set (No Friction) (95) · 10 overdue · 2 posted 0 · Ethos as of Sat Oct 24 8:03 AM CT (Ethos login expired at noon; not refreshed)",
           "work": [
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
@@ -1685,7 +1685,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since yesterday's recap) · newly graded: Save My Agency (100) · 5 overdue · 0 posted 0",
+          "note": "87% (no change since yesterday's recap) · newly graded: Save My Agency (100) · 5 overdue · 0 posted 0 · Ethos as of Sat Oct 24 8:03 AM CT (Ethos login expired at noon; not refreshed)",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1867,7 +1867,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since yesterday's recap) · newly graded: QUIZ 3.4 - 3.6 (0) · completed, awaiting grade: Dropbox Quiz 3.4-3.6 · 1 overdue · 9 posted 0",
+          "note": "86% (no change since yesterday's recap) · newly graded: QUIZ 3.4 - 3.6 (0) · completed, awaiting grade: Dropbox Quiz 3.4-3.6 · 1 overdue · 9 posted 0 · Ethos as of Sat Oct 24 8:03 AM CT (Ethos login expired at noon; not refreshed)",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -2086,7 +2086,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since yesterday's recap) · due soon: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25), Teaching Video Assignment (Sun Oct 25), Sociological Scavenger Hunt #4 (Sun Oct 25) · 11 overdue (Sociology Midterm (2022), due Fri Oct 23, now overdue) · 1 posted 0",
+          "note": "84% (no change since yesterday's recap) · due soon: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25), Teaching Video Assignment (Sun Oct 25), Sociological Scavenger Hunt #4 (Sun Oct 25) · 11 overdue (Sociology Midterm (2022), due Fri Oct 23, now overdue) · 1 posted 0 · Ethos as of Sat Oct 24 8:03 AM CT (Ethos login expired at noon; not refreshed)",
           "work": [
             {
               "title": "OPT. Assignment #4: Sociology in Kindergarten",
