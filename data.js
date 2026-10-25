@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 24, 2026 · 8:06 PM CT",
+  "updated": "Sunday, Oct 25, 2026 · 12:07 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1191,10 +1191,10 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "New since Thursday's recap: Precalculus QUIZ 3.4 - 3.6 posted 0 even though Ethos shows it completed Oct 22 (worth checking with Pinson); Physics Free Body Diagram Worksheet graded 50 (Newton's 2nd Law Problem Set 95).",
+        "New since Thursday's recap: Precalculus QUIZ 3.4 - 3.6 posted 0 even though Ethos shows it completed Oct 22 (worth checking with Pinson); Precalculus Dropbox Quiz 3.4-3.6 graded 98 and Dropbox Week 10 Homework 100 (new Sat night); Physics Free Body Diagram Worksheet graded 50 (Newton's 2nd Law Problem Set 95).",
         "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: Sociology Midterm (2022) (Fri Oct 23 — became overdue at midnight).",
         "Due this weekend through Mon Oct 26 and not marked completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26).",
-        "Canvas: nothing due in Apologetics or Graphic Design through Mon Oct 26 — Spider Web of Beliefs Reflection was submitted Fri Oct 23 (2:19 PM), awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3."
+        "Canvas: nothing due in Apologetics or Graphic Design through Mon Oct 26 — Spider Web of Beliefs Reflection was submitted Fri Oct 23 (2:19 PM), awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3; new Summative - Sort and Defend (General vs. Special Revelation) due Tue Nov 10."
       ],
       "courses": [
         {
@@ -1867,7 +1867,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since yesterday's recap) · newly graded: QUIZ 3.4 - 3.6 (0) · completed, awaiting grade: Dropbox Quiz 3.4-3.6 · 1 overdue · 9 posted 0",
+          "note": "86% (no change since yesterday's recap) · newly graded: QUIZ 3.4 - 3.6 (0), Dropbox Week 10 Homework (100), Dropbox Quiz 3.4-3.6 (98) · 1 overdue · 9 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -2070,6 +2070,20 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Ethos",
               "due": "Oct 15, 2026"
+            },
+            {
+              "title": "Dropbox Week 10 Homework",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Oct 22, 2026"
+            },
+            {
+              "title": "Dropbox Quiz 3.4-3.6",
+              "score": "98",
+              "percent": 98.0,
+              "group": "Ethos",
+              "due": "Oct 22, 2026"
             },
             {
               "title": "QUIZ 3.4 - 3.6",
@@ -2293,7 +2307,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; new Contingency Argument: Understanding Check due Tue Nov 3; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; new Contingency Argument: Understanding Check due Tue Nov 3; new Sat night: Summative - Sort and Defend (General vs. Special Revelation) (100 pts, no online submission) due Tue Nov 10 4:00 PM; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
@@ -2306,6 +2320,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "New — 100 pts, not yet submitted",
               "due": "Nov 3"
+            },
+            {
+              "title": "Summative - Sort and Defend (General vs. Special Revelation)",
+              "status": "due",
+              "detail": "New — 100 pts summative, no online submission in Canvas",
+              "due": "Nov 10"
             }
           ],
           "grades": [
