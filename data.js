@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 26, 2026 · 5:17 PM CT",
+  "updated": "Monday, Oct 26, 2026 · 5:22 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1234,10 +1234,10 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "New since Thursday's recap: Precalculus QUIZ 3.4 - 3.6 posted 0 even though Ethos shows it completed Oct 22 (worth checking with Pinson); Precalculus Dropbox Quiz 3.4-3.6 graded 98 and Dropbox Week 10 Homework 100 (new Sat night); Physics Free Body Diagram Worksheet graded 50 (Newton's 2nd Law Problem Set 95).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Participation (Thu Oct 22); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25) — the 5 Sun Oct 25 items became overdue at midnight.",
+        "New since Friday's recap: Precalculus Dropbox Quiz 3.4-3.6 graded 98 and Dropbox Week 10 Homework graded 100; the Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22 (worth checking with Pinson). No other Ethos grades changed.",
+        "Overdue from the last week, still not completed in Ethos: English 12: Participation (Thu Oct 22); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25).",
         "Due today (Mon Oct 26) through Wed Oct 28 and not marked completed in Ethos: English 12: Fall Mid-term Exam (Mon Oct 26); Physics: Circular Motion Lab (Wed Oct 28).",
-        "Canvas: nothing due in Apologetics or Graphic Design through Wed Oct 28 — Spider Web of Beliefs Reflection was submitted Fri Oct 23 (2:19 PM), awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3; new Summative - Sort and Defend (General vs. Special Revelation) due Tue Nov 10."
+        "Canvas: nothing due in Apologetics or Graphic Design through Wed Oct 28 — Spider Web of Beliefs Reflection (submitted Fri) is still awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3, then the new Summative - Sort and Defend (General vs. Special Revelation), due Tue Nov 10."
       ],
       "courses": [
         {
@@ -1246,7 +1246,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since yesterday's recap) · due soon: Fall Mid-term Exam (Mon Oct 26) · 19 overdue (Macbeth Act 3 Scene Study in StudySync, Mbn Week 10, due Sun Oct 25, now overdue) · 0 posted 0",
+          "note": "96% (no change since Friday's recap) · due soon: Fall Mid-term Exam (Mon Oct 26) · 19 overdue · 0 posted 0",
           "work": [
             {
               "title": "Fall Mid-term Exam",
@@ -1399,16 +1399,16 @@ window.RECAP_DATA = {
               "due": "Aug 26, 2026"
             },
             {
-              "title": "Shooting an Elephant by George Orwell",
-              "score": "100",
-              "percent": 100.0,
+              "title": "Final Narrative Essay Writing Assignment",
+              "score": "92",
+              "percent": 92.0,
               "group": "Ethos",
               "due": "Aug 30, 2026"
             },
             {
-              "title": "Final Narrative Essay Writing Assignment",
-              "score": "92",
-              "percent": 92.0,
+              "title": "Shooting an Elephant by George Orwell",
+              "score": "100",
+              "percent": 100.0,
               "group": "Ethos",
               "due": "Aug 30, 2026"
             },
@@ -1427,14 +1427,14 @@ window.RECAP_DATA = {
               "due": "Sep 08, 2026"
             },
             {
-              "title": "Five Sources and Persuasive Paper Thesis Statement",
+              "title": "Prologue to the Canterbury Tales",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
               "due": "Sep 13, 2026"
             },
             {
-              "title": "Prologue to the Canterbury Tales",
+              "title": "Five Sources and Persuasive Paper Thesis Statement",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1455,7 +1455,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% (no change since yesterday's recap) · newly graded: Free Body Diagram Worksheet (50), Newton's 2nd Law Problem Set (No Friction) (95) · due soon: Circular Motion Lab (Wed Oct 28) · 10 overdue · 2 posted 0",
+          "note": "81% (no change since Friday's recap) · due soon: Circular Motion Lab (Wed Oct 28) · 10 overdue · 2 posted 0",
           "work": [
             {
               "title": "Circular Motion Lab",
@@ -1734,7 +1734,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since yesterday's recap) · newly graded: Save My Agency (100) · 5 overdue · 0 posted 0",
+          "note": "87% (no change since Friday's recap) · 5 overdue · 0 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1916,7 +1916,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since yesterday's recap) · newly graded: QUIZ 3.4 - 3.6 (0), Dropbox Week 10 Homework (100), Dropbox Quiz 3.4-3.6 (98) · 1 overdue · 9 posted 0",
+          "note": "86% (no change since Friday's recap) · newly graded: Dropbox Week 10 Homework (100), Dropbox Quiz 3.4-3.6 (98) · 1 overdue · 9 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -2149,7 +2149,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since yesterday's recap) · 14 overdue (OPT. Assignment #4: Sociology in Kindergarten, Teaching Video Assignment, Sociological Scavenger Hunt #4, due Sun Oct 25, now overdue) · 1 posted 0",
+          "note": "84% (no change since Friday's recap) · 14 overdue · 1 posted 0",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
