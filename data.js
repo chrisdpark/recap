@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 26, 2026 · 8:13 AM CT",
+  "updated": "Monday, Oct 26, 2026 · 12:05 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due Wed Oct 21 9:30 AM in class — Mr. Seegers marked it graded in Canvas Thu 12:23 PM, but the score isn't released yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
+        "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) is Thu Oct 29 11:00 AM. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
         "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due today 1 PM.",
-        "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts) due Thu Oct 29 4:00 PM. New Sun night: Solomon: The King Who Almost Was (10 pts) and Solomon — Exit Ticket (4 pts) due today 10:55 AM; Samuel Test: Write the Review due Wed Oct 28.",
+        "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts) due Thu Oct 29 4:00 PM. Today's Solomon work is turned in: Solomon: The Heir of David (10 pts) awaiting grade; Solomon — Exit Ticket quiz taken 10:54 AM, pending teacher review (shows 0, not counted yet); Samuel Test: Write the Review due Wed Oct 28.",
         "Biology 80.69% — Cellular Energy Summative Project (100 pts, due Wed Oct 21 9:00 AM) was turned in late Wed 2:38 PM — no longer missing, awaiting grade; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. New DNA Replication Activity Exit Ticket (100 pts, formative) due Tue Oct 27 4:00 PM.",
         "World Geography 89.32% — Oct. 21st Current Event Post (100 pts) was due Fri Oct 23 11:59 PM and isn't submitted; Canvas now marks it missing."
       ],
@@ -17,7 +17,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.31,
-          "note": "90.31% (was 90.35) — Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Samuel Summative (100 pts, summative quiz; renamed in Canvas Sun night to \"Samuel Summative: (Combined)\") due Thu Oct 29 4:00 PM. New Sun night: Solomon: The King Who Almost Was (10 pts) and Solomon — Exit Ticket (4 pts) both due today (Mon Oct 26) 10:55 AM; Samuel Test: Write the Review (0 pts) due Wed Oct 28 10:15 AM.",
+          "note": "90.31% (was 90.35) — Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Samuel Summative (100 pts, summative quiz; renamed in Canvas Sun night to \"Samuel Summative: (Combined)\") due Thu Oct 29 4:00 PM. Today's Solomon work (due 10:55 AM) is turned in: Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") submitted 10:43 AM, awaiting grade; Solomon — Exit Ticket (4-pt quiz) taken 10:54 AM — Canvas shows 0 pending teacher review, not counted in the grade yet; Solomon Bell Ringer (Photo) (practice, not counted) uploaded 9:42 AM. Samuel Test: Write the Review (0 pts) due Wed Oct 28 10:15 AM.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -32,15 +32,15 @@ window.RECAP_DATA = {
               "due": "Oct 1"
             },
             {
-              "title": "Solomon: The King Who Almost Was",
+              "title": "Solomon: The Heir of David",
               "status": "due",
-              "detail": "new Sun Oct 25 · 10 pts · due today 10:55 AM",
+              "detail": "10 pts · renamed Mon from \"Solomon: The King Who Almost Was\" · was due today 10:55 AM — turned in 10:43 AM, awaiting grade",
               "due": "Oct 26"
             },
             {
               "title": "Solomon — Exit Ticket",
               "status": "due",
-              "detail": "new Sun Oct 25 · 4 pts · due today 10:55 AM",
+              "detail": "4-pt quiz · was due today 10:55 AM — taken 10:54 AM; shows 0 pending teacher review (not counted yet)",
               "due": "Oct 26"
             }
           ],
@@ -405,8 +405,8 @@ window.RECAP_DATA = {
           "teacher": "Seegers",
           "period": "P4",
           "source": "canvas",
-          "grade": 24.36,
-          "note": "24.36% — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due Wed Oct 21 9:30 AM in class — Mr. Seegers marked it graded in Canvas Thu 12:23 PM, but the score isn't released yet.",
+          "grade": 23.16,
+          "note": "23.16% (was 24.36) — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon 11:57 AM: 0/20. New in Canvas: Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) Thu Oct 29 11:00 AM.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -440,9 +440,15 @@ window.RECAP_DATA = {
             },
             {
               "title": "Quiz 4: Quiz 3.1 - 3.4",
-              "status": "due",
-              "detail": "20 pts · was due Wed Oct 21 9:30 AM in class — marked graded in Canvas Thu Oct 22 12:23 PM, score not released yet",
+              "status": "zero",
+              "detail": "0/20 · in class Wed Oct 21 · score released Mon Oct 26 11:57 AM",
               "due": "Oct 21"
+            },
+            {
+              "title": "Unit 3 Part 1 Test",
+              "status": "due",
+              "detail": "new in Canvas Mon Oct 26 · 100 pts · Lessons 1–4: Slope-Intercept Form · Thu Oct 29 11:00 AM",
+              "due": "Oct 29"
             }
           ],
           "grades": [
@@ -508,6 +514,13 @@ window.RECAP_DATA = {
               "percent": 15.0,
               "group": "Summative Assessment",
               "due": "Oct 7"
+            },
+            {
+              "title": "Quiz 4: Quiz 3.1 - 3.4",
+              "score": "0/20",
+              "percent": 0.0,
+              "group": "Summative Assessment",
+              "due": "Oct 21"
             }
           ]
         },
@@ -1032,7 +1045,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "canvas",
           "grade": 81.14,
-          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu 2:51 PM, awaiting grade; APA Research Paper Outline and Sources moved to Thu Oct 29 8:30 AM (were Mon Oct 26); Q2 Membean Quiz 1 Thu Oct 29; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%).",
+          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu 2:51 PM, awaiting grade; APA Research Paper Outline and Sources moved to Thu Oct 29 8:30 AM (were Mon Oct 26); Q2 Membean Quiz 1 Thu Oct 29; new Mon morning: Romeo and Juliet Balcony Scene Comic (100 pts, file upload) due today (Mon Oct 26) 10:00 PM and Q2 Membean Program 2 (50 pts) due Wed Oct 28 11:59 PM; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%).",
           "work": [
             {
               "title": "Research Paper Topic",
@@ -1051,6 +1064,18 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Romeo and Juliet discussion post · 100 pts · was due Thu Oct 22 4:00 PM — turned in Thu 2:51 PM, awaiting grade",
               "due": "Oct 22"
+            },
+            {
+              "title": "Romeo and Juliet Balcony Scene Comic",
+              "status": "due",
+              "detail": "new Mon Oct 26 · 100 pts · file upload · due today 10:00 PM",
+              "due": "Oct 26"
+            },
+            {
+              "title": "Q2 Membean Program 2",
+              "status": "due",
+              "detail": "new Mon Oct 26 · 50 pts · tracked in Membean · due Wed Oct 28 11:59 PM",
+              "due": "Oct 28"
             }
           ],
           "grades": [
