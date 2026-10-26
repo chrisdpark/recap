@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Oct 25, 2026 · 8:04 PM CT",
+  "updated": "Monday, Oct 26, 2026 · 12:15 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 24.36% — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts) was due Wed Oct 21 9:30 AM in class — Mr. Seegers marked it graded in Canvas Thu 12:23 PM, but the score isn't released yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
-        "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21.",
-        "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). New Samuel Summative: The Kingship Case File (100 pts) due Thu Oct 29 4:00 PM.",
+        "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due today 1 PM.",
+        "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts) due Thu Oct 29 4:00 PM. New Sun night: Solomon: The King Who Almost Was (10 pts) and Solomon — Exit Ticket (4 pts) due today 10:55 AM; Samuel Test: Write the Review due Wed Oct 28.",
         "Biology 80.69% — Cellular Energy Summative Project (100 pts, due Wed Oct 21 9:00 AM) was turned in late Wed 2:38 PM — no longer missing, awaiting grade; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. New DNA Replication Activity Exit Ticket (100 pts, formative) due Tue Oct 27 4:00 PM.",
         "World Geography 89.32% — Oct. 21st Current Event Post (100 pts) was due Fri Oct 23 11:59 PM and isn't submitted; Canvas now marks it missing."
       ],
@@ -17,7 +17,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.31,
-          "note": "90.31% (was 90.35) — Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. New: Samuel Summative: The Kingship Case File (Combined) (100 pts, summative quiz) posted Wed evening, due Thu Oct 29 4:00 PM.",
+          "note": "90.31% (was 90.35) — Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Samuel Summative (100 pts, summative quiz; renamed in Canvas Sun night to \"Samuel Summative: (Combined)\") due Thu Oct 29 4:00 PM. New Sun night: Solomon: The King Who Almost Was (10 pts) and Solomon — Exit Ticket (4 pts) both due today (Mon Oct 26) 10:55 AM; Samuel Test: Write the Review (0 pts) due Wed Oct 28 10:15 AM.",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -30,6 +30,18 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "0/100 missing",
               "due": "Oct 1"
+            },
+            {
+              "title": "Solomon: The King Who Almost Was",
+              "status": "due",
+              "detail": "new Sun Oct 25 · 10 pts · due today 10:55 AM",
+              "due": "Oct 26"
+            },
+            {
+              "title": "Solomon — Exit Ticket",
+              "status": "due",
+              "detail": "new Sun Oct 25 · 4 pts · due today 10:55 AM",
+              "due": "Oct 26"
             }
           ],
           "grades": [
@@ -505,7 +517,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due Mon Oct 26 1 PM. New Tue Oct 20: Telling Time quiz (20 pts, summative, on paper) at the start of class Tue Oct 27. New Thu Oct 22: Quick Vocabulary Quiz (10 pts, formative, on paper — cognates, know the articles) Tue Oct 27 8:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
+          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due today (Mon Oct 26) 1 PM. New Tue Oct 20: Telling Time quiz (20 pts, summative, on paper) at the start of class Tue Oct 27. New Thu Oct 22: Quick Vocabulary Quiz (10 pts, formative, on paper — cognates, know the articles) Tue Oct 27 8:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
@@ -518,6 +530,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "new Mon Oct 19 · 30 pts formative · watch video, do check-up quiz · was due Tue Oct 20 10 PM — on paper, nothing shows in Canvas yet (Unit 1 quiz was in class Wed Oct 21)",
               "due": "Oct 20"
+            },
+            {
+              "title": "Lord's Prayer (SA) — all parts, speaking & writing",
+              "status": "due",
+              "detail": "40 pts · on paper · due today 1:00 PM",
+              "due": "Oct 26"
             }
           ],
           "grades": [
@@ -1192,9 +1210,9 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "New since Thursday's recap: Precalculus QUIZ 3.4 - 3.6 posted 0 even though Ethos shows it completed Oct 22 (worth checking with Pinson); Precalculus Dropbox Quiz 3.4-3.6 graded 98 and Dropbox Week 10 Homework 100 (new Sat night); Physics Free Body Diagram Worksheet graded 50 (Newton's 2nd Law Problem Set 95).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Membean Practice 10/19 (Sun Oct 18); English 12: Intro to the English Renaissance on StudySync (Sun Oct 18); English 12: Participation (Thu Oct 22); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: Sociology Midterm (2022) (Fri Oct 23 — became overdue at midnight).",
-        "Due this weekend through Mon Oct 26 and not marked completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26).",
-        "Canvas: nothing due in Apologetics or Graphic Design through Mon Oct 26 — Spider Web of Beliefs Reflection was submitted Fri Oct 23 (2:19 PM), awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3; new Summative - Sort and Defend (General vs. Special Revelation) due Tue Nov 10."
+        "Overdue from the last week, still not completed in Ethos: English 12: Participation (Thu Oct 22); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25) — the 5 Sun Oct 25 items became overdue at midnight.",
+        "Due today (Mon Oct 26) through Wed Oct 28 and not marked completed in Ethos: English 12: Fall Mid-term Exam (Mon Oct 26); Physics: Circular Motion Lab (Wed Oct 28).",
+        "Canvas: nothing due in Apologetics or Graphic Design through Wed Oct 28 — Spider Web of Beliefs Reflection was submitted Fri Oct 23 (2:19 PM), awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3; new Summative - Sort and Defend (General vs. Special Revelation) due Tue Nov 10."
       ],
       "courses": [
         {
@@ -1203,20 +1221,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since yesterday's recap) · due soon: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25), Mbn Week 10 (Sun Oct 25), Fall Mid-term Exam (Mon Oct 26) · 17 overdue · 0 posted 0",
+          "note": "96% (no change since yesterday's recap) · due soon: Fall Mid-term Exam (Mon Oct 26) · 19 overdue (Macbeth Act 3 Scene Study in StudySync, Mbn Week 10, due Sun Oct 25, now overdue) · 0 posted 0",
           "work": [
-            {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Oct 25"
-            },
-            {
-              "title": "Mbn Week 10",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Oct 25"
-            },
             {
               "title": "Fall Mid-term Exam",
               "status": "due",
@@ -1242,12 +1248,6 @@ window.RECAP_DATA = {
               "due": "Due Nov 02, 2025"
             },
             {
-              "title": "Mbn 11/09",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 09, 2025"
-            },
-            {
               "title": "Macbeth Act 5 Discussion Questions",
               "status": "overdue",
               "detail": "Not completed",
@@ -1255,6 +1255,12 @@ window.RECAP_DATA = {
             },
             {
               "title": "StudySync Act 5, scene 5 Paragraph Response",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Nov 09, 2025"
+            },
+            {
+              "title": "Mbn 11/09",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Nov 09, 2025"
@@ -1308,13 +1314,13 @@ window.RECAP_DATA = {
               "due": "Due Sep 30, 2026"
             },
             {
-              "title": "Membean Practice 10/19",
+              "title": "Intro to the English Renaissance on StudySync",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 18, 2026"
             },
             {
-              "title": "Intro to the English Renaissance on StudySync",
+              "title": "Membean Practice 10/19",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 18, 2026"
@@ -1324,6 +1330,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 22, 2026"
+            },
+            {
+              "title": "Macbeth Act 3 Scene Study in StudySync",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 25, 2026"
+            },
+            {
+              "title": "Mbn Week 10",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 25, 2026"
             }
           ],
           "grades": [
@@ -1412,8 +1430,14 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% (no change since yesterday's recap) · newly graded: Free Body Diagram Worksheet (50), Newton's 2nd Law Problem Set (No Friction) (95) · 10 overdue · 2 posted 0",
+          "note": "81% (no change since yesterday's recap) · newly graded: Free Body Diagram Worksheet (50), Newton's 2nd Law Problem Set (No Friction) (95) · due soon: Circular Motion Lab (Wed Oct 28) · 10 overdue · 2 posted 0",
           "work": [
+            {
+              "title": "Circular Motion Lab",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Wed Oct 28"
+            },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
               "status": "zero",
@@ -2100,26 +2124,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since yesterday's recap) · due soon: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25), Teaching Video Assignment (Sun Oct 25), Sociological Scavenger Hunt #4 (Sun Oct 25) · 11 overdue (Sociology Midterm (2022), due Fri Oct 23, now overdue) · 1 posted 0",
+          "note": "84% (no change since yesterday's recap) · 14 overdue (OPT. Assignment #4: Sociology in Kindergarten, Teaching Video Assignment, Sociological Scavenger Hunt #4, due Sun Oct 25, now overdue) · 1 posted 0",
           "work": [
-            {
-              "title": "OPT. Assignment #4: Sociology in Kindergarten",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Oct 25"
-            },
-            {
-              "title": "Teaching Video Assignment",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Oct 25"
-            },
-            {
-              "title": "Sociological Scavenger Hunt #4",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Oct 25"
-            },
             {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
@@ -2191,6 +2197,24 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 23, 2026"
+            },
+            {
+              "title": "OPT. Assignment #4: Sociology in Kindergarten",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 25, 2026"
+            },
+            {
+              "title": "Teaching Video Assignment",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 25, 2026"
+            },
+            {
+              "title": "Sociological Scavenger Hunt #4",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Oct 25, 2026"
             }
           ],
           "grades": [
