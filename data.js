@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 26, 2026 · 4:14 PM CT",
+  "updated": "Monday, Oct 26, 2026 · 5:17 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -735,7 +735,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 89.32,
-          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts) was due Fri Oct 23 11:59 PM — not submitted, Canvas now marks it missing; new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote).",
+          "note": "89.32% — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts) was due Fri Oct 23 11:59 PM — not submitted, Canvas now marks it missing; new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster.",
           "work": [
             {
               "title": "October 7th Current Event Post",
@@ -1045,7 +1045,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "canvas",
           "grade": 81.14,
-          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu 2:51 PM, awaiting grade; APA Research Paper Outline and Sources moved to Thu Oct 29 8:30 AM (were Mon Oct 26); Q2 Membean Quiz 1 Thu Oct 29; new Mon morning: Romeo and Juliet Balcony Scene Comic (100 pts, file upload) due today (Mon Oct 26) 10:00 PM and Q2 Membean Program 2 (50 pts) due Wed Oct 28 11:59 PM; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%).",
+          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu 2:51 PM, awaiting grade; APA Research Paper Outline and Sources moved to Thu Oct 29 8:30 AM (were Mon Oct 26); Q2 Membean Quiz 1 Thu Oct 29; new Mon morning: Romeo and Juliet Balcony Scene Comic (100 pts, file upload) due today (Mon Oct 26) 10:00 PM and Q2 Membean Program 2 (50 pts) due Wed Oct 28 11:59 PM; APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%). Mrs. MacAllister's Sun Oct 25 announcement: sources and outline will be submitted for approval and completed in class Thu Oct 29/Fri Oct 30; other research paper dates unchanged; heavy in-class reading Mon/Tue.",
           "work": [
             {
               "title": "Research Paper Topic",
