@@ -1,11 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Oct 26, 2026 · 12:05 PM CT",
+  "updated": "Monday, Oct 26, 2026 · 4:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) is Thu Oct 29 11:00 AM. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
-        "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due today 1 PM.",
+        "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due today 1 PM — no grade in Canvas yet (likely done in class on paper).",
         "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts) due Thu Oct 29 4:00 PM. Today's Solomon work is turned in: Solomon: The Heir of David (10 pts) awaiting grade; Solomon — Exit Ticket quiz taken 10:54 AM, pending teacher review (shows 0, not counted yet); Samuel Test: Write the Review due Wed Oct 28.",
         "Biology 80.69% — Cellular Energy Summative Project (100 pts, due Wed Oct 21 9:00 AM) was turned in late Wed 2:38 PM — no longer missing, awaiting grade; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20; Cellular Respiration Venn (in class, on paper) was due Fri Oct 16 4 PM, no grade in Canvas yet. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. New DNA Replication Activity Exit Ticket (100 pts, formative) due Tue Oct 27 4:00 PM.",
         "World Geography 89.32% — Oct. 21st Current Event Post (100 pts) was due Fri Oct 23 11:59 PM and isn't submitted; Canvas now marks it missing."
@@ -530,7 +530,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 85.98,
-          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) due today (Mon Oct 26) 1 PM. New Tue Oct 20: Telling Time quiz (20 pts, summative, on paper) at the start of class Tue Oct 27. New Thu Oct 22: Quick Vocabulary Quiz (10 pts, formative, on paper — cognates, know the articles) Tue Oct 27 8:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
+          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due today (Mon Oct 26) 1 PM — no grade in Canvas yet (likely done in class on paper). New Tue Oct 20: Telling Time quiz (20 pts, summative, on paper) at the start of class Tue Oct 27. New Thu Oct 22: Quick Vocabulary Quiz (10 pts, formative, on paper — cognates, know the articles) Tue Oct 27 8:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
@@ -546,8 +546,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Lord's Prayer (SA) — all parts, speaking & writing",
-              "status": "due",
-              "detail": "40 pts · on paper · due today 1:00 PM",
+              "status": "overdue",
+              "detail": "40 pts · on paper (speaking & writing) · was due today 1:00 PM — no grade in Canvas yet (likely done in class on paper)",
               "due": "Oct 26"
             }
           ],
