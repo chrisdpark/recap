@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 27, 2026 · 4:11 PM CT",
+  "updated": "Tuesday, Oct 27, 2026 · 5:16 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -883,7 +883,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 78.67,
-          "note": "78.67% (was 80.69) — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class) graded 100/100 Tue morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed 2:38 PM; score posted Tue 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative) was due today (Tue Oct 27) 4:00 PM — not submitted, Canvas now marks it missing. New Mon night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) due today (Tue Oct 27) 11:59 PM; Lab 06: Mitosis (100 pts, on paper) due Wed Nov 4 11:59 PM; Digital Punnett Squares (100 pts, file upload) due Fri Nov 6 11:59 PM; a makeup lab \"Copy of Exploring Respiration Rates\" (29 pts, no due date) also appeared.",
+          "note": "78.67% (was 80.69) — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class) graded 100/100 Tue morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed 2:38 PM; score posted Tue 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative) was due today (Tue Oct 27) 4:00 PM — not submitted, Canvas now marks it missing. New Mon night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) due today (Tue Oct 27) 11:59 PM; Lab 06: Mitosis (100 pts, on paper) due Wed Nov 4 11:59 PM; Digital Punnett Squares (100 pts, file upload) due Fri Nov 6 11:59 PM; a makeup lab \"Copy of Exploring Respiration Rates\" (29 pts, no due date) also appeared. Mrs. DeGrenier's Canvas note Tue 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
