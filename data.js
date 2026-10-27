@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 27, 2026 · 5:16 PM CT",
+  "updated": "Tuesday, Oct 27, 2026 · 5:22 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1294,10 +1294,10 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "New since Friday's recap: Precalculus Dropbox Quiz 3.4-3.6 graded 98 and Dropbox Week 10 Homework graded 100; the Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22 (worth checking with Pinson). No other Ethos grades changed.",
-        "Overdue from the last week, still not completed in Ethos: English 12: Participation (Thu Oct 22); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25) — English 12 Fall Mid-term Exam (due Mon Oct 26) became overdue at midnight.",
+        "No Ethos grades or items changed since Monday's recap (all five class grades the same); the only shift is the calendar — English 12 Fall Mid-term Exam (due Mon Oct 26) now shows as overdue/not completed. The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22 (worth checking with Pinson).",
+        "Overdue from the last week, still not completed in Ethos: English 12: Participation (Thu Oct 22); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Precalculus: Quiz 3.1-3.3 (Tue Oct 20); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25).",
         "Due today (Tue Oct 27) through Thu Oct 29 and not marked completed in Ethos: Physics: Circular Motion Lab (Wed Oct 28); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Precalculus: Dropbox Test Unit 3 (Thu Oct 29); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
-        "Canvas: nothing due in Apologetics or Graphic Design through Thu Oct 29 — Spider Web of Beliefs Reflection (submitted Fri) is still awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3, then the new Summative - Sort and Defend (General vs. Special Revelation), due Tue Nov 10."
+        "Canvas: nothing due in Apologetics or Graphic Design through Thu Oct 29 — Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3, then Summative - Sort and Defend (General vs. Special Revelation), due Tue Nov 10."
       ],
       "courses": [
         {
@@ -1306,7 +1306,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Friday's recap) · due soon: Macbeth Acts 1 and 2 (Thu Oct 29) · 20 overdue (Fall Mid-term Exam, due Mon Oct 26, now overdue) · 0 posted 0",
+          "note": "96% (no change since Monday's recap) · due soon: Macbeth Acts 1 and 2 (Thu Oct 29) · 20 overdue · 0 posted 0",
           "work": [
             {
               "title": "Macbeth Acts 1 and 2",
@@ -1521,7 +1521,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 81,
-          "note": "81% (no change since Friday's recap) · due soon: Circular Motion Lab (Wed Oct 28) · 10 overdue · 2 posted 0",
+          "note": "81% (no change since Monday's recap) · due soon: Circular Motion Lab (Wed Oct 28) · 10 overdue · 2 posted 0",
           "work": [
             {
               "title": "Circular Motion Lab",
@@ -1800,7 +1800,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Friday's recap) · 5 overdue · 0 posted 0",
+          "note": "87% (no change since Monday's recap) · 5 overdue · 0 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -1982,7 +1982,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since Friday's recap) · newly graded: Dropbox Week 10 Homework (100), Dropbox Quiz 3.4-3.6 (98) · due soon: Dropbox Test Unit 3 (Thu Oct 29) · 1 overdue · 9 posted 0",
+          "note": "86% (no change since Monday's recap) · due soon: Dropbox Test Unit 3 (Thu Oct 29) · 1 overdue · 9 posted 0",
           "work": [
             {
               "title": "Dropbox Test Unit 3",
@@ -2221,7 +2221,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since Friday's recap) · due soon: Concept Module 1: Know Your Terms (Thu Oct 29) · 14 overdue · 1 posted 0",
+          "note": "84% (no change since Monday's recap) · due soon: Concept Module 1: Know Your Terms (Thu Oct 29) · 14 overdue · 1 posted 0",
           "work": [
             {
               "title": "Concept Module 1: Know Your Terms",
