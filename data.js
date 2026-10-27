@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Oct 27, 2026 · 12:11 PM CT",
+  "updated": "Tuesday, Oct 27, 2026 · 4:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -7,8 +7,8 @@ window.RECAP_DATA = {
         "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) is Thu Oct 29 11:00 AM. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas.",
         "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon 1 PM — no grade in Canvas yet (likely done in class on paper). Today (Tue): Quick Vocabulary Quiz (10 pts, on paper) was due 8:00 AM — no grade in Canvas yet (likely done in class on paper); Telling Time quiz (20 pts, on paper) was due 11:30 AM in class — no grade in Canvas yet (likely done on paper).",
         "Bible 90.31% — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts) due Thu Oct 29 4:00 PM. Monday's Solomon work is turned in: Solomon: The Heir of David (10 pts) awaiting grade; Solomon — Exit Ticket quiz taken 10:54 AM, pending teacher review (shows 0, not counted yet); Samuel Test: Write the Review due Wed Oct 28.",
-        "Biology 78.67% (was 80.69) — Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue 8:43 AM); Cellular Respiration Venn graded 100/100; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. Due today: DNA Replication Activity Exit Ticket (100 pts) 4:00 PM and new Mitosis & Meiosis Exit Ticket (100 pts, online quiz) 11:59 PM; new Lab 06: Mitosis due Wed Nov 4 and Digital Punnett Squares due Fri Nov 6.",
-        "World Geography 86.22% (was 89.32) — Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue 10:55 AM.",
+        "Biology 78.67% (was 80.69) — Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue 8:43 AM); Cellular Respiration Venn graded 100/100; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts) was due today 4:00 PM — not submitted, Canvas marks it missing. Due tonight: new Mitosis & Meiosis Exit Ticket (100 pts, online quiz) 11:59 PM; new Lab 06: Mitosis due Wed Nov 4 and Digital Punnett Squares due Fri Nov 6.",
+        "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue 10:55 AM.",
         "English I 81.14% — Romeo and Juliet Balcony Scene Comic (100 pts, file upload) due date moved to Thu Oct 29 8:30 AM (was Mon 10 PM) — not submitted yet, no longer marked missing. Q2 Membean Program 2 (50 pts) due Wed Oct 28 11:59 PM."
       ],
       "courses": [
@@ -754,15 +754,9 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "canvas",
-          "grade": 86.22,
-          "note": "86.22% (was 89.32) — Oct 7 Current Event Post and Europe Mapping Activity turned in (awaiting grades; Canvas due dates moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster.",
+          "grade": 86.63,
+          "note": "86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster.",
           "work": [
-            {
-              "title": "October 7th Current Event Post",
-              "status": "due",
-              "detail": "submitted Fri Oct 9 — awaiting grade (Canvas due date moved to Wed Oct 21)",
-              "due": "Oct 21"
-            },
             {
               "title": "Oct. 21st Current Event Post",
               "status": "zero",
@@ -873,6 +867,13 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Q1 Formative Assessment",
               "due": "Oct 23"
+            },
+            {
+              "title": "October 7th Current Event Post",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Q1 Formative Assessment",
+              "due": "Oct 21"
             }
           ]
         },
@@ -882,7 +883,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 78.67,
-          "note": "78.67% (was 80.69) — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class) graded 100/100 Tue morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed 2:38 PM; score posted Tue 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative) due today (Tue Oct 27) 4:00 PM. New Mon night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) due today (Tue Oct 27) 11:59 PM; Lab 06: Mitosis (100 pts, on paper) due Wed Nov 4 11:59 PM; Digital Punnett Squares (100 pts, file upload) due Fri Nov 6 11:59 PM; a makeup lab \"Copy of Exploring Respiration Rates\" (29 pts, no due date) also appeared.",
+          "note": "78.67% (was 80.69) — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class) graded 100/100 Tue morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed 2:38 PM; score posted Tue 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative) was due today (Tue Oct 27) 4:00 PM — not submitted, Canvas now marks it missing. New Mon night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) due today (Tue Oct 27) 11:59 PM; Lab 06: Mitosis (100 pts, on paper) due Wed Nov 4 11:59 PM; Digital Punnett Squares (100 pts, file upload) due Fri Nov 6 11:59 PM; a makeup lab \"Copy of Exploring Respiration Rates\" (29 pts, no due date) also appeared.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -904,8 +905,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "DNA Replication Activity Exit Ticket",
-              "status": "due",
-              "detail": "100 pts formative · due today 4:00 PM",
+              "status": "missing",
+              "detail": "100 pts formative · was due today 4:00 PM — not submitted, Canvas marks it missing",
               "due": "Oct 27"
             },
             {
