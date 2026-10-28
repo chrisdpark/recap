@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Oct 28, 2026 · 12:07 AM CT",
+  "updated": "Wednesday, Oct 28, 2026 · 4:09 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1302,9 +1302,9 @@ window.RECAP_DATA = {
       "name": "Sky",
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
-        "Ethos changes since last night: Physics 81 → 82% — Free Body Diagrams Quiz graded 80 (completed Tue Oct 27; Ethos lists it due Nov 17); Free Body Diagram Worksheet (50) and Newton's 2nd Law Problem Set (No Friction) (95) now show due Wed Oct 28 (were Oct 24; already graded). English 12: the old \"Mbn 11/2\" row (Nov 2, 2025) is gone and a new \"Mbn 11/1\" row is due Mon Nov 23, 2026. English 12, Government, Precalculus and Sociology grades unchanged. The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Participation (Thu Oct 22); English 12: Mbn Week 10 (Sun Oct 25); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Teaching Video Assignment (Sun Oct 25); Sociology: Sociological Scavenger Hunt #4 (Sun Oct 25).",
-        "Due today (Wed Oct 28) through Fri Oct 30 and not marked completed in Ethos: Physics: Circular Motion Lab (Wed Oct 28); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Precalculus: Dropbox Test Unit 3 (Thu Oct 29); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
+        "Ethos changes since last night: Physics 81 → 82% — Free Body Diagrams Quiz graded 80 (completed Tue Oct 27; Ethos lists it due Nov 17); Free Body Diagram Worksheet (50) and Newton's 2nd Law Problem Set (No Friction) (95) now show due Wed Oct 28 (were Oct 24; already graded). English 12: the old \"Mbn 11/2\" row (Nov 2, 2025) is gone and a new \"Mbn 11/1\" row is due Mon Nov 23, 2026. Overnight (Ethos sync ~1:05 AM Wed): Government re-dated most items by 1–4 days — Judicial Branch Test now due Thu Oct 29 (was Mon Nov 2), President and Bureaucracy Test now shows Oct 13 (was Oct 14), and a new Synch Session #7 Makeup row is due Sun Nov 1; Sociology now marks Teaching Video Assignment (completed Oct 26) and Sociological Scavenger Hunt #4 (completed Oct 25) as done. English 12, Government, Precalculus and Sociology grades unchanged. The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22 (worth checking with Pinson).",
+        "Overdue from the last week, still not completed in Ethos: English 12: Participation (Thu Oct 22); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); Physics: Circular Motion & Gravitation Notes (Wed Oct 21); Physics: Circular Motion and Gravitation Problem Set (Wed Oct 21); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25).",
+        "Due today (Wed Oct 28) through Fri Oct 30 and not marked completed in Ethos: Physics: Circular Motion Lab (Wed Oct 28); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Government: Judicial Branch Test (Thu Oct 29); Precalculus: Dropbox Test Unit 3 (Thu Oct 29); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
         "Canvas: nothing due in Apologetics or Graphic Design through Fri Oct 30 — Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3, then Summative - Sort and Defend (General vs. Special Revelation), due Tue Nov 10."
       ],
       "courses": [
@@ -1335,6 +1335,12 @@ window.RECAP_DATA = {
               "due": "Due Sep 21, 2025"
             },
             {
+              "title": "Mbn 11/09",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Nov 09, 2025"
+            },
+            {
               "title": "Macbeth Act 5 Discussion Questions",
               "status": "overdue",
               "detail": "Not completed",
@@ -1342,12 +1348,6 @@ window.RECAP_DATA = {
             },
             {
               "title": "StudySync Act 5, scene 5 Paragraph Response",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 09, 2025"
-            },
-            {
-              "title": "Mbn 11/09",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Nov 09, 2025"
@@ -1401,13 +1401,13 @@ window.RECAP_DATA = {
               "due": "Due Sep 30, 2026"
             },
             {
-              "title": "Intro to the English Renaissance on StudySync",
+              "title": "Membean Practice 10/19",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 18, 2026"
             },
             {
-              "title": "Membean Practice 10/19",
+              "title": "Intro to the English Renaissance on StudySync",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 18, 2026"
@@ -1419,13 +1419,13 @@ window.RECAP_DATA = {
               "due": "Due Oct 22, 2026"
             },
             {
-              "title": "Mbn Week 10",
+              "title": "Macbeth Act 3 Scene Study in StudySync",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 25, 2026"
             },
             {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
+              "title": "Mbn Week 10",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 25, 2026"
@@ -1467,16 +1467,16 @@ window.RECAP_DATA = {
               "due": "Aug 26, 2026"
             },
             {
-              "title": "Final Narrative Essay Writing Assignment",
-              "score": "92",
-              "percent": 92.0,
+              "title": "Shooting an Elephant by George Orwell",
+              "score": "100",
+              "percent": 100.0,
               "group": "Ethos",
               "due": "Aug 30, 2026"
             },
             {
-              "title": "Shooting an Elephant by George Orwell",
-              "score": "100",
-              "percent": 100.0,
+              "title": "Final Narrative Essay Writing Assignment",
+              "score": "92",
+              "percent": 92.0,
               "group": "Ethos",
               "due": "Aug 30, 2026"
             },
@@ -1495,14 +1495,14 @@ window.RECAP_DATA = {
               "due": "Sep 08, 2026"
             },
             {
-              "title": "Prologue to the Canterbury Tales",
+              "title": "Five Sources and Persuasive Paper Thesis Statement",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
               "due": "Sep 13, 2026"
             },
             {
-              "title": "Five Sources and Persuasive Paper Thesis Statement",
+              "title": "Prologue to the Canterbury Tales",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1809,8 +1809,14 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Monday's recap) · 5 overdue · 0 posted 0",
+          "note": "87% (no change since Monday's recap) · due soon: Judicial Branch Test (Thu Oct 29) · 5 overdue · 0 posted 0",
           "work": [
+            {
+              "title": "Judicial Branch Test",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Oct 29"
+            },
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
@@ -1839,7 +1845,7 @@ window.RECAP_DATA = {
               "title": "President and Bureaucracy Test",
               "status": "overdue",
               "detail": "Not completed",
-              "due": "Due Oct 14, 2026"
+              "due": "Due Oct 13, 2026"
             }
           ],
           "grades": [
@@ -1869,7 +1875,7 @@ window.RECAP_DATA = {
               "score": "80",
               "percent": 80.0,
               "group": "Ethos",
-              "due": "Sep 02, 2026"
+              "due": "Sep 01, 2026"
             },
             {
               "title": "Constitutional Convention Compromises",
@@ -1883,7 +1889,14 @@ window.RECAP_DATA = {
               "score": "80",
               "percent": 80.0,
               "group": "Ethos",
-              "due": "Sep 10, 2026"
+              "due": "Sep 09, 2026"
+            },
+            {
+              "title": "Checkpoint Quiz",
+              "score": "87",
+              "percent": 87.0,
+              "group": "Ethos",
+              "due": "Sep 11, 2026"
             },
             {
               "title": "Constitutional Scavenger Hunt",
@@ -1898,13 +1911,6 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Ethos",
               "due": "Sep 13, 2026"
-            },
-            {
-              "title": "Checkpoint Quiz",
-              "score": "87",
-              "percent": 87.0,
-              "group": "Ethos",
-              "due": "Sep 14, 2026"
             },
             {
               "title": "Comparing the House and the Senate",
@@ -1932,21 +1938,21 @@ window.RECAP_DATA = {
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
-              "due": "Sep 24, 2026"
+              "due": "Sep 23, 2026"
             },
             {
               "title": "Civic Participation",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
-              "due": "Sep 28, 2026"
+              "due": "Sep 25, 2026"
             },
             {
               "title": "Midterm",
               "score": "86",
               "percent": 86.0,
               "group": "Ethos",
-              "due": "Sep 30, 2026"
+              "due": "Sep 29, 2026"
             },
             {
               "title": "7 Roles of the President",
@@ -1981,7 +1987,7 @@ window.RECAP_DATA = {
               "score": "87",
               "percent": 87.0,
               "group": "Ethos",
-              "due": "Dec 08, 2026"
+              "due": "Dec 04, 2026"
             }
           ]
         },
@@ -2230,7 +2236,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% (no change since Monday's recap) · due soon: Concept Module 1: Know Your Terms (Thu Oct 29) · 14 overdue · 1 posted 0",
+          "note": "84% (no change since Monday's recap) · due soon: Concept Module 1: Know Your Terms (Thu Oct 29) · 12 overdue · 1 posted 0",
           "work": [
             {
               "title": "Concept Module 1: Know Your Terms",
@@ -2312,18 +2318,6 @@ window.RECAP_DATA = {
             },
             {
               "title": "OPT. Assignment #4: Sociology in Kindergarten",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 25, 2026"
-            },
-            {
-              "title": "Teaching Video Assignment",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 25, 2026"
-            },
-            {
-              "title": "Sociological Scavenger Hunt #4",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 25, 2026"
