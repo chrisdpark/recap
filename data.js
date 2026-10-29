@@ -1,14 +1,14 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 29, 2026 · 12:06 PM CT",
+  "updated": "Thursday, Oct 29, 2026 · 4:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was today (Thu Oct 29) 11:00 AM — no score in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed ~11:00 AM with a review packet PDF; 4th period tests today (Thursday), 3rd period Friday.",
         "German I 87.78% (was 85.98) — on-paper work graded Thu late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. New: Quizlet for Chapter 2 quiz (25 pts) due Tue Nov 3 11:00 AM.",
-        "Bible 90.16% (was 90.31) — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts, due today 4:00 PM) was submitted today at 10:37 AM — pending teacher review (preliminary auto-score 8 so far, not yet counted). Monday's Solomon work was graded Tue evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due today (Thu Oct 29) 8:00 AM — not submitted; Canvas marks it missing.",
+        "Bible 90.16% (was 90.31) — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts, was due today 4:00 PM) was submitted on time today at 10:37 AM — still pending teacher review (preliminary auto-score 8 so far, not yet counted). Monday's Solomon work was graded Tue evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due today (Thu Oct 29) 8:00 AM — not submitted; Canvas marks it missing.",
         "Biology 78.67% (was 80.69) — Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue 8:43 AM); Cellular Respiration Venn graded 100/100; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, due Tue 4:00 PM) and Mitosis & Meiosis Exit Ticket (100 pts, online quiz, due Tue 11:59 PM) were not submitted — Canvas marks both missing. Coming up: DNA Synthesis Pivot (55 pts) due Fri Oct 30, Lab 06: Mitosis due Wed Nov 4, Digital Punnett Squares due Fri Nov 6.",
-        "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue 10:55 AM.",
+        "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue 10:55 AM. New Thu afternoon: TURN IN - Conflict Zones Presentation (100 pts, summative, no due date in Canvas) — not turned in yet.",
         "English I 81.14% — Romeo and Juliet Balcony Scene Comic (100 pts, file upload) was due today (Thu Oct 29) 8:30 AM — not submitted; Canvas marks it missing again. APA Research Paper Outline (100 pts) and Q2 Membean Quiz 1 were also due today 8:30 AM — nothing in Canvas yet (outline being finished in class Thu/Fri). Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean)."
       ],
       "courses": [
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.16,
-          "note": "90.16% (was 90.31) — Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Samuel Summative (100 pts, summative quiz; renamed in Canvas Sun night to \"Samuel Summative: (Combined)\", due today 4:00 PM) was submitted today at 10:37 AM — pending teacher review (Canvas shows a preliminary auto-score of 8 so far; not yet counted in the grade). Monday's Solomon work (due Mon 10:55 AM) was graded Tue evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon 9:42 AM, graded 2/3 Mon night. Samuel Test: Write the Review (0 pts, online text entry) was due today (Thu Oct 29) 8:00 AM (moved from Wed 10:15 AM) — not submitted; Canvas marks it missing and recorded 0 at 8:36 AM (0-pt item, no effect on the grade).",
+          "note": "90.16% (was 90.31) — Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Samuel Summative (100 pts, summative quiz; renamed in Canvas Sun night to \"Samuel Summative: (Combined)\", was due today 4:00 PM) was submitted on time today at 10:37 AM — still pending teacher review (Canvas shows a preliminary auto-score of 8 so far; not yet counted in the grade). Monday's Solomon work (due Mon 10:55 AM) was graded Tue evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon 9:42 AM, graded 2/3 Mon night. Samuel Test: Write the Review (0 pts, online text entry) was due today (Thu Oct 29) 8:00 AM (moved from Wed 10:15 AM) — not submitted; Canvas marks it missing and recorded 0 at 8:36 AM (0-pt item, no effect on the grade).",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -774,13 +774,19 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 86.63,
-          "note": "86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster.",
+          "note": "86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts, summative; URL or file upload; no due date set in Canvas) — not turned in yet.",
           "work": [
             {
               "title": "Oct. 21st Current Event Post",
               "status": "zero",
               "detail": "0/100 · graded Tue Oct 27 10:55 AM — never submitted (was due Fri Oct 23 11:59 PM)",
               "due": "Oct 23"
+            },
+            {
+              "title": "TURN IN - Conflict Zones Presentation",
+              "status": "due",
+              "detail": "New Thu Oct 29 · 100 pts summative · URL or file upload · no due date set in Canvas — not turned in yet",
+              "due": "No due date"
             }
           ],
           "grades": [
@@ -2493,7 +2499,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; Contingency Argument: Understanding Check (100 pts) now due Fri Nov 6 11:59 PM (moved Thu from Tue Nov 3); new Sat night: Summative - Sort and Defend (General vs. Special Revelation) (100 pts, no online submission) due Tue Nov 10 4:00 PM; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; Contingency Argument: Understanding Check (100 pts) now due Fri Nov 6 11:59 PM (moved Thu from Tue Nov 3); new Sat night: Summative - Sort and Defend (General vs. Special Revelation) (100 pts, no online submission) due Tue Nov 10 4:00 PM; Handout: What Does It Mean to Believe in Christ? (due moved Thu to Fri Oct 30) already graded 100/100",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
@@ -2611,7 +2617,7 @@ window.RECAP_DATA = {
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 29"
+              "due": "Oct 30"
             }
           ]
         },
