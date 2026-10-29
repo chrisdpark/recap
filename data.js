@@ -1,15 +1,15 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Oct 29, 2026 · 8:06 AM CT",
+  "updated": "Thursday, Oct 29, 2026 · 12:06 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) is today (Thu Oct 29) 11:00 AM. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed ~11:00 AM with a review packet PDF; 4th period tests today (Thursday), 3rd period Friday.",
-        "German I 85.98% — family video summary (20 pts) was due Fri Oct 16 11 AM and isn't submitted in Canvas; Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Unit 1 review video + check-up quiz (30 pts, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon 1 PM — no grade in Canvas yet (likely done in class on paper). Tue Oct 27: Quick Vocabulary Quiz (10 pts, on paper) was due 8:00 AM — no grade in Canvas yet (likely done in class on paper); Telling Time quiz (20 pts, on paper) was due 11:30 AM in class — no grade in Canvas yet (likely done on paper).",
-        "Bible 90.16% (was 90.31) — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts) due today (Thu Oct 29) 4:00 PM. Monday's Solomon work was graded Tue evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due today (Thu Oct 29) 8:00 AM — not submitted; Canvas marks it missing.",
+        "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was today (Thu Oct 29) 11:00 AM — no score in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed ~11:00 AM with a review packet PDF; 4th period tests today (Thursday), 3rd period Friday.",
+        "German I 87.78% (was 85.98) — on-paper work graded Thu late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. New: Quizlet for Chapter 2 quiz (25 pts) due Tue Nov 3 11:00 AM.",
+        "Bible 90.16% (was 90.31) — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts, due today 4:00 PM) was submitted today at 10:37 AM — pending teacher review (preliminary auto-score 8 so far, not yet counted). Monday's Solomon work was graded Tue evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due today (Thu Oct 29) 8:00 AM — not submitted; Canvas marks it missing.",
         "Biology 78.67% (was 80.69) — Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue 8:43 AM); Cellular Respiration Venn graded 100/100; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, due Tue 4:00 PM) and Mitosis & Meiosis Exit Ticket (100 pts, online quiz, due Tue 11:59 PM) were not submitted — Canvas marks both missing. Coming up: DNA Synthesis Pivot (55 pts) due Fri Oct 30, Lab 06: Mitosis due Wed Nov 4, Digital Punnett Squares due Fri Nov 6.",
         "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue 10:55 AM.",
-        "English I 81.14% — Romeo and Juliet Balcony Scene Comic (100 pts, file upload) due today (Thu Oct 29) 8:30 AM (moved from Mon 10 PM) — not submitted yet, no longer marked missing. Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean)."
+        "English I 81.14% — Romeo and Juliet Balcony Scene Comic (100 pts, file upload) was due today (Thu Oct 29) 8:30 AM — not submitted; Canvas marks it missing again. APA Research Paper Outline (100 pts) and Q2 Membean Quiz 1 were also due today 8:30 AM — nothing in Canvas yet (outline being finished in class Thu/Fri). Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean)."
       ],
       "courses": [
         {
@@ -18,7 +18,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 90.16,
-          "note": "90.16% (was 90.31) — Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Samuel Summative (100 pts, summative quiz; renamed in Canvas Sun night to \"Samuel Summative: (Combined)\") due today (Thu Oct 29) 4:00 PM. Monday's Solomon work (due Mon 10:55 AM) was graded Tue evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon 9:42 AM, graded 2/3 Mon night. Samuel Test: Write the Review (0 pts, online text entry) was due today (Thu Oct 29) 8:00 AM (moved from Wed 10:15 AM) — not submitted; Canvas now marks it missing.",
+          "note": "90.16% (was 90.31) — Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Samuel Summative (100 pts, summative quiz; renamed in Canvas Sun night to \"Samuel Summative: (Combined)\", due today 4:00 PM) was submitted today at 10:37 AM — pending teacher review (Canvas shows a preliminary auto-score of 8 so far; not yet counted in the grade). Monday's Solomon work (due Mon 10:55 AM) was graded Tue evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon 9:42 AM, graded 2/3 Mon night. Samuel Test: Write the Review (0 pts, online text entry) was due today (Thu Oct 29) 8:00 AM (moved from Wed 10:15 AM) — not submitted; Canvas marks it missing and recorded 0 at 8:36 AM (0-pt item, no effect on the grade).",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -35,7 +35,7 @@ window.RECAP_DATA = {
             {
               "title": "Samuel Test: Write the Review",
               "status": "missing",
-              "detail": "0 pts · online text entry · was due today (Thu Oct 29) 8:00 AM — not submitted; Canvas marks it missing",
+              "detail": "0 pts · online text entry · was due today (Thu Oct 29) 8:00 AM — not submitted; Canvas marks it missing (scored 0 at 8:36 AM; 0-pt item)",
               "due": "Oct 29"
             }
           ],
@@ -422,7 +422,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 23.16,
-          "note": "23.16% (was 24.36) — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon 11:57 AM: 0/20. New in Canvas: Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) today (Thu Oct 29) 11:00 AM. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period takes the test Thursday in class, 3rd period Friday.",
+          "note": "23.16% (was 24.36) — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was today (Thu Oct 29) 11:00 AM in class — no score in Canvas yet. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period takes the test Thursday in class, 3rd period Friday.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -463,7 +463,7 @@ window.RECAP_DATA = {
             {
               "title": "Unit 3 Part 1 Test",
               "status": "due",
-              "detail": "new in Canvas Mon Oct 26 · 100 pts · Lessons 1–4: Slope-Intercept Form · today (Thu Oct 29) 11:00 AM",
+              "detail": "100 pts · Lessons 1–4: Slope-Intercept Form · taken in class today (Thu Oct 29) 11:00 AM — no score in Canvas yet",
               "due": "Oct 29"
             }
           ],
@@ -545,38 +545,14 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "canvas",
-          "grade": 85.98,
-          "note": "85.98% — Unit 1 review video with check-up quiz (30 pts, formative, on paper) was due Tue Oct 20 10 PM — nothing shows in Canvas yet; Unit 1 quiz was in class Wed Oct 21. New Mon Oct 19: Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — no grade in Canvas yet (likely done in class on paper). New Tue Oct 20: Telling Time quiz (20 pts, summative, on paper) was at the start of class Tue Oct 27 (due 11:30 AM) — no grade in Canvas yet (likely done in class on paper). New Thu Oct 22: Quick Vocabulary Quiz (10 pts, formative, on paper — cognates, know the articles) was due Tue Oct 27 8:00 AM — no grade in Canvas yet (likely done in class on paper). Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; family video summary was due Fri Oct 16 11 AM and isn't submitted in Canvas; Vorstellen 0.2/20.",
+          "grade": 87.78,
+          "note": "87.78% (was 85.98) — Frau Porter graded a batch of on-paper work Thu late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). New: Quizlet for Chapter 2 quiz (25 pts) due Tue Nov 3 11:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
           "work": [
-            {
-              "title": "Watch Video - Write a summary of 10 things about the family",
-              "status": "overdue",
-              "detail": "was due Fri Oct 16 11 AM — not submitted in Canvas (may have been done on paper)",
-              "due": "Oct 16"
-            },
-            {
-              "title": "Unit 1 review video + check-up quiz",
-              "status": "overdue",
-              "detail": "new Mon Oct 19 · 30 pts formative · watch video, do check-up quiz · was due Tue Oct 20 10 PM — on paper, nothing shows in Canvas yet (Unit 1 quiz was in class Wed Oct 21)",
-              "due": "Oct 20"
-            },
             {
               "title": "Lord's Prayer (SA) — all parts, speaking & writing",
               "status": "overdue",
               "detail": "40 pts · on paper (speaking & writing) · was due Mon Oct 26 1:00 PM — no grade in Canvas yet (likely done in class on paper)",
               "due": "Oct 26"
-            },
-            {
-              "title": "Quick Vocabulary Quiz",
-              "status": "overdue",
-              "detail": "10 pts formative · on paper in class (cognates, know the articles) · was due Tue 8:00 AM — no grade in Canvas yet (likely done in class on paper)",
-              "due": "Oct 27"
-            },
-            {
-              "title": "Telling Time (SA) quiz",
-              "status": "overdue",
-              "detail": "20 pts summative · on paper at the start of class · was due Tue 11:30 AM — no grade in Canvas yet (likely done in class on paper)",
-              "due": "Oct 27"
             }
           ],
           "grades": [
@@ -754,6 +730,41 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 6"
+            },
+            {
+              "title": "Watch Video - Write a summary of 10 things about the family",
+              "score": "20/20",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 16"
+            },
+            {
+              "title": "Video for review on Unit 1 for Quiz (FA) on Wednesday (21st) during class. There is a check up quiz attached for you to check your understanding.",
+              "score": "30/30",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 20"
+            },
+            {
+              "title": "Quick Vocabulary Quiz",
+              "score": "9/10",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Oct 27"
+            },
+            {
+              "title": "Telling Time (SA) Quiz on telling time at beginning of class - Video for reivew",
+              "score": "18/20",
+              "percent": 90.0,
+              "group": "Summative Assessment",
+              "due": "Oct 27"
+            },
+            {
+              "title": "Family Member Vocabulary",
+              "score": "19.6/20",
+              "percent": 98.0,
+              "group": "Formative Assessment",
+              "due": "Oct 27"
             }
           ]
         },
@@ -1119,7 +1130,7 @@ window.RECAP_DATA = {
           "period": "P8",
           "source": "canvas",
           "grade": 81.14,
-          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu 2:51 PM, awaiting grade; APA Research Paper Outline and Sources moved to today (Thu Oct 29) 8:30 AM (were Mon Oct 26); Q2 Membean Quiz 1 today (Thu Oct 29); new Mon morning: Romeo and Juliet Balcony Scene Comic (100 pts, file upload) — due date moved Tue morning to today (Thu Oct 29) 8:30 AM (was Mon Oct 26 10 PM), so it's no longer marked missing; not submitted yet; and Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean); APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%). Mrs. MacAllister's Sun Oct 25 announcement: sources and outline will be submitted for approval and completed in class Thu Oct 29/Fri Oct 30; other research paper dates unchanged; heavy in-class reading Mon/Tue.",
+          "note": "81.14% — Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu 2:51 PM, awaiting grade; APA Research Paper Outline (100 pts) and Sources (reminder) were due today (Thu Oct 29) 8:30 AM — nothing turned in on Canvas yet (per the announcement they're being completed in class Thu/Fri); Q2 Membean Quiz 1 (due today 8:30 AM) — no score in Canvas yet; Romeo and Juliet Balcony Scene Comic (100 pts, file upload; due moved from Mon Oct 26 10 PM to today 8:30 AM) — not submitted, and Canvas marks it missing again; and Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean); APA Research Paper due Wed Nov 18 (rough draft, no date yet). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%). Mrs. MacAllister's Sun Oct 25 announcement: sources and outline will be submitted for approval and completed in class Thu Oct 29/Fri Oct 30; other research paper dates unchanged; heavy in-class reading Mon/Tue.",
           "work": [
             {
               "title": "Research Paper Topic",
@@ -1141,8 +1152,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Romeo and Juliet Balcony Scene Comic",
-              "status": "due",
-              "detail": "new Mon Oct 26 · 100 pts · file upload · due moved to today (Thu Oct 29) 8:30 AM (was Mon 10:00 PM) — not submitted yet; no longer marked missing",
+              "status": "missing",
+              "detail": "new Mon Oct 26 · 100 pts · file upload · was due today (Thu Oct 29) 8:30 AM (moved from Mon 10:00 PM) — not submitted; Canvas marks it missing",
               "due": "Oct 29"
             },
             {
@@ -1150,6 +1161,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "new Mon Oct 26 · 50 pts · was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean)",
               "due": "Oct 28"
+            },
+            {
+              "title": "APA Research Paper Outline",
+              "status": "overdue",
+              "detail": "100 pts · was due today (Thu Oct 29) 8:30 AM — not submitted in Canvas yet (being completed in class Thu/Fri per Mrs. MacAllister)",
+              "due": "Oct 29"
+            },
+            {
+              "title": "Q2 Membean Quiz 1",
+              "status": "overdue",
+              "detail": "100 pts · was due today (Thu Oct 29) 8:30 AM — no score in Canvas yet (tracked in Membean)",
+              "due": "Oct 29"
             }
           ],
           "grades": [
@@ -1312,7 +1335,7 @@ window.RECAP_DATA = {
         "Overdue from the last week, still not completed in Ethos: English 12: Participation (Thu Oct 22); English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); Physics: Circular Motion Lab (Wed Oct 28); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25) — Physics Circular Motion Lab (due Wed Oct 28) became overdue at midnight.",
         "Due today (Thu Oct 29) through Sat Oct 31 and not marked completed in Ethos: English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Government: Judicial Branch Test (Thu Oct 29); Precalculus: Dropbox Test Unit 3 (Thu Oct 29); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29); Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31); Physics: Cart on Incline Lab (Sat Oct 31).",
         "Grade changes since Wednesday's recap: Sociology 84 → 85 (Teaching Video Assignment and Sociological Scavenger Hunt #4 graded 100).",
-        "Canvas: nothing due in Apologetics or Graphic Design through Sat Oct 31 — Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, due Tue Nov 3, then Summative - Sort and Defend (General vs. Special Revelation), due Tue Nov 10."
+        "Canvas: nothing due in Apologetics or Graphic Design through Sat Oct 31 — Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade; next up is Apologetics Contingency Argument: Understanding Check, now due Fri Nov 6 (moved from Tue Nov 3), then Summative - Sort and Defend (General vs. Special Revelation), due Tue Nov 10."
       ],
       "courses": [
         {
@@ -2470,7 +2493,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; new Contingency Argument: Understanding Check due Tue Nov 3; new Sat night: Summative - Sort and Defend (General vs. Special Revelation) (100 pts, no online submission) due Tue Nov 10 4:00 PM; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs handout, presentation, and project all 100; Spider Web of Beliefs Reflection (due Fri Oct 23 11:59 PM) submitted Fri 2:19 PM, awaiting grade; Contingency Argument: Understanding Check (100 pts) now due Fri Nov 6 11:59 PM (moved Thu from Tue Nov 3); new Sat night: Summative - Sort and Defend (General vs. Special Revelation) (100 pts, no online submission) due Tue Nov 10 4:00 PM; Handout: What Does It Mean to Believe in Christ? (due Thu Oct 29) already graded 100/100",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
@@ -2481,8 +2504,8 @@ window.RECAP_DATA = {
             {
               "title": "Contingency Argument: Understanding Check",
               "status": "due",
-              "detail": "New — 100 pts, not yet submitted",
-              "due": "Nov 3"
+              "detail": "100 pts, not yet submitted — due moved from Tue Nov 3 to Fri Nov 6",
+              "due": "Nov 6"
             },
             {
               "title": "Summative - Sort and Defend (General vs. Special Revelation)",
