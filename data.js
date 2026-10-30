@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 30, 2026 · 8:06 AM CT",
+  "updated": "Friday, Oct 30, 2026 · 12:15 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -8,7 +8,7 @@ window.RECAP_DATA = {
         "German I 87.78% (was 85.98) — on-paper work graded Thu late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. New: Quizlet for Chapter 2 quiz (25 pts) due Tue Nov 3 11:00 AM.",
         "Bible 90.16% (was 90.31) — David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Samuel Summative (100 pts, was due Thu 4:00 PM) was submitted on time Thu at 10:37 AM — still pending teacher review (preliminary auto-score 8 so far, not yet counted). Monday's Solomon work was graded Tue evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — not submitted; Canvas marks it missing.",
         "Biology 78.67% (was 80.69) — Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue 8:43 AM); Cellular Respiration Venn graded 100/100; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, due Tue 4:00 PM) and Mitosis & Meiosis Exit Ticket (100 pts, online quiz, due Tue 11:59 PM) were not submitted — Canvas marks both missing. Due today: DNA Synthesis Pivot (55 pts, Fri Oct 30 11:59 PM, not submitted yet); coming up: Lab 06: Mitosis due Wed Nov 4, Digital Punnett Squares due Fri Nov 6. Mrs. DeGrenier's Thu \"October 29 - 30 Agenda\" announcement: finish the DNA Replication exit ticket if not done, then the DNA Synthesis Pivot (due Fri).",
-        "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue 10:55 AM. New Thu afternoon: TURN IN - Conflict Zones Presentation (100 pts, summative, no due date in Canvas) — not turned in yet.",
+        "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue 10:55 AM. New Thu afternoon: TURN IN - Conflict Zones Presentation (100 pts, no due date in Canvas; moved Fri 9:47 AM from Summative to Q1 Formative) — not turned in yet.",
         "English I 81.14% — Romeo and Juliet Balcony Scene Comic (100 pts, file upload) was due Thu Oct 29 8:30 AM — not submitted; Canvas marks it missing again. APA Research Paper Outline (100 pts) and Q2 Membean Quiz 1 were also due Thu 8:30 AM — nothing in Canvas yet (outline being finished in class Thu/Fri). Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean)."
       ],
       "courses": [
@@ -774,7 +774,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 86.63,
-          "note": "86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts, summative; URL or file upload; no due date set in Canvas) — not turned in yet.",
+          "note": "86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM, awaiting grade (no due date set in Canvas); Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts; moved Fri Oct 30 9:47 AM from Summative to Q1 Formative Assessment; URL or file upload; no due date set in Canvas) — not turned in yet.",
           "work": [
             {
               "title": "Oct. 21st Current Event Post",
@@ -785,7 +785,7 @@ window.RECAP_DATA = {
             {
               "title": "TURN IN - Conflict Zones Presentation",
               "status": "due",
-              "detail": "New Thu Oct 29 · 100 pts summative · URL or file upload · no due date set in Canvas — not turned in yet",
+              "detail": "New Thu Oct 29 · 100 pts · moved Fri 9:47 AM to Q1 Formative (was Summative) · URL or file upload · no due date set in Canvas — not turned in yet",
               "due": "No due date"
             }
           ],
@@ -1341,7 +1341,7 @@ window.RECAP_DATA = {
         "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Precalculus: Dropbox Test Unit 3 (Thu Oct 29); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29) — English 12 Macbeth Acts 1 and 2, Government Judicial Branch Test, Precalculus Dropbox Test Unit 3, Sociology Concept Module 1: Know Your Terms (due Thu Oct 29) became overdue at midnight.",
         "Due today (Fri Oct 30) through Mon Nov 2 and not marked completed in Ethos: Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31); Physics: Cart on Incline Lab (Sat Oct 31); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Judicial Activism v. Restraint (Sun Nov 1); Government: Jurisdiction (Sun Nov 1); Government: The Judiciary (Sun Nov 1); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2).",
         "Grade changes since Wednesday's recap: Sociology 84 → 85 (Teaching Video Assignment and Sociological Scavenger Hunt #4 graded 100).",
-        "Canvas Apologetics: Mr. Dallas announced Thu that the Summative (General vs. Special Revelation) is in class Tue Nov 3 for Sky's period (P3); review files are in the Notes section of The Case for Theism module. Canvas still lists Summative - Sort and Defend due Tue Nov 10. Contingency Argument: Understanding Check is now due Fri Nov 6 (was Tue Nov 3); Spider Web of Beliefs Reflection (submitted Fri Oct 23) still awaiting a grade."
+        "Canvas Apologetics: Mr. Dallas announced Thu that the Summative (General vs. Special Revelation) is in class Tue Nov 3 for Sky's period (P3); review files are in the Notes section of The Case for Theism module. Canvas still lists Summative - Sort and Defend due Tue Nov 10. Contingency Argument: Understanding Check (due Fri Nov 6) was submitted Fri Oct 30 at 10:34 AM — awaiting grade; Spider Web of Beliefs Reflection (submitted Fri Oct 23) still awaiting a grade."
       ],
       "courses": [
         {
@@ -2535,7 +2535,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs Reflection (submitted Fri Oct 23) awaiting grade; Thu announcement: Summative (General vs. Special Revelation) in class Tue Nov 3 for P3 — review the General and Special Revelation slides and Summative Review PDF (Canvas still lists Sort and Defend due Tue Nov 10 4:00 PM); Contingency Argument: Understanding Check (100 pts) due Fri Nov 6 11:59 PM; Handout: What Does It Mean to Believe in Christ? (due today, Fri Oct 30) already 100/100",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs Reflection (submitted Fri Oct 23) awaiting grade; Thu announcement: Summative (General vs. Special Revelation) in class Tue Nov 3 for P3 — review the General and Special Revelation slides and Summative Review PDF (Canvas still lists Sort and Defend due Tue Nov 10 4:00 PM); Contingency Argument: Understanding Check (100 pts, due Fri Nov 6 11:59 PM) submitted Fri Oct 30 10:34 AM — awaiting grade; Handout: What Does It Mean to Believe in Christ? (due today, Fri Oct 30) already 100/100",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
@@ -2546,7 +2546,7 @@ window.RECAP_DATA = {
             {
               "title": "Contingency Argument: Understanding Check",
               "status": "due",
-              "detail": "100 pts, not yet submitted — due moved from Tue Nov 3 to Fri Nov 6",
+              "detail": "Submitted Fri 10:34 AM — awaiting grade (100 pts, due Fri Nov 6)",
               "due": "Nov 6"
             },
             {
