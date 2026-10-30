@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Oct 30, 2026 · 4:12 PM CT",
+  "updated": "Friday, Oct 30, 2026 · 5:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1345,10 +1345,9 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Precalculus: Dropbox Test Unit 3 (Thu Oct 29); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29) — English 12 Macbeth Acts 1 and 2, Government Judicial Branch Test, Precalculus Dropbox Test Unit 3, Sociology Concept Module 1: Know Your Terms (due Thu Oct 29) became overdue at midnight.",
-        "Due today (Fri Oct 30) through Mon Nov 2 and not marked completed in Ethos: Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31); Physics: Cart on Incline Lab (Sat Oct 31); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Judicial Activism v. Restraint (Sun Nov 1); Government: Jurisdiction (Sun Nov 1); Government: The Judiciary (Sun Nov 1); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2).",
-        "Grade changes since Wednesday's recap: Sociology 84 → 85 (Teaching Video Assignment and Sociological Scavenger Hunt #4 graded 100).",
-        "Canvas Apologetics: Mr. Dallas announced Thu that the Summative (General vs. Special Revelation) is in class Tue Nov 3 for Sky's period (P3); review files are in the Notes section of The Case for Theism module. Canvas still lists Summative - Sort and Defend due Tue Nov 10. Contingency Argument: Understanding Check (due Fri Nov 6) was submitted Fri Oct 30 at 10:34 AM — awaiting grade; Spider Web of Beliefs Reflection (submitted Fri Oct 23) still awaiting a grade."
+        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Precalculus: Dropbox Test Unit 3 (Thu Oct 29); Sociology: Sociology Midterm (2022) (Fri Oct 23); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
+        "Due today (Fri Oct 30) through Tue Nov 3 and not marked completed in Ethos: Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31); Physics: Cart on Incline Lab (Sat Oct 31); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Judicial Activism v. Restraint (Sun Nov 1); Government: Jurisdiction (Sun Nov 1); Government: The Judiciary (Sun Nov 1); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3).",
+        "Canvas Apologetics: Summative (General vs. Special Revelation) is in class Tue Nov 3 for Sky's period (P3), per Mr. Dallas's Thursday announcement — review the General and Special Revelation slides and Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10). Sky turned in the Contingency Argument: Understanding Check this morning at 10:34 AM (due Fri Nov 6) — awaiting a grade; Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade too."
       ],
       "courses": [
         {
@@ -1357,7 +1356,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Wednesday's recap) · due soon: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2) · 20 overdue (Macbeth Acts 1 and 2, due Thu Oct 29, now overdue) · 0 posted 0",
+          "note": "96% (no change since Thursday's recap) · due soon: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2) · 20 overdue · 0 posted 0",
           "work": [
             {
               "title": "DWS #5 Quiz: Passive Voice and Passive Verbs",
@@ -1572,7 +1571,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 82,
-          "note": "82% (no change since Wednesday's recap) · due soon: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31), Cart on Incline Lab (Sat Oct 31) · 11 overdue · 2 posted 0",
+          "note": "82% (no change since Thursday's recap) · due soon: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31), Cart on Incline Lab (Sat Oct 31), Mass vs Weight (Tue Nov 3) · 11 overdue · 2 posted 0",
           "work": [
             {
               "title": "Newton's 2nd Law Problem Set #2 (Friction & Inclines)",
@@ -1585,6 +1584,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Not completed",
               "due": "Due Sat Oct 31"
+            },
+            {
+              "title": "Mass vs Weight",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Tue Nov 3"
             },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
@@ -1870,7 +1875,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Wednesday's recap) · due soon: Synch Session #7 Makeup (Sun Nov 1), Judicial Activism v. Restraint (Sun Nov 1), Jurisdiction (Sun Nov 1), The Judiciary (Sun Nov 1) · 6 overdue (Judicial Branch Test, due Thu Oct 29, now overdue) · 0 posted 0",
+          "note": "87% (no change since Thursday's recap) · due soon: Synch Session #7 Makeup (Sun Nov 1), Judicial Activism v. Restraint (Sun Nov 1), Jurisdiction (Sun Nov 1), The Judiciary (Sun Nov 1) · 6 overdue · 0 posted 0",
           "work": [
             {
               "title": "Synch Session #7 Makeup",
@@ -2082,7 +2087,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (no change since Wednesday's recap) · 2 overdue (Dropbox Test Unit 3, due Thu Oct 29, now overdue) · 9 posted 0",
+          "note": "86% (no change since Thursday's recap) · 2 overdue · 9 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -2321,7 +2326,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (up from 84) · newly graded: Teaching Video Assignment (100), Sociological Scavenger Hunt #4 (100) · due soon: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2) · 13 overdue (Concept Module 1: Know Your Terms, due Thu Oct 29, now overdue) · 1 posted 0",
+          "note": "85% (no change since Thursday's recap) · due soon: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2) · 13 overdue · 1 posted 0",
           "work": [
             {
               "title": "Concept Module 2: Perspectives on Social Institutions",
@@ -2670,7 +2675,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — nothing new posted or graded since Wednesday; Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100; recent class grades all 100/100",
+          "note": "97.3% — nothing new posted or graded since Thursday; Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100; recent class grades all 100/100",
           "work": [],
           "grades": [
             {
