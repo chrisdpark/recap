@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 31, 2026 · 8:05 AM CT",
+  "updated": "Saturday, Oct 31, 2026 · 12:12 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1345,7 +1345,7 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Precalculus: Dropbox Test Unit 3 (Thu Oct 29); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
+        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
         "Due today (Sat Oct 31) through Tue Nov 3 and not marked completed in Ethos: Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31); Physics: Cart on Incline Lab (Sat Oct 31); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Judicial Activism v. Restraint (Sun Nov 1); Government: Jurisdiction (Sun Nov 1); Government: The Judiciary (Sun Nov 1); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3).",
         "Canvas Apologetics: Summative (General vs. Special Revelation) is in class Tue Nov 3 for Sky's period (P3), per Mr. Dallas's Thursday announcement — review the General and Special Revelation slides and Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10). Sky turned in the Contingency Argument: Understanding Check Fri morning at 10:34 AM (due Fri Nov 6) — awaiting a grade; Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade too."
       ],
@@ -2086,8 +2086,8 @@ window.RECAP_DATA = {
           "teacher": "Pinson",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 86,
-          "note": "86% (no change since Thursday's recap) · 2 overdue · 9 posted 0",
+          "grade": 89,
+          "note": "89% (up from 86% — Dropbox Test Unit 3 posted 97; Test Unit 3 shows 0, completed Oct 30) · 1 overdue · 10 posted 0",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -2144,16 +2144,16 @@ window.RECAP_DATA = {
               "due": "Due Oct 29, 2026"
             },
             {
+              "title": "Test Unit 3",
+              "status": "zero",
+              "detail": "Posted 0, completed Oct 30, 2026",
+              "due": "Due Nov 04, 2026"
+            },
+            {
               "title": "Quiz 3.1-3.3",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 20, 2026"
-            },
-            {
-              "title": "Dropbox Test Unit 3",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 29, 2026"
             }
           ],
           "grades": [
@@ -2317,6 +2317,20 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Ethos",
               "due": "Oct 29, 2026"
+            },
+            {
+              "title": "Dropbox Test Unit 3",
+              "score": "97",
+              "percent": 97.0,
+              "group": "Ethos",
+              "due": "Oct 29, 2026"
+            },
+            {
+              "title": "Test Unit 3",
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Nov 04, 2026"
             }
           ]
         },
