@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 31, 2026 · 12:12 PM CT",
+  "updated": "Saturday, Oct 31, 2026 · 4:08 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1347,7 +1347,7 @@ window.RECAP_DATA = {
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
         "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
         "Due today (Sat Oct 31) through Tue Nov 3 and not marked completed in Ethos: Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31); Physics: Cart on Incline Lab (Sat Oct 31); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Judicial Activism v. Restraint (Sun Nov 1); Government: Jurisdiction (Sun Nov 1); Government: The Judiciary (Sun Nov 1); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3).",
-        "Canvas Apologetics: Summative (General vs. Special Revelation) is in class Tue Nov 3 for Sky's period (P3), per Mr. Dallas's Thursday announcement — review the General and Special Revelation slides and Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10). Sky turned in the Contingency Argument: Understanding Check Fri morning at 10:34 AM (due Fri Nov 6) — awaiting a grade; Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade too."
+        "Canvas Apologetics: Summative (General vs. Special Revelation) is in class Tue Nov 3 for Sky's period (P3), per Mr. Dallas's Thursday announcement — review the General and Special Revelation slides and Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10). The Contingency Argument: Understanding Check Sky turned in Fri morning came back 100/100 Sat afternoon; Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade."
       ],
       "courses": [
         {
@@ -2561,19 +2561,13 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.2,
-          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs Reflection (submitted Fri Oct 23) awaiting grade; Thu announcement: Summative (General vs. Special Revelation) in class Tue Nov 3 for P3 — review the General and Special Revelation slides and Summative Review PDF (Canvas still lists Sort and Defend due Tue Nov 10 4:00 PM); Contingency Argument: Understanding Check (100 pts, due Fri Nov 6 11:59 PM) submitted Fri Oct 30 10:34 AM — awaiting grade; Handout: What Does It Mean to Believe in Christ? (due Fri Oct 30) already 100/100",
+          "note": "87.2% — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs Reflection (submitted Fri Oct 23) awaiting grade; Thu announcement: Summative (General vs. Special Revelation) in class Tue Nov 3 for P3 — review the General and Special Revelation slides and Summative Review PDF (Canvas still lists Sort and Defend due Tue Nov 10 4:00 PM); Contingency Argument: Understanding Check (due Fri Nov 6) graded 100/100 Sat Oct 31; Handout: What Does It Mean to Believe in Christ? (due Fri Oct 30) already 100/100",
           "work": [
             {
               "title": "Spider Web of Beliefs Reflection",
               "status": "due",
               "detail": "Submitted Fri 2:19 PM — awaiting grade",
               "due": "Oct 23"
-            },
-            {
-              "title": "Contingency Argument: Understanding Check",
-              "status": "due",
-              "detail": "Submitted Fri 10:34 AM — awaiting grade (100 pts, due Fri Nov 6)",
-              "due": "Nov 6"
             },
             {
               "title": "Summative - Sort and Defend (General vs. Special Revelation)",
@@ -2680,6 +2674,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 30"
+            },
+            {
+              "title": "Contingency Argument: Understanding Check",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Nov 6"
             }
           ]
         },
