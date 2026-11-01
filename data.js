@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Oct 31, 2026 · 8:04 PM CT",
+  "updated": "Sunday, Nov 1, 2026 · 12:11 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -914,7 +914,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 78.85,
-          "note": "78.85% (was 78.67) — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class) graded 100/100 Tue morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed 2:38 PM; score posted Tue 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative, due Tue Oct 27 4:00 PM) turned in late Fri Oct 30 2:27 PM — scored 90/100 (grade 78.67% to 78.85%). New Mon night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) was due Tue Oct 27 11:59 PM — not submitted, Canvas now marks it missing; Lab 06: Mitosis (100 pts, on paper) due Wed Nov 4 11:59 PM; Digital Punnett Squares (100 pts, file upload) due Fri Nov 6 11:59 PM; a makeup lab \"Copy of Exploring Respiration Rates\" (29 pts, no due date) also appeared. Mrs. DeGrenier's Canvas note Tue 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime. DNA Synthesis - From Gene to Protein Pivot (FA) (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas; now overdue. Mrs. DeGrenier's Thu Oct 29 ~9:00 AM announcement (\"October 29 - 30 Agenda\", sub in class this week, she's back next week): finish the DNA Replication Activity Exit Ticket from Mon/Tue if not done (open note), watch two DNA videos, and complete the DNA Synthesis – From Gene to Protein Pivot (due Fri).",
+          "note": "78.85% (was 78.67) — Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up was due Fri Oct 16 8:00 AM on Canvas and isn't submitted yet; Cellular Respiration Venn (in class) graded 100/100 Tue morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed 2:38 PM; score posted Tue 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative, due Tue Oct 27 4:00 PM) turned in late Fri Oct 30 2:27 PM — scored 90/100 (grade 78.67% to 78.85%). New Mon night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) was due Tue Oct 27 11:59 PM — not submitted, Canvas now marks it missing; Lab 06: Mitosis (100 pts, on paper) due Wed Nov 4 11:59 PM; Digital Punnett Squares (100 pts, file upload) due Fri Nov 6 11:59 PM; a makeup lab \"Copy of Exploring Respiration Rates\" (29 pts, no due date) also appeared. Mrs. DeGrenier's Canvas note Tue 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime. DNA Synthesis - From Gene to Protein Pivot (FA) (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas; now overdue. Mrs. DeGrenier's Thu Oct 29 ~9:00 AM announcement (\"October 29 - 30 Agenda\", sub in class the week of Oct 26, she's back the week of Nov 2): finish the DNA Replication Activity Exit Ticket from Mon/Tue if not done (open note), watch two DNA videos, and complete the DNA Synthesis – From Gene to Protein Pivot (due Fri).",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -1346,7 +1346,7 @@ window.RECAP_DATA = {
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
         "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Act 3 Scene Study in StudySync (Sun Oct 25); English 12: Mbn Week 10 (Sun Oct 25); English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Sociology: OPT. Assignment #4: Sociology in Kindergarten (Sun Oct 25); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
-        "Due today (Sat Oct 31) through Tue Nov 3 and not marked completed in Ethos: Physics: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31); Physics: Cart on Incline Lab (Sat Oct 31); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Judicial Activism v. Restraint (Sun Nov 1); Government: Jurisdiction (Sun Nov 1); Government: The Judiciary (Sun Nov 1); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3).",
+        "Due today (Sun Nov 1) through Wed Nov 4 and not marked completed in Ethos: Government: Synch Session #7 Makeup (Sun Nov 1); Government: The Judiciary (Sun Nov 1); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: DQ4: Institutions (Wed Nov 4).",
         "Canvas Apologetics: Summative (General vs. Special Revelation) is in class Tue Nov 3 for Sky's period (P3), per Mr. Dallas's Thursday announcement — review the General and Special Revelation slides and Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10). The Contingency Argument: Understanding Check Sky turned in Fri morning came back 100/100 Sat afternoon; Spider Web of Beliefs Reflection (submitted Fri Oct 23) is still awaiting a grade."
       ],
       "courses": [
@@ -1571,20 +1571,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 82,
-          "note": "82% (no change since Thursday's recap) · due soon: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (Sat Oct 31), Cart on Incline Lab (Sat Oct 31), Mass vs Weight (Tue Nov 3) · 11 overdue · 2 posted 0",
+          "note": "82% (unchanged; Newton's 2nd Law Problem Set #2 now graded 89) · due soon: Mass vs Weight (Tue Nov 3) · 10 overdue · 2 posted 0",
           "work": [
-            {
-              "title": "Newton's 2nd Law Problem Set #2 (Friction & Inclines)",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sat Oct 31"
-            },
-            {
-              "title": "Cart on Incline Lab",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sat Oct 31"
-            },
             {
               "title": "Mass vs Weight",
               "status": "due",
@@ -1644,12 +1632,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 12, 2026"
-            },
-            {
-              "title": "Forces & Newton's Laws Test Review",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 14, 2026"
             },
             {
               "title": "Circular Motion & Gravitation Notes",
@@ -1861,6 +1843,13 @@ window.RECAP_DATA = {
               "due": "Nov 02, 2026"
             },
             {
+              "title": "Newton's 2nd Law Problem Set #2 (Friction & Inclines)",
+              "score": "89",
+              "percent": 89.0,
+              "group": "Ethos",
+              "due": "Nov 04, 2026"
+            },
+            {
               "title": "Free Body Diagrams Quiz",
               "score": "80",
               "percent": 80.0,
@@ -1875,22 +1864,10 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Thursday's recap) · due soon: Synch Session #7 Makeup (Sun Nov 1), Judicial Activism v. Restraint (Sun Nov 1), Jurisdiction (Sun Nov 1), The Judiciary (Sun Nov 1) · 6 overdue · 0 posted 0",
+          "note": "87% (unchanged; Judicial Activism v. Restraint and Jurisdiction completed Oct 31) · due soon: Synch Session #7 Makeup (Sun Nov 1), The Judiciary (Sun Nov 1), Civil Liberties (Due Sunday) (Wed Nov 4) · 6 overdue · 0 posted 0",
           "work": [
             {
               "title": "Synch Session #7 Makeup",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 1"
-            },
-            {
-              "title": "Judicial Activism v. Restraint",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 1"
-            },
-            {
-              "title": "Jurisdiction",
               "status": "due",
               "detail": "Not completed",
               "due": "Due Sun Nov 1"
@@ -1900,6 +1877,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Not completed",
               "due": "Due Sun Nov 1"
+            },
+            {
+              "title": "Civil Liberties (Due Sunday)",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Wed Nov 4"
             },
             {
               "title": "Synch #1 Make Up",
@@ -2340,13 +2323,19 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since Thursday's recap) · due soon: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2) · 13 overdue · 1 posted 0",
+          "note": "85% (no change since Thursday's recap) · due soon: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2), DQ4: Institutions (Wed Nov 4) · 13 overdue · 1 posted 0",
           "work": [
             {
               "title": "Concept Module 2: Perspectives on Social Institutions",
               "status": "due",
               "detail": "Not completed",
               "due": "Due Mon Nov 2"
+            },
+            {
+              "title": "DQ4: Institutions",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Wed Nov 4"
             },
             {
               "title": "Synchro Session Attendance: Units 1-3",
