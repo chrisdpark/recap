@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 2, 2026 · 12:15 PM CT",
+  "updated": "Monday, Nov 2, 2026 · 4:05 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — no score in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30.",
+        "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — no score in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (10 pts, Delta Math) due Wed Nov 4 12:00 PM — not submitted yet.",
         "German I 87.78% (was 85.98) — on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Due tomorrow (Tue Nov 3): Quizlet for Chapter 2 quiz (25 pts) by 11:00 AM and Workbook 13-16 (25 pts, on paper, new Fri Oct 30) by 10:00 AM — neither turned in on Canvas yet.",
         "Bible 85.21% (was 84.01) — Samuel Summative re-graded 53 → 61/100 Sun Nov 1 ~10:04 AM (100 pts, submitted on time Thu Oct 29); the grade was 90.16% before it was graded. David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Mon Oct 26 Solomon work was graded Tue Oct 27 evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — not submitted; Canvas marks it missing. New Sun Nov 1 evening: Kingdom Splits Pattern Chart (due Thu Nov 5) and Exit Ticket (Fri Nov 6), Elijah: Carmel Case File (Mon Nov 9), Psalm 20:7 Memory Verse (100 pts, Tue Nov 10). Mon Nov 2: Kingdom Splits Exit Ticket taken 10:49 AM (shows 0/4 pending teacher review, not counted yet) and Pattern Chart turned in 10:59 AM.",
         "Biology 78.85% (was 78.67) — Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue Oct 27 8:43 AM); Cellular Respiration Venn graded 100/100; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (due Tue Oct 27 4:00 PM) was turned in late Fri Oct 30 2:27 PM and scored 90/100; Mitosis & Meiosis Exit Ticket (100 pts, online quiz, due Tue Oct 27 11:59 PM) still not submitted — Canvas marks it missing. DNA Synthesis Pivot (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas, now overdue; coming up: Lab 06: Mitosis due Wed Nov 4, Digital Punnett Squares due Fri Nov 6. Mrs. DeGrenier's Thu Oct 29 \"October 29 - 30 Agenda\" announcement: finish the DNA Replication exit ticket if not done, then the DNA Synthesis Pivot (was due Fri Oct 30).",
@@ -453,7 +453,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 23.16,
-          "note": "23.16% (was 24.36) — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — no score in Canvas yet. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30.",
+          "note": "23.16% (was 24.36) — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — no score in Canvas yet. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (10 pts, formative, Delta Math) due Wed Nov 4 12:00 PM — not submitted yet.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -496,6 +496,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "100 pts · Lessons 1–4: Slope-Intercept Form · taken in class Thu Oct 29 11:00 AM — no score in Canvas yet",
               "due": "Oct 29"
+            },
+            {
+              "title": "Point Slope Form Delta HW",
+              "status": "due",
+              "detail": "new Mon Nov 2 ~12:23 PM · 10 pts formative · Delta Math · due Wed Nov 4 12:00 PM · not submitted yet",
+              "due": "Nov 4"
             }
           ],
           "grades": [
