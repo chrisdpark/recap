@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 2, 2026 · 5:16 PM CT",
+  "updated": "Monday, Nov 2, 2026 · 5:17 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1394,9 +1394,11 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Government: Synch Session #7 Makeup (Sun Nov 1); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29) — Government Synch Session #7 Makeup (due Sun Nov 1) became overdue at midnight.",
-        "Due today (Mon Nov 2) through Thu Nov 5 and not marked completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: DQ4: Institutions (Wed Nov 4); Physics: Net Force Conceptual Question (Thu Nov 5); Precalculus: Dropbox Week 12 Homework (Thu Nov 5); Precalculus: Dropbox Unit Circle Quiz (Thu Nov 5); Precalculus: Drop box Quiz 4.1-4.4 (Thu Nov 5).",
-        "Canvas Apologetics 86.89% (was 87.2): Summative (General vs. Special Revelation) is in class tomorrow (Tue Nov 3) for Sky's period (P3), per Mr. Dallas's Thu Oct 29 announcement — review the General and Special Revelation slides and Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10). Spider Web of Beliefs Reflection (submitted Fri Oct 23) was graded 90/100 Sun night (~11:35 PM), moving Apologetics from 87.2% to 86.89%; the Contingency Argument: Understanding Check Sky turned in Fri Oct 30 came back 100/100 Sat Oct 31."
+        "Overdue from the last week, still not completed in Ethos: English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Government: Synch Session #7 Makeup (Sun Nov 1); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
+        "Due today (Mon Nov 2) through Wed Nov 4 and not marked completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: DQ4: Institutions (Wed Nov 4).",
+        "Grade changes since Friday's recap: Physics 82 → 83 (graded: Newton's 2nd Law Problem Set #2 (Friction & Inclines) 89; Forces and Newton's Laws Quiz 100), Precalculus 86 → 89 (graded: Dropbox Test Unit 3 97; Test Unit 3 shows 0 but is marked completed Oct 30, 2026).",
+        "Canvas Apologetics: the Summative (General vs. Special Revelation) is in class TOMORROW, Tue Nov 3, for Sky's period (P3), per Mr. Dallas's Thu Oct 29 announcement — review the General and Special Revelation slides and the Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10).",
+        "Canvas Apologetics: Mr. Dallas posted a Senior Superlatives announcement this morning asking seniors to fill out a short form (link is in the Canvas announcement)."
       ],
       "courses": [
         {
@@ -1405,7 +1407,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since the Thu Oct 29 recap) · due soon: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2) · 20 overdue · 0 posted 0",
+          "note": "96% (no change since Friday's recap) · due soon: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2) · 20 overdue · 0 posted 0",
           "work": [
             {
               "title": "DWS #5 Quiz: Passive Voice and Passive Verbs",
@@ -1426,6 +1428,12 @@ window.RECAP_DATA = {
               "due": "Due Sep 21, 2025"
             },
             {
+              "title": "Mbn 11/09",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Nov 09, 2025"
+            },
+            {
               "title": "Macbeth Act 5 Discussion Questions",
               "status": "overdue",
               "detail": "Not completed",
@@ -1433,12 +1441,6 @@ window.RECAP_DATA = {
             },
             {
               "title": "StudySync Act 5, scene 5 Paragraph Response",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 09, 2025"
-            },
-            {
-              "title": "Mbn 11/09",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Nov 09, 2025"
@@ -1492,13 +1494,13 @@ window.RECAP_DATA = {
               "due": "Due Sep 30, 2026"
             },
             {
-              "title": "Intro to the English Renaissance on StudySync",
+              "title": "Membean Practice 10/19",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 18, 2026"
             },
             {
-              "title": "Membean Practice 10/19",
+              "title": "Intro to the English Renaissance on StudySync",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 18, 2026"
@@ -1510,13 +1512,13 @@ window.RECAP_DATA = {
               "due": "Due Oct 22, 2026"
             },
             {
-              "title": "Mbn Week 10",
+              "title": "Macbeth Act 3 Scene Study in StudySync",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 25, 2026"
             },
             {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
+              "title": "Mbn Week 10",
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 25, 2026"
@@ -1620,19 +1622,13 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (up from 82 — Forces and Newton's Laws Quiz graded 100, completed Nov 1) · due soon: Mass vs Weight (Tue Nov 3), Net Force Conceptual Question (Thu Nov 5) · 10 overdue · 2 posted 0",
+          "note": "83% (up from 82) · newly graded: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (89), Forces and Newton's Laws Quiz (100) · completed, awaiting grade: Cart on Incline Lab · due soon: Mass vs Weight (Tue Nov 3) · 10 overdue · 2 posted 0",
           "work": [
             {
               "title": "Mass vs Weight",
               "status": "due",
               "detail": "Not completed",
               "due": "Due Tue Nov 3"
-            },
-            {
-              "title": "Net Force Conceptual Question",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Thu Nov 5"
             },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
@@ -1926,7 +1922,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (unchanged; Judicial Activism v. Restraint and Jurisdiction graded 100, President and Bureaucracy Test graded 88 and The Judiciary completed Nov 1) · due soon: Civil Liberties (Due Sunday) (Wed Nov 4) · 6 overdue (Synch Session #7 Makeup, due Sun Nov 1, now overdue) · 0 posted 0",
+          "note": "87% (no change since Friday's recap) · newly graded: President and Bureaucracy Test (88), Judicial Activism v. Restraint (100), Jurisdiction (100) · completed, awaiting grade: The Judiciary · due soon: Civil Liberties (Due Sunday) (Wed Nov 4) · 6 overdue · 0 posted 0",
           "work": [
             {
               "title": "Civil Liberties (Due Sunday)",
@@ -2141,26 +2137,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% (up from 86% — Dropbox Test Unit 3 posted 97; Test Unit 3 shows 0, completed Oct 30) · due soon: Dropbox Week 12 Homework (Thu Nov 5), Dropbox Unit Circle Quiz (Thu Nov 5), Drop box Quiz 4.1-4.4 (Thu Nov 5) · 1 overdue · 10 posted 0",
+          "note": "89% (up from 86) · newly graded: Dropbox Test Unit 3 (97), Test Unit 3 shows 0 but is marked completed Oct 30, 2026 · 1 overdue · 10 posted 0",
           "work": [
-            {
-              "title": "Dropbox Week 12 Homework",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Thu Nov 5"
-            },
-            {
-              "title": "Dropbox Unit Circle Quiz",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Thu Nov 5"
-            },
-            {
-              "title": "Drop box Quiz 4.1-4.4",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Thu Nov 5"
-            },
             {
               "title": "Quiz 1.1 - 1.3",
               "status": "zero",
@@ -2412,7 +2390,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since the Thu Oct 29 recap) · due soon: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2), DQ4: Institutions (Wed Nov 4) · 13 overdue · 1 posted 0",
+          "note": "85% (no change since Friday's recap) · due soon: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2), DQ4: Institutions (Wed Nov 4) · 13 overdue · 1 posted 0",
           "work": [
             {
               "title": "Concept Module 2: Perspectives on Social Institutions",
@@ -2639,7 +2617,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 86.89,
-          "note": "86.89% (was 87.2) — Case for Truth Summative Exam 66/100 (graded Fri Oct 9); Spider Web of Beliefs Reflection (submitted Fri Oct 23) graded 90/100 Sun Nov 1 ~11:35 PM; Thu Oct 29 announcement: Summative (General vs. Special Revelation) in class tomorrow (Tue Nov 3) for P3 — review the General and Special Revelation slides and Summative Review PDF (Canvas still lists Sort and Defend due Tue Nov 10 4:00 PM); Contingency Argument: Understanding Check (due Fri Nov 6) graded 100/100 Sat Oct 31; Handout: What Does It Mean to Believe in Christ? (due Fri Oct 30) already 100/100",
+          "note": "86.89% (was 87.2) — Summative (General vs. Special Revelation) in class tomorrow (Tue Nov 3) for P3 per Thu Oct 29 announcement — review the General and Special Revelation slides and Summative Review PDF (Canvas still lists Sort and Defend due Tue Nov 10 4:00 PM); Spider Web of Beliefs Reflection graded 90/100 Sun Nov 1 ~11:35 PM; Contingency Argument: Understanding Check graded 100/100 Sat Oct 31; Mon Nov 2 announcement: Senior Superlatives form (link in Canvas); Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
           "work": [
             {
               "title": "Summative - Sort and Defend (General vs. Special Revelation)",
@@ -2769,7 +2747,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — nothing new posted or graded since Thu Oct 29; Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100; recent class grades all 100/100",
+          "note": "97.3% — nothing new posted or graded since Fri Oct 30; Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100; recent class grades all 100/100",
           "work": [],
           "grades": [
             {
