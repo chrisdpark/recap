@@ -1,11 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 2, 2026 · 8:12 PM CT",
+  "updated": "Tuesday, Nov 3, 2026 · 12:14 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 23.16% (was 24.36) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — no score in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (10 pts, Delta Math) due Wed Nov 4 12:00 PM — not submitted yet.",
-        "German I 87.78% (was 85.98) — on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Due tomorrow (Tue Nov 3): Quizlet for Chapter 2 quiz (25 pts) by 11:00 AM and Workbook 13-16 (25 pts, on paper, new Fri Oct 30) by 10:00 AM — neither turned in on Canvas yet.",
+        "Algebra I 21.44% (was 23.16) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts, due Mon Oct 19) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM — that dropped the grade from 23.16% to 21.44%. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — marked graded Mon Nov 2 ~11:55 PM, score not released in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; Delta Math) due Wed Nov 4 12:00 PM — not submitted yet.",
+        "German I 87.78% (was 85.98) — on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Due today (Tue Nov 3): Quizlet for Chapter 2 quiz (25 pts) by 11:00 AM and Workbook 13-16 (25 pts, on paper, new Fri Oct 30) by 10:00 AM — neither turned in on Canvas yet.",
         "Bible 85.21% (was 84.01) — Samuel Summative re-graded 53 → 61/100 Sun Nov 1 ~10:04 AM (100 pts, submitted on time Thu Oct 29); the grade was 90.16% before it was graded. David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Mon Oct 26 Solomon work was graded Tue Oct 27 evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — not submitted; Canvas marks it missing. New Sun Nov 1 evening: Kingdom Splits Pattern Chart (due Thu Nov 5) and Exit Ticket (Fri Nov 6), Elijah: Carmel Case File (Mon Nov 9), Psalm 20:7 Memory Verse (100 pts, Tue Nov 10). Mon Nov 2: Kingdom Splits Exit Ticket taken 10:49 AM (shows 0/4 pending teacher review, not counted yet) and Pattern Chart turned in 10:59 AM.",
         "Biology 78.85% (was 78.67) — Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue Oct 27 8:43 AM); Cellular Respiration Venn graded 100/100; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (due Tue Oct 27 4:00 PM) was turned in late Fri Oct 30 2:27 PM and scored 90/100; Mitosis & Meiosis Exit Ticket (100 pts, online quiz, due Tue Oct 27 11:59 PM) still not submitted — Canvas marks it missing. DNA Synthesis Pivot (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas, now overdue; coming up: Lab 06: Mitosis due Wed Nov 4, Digital Punnett Squares due Fri Nov 6. Mrs. DeGrenier's Thu Oct 29 \"October 29 - 30 Agenda\" announcement: finish the DNA Replication exit ticket if not done, then the DNA Synthesis Pivot (was due Fri Oct 30).",
         "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM. New Thu Oct 29 afternoon: TURN IN - Conflict Zones Presentation (100 pts, Formative, no due date in Canvas) was turned in Fri Oct 30 1:28 PM — awaiting grade. New Mon Nov 2 ~9:53 AM: Wednesday November 4th Current Event Post (100 pts, no due date in Canvas) — not submitted yet. Week 6 page (posted Mon Nov 2): Unit 2 Test in class Thu Nov 5 (A day) / Fri Nov 6 (B day); test review Mon/Tue.",
@@ -452,8 +452,8 @@ window.RECAP_DATA = {
           "teacher": "Seegers",
           "period": "P4",
           "source": "canvas",
-          "grade": 23.16,
-          "note": "23.16% (was 24.36) — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts) was due Mon Oct 19 11:00 AM and isn't submitted in Canvas yet. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — no score in Canvas yet. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (10 pts, formative, Delta Math) due Wed Nov 4 12:00 PM — not submitted yet.",
+          "grade": 21.44,
+          "note": "21.44% (was 23.16) — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts, due Mon Oct 19 11:00 AM) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM, dropping the grade from 23.16% to 21.44%. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — Mr. Seegers marked it graded Mon Nov 2 ~11:55 PM, but the score isn't released in Canvas yet. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; formative, Delta Math) due Wed Nov 4 12:00 PM — not submitted yet.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -481,8 +481,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Slope Intercept Form Homework",
-              "status": "overdue",
-              "detail": "20 pts · was due Mon Oct 19 11:00 AM — not submitted in Canvas yet",
+              "status": "zero",
+              "detail": "0/20 · was due Mon Oct 19 11:00 AM — never submitted; graded 0 Mon Nov 2 ~11:51 PM",
               "due": "Oct 19"
             },
             {
@@ -494,13 +494,13 @@ window.RECAP_DATA = {
             {
               "title": "Unit 3 Part 1 Test",
               "status": "due",
-              "detail": "100 pts · Lessons 1–4: Slope-Intercept Form · taken in class Thu Oct 29 11:00 AM — no score in Canvas yet",
+              "detail": "100 pts · Lessons 1–4: Slope-Intercept Form · taken in class Thu Oct 29 11:00 AM — marked graded Mon Nov 2 ~11:55 PM, score not released in Canvas yet",
               "due": "Oct 29"
             },
             {
               "title": "Point Slope Form Delta HW",
               "status": "due",
-              "detail": "new Mon Nov 2 ~12:23 PM · 10 pts formative · Delta Math · due Wed Nov 4 12:00 PM · not submitted yet",
+              "detail": "new Mon Nov 2 ~12:23 PM · 20 pts formative (was 10) · Delta Math · due Wed Nov 4 12:00 PM · not submitted yet",
               "due": "Nov 4"
             }
           ],
@@ -574,6 +574,13 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Summative Assessment",
               "due": "Oct 21"
+            },
+            {
+              "title": "Slope Intercept Form Homework",
+              "score": "0/20",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Oct 19"
             }
           ]
         },
@@ -583,7 +590,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 87.78,
-          "note": "87.78% (was 85.98) — Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts) due tomorrow, Tue Nov 3 11:00 AM. New Fri Oct 30 12:35 PM: Workbook 13-16 (25 pts, formative, on paper) due tomorrow, Tue Nov 3 10:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
+          "note": "87.78% (was 85.98) — Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts) due today, Tue Nov 3 11:00 AM. New Fri Oct 30 12:35 PM: Workbook 13-16 (25 pts, formative, on paper) due today, Tue Nov 3 10:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Lord's Prayer (SA) — all parts, speaking & writing",
@@ -594,7 +601,7 @@ window.RECAP_DATA = {
             {
               "title": "Workbook 13-16",
               "status": "due",
-              "detail": "New Fri Oct 30 · 25 pts formative · on paper · due tomorrow (Tue Nov 3) 10:00 AM",
+              "detail": "New Fri Oct 30 · 25 pts formative · on paper · due today (Tue Nov 3) 10:00 AM",
               "due": "Nov 3"
             }
           ],
@@ -1394,11 +1401,11 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Fall Mid-term Exam (Mon Oct 26); English 12: Macbeth Acts 1 and 2 (Thu Oct 29); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Government: Synch Session #7 Makeup (Sun Nov 1); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29).",
-        "Due today (Mon Nov 2) through Wed Nov 4 and not marked completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: DQ4: Institutions (Wed Nov 4).",
-        "Grade changes since Friday's recap: Physics 82 → 83 (graded: Newton's 2nd Law Problem Set #2 (Friction & Inclines) 89; Forces and Newton's Laws Quiz 100), Precalculus 86 → 89 (graded: Dropbox Test Unit 3 97; Test Unit 3 shows 0 but is marked completed Oct 30, 2026).",
-        "Canvas Apologetics: the Summative (General vs. Special Revelation) is in class TOMORROW, Tue Nov 3, for Sky's period (P3), per Mr. Dallas's Thu Oct 29 announcement — review the General and Special Revelation slides and the Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10).",
-        "Canvas Apologetics: Mr. Dallas posted a Senior Superlatives announcement this morning asking seniors to fill out a short form (link is in the Canvas announcement)."
+        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Acts 1 and 2 (Thu Oct 29); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Government: Synch Session #7 Makeup (Sun Nov 1); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2) — English 12 DWS #5 Quiz: Passive Voice and Passive Verbs, Sociology Concept Module 2: Perspectives on Social Institutions (due Mon Nov 2) became overdue at midnight.",
+        "Due today (Tue Nov 3) through Thu Nov 5 and not marked completed in Ethos: Physics: Mass vs Weight (Tue Nov 3); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: DQ4: Institutions (Wed Nov 4); Physics: Net Force Conceptual Question (Thu Nov 5); Precalculus: Dropbox Week 12 Homework (Thu Nov 5); Precalculus: Dropbox Unit Circle Quiz (Thu Nov 5); Precalculus: Drop box Quiz 4.1-4.4 (Thu Nov 5).",
+        "Grade changes since Friday's recap: Physics 82 → 83 (graded: Newton's 2nd Law Problem Set #2 (Friction & Inclines) 89; Forces and Newton's Laws Quiz 100), Precalculus 86 → 89 (graded: Dropbox Test Unit 3 97; Test Unit 3 shows 0 but is marked completed Oct 30, 2026). Graded overnight Mon Nov 2 (overall grades unchanged): Physics Cart on Incline Lab 100; Government The Judiciary 100.",
+        "Canvas Apologetics: the Summative (General vs. Special Revelation) is in class TODAY, Tue Nov 3, for Sky's period (P3), per Mr. Dallas's Thu Oct 29 announcement — review the General and Special Revelation slides and the Summative Review PDF in the Notes section of The Case for Theism module (Canvas still lists Sort and Defend due Tue Nov 10).",
+        "Canvas Apologetics: Mr. Dallas posted a Senior Superlatives announcement Mon morning (Nov 2) asking seniors to fill out a short form (link is in the Canvas announcement)."
       ],
       "courses": [
         {
@@ -1407,14 +1414,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Friday's recap) · due soon: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2) · 20 overdue · 0 posted 0",
+          "note": "96% (no change since Friday's recap) · 21 overdue (DWS #5 Quiz: Passive Voice and Passive Verbs, due Mon Nov 2, now overdue) · 0 posted 0",
           "work": [
-            {
-              "title": "DWS #5 Quiz: Passive Voice and Passive Verbs",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Mon Nov 2"
-            },
             {
               "title": "Poetic Elements and Structure (StudySync)",
               "status": "overdue",
@@ -1534,6 +1535,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 29, 2026"
+            },
+            {
+              "title": "DWS #5 Quiz: Passive Voice and Passive Verbs",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Nov 02, 2026"
             }
           ],
           "grades": [
@@ -1622,13 +1629,19 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (up from 82) · newly graded: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (89), Forces and Newton's Laws Quiz (100) · completed, awaiting grade: Cart on Incline Lab · due soon: Mass vs Weight (Tue Nov 3) · 10 overdue · 2 posted 0",
+          "note": "83% (up from 82) · newly graded: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (89), Forces and Newton's Laws Quiz (100), Cart on Incline Lab (100) · due soon: Mass vs Weight (Tue Nov 3), Net Force Conceptual Question (Thu Nov 5) · 10 overdue · 2 posted 0",
           "work": [
             {
               "title": "Mass vs Weight",
               "status": "due",
               "detail": "Not completed",
               "due": "Due Tue Nov 3"
+            },
+            {
+              "title": "Net Force Conceptual Question",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Nov 5"
             },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
@@ -1901,6 +1914,13 @@ window.RECAP_DATA = {
               "due": "Nov 04, 2026"
             },
             {
+              "title": "Cart on Incline Lab",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 04, 2026"
+            },
+            {
               "title": "Free Body Diagrams Quiz",
               "score": "80",
               "percent": 80.0,
@@ -1922,7 +1942,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Friday's recap) · newly graded: President and Bureaucracy Test (88), Judicial Activism v. Restraint (100), Jurisdiction (100) · completed, awaiting grade: The Judiciary · due soon: Civil Liberties (Due Sunday) (Wed Nov 4) · 6 overdue · 0 posted 0",
+          "note": "87% (no change since Friday's recap) · newly graded: President and Bureaucracy Test (88), Judicial Activism v. Restraint (100), Jurisdiction (100), The Judiciary (100) · due soon: Civil Liberties (Due Sunday) (Wed Nov 4) · 6 overdue · 0 posted 0",
           "work": [
             {
               "title": "Civil Liberties (Due Sunday)",
@@ -2123,6 +2143,13 @@ window.RECAP_DATA = {
               "due": "Nov 01, 2026"
             },
             {
+              "title": "The Judiciary",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 01, 2026"
+            },
+            {
               "title": "Check point Quiz",
               "score": "87",
               "percent": 87.0,
@@ -2137,8 +2164,26 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% (up from 86) · newly graded: Dropbox Test Unit 3 (97), Test Unit 3 shows 0 but is marked completed Oct 30, 2026 · 1 overdue · 10 posted 0",
+          "note": "89% (up from 86) · newly graded: Dropbox Test Unit 3 (97), Test Unit 3 shows 0 but is marked completed Oct 30, 2026 · due soon: Dropbox Week 12 Homework (Thu Nov 5), Dropbox Unit Circle Quiz (Thu Nov 5), Drop box Quiz 4.1-4.4 (Thu Nov 5) · 1 overdue · 10 posted 0",
           "work": [
+            {
+              "title": "Dropbox Week 12 Homework",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Nov 5"
+            },
+            {
+              "title": "Dropbox Unit Circle Quiz",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Nov 5"
+            },
+            {
+              "title": "Drop box Quiz 4.1-4.4",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Nov 5"
+            },
             {
               "title": "Quiz 1.1 - 1.3",
               "status": "zero",
@@ -2390,14 +2435,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since Friday's recap) · due soon: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2), DQ4: Institutions (Wed Nov 4) · 13 overdue · 1 posted 0",
+          "note": "85% (no change since Friday's recap) · due soon: DQ4: Institutions (Wed Nov 4) · 14 overdue (Concept Module 2: Perspectives on Social Institutions, due Mon Nov 2, now overdue) · 1 posted 0",
           "work": [
-            {
-              "title": "Concept Module 2: Perspectives on Social Institutions",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Mon Nov 2"
-            },
             {
               "title": "DQ4: Institutions",
               "status": "due",
@@ -2487,6 +2526,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 29, 2026"
+            },
+            {
+              "title": "Concept Module 2: Perspectives on Social Institutions",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Nov 02, 2026"
             }
           ],
           "grades": [
@@ -2617,12 +2662,12 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 86.89,
-          "note": "86.89% (was 87.2) — Summative (General vs. Special Revelation) in class tomorrow (Tue Nov 3) for P3 per Thu Oct 29 announcement — review the General and Special Revelation slides and Summative Review PDF (Canvas still lists Sort and Defend due Tue Nov 10 4:00 PM); Spider Web of Beliefs Reflection graded 90/100 Sun Nov 1 ~11:35 PM; Contingency Argument: Understanding Check graded 100/100 Sat Oct 31; Mon Nov 2 announcement: Senior Superlatives form (link in Canvas); Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
+          "note": "86.89% (was 87.2) — Summative (General vs. Special Revelation) in class today (Tue Nov 3) for P3 per Thu Oct 29 announcement — review the General and Special Revelation slides and Summative Review PDF (Canvas still lists Sort and Defend due Tue Nov 10 4:00 PM); Spider Web of Beliefs Reflection graded 90/100 Sun Nov 1 ~11:35 PM; Contingency Argument: Understanding Check graded 100/100 Sat Oct 31; Mon Nov 2 announcement: Senior Superlatives form (link in Canvas); Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
           "work": [
             {
               "title": "Summative - Sort and Defend (General vs. Special Revelation)",
               "status": "due",
-              "detail": "In-class summative tomorrow (Tue Nov 3) for P3 (announced Thu Oct 29) — Canvas still lists Tue Nov 10",
+              "detail": "In-class summative today (Tue Nov 3) for P3 (announced Thu Oct 29) — Canvas still lists Tue Nov 10",
               "due": "Nov 3"
             }
           ],
