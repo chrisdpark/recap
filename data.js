@@ -1,12 +1,12 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 3, 2026 · 8:11 AM CT",
+  "updated": "Tuesday, Nov 3, 2026 · 12:06 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
         "Algebra I 21.44% (was 23.16) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts, due Mon Oct 19) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM — that dropped the grade from 23.16% to 21.44%. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — marked graded Mon Nov 2 ~11:55 PM, score not released in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; Delta Math) due Wed Nov 4 12:00 PM — not submitted yet.",
-        "German I 87.78% (was 85.98) — on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Due today (Tue Nov 3): Quizlet for Chapter 2 quiz (25 pts) by 11:00 AM and Workbook 13-16 (25 pts, on paper, new Fri Oct 30) by 10:00 AM — neither turned in on Canvas yet.",
-        "Bible 85.21% (was 84.01) — Samuel Summative re-graded 53 → 61/100 Sun Nov 1 ~10:04 AM (100 pts, submitted on time Thu Oct 29); the grade was 90.16% before it was graded. David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. Samuel Key Terms Quiz graded 7/10 Wed morning (David 3 was removed from Canvas). Mon Oct 26 Solomon work was graded Tue Oct 27 evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — not submitted; Canvas marks it missing. New Sun Nov 1 evening: Kingdom Splits Pattern Chart (due Thu Nov 5) and Exit Ticket (Fri Nov 6), Elijah: Carmel Case File (Mon Nov 9), Psalm 20:7 Memory Verse (100 pts, Tue Nov 10). Mon Nov 2: Kingdom Splits Exit Ticket taken 10:49 AM (shows 0/4 pending teacher review, not counted yet) and Pattern Chart turned in 10:59 AM.",
+        "German I 87.78% (was 85.98) — on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Due this morning (Tue Nov 3), now past due: Quizlet for Chapter 2 quiz (25 pts) at 11:00 AM and Workbook 13-16 (25 pts, on paper, new Fri Oct 30) at 10:00 AM — neither graded in Canvas yet (no online submission for either).",
+        "Bible 85.26% (was 85.21) — Samuel Key Terms Quiz retaken Tue Nov 3 8:18 AM: 7/10 → 9/10 (second attempt, marked late). Earlier: Samuel Summative re-graded 53 → 61/100 Sun Nov 1 ~10:04 AM (100 pts, submitted on time Thu Oct 29); the grade was 90.16% before it was graded. David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. David 3 was removed from Canvas. Mon Oct 26 Solomon work was graded Tue Oct 27 evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — not submitted; Canvas marks it missing. New Sun Nov 1 evening: Kingdom Splits Pattern Chart (due Thu Nov 5) and Exit Ticket (Fri Nov 6), Elijah: Carmel Case File (Mon Nov 9), Psalm 20:7 Memory Verse (100 pts, Tue Nov 10). Mon Nov 2: Kingdom Splits Exit Ticket taken 10:49 AM (shows 0/4 pending teacher review, not counted yet) and Pattern Chart turned in 10:59 AM.",
         "Biology 78.85% (was 78.67) — Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue Oct 27 8:43 AM); Cellular Respiration Venn graded 100/100; Lab 4 Photosynthesis write-up was due Fri Oct 16 8 AM and isn't submitted in Canvas yet; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (due Tue Oct 27 4:00 PM) was turned in late Fri Oct 30 2:27 PM and scored 90/100; Mitosis & Meiosis Exit Ticket (100 pts, online quiz, due Tue Oct 27 11:59 PM) still not submitted — Canvas marks it missing. DNA Synthesis Pivot (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas, now overdue; coming up: Lab 06: Mitosis due Wed Nov 4, Digital Punnett Squares due Fri Nov 6. Mrs. DeGrenier's Thu Oct 29 \"October 29 - 30 Agenda\" announcement: finish the DNA Replication exit ticket if not done, then the DNA Synthesis Pivot (was due Fri Oct 30).",
         "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM. New Thu Oct 29 afternoon: TURN IN - Conflict Zones Presentation (100 pts, Formative, no due date in Canvas) was turned in Fri Oct 30 1:28 PM — awaiting grade. New Mon Nov 2 ~9:53 AM: Wednesday November 4th Current Event Post (100 pts, no due date in Canvas) — not submitted yet. Week 6 page (posted Mon Nov 2): Unit 2 Test in class Thu Nov 5 (A day) / Fri Nov 6 (B day); test review Mon/Tue.",
         "English I 81.14% — Romeo and Juliet Balcony Scene Comic (100 pts, file upload) was due Thu Oct 29 8:30 AM — not submitted; Canvas marks it missing again. APA Research Paper Outline (100 pts) and Q2 Membean Quiz 1 were also due Thu Oct 29 8:30 AM — nothing in Canvas yet (outline being finished in class Thu Oct 29/Fri Oct 30). Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean)."
@@ -17,8 +17,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "canvas",
-          "grade": 85.21,
-          "note": "85.21% (was 84.01) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, so the grade is now 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21, graded 7/10. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts, online text entry) was due Thu Oct 29 8:00 AM (moved from Wed Oct 28 10:15 AM) — not submitted; Canvas marks it missing and recorded 0 at 8:36 AM (0-pt item, no effect on the grade). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade).",
+          "grade": 85.26,
+          "note": "85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts, online text entry) was due Thu Oct 29 8:00 AM (moved from Wed Oct 28 10:15 AM) — not submitted; Canvas marks it missing and recorded 0 at 8:36 AM (0-pt item, no effect on the grade). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade).",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -254,8 +254,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Samuel Key Terms Quiz",
-              "score": "7/10",
-              "percent": 70.0,
+              "score": "9/10",
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Oct 21"
             },
@@ -590,7 +590,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 87.78,
-          "note": "87.78% (was 85.98) — Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts) due today, Tue Nov 3 11:00 AM. New Fri Oct 30 12:35 PM: Workbook 13-16 (25 pts, formative, on paper) due today, Tue Nov 3 10:00 AM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
+          "note": "87.78% (was 85.98) — Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, no Canvas submission) was due today, Tue Nov 3 11:00 AM — no grade in Canvas yet. New Fri Oct 30 12:35 PM: Workbook 13-16 (25 pts, formative, on paper) was due today, Tue Nov 3 10:00 AM — no grade in Canvas yet. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Lord's Prayer (SA) — all parts, speaking & writing",
@@ -600,8 +600,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Workbook 13-16",
-              "status": "due",
-              "detail": "New Fri Oct 30 · 25 pts formative · on paper · due today (Tue Nov 3) 10:00 AM",
+              "status": "overdue",
+              "detail": "New Fri Oct 30 · 25 pts formative · on paper · was due today (Tue Nov 3) 10:00 AM — no grade in Canvas yet",
               "due": "Nov 3"
             }
           ],
@@ -1414,7 +1414,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Friday's recap) · 21 overdue (DWS #5 Quiz: Passive Voice and Passive Verbs, due Mon Nov 2, now overdue) · 0 posted 0",
+          "note": "96% (no change since Friday's recap) · Macbeth Act 5 Discussion Questions and Mbn 11/09 re-dated in Ethos to Sun Nov 8, 2026 (were listed Nov 9, 2025), so no longer overdue · 19 overdue (DWS #5 Quiz: Passive Voice and Passive Verbs, due Mon Nov 2, now overdue) · 0 posted 0",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1427,18 +1427,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Sep 21, 2025"
-            },
-            {
-              "title": "Mbn 11/09",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 09, 2025"
-            },
-            {
-              "title": "Macbeth Act 5 Discussion Questions",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 09, 2025"
             },
             {
               "title": "StudySync Act 5, scene 5 Paragraph Response",
