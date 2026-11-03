@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 3, 2026 · 5:12 PM CT",
+  "updated": "Tuesday, Nov 3, 2026 · 5:19 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1414,11 +1414,9 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Acts 1 and 2 (Thu Oct 29); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Government: Synch Session #7 Makeup (Sun Nov 1); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2) — English 12 DWS #5 Quiz: Passive Voice and Passive Verbs, Sociology Concept Module 2: Perspectives on Social Institutions (due Mon Nov 2) became overdue at midnight.",
+        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Acts 1 and 2 (Thu Oct 29); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Physics: Circular Motion Lab (Wed Oct 28); Government: Judicial Branch Test (Thu Oct 29); Government: Synch Session #7 Makeup (Sun Nov 1); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2).",
         "Due today (Tue Nov 3) through Thu Nov 5 and not marked completed in Ethos: Physics: Mass vs Weight (Tue Nov 3); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: DQ4: Institutions (Wed Nov 4); Physics: Net Force Conceptual Question (Thu Nov 5); Precalculus: Dropbox Week 12 Homework (Thu Nov 5); Precalculus: Dropbox Unit Circle Quiz (Thu Nov 5); Precalculus: Drop box Quiz 4.1-4.4 (Thu Nov 5).",
-        "Grade changes since Friday's recap: Physics 82 → 83 (graded: Newton's 2nd Law Problem Set #2 (Friction & Inclines) 89; Forces and Newton's Laws Quiz 100), Precalculus 86 → 89 (graded: Dropbox Test Unit 3 97; Test Unit 3 shows 0 but is marked completed Oct 30, 2026). Graded overnight Mon Nov 2 (overall grades unchanged): Physics Cart on Incline Lab 100; Government The Judiciary 100.",
-        "Canvas Apologetics: the in-class Summative - Sort and Defend (General vs. Special Revelation) from today (Tue Nov 3) is graded 80/100 (posted 1:08 PM); Apologetics 86.89% → 87.09%.",
-        "Canvas Apologetics: Mr. Dallas posted a Senior Superlatives announcement Mon morning (Nov 2) asking seniors to fill out a short form (link is in the Canvas announcement)."
+        "Canvas Apologetics: today's in-class Summative - Sort and Defend (General vs. Special Revelation) is already graded 80/100 (posted Tue ~1:08 PM); Apologetics is up from 86.89% to 87.09%."
       ],
       "courses": [
         {
@@ -1427,7 +1425,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Friday's recap) · Macbeth Act 5 Discussion Questions and Mbn 11/09 re-dated in Ethos to Sun Nov 8, 2026 (were listed Nov 9, 2025), so no longer overdue · 19 overdue (DWS #5 Quiz: Passive Voice and Passive Verbs, due Mon Nov 2, now overdue) · 0 posted 0",
+          "note": "96% (no change since Monday's recap) · 19 overdue · 0 posted 0",
           "work": [
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1574,16 +1572,16 @@ window.RECAP_DATA = {
               "due": "Aug 26, 2026"
             },
             {
-              "title": "Shooting an Elephant by George Orwell",
-              "score": "100",
-              "percent": 100.0,
+              "title": "Final Narrative Essay Writing Assignment",
+              "score": "92",
+              "percent": 92.0,
               "group": "Ethos",
               "due": "Aug 30, 2026"
             },
             {
-              "title": "Final Narrative Essay Writing Assignment",
-              "score": "92",
-              "percent": 92.0,
+              "title": "Shooting an Elephant by George Orwell",
+              "score": "100",
+              "percent": 100.0,
               "group": "Ethos",
               "due": "Aug 30, 2026"
             },
@@ -1602,14 +1600,14 @@ window.RECAP_DATA = {
               "due": "Sep 08, 2026"
             },
             {
-              "title": "Five Sources and Persuasive Paper Thesis Statement",
+              "title": "Prologue to the Canterbury Tales",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
               "due": "Sep 13, 2026"
             },
             {
-              "title": "Prologue to the Canterbury Tales",
+              "title": "Five Sources and Persuasive Paper Thesis Statement",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1630,7 +1628,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (up from 82) · newly graded: Newton's 2nd Law Problem Set #2 (Friction & Inclines) (89), Forces and Newton's Laws Quiz (100), Cart on Incline Lab (100) · due soon: Mass vs Weight (Tue Nov 3), Net Force Conceptual Question (Thu Nov 5) · 10 overdue · 2 posted 0",
+          "note": "83% (no change since Monday's recap) · newly graded: Cart on Incline Lab (100) · due soon: Mass vs Weight (Tue Nov 3), Net Force Conceptual Question (Thu Nov 5) · 10 overdue · 2 posted 0",
           "work": [
             {
               "title": "Mass vs Weight",
@@ -1943,7 +1941,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Friday's recap) · newly graded: President and Bureaucracy Test (88), Judicial Activism v. Restraint (100), Jurisdiction (100), The Judiciary (100) · due soon: Civil Liberties (Due Sunday) (Wed Nov 4) · 6 overdue · 0 posted 0",
+          "note": "87% (no change since Monday's recap) · newly graded: The Judiciary (100) · due soon: Civil Liberties (Due Sunday) (Wed Nov 4) · 6 overdue · 0 posted 0",
           "work": [
             {
               "title": "Civil Liberties (Due Sunday)",
@@ -2165,7 +2163,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% (up from 86) · newly graded: Dropbox Test Unit 3 (97), Test Unit 3 shows 0 but is marked completed Oct 30, 2026 · due soon: Dropbox Week 12 Homework (Thu Nov 5), Dropbox Unit Circle Quiz (Thu Nov 5), Drop box Quiz 4.1-4.4 (Thu Nov 5) · 1 overdue · 10 posted 0",
+          "note": "89% (no change since Monday's recap) · due soon: Dropbox Week 12 Homework (Thu Nov 5), Dropbox Unit Circle Quiz (Thu Nov 5), Drop box Quiz 4.1-4.4 (Thu Nov 5) · 1 overdue · 10 posted 0",
           "work": [
             {
               "title": "Dropbox Week 12 Homework",
@@ -2436,7 +2434,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since Friday's recap) · due soon: DQ4: Institutions (Wed Nov 4) · 14 overdue (Concept Module 2: Perspectives on Social Institutions, due Mon Nov 2, now overdue) · 1 posted 0",
+          "note": "85% (no change since Monday's recap) · due soon: DQ4: Institutions (Wed Nov 4) · 14 overdue · 1 posted 0",
           "work": [
             {
               "title": "DQ4: Institutions",
@@ -2663,7 +2661,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.09,
-          "note": "87.09% (was 86.89) — Summative - Sort and Defend (General vs. Special Revelation), taken in class today (Tue Nov 3, P3), graded 80/100 Tue Nov 3 1:08 PM; Spider Web of Beliefs Reflection graded 90/100 Sun Nov 1 ~11:35 PM; Contingency Argument: Understanding Check graded 100/100 Sat Oct 31; Mon Nov 2 announcement: Senior Superlatives form (link in Canvas); Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
+          "note": "87.09% (was 86.89) — Summative - Sort and Defend (General vs. Special Revelation), taken in class today (Tue Nov 3, P3), graded 80/100 Tue Nov 3 ~1:08 PM; Spider Web of Beliefs Reflection graded 90/100 Sun Nov 1; Contingency Argument: Understanding Check graded 100/100 Sat Oct 31; Mon Nov 2 announcement: Senior Superlatives form (link in Canvas); Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
           "work": [],
           "grades": [
             {
