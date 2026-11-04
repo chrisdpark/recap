@@ -1,13 +1,13 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Nov 4, 2026 · 12:11 PM CT",
+  "updated": "Wednesday, Nov 4, 2026 · 4:08 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Algebra I 21.44% (was 23.16) — still the big concern: Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts, due Mon Oct 19) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM — that dropped the grade from 23.16% to 21.44%. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — marked graded Mon Nov 2 ~11:55 PM, score not released in Canvas yet. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; Delta Math) was due today, Wed Nov 4 12:00 PM — not submitted; now overdue.",
-        "German I 88.3% (was 87.78) — Workbook 13-16 graded 25/25 Tue Nov 3 12:22 PM. Earlier: on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20. Quizlet for Chapter 2 quiz (25 pts) was due today, Wed Nov 4 11:00 AM — no grade in Canvas yet.",
+        "Algebra I 22.74% (was 21.44) — still the big concern: Unit 3 Part 1 Test score released Wed Nov 4 ~2:03 PM: 32/100. Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts, due Mon Oct 19) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM — that dropped the grade from 23.16% to 21.44%. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — marked graded Mon Nov 2 ~11:55 PM; score 32/100 released Wed Nov 4 ~2:03 PM. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; Delta Math) was due today, Wed Nov 4 12:00 PM — not submitted; now overdue.",
+        "German I 88.51% (was 88.3) — Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%); Workbook 13-16 re-scored to 24.75/20 (now out of 20). New: Workbook 11-19 (30 pts, on paper) due Tue Nov 10 12 PM and Chapter 3 Vocabulary List Part 1 (25 pts, on paper) due Tue Nov 10 10 AM. Earlier: Workbook 13-16 graded 25/25 Tue Nov 3 12:22 PM. Earlier: on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20.",
         "Bible 85.26% (was 85.21) — Samuel Key Terms Quiz retaken Tue Nov 3 8:18 AM: 7/10 → 9/10 (second attempt, marked late). Earlier: Samuel Summative re-graded 53 → 61/100 Sun Nov 1 ~10:04 AM (100 pts, submitted on time Thu Oct 29); the grade was 90.16% before it was graded. David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. David 3 was removed from Canvas. Mon Oct 26 Solomon work was graded Tue Oct 27 evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — not submitted; Canvas marks it missing. New Sun Nov 1 evening: Kingdom Splits Pattern Chart (due Thu Nov 5) and Exit Ticket (Fri Nov 6), Elijah: Carmel Case File (Mon Nov 9), Psalm 20:7 Memory Verse (100 pts, Tue Nov 10). Mon Nov 2: Kingdom Splits Exit Ticket taken 10:49 AM (shows 0/4 pending teacher review, not counted yet) and Pattern Chart turned in 10:59 AM. Wed Nov 4 10:05 AM: Elijah: Carmel Case File turned in (awaiting grade).",
-        "Biology 78.68% (was 78.85) — Wed Nov 4 morning: Lab 4: Photosynthesis graded 75/100 (posted ~9:48 AM); Lab 05: Cellular Respiration marked graded ~9:33 AM but no score shows yet. Earlier: Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue Oct 27 8:43 AM); Cellular Respiration Venn graded 100/100; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (due Tue Oct 27 4:00 PM) was turned in late Fri Oct 30 2:27 PM and scored 90/100; Mitosis & Meiosis Exit Ticket (100 pts, online quiz, due Tue Oct 27 11:59 PM) still not submitted — Canvas marks it missing. New in Canvas Tue Nov 3 2:08 PM: Lab 05: Cellular Respiration (100 pts, on paper, Canvas due Tue Oct 27) — marked graded Wed Nov 4, score not released yet. DNA Synthesis Pivot (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas, now overdue; coming up: Lab 06: Mitosis due today (Wed Nov 4), Digital Punnett Squares due Fri Nov 6. Mrs. DeGrenier's Thu Oct 29 \"October 29 - 30 Agenda\" announcement: finish the DNA Replication exit ticket if not done, then the DNA Synthesis Pivot (was due Fri Oct 30). Tue Nov 3 \"Tuesday, November 3 Agenda\" (sub that day): finish the Mitosis & Meiosis Exit Ticket (still not submitted as of Wed Nov 4 12 AM) and have the Lab 06: Mitosis Pre-Lab / Procedure / Data Tables done before class today (Wed Nov 4).",
+        "Biology 78.68% (was 78.85) — Wed Nov 4 morning: Lab 4: Photosynthesis graded 75/100 (posted ~9:48 AM); Lab 05: Cellular Respiration marked graded ~9:33 AM but no score shows yet. Earlier: Cellular Energy Summative Project (100 pts, turned in late Wed Oct 21) scored 63/100 (posted Tue Oct 27 8:43 AM); Cellular Respiration Venn graded 100/100; Creation Journals 1–4 discussion still 0/20. Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (due Tue Oct 27 4:00 PM) was turned in late Fri Oct 30 2:27 PM and scored 90/100; Mitosis & Meiosis Exit Ticket (100 pts, online quiz, due Tue Oct 27 11:59 PM) still not submitted — Canvas marks it missing. New in Canvas Tue Nov 3 2:08 PM: Lab 05: Cellular Respiration (100 pts, on paper, Canvas due Tue Oct 27) — marked graded Wed Nov 4, score not released yet. DNA Synthesis Pivot (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas, now overdue; coming up: Lab 06: Mitosis due today (Wed Nov 4), Digital Punnett Squares due Fri Nov 6. Mrs. DeGrenier's Thu Oct 29 \"October 29 - 30 Agenda\" announcement: finish the DNA Replication exit ticket if not done, then the DNA Synthesis Pivot (was due Fri Oct 30). Tue Nov 3 \"Tuesday, November 3 Agenda\" (sub that day): finish the Mitosis & Meiosis Exit Ticket (still not submitted as of Wed Nov 4 12 AM) and have the Lab 06: Mitosis Pre-Lab / Procedure / Data Tables done before class today (Wed Nov 4). New Wed Nov 4 afternoon: Non-mendelian Traits WebQuest (Codominance and Incomplete Dominance) (100 pts formative, due Tue Nov 10 11:59 PM), Creation Journal #7 (10 pts summative, on paper, due Tue Nov 10 9:00 AM), Creation Journal Entry #8 (10 pts summative, on paper, due Fri Nov 13 4:00 PM); Blood Types: Weathering the Storm (100 pts formative, online quiz, due Wed Nov 11 11:59 PM) now showing in Canvas.",
         "World Geography 86.63% (was 86.22) — October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Oct. 21st Current Event Post (100 pts, due Fri Oct 23) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM. New Thu Oct 29 afternoon: TURN IN - Conflict Zones Presentation (100 pts, Formative, no due date in Canvas) was turned in Fri Oct 30 1:28 PM — awaiting grade. New Mon Nov 2 ~9:53 AM: Wednesday November 4th Current Event Post (100 pts, no due date in Canvas; that's today) — not submitted yet. Week 6 page (posted Mon Nov 2): Unit 2 Test in class Thu Nov 5 (A day) / Fri Nov 6 (B day); test review Mon/Tue.",
         "English I 81.14% — Romeo and Juliet Balcony Scene Comic (100 pts, file upload) was due Thu Oct 29 8:30 AM — not submitted; Canvas marks it missing again. APA Research Paper Outline (100 pts) and Q2 Membean Quiz 1 were also due Thu Oct 29 8:30 AM — nothing in Canvas yet (outline being finished in class Thu Oct 29/Fri Oct 30). Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean)."
       ],
@@ -452,8 +452,8 @@ window.RECAP_DATA = {
           "teacher": "Seegers",
           "period": "P4",
           "source": "canvas",
-          "grade": 21.44,
-          "note": "21.44% (was 23.16) — Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts, due Mon Oct 19 11:00 AM) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM, dropping the grade from 23.16% to 21.44%. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — Mr. Seegers marked it graded Mon Nov 2 ~11:55 PM, but the score isn't released in Canvas yet. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; formative, Delta Math) was due today, Wed Nov 4 12:00 PM — not submitted; now overdue.",
+          "grade": 22.74,
+          "note": "22.74% (was 21.44) — Wed Nov 4 ~2:03 PM: Unit 3 Part 1 Test score released: 32/100. Earlier (23.16 → 21.44): Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts, due Mon Oct 19 11:00 AM) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM, dropping the grade from 23.16% to 21.44%. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — Mr. Seegers marked it graded Mon Nov 2 ~11:55 PM; score released Wed Nov 4 ~2:03 PM: 32/100. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; formative, Delta Math) was due today, Wed Nov 4 12:00 PM — not submitted; now overdue.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -493,8 +493,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Unit 3 Part 1 Test",
-              "status": "due",
-              "detail": "100 pts · Lessons 1–4: Slope-Intercept Form · taken in class Thu Oct 29 11:00 AM — marked graded Mon Nov 2 ~11:55 PM, score not released in Canvas yet",
+              "status": "zero",
+              "detail": "32/100 · Lessons 1–4: Slope-Intercept Form · taken in class Thu Oct 29 · score released Wed Nov 4 ~2:03 PM",
               "due": "Oct 29"
             },
             {
@@ -581,6 +581,13 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Oct 19"
+            },
+            {
+              "title": "Unit 3 Part 1 Test",
+              "score": "32/100",
+              "percent": 32.0,
+              "group": "Summative Assessment",
+              "due": "Oct 29"
             }
           ]
         },
@@ -589,8 +596,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "canvas",
-          "grade": 88.3,
-          "note": "88.3% (was 87.78) — Workbook 13-16 (25 pts, on paper, due Tue Nov 3 10 AM) graded 25/25 Tue Nov 3 12:22 PM. Earlier: Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, no Canvas submission) was due today, Wed Nov 4 11:00 AM (moved from Tue Nov 3) — no grade in Canvas yet. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
+          "grade": 88.51,
+          "note": "88.51% (was 88.3) — Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%, ~2:56 PM); Workbook 13-16 re-scored ~3:00 PM to 24.75/20 (now out of 20 pts, was 25/25). New: Workbook 11-19 (FA) (30 pts, on paper) due Tue Nov 10 12:00 PM; Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words from the textbook (25 pts, on paper) due Tue Nov 10 10:00 AM; plus ungraded vocab items Vocabulary Lektion A (71-86), Vocabulary Lektion B (87-99), Wichtige Ausdrücke (73). Earlier (87.78 → 88.3): Workbook 13-16 (25 pts, on paper, due Tue Nov 3 10 AM) graded 25/25 Tue Nov 3 12:22 PM. Earlier: Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, on paper, due Wed Nov 4 11:00 AM) graded 18.75/25 Wed Nov 4 ~2:56 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "Lord's Prayer (SA) — all parts, speaking & writing",
@@ -599,10 +606,16 @@ window.RECAP_DATA = {
               "due": "Oct 26"
             },
             {
-              "title": "Quizlet for Chapter 2 quiz",
-              "status": "overdue",
-              "detail": "25 pts formative · on paper (no Canvas submission) · was due today (Wed Nov 4) 11:00 AM (moved from Tue Nov 3) — no grade in Canvas yet",
-              "due": "Nov 4"
+              "title": "Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words",
+              "status": "due",
+              "detail": "new in Canvas (seen Wed Nov 4 afternoon) · 25 pts formative · on paper · due Tue Nov 10 10:00 AM",
+              "due": "Nov 10"
+            },
+            {
+              "title": "Workbook 11-19 (FA)",
+              "status": "due",
+              "detail": "new Wed Nov 4 ~2:20 PM · 30 pts formative · on paper · due Tue Nov 10 12:00 PM",
+              "due": "Nov 10"
             }
           ],
           "grades": [
@@ -818,10 +831,17 @@ window.RECAP_DATA = {
             },
             {
               "title": "Workbook 13-16",
-              "score": "25/25",
-              "percent": 100.0,
+              "score": "24.75/20",
+              "percent": 123.75,
               "group": "Formative Assessment",
               "due": "Nov 3"
+            },
+            {
+              "title": "Quizlet for Chapter 2 quiz",
+              "score": "18.75/25",
+              "percent": 75.0,
+              "group": "Formative Assessment",
+              "due": "Nov 4"
             }
           ]
         },
@@ -977,7 +997,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 78.68,
-          "note": "78.68% (was 78.85) — Wed Nov 4 morning: Lab 4: Photosynthesis graded 75/100 (graded ~9:20 AM, posted ~9:48 AM CT); Lab 05: Cellular Respiration marked graded ~9:33 AM CT but no score shows in Canvas yet. Earlier (grade was 78.67 → 78.85): Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up (was due Fri Oct 16 8:00 AM) now graded 75/100 (Wed Nov 4); Cellular Respiration Venn (in class) graded 100/100 Tue Oct 27 morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed Oct 21 2:38 PM; score posted Tue Oct 27 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative, due Tue Oct 27 4:00 PM) turned in late Fri Oct 30 2:27 PM — scored 90/100 (grade 78.67% to 78.85%). New Mon Oct 26 night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) was due Tue Oct 27 11:59 PM — not submitted, Canvas now marks it missing; Lab 06: Mitosis (100 pts, on paper) due today, Wed Nov 4 11:59 PM; Digital Punnett Squares (100 pts, file upload) due Fri Nov 6 11:59 PM; a makeup lab (29 pts, no due date) also appeared — renamed Tue Nov 3 to \"Makeup Lab 05: Cellular Respiration\". Mrs. DeGrenier's Canvas note Tue Oct 27 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime. DNA Synthesis - From Gene to Protein Pivot (FA) (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas; now overdue. Mrs. DeGrenier's Thu Oct 29 ~9:00 AM announcement (\"October 29 - 30 Agenda\", sub in class the week of Oct 26, she's back the week of Nov 2): finish the DNA Replication Activity Exit Ticket from Mon Oct 26/Tue Oct 27 if not done (open note), watch two DNA videos, and complete the DNA Synthesis – From Gene to Protein Pivot (was due Fri Oct 30). New in Canvas Tue Nov 3 2:08 PM: Lab 05: Cellular Respiration (100 pts, formative, on paper — completed in class Oct 19–21, post-lab due Oct 26/27), Canvas due Tue Oct 27 8:00 AM — marked graded Wed Nov 4 ~9:33 AM, score not released in Canvas yet. Mrs. DeGrenier's Tue Nov 3 ~8:27 AM announcement (\"Tuesday, November 3 Agenda\", sub in class that day, she's back today, Wed Nov 4): watch the Mitosis/Meiosis notes video in modules and do the activity, complete the Mitosis & Meiosis Exit Ticket, and complete the Pre-Lab / Procedure / Data Tables for Lab 06: Mitosis — must be done when walking into class today (Wed Nov 4).",
+          "note": "78.68% (was 78.85) — Wed Nov 4 morning: Lab 4: Photosynthesis graded 75/100 (graded ~9:20 AM, posted ~9:48 AM CT); Lab 05: Cellular Respiration marked graded ~9:33 AM CT but no score shows in Canvas yet. Earlier (grade was 78.67 → 78.85): Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up (was due Fri Oct 16 8:00 AM) now graded 75/100 (Wed Nov 4); Cellular Respiration Venn (in class) graded 100/100 Tue Oct 27 morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed Oct 21 2:38 PM; score posted Tue Oct 27 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative, due Tue Oct 27 4:00 PM) turned in late Fri Oct 30 2:27 PM — scored 90/100 (grade 78.67% to 78.85%). New Mon Oct 26 night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) was due Tue Oct 27 11:59 PM — not submitted, Canvas now marks it missing; Lab 06: Mitosis (100 pts, on paper) due today, Wed Nov 4 11:59 PM; Digital Punnett Squares (100 pts, file upload) due Fri Nov 6 11:59 PM; a makeup lab (29 pts, no due date) also appeared — renamed Tue Nov 3 to \"Makeup Lab 05: Cellular Respiration\". Mrs. DeGrenier's Canvas note Tue Oct 27 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime. DNA Synthesis - From Gene to Protein Pivot (FA) (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas; now overdue. Mrs. DeGrenier's Thu Oct 29 ~9:00 AM announcement (\"October 29 - 30 Agenda\", sub in class the week of Oct 26, she's back the week of Nov 2): finish the DNA Replication Activity Exit Ticket from Mon Oct 26/Tue Oct 27 if not done (open note), watch two DNA videos, and complete the DNA Synthesis – From Gene to Protein Pivot (was due Fri Oct 30). New in Canvas Tue Nov 3 2:08 PM: Lab 05: Cellular Respiration (100 pts, formative, on paper — completed in class Oct 19–21, post-lab due Oct 26/27), Canvas due Tue Oct 27 8:00 AM — marked graded Wed Nov 4 ~9:33 AM, score not released in Canvas yet. Mrs. DeGrenier's Tue Nov 3 ~8:27 AM announcement (\"Tuesday, November 3 Agenda\", sub in class that day, she's back today, Wed Nov 4): watch the Mitosis/Meiosis notes video in modules and do the activity, complete the Mitosis & Meiosis Exit Ticket, and complete the Pre-Lab / Procedure / Data Tables for Lab 06: Mitosis — must be done when walking into class today (Wed Nov 4). New Wed Nov 4 afternoon: Non-mendelian Traits WebQuest (Codominance and Incomplete Dominance) (100 pts formative, due Tue Nov 10 11:59 PM), Creation Journal #7 (10 pts summative, on paper, due Tue Nov 10 9:00 AM), Creation Journal Entry #8 (10 pts summative, on paper, due Fri Nov 13 4:00 PM); Blood Types: Weathering the Storm (100 pts formative, online quiz, due Wed Nov 11 11:59 PM) now showing in Canvas.",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -1020,6 +1040,30 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "new in Canvas Tue Nov 3 2:08 PM · 100 pts formative · on paper (done in class Oct 19–21, post-lab due Oct 26/27) · Canvas due Tue Oct 27 8:00 AM — marked graded Wed Nov 4 ~9:33 AM, score not released in Canvas yet",
               "due": "Oct 27"
+            },
+            {
+              "title": "Non-mendelian Traits WebQuest (Codominance and Incomplete Dominance)",
+              "status": "due",
+              "detail": "new Wed Nov 4 ~1:44 PM · 100 pts formative · external tool · due Tue Nov 10 11:59 PM",
+              "due": "Nov 10"
+            },
+            {
+              "title": "Creation Journal #7",
+              "status": "due",
+              "detail": "new Wed Nov 4 ~3:24 PM · 10 pts summative · on paper · due Tue Nov 10 9:00 AM",
+              "due": "Nov 10"
+            },
+            {
+              "title": "Blood Types: Weathering the Storm",
+              "status": "due",
+              "detail": "now showing in Canvas Wed Nov 4 afternoon · 100 pts formative · online quiz · due Wed Nov 11 11:59 PM",
+              "due": "Nov 11"
+            },
+            {
+              "title": "Creation Journal Entry #8",
+              "status": "due",
+              "detail": "new Wed Nov 4 ~3:46 PM · 10 pts summative · on paper · due Fri Nov 13 4:00 PM",
+              "due": "Nov 13"
             }
           ],
           "grades": [
