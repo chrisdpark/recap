@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Nov 5, 2026 · 5:17 PM CT",
+  "updated": "Thursday, Nov 5, 2026 · 5:23 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1490,9 +1490,10 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Acts 1 and 2 (Thu Oct 29); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3); Government: Judicial Branch Test (Thu Oct 29); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4) — Government Civil Liberties (Due Sunday), Sociology DQ4: Institutions (due Wed Nov 4) became overdue at midnight.",
+        "Overdue from the last week, still not completed in Ethos: English 12: Macbeth Acts 1 and 2 (Thu Oct 29); English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); Physics: Mass vs Weight (Tue Nov 3); Government: Judicial Branch Test (Thu Oct 29); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: Concept Module 1: Know Your Terms (Thu Oct 29); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
         "Due today (Thu Nov 5) through Sat Nov 7 and not marked completed in Ethos: Physics: Net Force Conceptual Question (Thu Nov 5); Precalculus: Dropbox Week 12 Homework (Thu Nov 5); Precalculus: Dropbox Unit Circle Quiz (Thu Nov 5); Precalculus: Drop box Quiz 4.1-4.4 (Thu Nov 5); English 12: Macbeth Act 3 (Fri Nov 6); Physics: Forces & Newton's Laws Test Review (Sat Nov 7).",
-        "Canvas Apologetics: 87.09% (no change since Tuesday). New since Tuesday: Explain It: The Contingency Argument (100 pts, online text entry) due Fri Nov 13 11:59 PM — not submitted yet; Mr. Dallas also posted the Contingency Argument slides in the Unit 4 module."
+        "Canvas Graphic Design: 97.3% — 11/3-11/6 classwork (100 pts) due Fri Nov 6 ~3:59 PM CT, not submitted yet.",
+        "Canvas Apologetics: 87.09% (no change since Wednesday). Explain It: The Contingency Argument (100 pts) still due Fri Nov 13 11:59 PM — not submitted yet."
       ],
       "courses": [
         {
@@ -1501,7 +1502,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Tuesday's recap) · due soon: Macbeth Act 3 (Fri Nov 6) · 19 overdue · 0 posted 0",
+          "note": "96% (no change since Wednesday's recap) · newly graded: \"Death of a Moth\" by Virginia Woolf (100), \"Shooting an Elephant\" by George Orwell (100) · due soon: Macbeth Act 3 (Fri Nov 6) · 19 overdue · 0 posted 0",
           "work": [
             {
               "title": "Macbeth Act 3",
@@ -1633,7 +1634,7 @@ window.RECAP_DATA = {
               "due": "Sep 21, 2025"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1661,7 +1662,7 @@ window.RECAP_DATA = {
               "due": "Aug 30, 2026"
             },
             {
-              "title": "Shooting an Elephant by George Orwell",
+              "title": "\"Shooting an Elephant\" by George Orwell",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1710,7 +1711,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (no change since Tuesday's recap) · due soon: Net Force Conceptual Question (Thu Nov 5), Forces & Newton's Laws Test Review (Sat Nov 7) · 11 overdue · 2 posted 0",
+          "note": "83% (no change since Wednesday's recap) · due soon: Net Force Conceptual Question (Thu Nov 5), Forces & Newton's Laws Test Review (Sat Nov 7) · 11 overdue · 2 posted 0",
           "work": [
             {
               "title": "Net Force Conceptual Question",
@@ -2029,7 +2030,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Tuesday's recap) · 7 overdue (Civil Liberties (Due Sunday), due Wed Nov 4, now overdue) · 0 posted 0",
+          "note": "87% (no change since Wednesday's recap) · 7 overdue · 0 posted 0",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -2251,7 +2252,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% (no change since Tuesday's recap) · due soon: Dropbox Week 12 Homework (Thu Nov 5), Dropbox Unit Circle Quiz (Thu Nov 5), Drop box Quiz 4.1-4.4 (Thu Nov 5) · 1 overdue · 10 posted 0",
+          "note": "89% (no change since Wednesday's recap) · due soon: Dropbox Week 12 Homework (Thu Nov 5), Dropbox Unit Circle Quiz (Thu Nov 5), Drop box Quiz 4.1-4.4 (Thu Nov 5) · 1 overdue · 10 posted 0",
           "work": [
             {
               "title": "Dropbox Week 12 Homework",
@@ -2522,7 +2523,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since Tuesday's recap) · 15 overdue (DQ4: Institutions, due Wed Nov 4, now overdue) · 1 posted 0",
+          "note": "85% (no change since Wednesday's recap) · 15 overdue · 1 posted 0",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
@@ -2749,7 +2750,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.09,
-          "note": "87.09% — no change since Tue Nov 3; Summative - Sort and Defend (General vs. Special Revelation) graded 80/100 Tue Nov 3; Spider Web of Beliefs Reflection 90/100; Contingency Argument: Understanding Check 100/100; new Wed Nov 4: Explain It: The Contingency Argument (100 pts, formative, online text entry) due Fri Nov 13 11:59 PM, not submitted yet; Contingency Argument slides added to Unit 4 module; Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
+          "note": "87.09% — no change since Wed Nov 4; Summative - Sort and Defend (General vs. Special Revelation) graded 80/100 Tue Nov 3; Spider Web of Beliefs Reflection 90/100; Contingency Argument: Understanding Check 100/100; Explain It: The Contingency Argument (100 pts, formative, online text entry) due Fri Nov 13 11:59 PM, not submitted yet; Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
           "work": [
             {
               "title": "Explain It: The Contingency Argument",
@@ -2886,12 +2887,12 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — 10/27-10/30 graded 100/100 Thu Nov 5 ~11:31 AM (formative, on paper); new 11/3-11/6 (100 pts formative, on paper) due Fri Nov 6 3:59 PM — not submitted; Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100; recent class grades all 100/100",
+          "note": "97.3% — 11/3-11/6 classwork (100 pts) due Fri Nov 6 ~3:59 PM CT, not submitted yet; 10/27-10/30 graded 100/100; Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100; other recent class grades 100/100",
           "work": [
             {
               "title": "11/3-11/6",
               "status": "due",
-              "detail": "new in Canvas Thu Nov 5 ~11:31 AM · 100 pts formative · on paper · due Fri Nov 6 3:59 PM · unsubmitted",
+              "detail": "100 pts classwork · not submitted yet · due Fri Nov 6 ~3:59 PM CT",
               "due": "Nov 6"
             }
           ],
