@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Nov 7, 2026 · 8:12 AM CT",
+  "updated": "Saturday, Nov 7, 2026 · 12:13 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1513,9 +1513,10 @@ window.RECAP_DATA = {
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
         "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
-        "Due today (Sat Nov 7) through Mon Nov 9 and not marked completed in Ethos: Physics: Forces & Newton's Laws Test Review (Sat Nov 7); English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Government: Due Process Court Case (Sun Nov 8); Government: Criminal Justice (Sun Nov 8); Physics: Friction Conceptual Question (Mon Nov 9).",
+        "Due today (Sat Nov 7) through Mon Nov 9 and not marked completed in Ethos: English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Government: Due Process Court Case (Sun Nov 8); Government: Criminal Justice (Sun Nov 8); Physics: Friction Conceptual Question (Mon Nov 9).",
+        "Physics: Forces & Newton's Laws Test Review marked completed in Ethos Sat Nov 7; Circular Motion & Gravitation Notes and Problem Set rescheduled to Sat Nov 14 and Circular Motion Lab to Sat Nov 21 (no longer overdue).",
         "Canvas Graphic Design: 97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue).",
-        "Canvas Apologetics: 87.09% (no change since Thursday). Explain It: The Contingency Argument (100 pts) still due Fri Nov 13 11:59 PM — not submitted yet. Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM — not submitted yet."
+        "Canvas Apologetics: 87.09% (no change since Thursday). Explain It: The Contingency Argument (100 pts, due Fri Nov 13) turned in Sat Nov 7 10:46 AM CT — awaiting grade. Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM — not submitted yet."
       ],
       "courses": [
         {
@@ -1745,14 +1746,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (no change since Thursday's recap) · due soon: Forces & Newton's Laws Test Review (Sat Nov 7), Friction Conceptual Question (Mon Nov 9) · 12 overdue · 2 posted 0",
+          "note": "83% (no change since Thursday's recap) · completed today: Forces & Newton's Laws Test Review (marked completed Sat Nov 7) · due soon: Friction Conceptual Question (Mon Nov 9) · rescheduled: Circular Motion & Gravitation Notes and Problem Set now due Sat Nov 14, Circular Motion Lab now due Sat Nov 21 (were overdue from Oct 21/Oct 28) · 9 overdue · 2 posted 0",
           "work": [
-            {
-              "title": "Forces & Newton's Laws Test Review",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sat Nov 7"
-            },
             {
               "title": "Friction Conceptual Question",
               "status": "due",
@@ -1812,24 +1807,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Oct 12, 2026"
-            },
-            {
-              "title": "Circular Motion & Gravitation Notes",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 21, 2026"
-            },
-            {
-              "title": "Circular Motion and Gravitation Problem Set",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 21, 2026"
-            },
-            {
-              "title": "Circular Motion Lab",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 28, 2026"
             },
             {
               "title": "Mass vs Weight",
@@ -2810,12 +2787,12 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.09,
-          "note": "87.09% — no change since Thu Nov 5; Summative - Sort and Defend (General vs. Special Revelation) graded 80/100 Tue Nov 3; Spider Web of Beliefs Reflection 90/100; Contingency Argument: Understanding Check 100/100; Explain It: The Contingency Argument (100 pts, formative, online text entry) due Fri Nov 13 11:59 PM, not submitted yet; Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM, not submitted yet; Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
+          "note": "87.09% — no change since Thu Nov 5 · Sat Nov 7 10:46 AM CT: Explain It: The Contingency Argument turned in (awaiting grade); Summative - Sort and Defend (General vs. Special Revelation) graded 80/100 Tue Nov 3; Spider Web of Beliefs Reflection 90/100; Contingency Argument: Understanding Check 100/100; Explain It: The Contingency Argument (100 pts, formative, online text entry, due Fri Nov 13 11:59 PM) turned in Sat Nov 7 10:46 AM CT, awaiting grade; Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM, not submitted yet; Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
           "work": [
             {
               "title": "Explain It: The Contingency Argument",
               "status": "due",
-              "detail": "100 pts formative · online text entry · not submitted yet · due Fri Nov 13 11:59 PM",
+              "detail": "Turned in Sat Nov 7 10:46 AM CT — awaiting grade (100 pts formative · online text entry · due Fri Nov 13 11:59 PM)",
               "due": "Nov 13"
             },
             {
