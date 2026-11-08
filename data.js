@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Nov 7, 2026 · 8:22 PM CT",
+  "updated": "Sunday, Nov 8, 2026 · 12:07 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1513,7 +1513,7 @@ window.RECAP_DATA = {
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
         "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
-        "Due today (Sat Nov 7) through Mon Nov 9 and not marked completed in Ethos: English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Government: Due Process Court Case (Sun Nov 8); Government: Criminal Justice (Sun Nov 8); Physics: Friction Conceptual Question (Mon Nov 9).",
+        "Due today (Sun Nov 8) through Wed Nov 11 and not marked completed in Ethos: English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Government: Due Process Court Case (Sun Nov 8); Government: Criminal Justice (Sun Nov 8); Physics: Friction Conceptual Question (Mon Nov 9); English 12: DWS #5 NUMBER TWO! (Wed Nov 11).",
         "Physics: Forces & Newton's Laws Test Review marked completed in Ethos Sat Nov 7; Circular Motion & Gravitation Notes and Problem Set rescheduled to Sat Nov 14 and Circular Motion Lab to Sat Nov 21 (no longer overdue).",
         "Canvas Graphic Design: 97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue).",
         "Canvas Apologetics: 87.09% (no change since Thursday). Explain It: The Contingency Argument (100 pts, due Fri Nov 13) turned in Sat Nov 7 10:46 AM CT — awaiting grade. Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM — not submitted yet."
@@ -1525,7 +1525,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Thursday's recap) · due soon: Macbeth Act 5 Discussion Questions (Sun Nov 8), Mbn 11/09 (Sun Nov 8) · 20 overdue · 0 posted 0",
+          "note": "96% (no change since Thursday's recap) · due soon: Macbeth Act 5 Discussion Questions (Sun Nov 8), Mbn 11/09 (Sun Nov 8), DWS #5 NUMBER TWO! (Wed Nov 11) · 20 overdue · 0 posted 0",
           "work": [
             {
               "title": "Macbeth Act 5 Discussion Questions",
@@ -1538,6 +1538,12 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "Not completed",
               "due": "Due Sun Nov 8"
+            },
+            {
+              "title": "DWS #5 NUMBER TWO!",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Wed Nov 11"
             },
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1746,7 +1752,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (no change since Thursday's recap) · completed today: Forces & Newton's Laws Test Review (marked completed Sat Nov 7) · due soon: Friction Conceptual Question (Mon Nov 9) · rescheduled: Circular Motion & Gravitation Notes and Problem Set now due Sat Nov 14, Circular Motion Lab now due Sat Nov 21 (were overdue from Oct 21/Oct 28) · 9 overdue · 2 posted 0",
+          "note": "83% (no change since Thursday's recap) · completed Sat Nov 7: Forces & Newton's Laws Test Review · rescheduled: Circular Motion & Gravitation Notes and Problem Set now due Sat Nov 14, Circular Motion Lab now due Sat Nov 21 (were overdue from Oct 21/Oct 28) · due soon: Friction Conceptual Question (Mon Nov 9) · 9 overdue · 2 posted 0",
           "work": [
             {
               "title": "Friction Conceptual Question",
