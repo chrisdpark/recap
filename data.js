@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Nov 8, 2026 · 8:06 AM CT",
+  "updated": "Sunday, Nov 8, 2026 · 12:15 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1513,7 +1513,7 @@ window.RECAP_DATA = {
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
         "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
-        "Due today (Sun Nov 8) through Wed Nov 11 and not marked completed in Ethos: English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Government: Due Process Court Case (Sun Nov 8); Government: Criminal Justice (Sun Nov 8); Physics: Friction Conceptual Question (Mon Nov 9); English 12: DWS #5 NUMBER TWO! (Wed Nov 11).",
+        "Due today (Sun Nov 8) through Wed Nov 11 and not marked completed in Ethos: English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Government: Due Process Court Case (Sun Nov 8); Physics: Friction Conceptual Question (Mon Nov 9); English 12: DWS #5 NUMBER TWO! (Wed Nov 11).",
         "Physics: Forces & Newton's Laws Test Review marked completed in Ethos Sat Nov 7; Circular Motion & Gravitation Notes and Problem Set rescheduled to Sat Nov 14 and Circular Motion Lab to Sat Nov 21 (no longer overdue).",
         "Canvas Graphic Design: 97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue).",
         "Canvas Apologetics: 87.09% (no change since Thursday). Explain It: The Contingency Argument (100 pts, due Fri Nov 13) turned in Sat Nov 7 10:46 AM CT — awaiting grade. Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM — not submitted yet."
@@ -2053,16 +2053,10 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Thursday's recap) · due soon: Due Process Court Case (Sun Nov 8), Criminal Justice (Sun Nov 8) · 7 overdue · 0 posted 0",
+          "note": "87% (no change since Thursday's recap) · graded today: Criminal Justice (100) · due soon: Due Process Court Case (Sun Nov 8) · 7 overdue · 0 posted 0",
           "work": [
             {
               "title": "Due Process Court Case",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 8"
-            },
-            {
-              "title": "Criminal Justice",
               "status": "due",
               "detail": "Not completed",
               "due": "Due Sun Nov 8"
@@ -2271,6 +2265,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Ethos",
               "due": "Nov 01, 2026"
+            },
+            {
+              "title": "Criminal Justice",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 08, 2026"
             },
             {
               "title": "Check point Quiz",
