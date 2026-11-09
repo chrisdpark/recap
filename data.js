@@ -1540,7 +1540,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Thursday's recap) · due soon: DWS #5 NUMBER TWO! (Wed Nov 11) · 22 overdue · 0 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
+          "note": "96% (no change since Thursday's recap) · due soon: DWS #5 NUMBER TWO! (Wed Nov 11) · 22 overdue · 0 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
           "work": [
             {
               "title": "DWS #5 NUMBER TWO!",
@@ -1767,7 +1767,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (no change since Thursday's recap) · completed Sat Nov 7: Forces & Newton's Laws Test Review · rescheduled: Circular Motion & Gravitation Notes and Problem Set now due Sat Nov 14, Circular Motion Lab now due Sat Nov 21 (were overdue from Oct 21/Oct 28) · due soon: Friction Conceptual Question (Mon Nov 9) · 9 overdue · 2 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
+          "note": "83% (no change since Thursday's recap) · completed Sat Nov 7: Forces & Newton's Laws Test Review · rescheduled: Circular Motion & Gravitation Notes and Problem Set now due Sat Nov 14, Circular Motion Lab now due Sat Nov 21 (were overdue from Oct 21/Oct 28) · due soon: Friction Conceptual Question (Mon Nov 9) · 9 overdue · 2 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
           "work": [
             {
               "title": "Friction Conceptual Question",
@@ -2068,7 +2068,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Thursday's recap) · graded today: Criminal Justice (100) · 8 overdue · 0 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
+          "note": "87% (no change since Thursday's recap) · graded today: Criminal Justice (100) · 8 overdue · 0 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
           "work": [
             {
               "title": "Synch #1 Make Up",
@@ -2303,7 +2303,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% (no change since Thursday's recap) · newly graded: Unit Circle Quiz shows 0 but is marked completed Nov 05, 2026, Quiz 4.1-4.4 shows 0 but is marked completed Nov 05, 2026 · completed, awaiting grade: Dropbox Week 12 Homework, Dropbox Unit Circle Quiz, Drop box Quiz 4.1-4.4 · due soon: Dropbox Week 13 Homework (Thu Nov 12), Dropbox Quiz 4.5-4.8 (Thu Nov 12) · 1 overdue · 12 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
+          "note": "89% (no change since Thursday's recap) · newly graded: Unit Circle Quiz shows 0 but is marked completed Nov 05, 2026, Quiz 4.1-4.4 shows 0 but is marked completed Nov 05, 2026 · completed, awaiting grade: Dropbox Week 12 Homework, Dropbox Unit Circle Quiz, Drop box Quiz 4.1-4.4 · due soon: Dropbox Week 13 Homework (Thu Nov 12), Dropbox Quiz 4.5-4.8 (Thu Nov 12) · 1 overdue · 12 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
           "work": [
             {
               "title": "Dropbox Week 13 Homework",
@@ -2594,7 +2594,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since Thursday's recap) · 15 overdue · 1 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
+          "note": "85% (no change since Thursday's recap) · 15 overdue · 1 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
