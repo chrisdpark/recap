@@ -1,10 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Nov 8, 2026 · 8:19 PM CT",
+  "updated": "Monday, Nov 9, 2026 · 12:27 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Past due Fri Nov 6 11:59 PM CT: Bible Thursday Choice Board: Turn-In not submitted — Canvas auto-graded 0/10 ~12:35 AM CT Sat Nov 7 (10 pts formative, not counted in grade); Biology Digital Punnett Squares (100 pts formative, file upload) not submitted. Bible Kingdom Splits Exit Ticket was already taken (pending teacher review). Biology Mitosis & Meiosis Exit Ticket turned in late Fri ~10:30 PM CT (90/100).",
+        "Past due Fri Nov 6 11:59 PM CT: Bible Thursday Choice Board: Turn-In not submitted — Canvas auto-graded 0/10 ~12:35 AM CT Sat Nov 7 (10 pts formative; Canvas now counts it in the grade — Bible 85.26% → 85.12%); Biology Digital Punnett Squares (100 pts formative, file upload) not submitted. Bible Sun Nov 8 evening: Kingdom Splits Exit Ticket graded 3/4, Pattern Chart 10/10, Elijah Carmel Case File 10/10; Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM; new Capstone Parts 1–2 (no due dates). Biology Mitosis & Meiosis Exit Ticket turned in late Fri ~10:30 PM CT (90/100).",
         "Algebra I 22.74% (was 21.44) — still the big concern: Unit 3 Part 1 Test score released Wed Nov 4 ~2:03 PM: 32/100. Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts, due Mon Oct 19) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM — that dropped the grade from 23.16% to 21.44%. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — marked graded Mon Nov 2 ~11:55 PM; score 32/100 released Wed Nov 4 ~2:03 PM. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; Delta Math) was due Wed Nov 4 12:00 PM — not submitted; now overdue. Wed Nov 4 ~2:09 PM: Mr. Seegers sent a Canvas inbox note (\"Scored less than 75 on Unit 3 Part 1 Test\"): Olen scored below 75% on the Slope-Intercept Form summative; students get one Redemption per quarter per class (let him know if Olen wants to pursue it), and Olen can schedule zero-period review by Google Chat. New Thu Nov 5 ~1:34 AM: 11/5 Delta Math Classwork (50 pts formative, Delta Math / external tool) due Mon Nov 9 11:00 AM. Thu Nov 5 ~9:00 AM: Mr. Seegers posted \"Instructions for Class Today\" — watch the Standard Form video playlist, then work 11/5 Delta Math Classwork (50 pts formative, due Mon Nov 9 11:00 AM); unfinished classwork is homework.",
         "German I 87.96% — NEW Fri Nov 6 ~3:47 PM CT: Herr Porter Canvas inbox (was unread) — homework due Tuesday: Ch. 3 vocab Parts 1–2 (1–28 and 28–56) plus verb conjugation worksheet Part 1 (PDF attached); 15–20 min German daily. Canvas: Vocab Part 1 due Tue Nov 10 10:00 AM; Workbook 11-19 due Wed Nov 11 12:00 PM. Workbook 13-16 scored 19.6/20 (98%) Fri Nov 6. Earlier: Fri Nov 6 ~12:14 PM CT: Workbook 13-16 re-scored to 19.6/20 (98%; was 24.75/20). Workbook 11-19 due moved to Wed Nov 11 12:00 PM. Earlier: Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%); Workbook 13-16 re-scored to 24.75/20 (now out of 20). New: Workbook 11-19 (30 pts, on paper) due Tue Nov 10 12 PM and Chapter 3 Vocabulary List Part 1 (25 pts, on paper) due Tue Nov 10 10 AM. Earlier: Workbook 13-16 graded 25/25 Tue Nov 3 12:22 PM. Earlier: on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20.",
         "Bible 85.26% (was 85.21) — Samuel Key Terms Quiz retaken Tue Nov 3 8:18 AM: 7/10 → 9/10 (second attempt, marked late). Earlier: Samuel Summative re-graded 53 → 61/100 Sun Nov 1 ~10:04 AM (100 pts, submitted on time Thu Oct 29); the grade was 90.16% before it was graded. David 1 and David 2 graded 7/10 each; Judges Cycle part 2 and Group Jigsaw still 0; Meet Samuel, Saul, and David still awaiting grade. David 3 was removed from Canvas. Mon Oct 26 Solomon work was graded Tue Oct 27 evening: Solomon: The Heir of David 4/10 and Solomon — Exit Ticket 2/4. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 evening: Kingdom Splits Pattern Chart (due Thu Nov 5) and Exit Ticket (Fri Nov 6), Elijah: Carmel Case File (Mon Nov 9), Psalm 20:7 Memory Verse (100 pts, Tue Nov 10). Mon Nov 2: Kingdom Splits Exit Ticket taken 10:49 AM (shows 0/4 pending teacher review, not counted yet) and Pattern Chart turned in 10:59 AM. Wed Nov 4 10:05 AM: Elijah: Carmel Case File turned in (awaiting grade). Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 ~12:35 AM CT Sat Nov 7 (still not counted).",
@@ -18,8 +18,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "canvas",
-          "grade": 85.26,
-          "note": "85.26% — as of Sat Nov 7 ~4 AM CT: Thursday Choice Board: Turn-In (due Fri Nov 6 11:59 PM, not submitted) was auto-graded 0/10 ~12:35 AM CT — still formative/not counted in grade. Kingdom Splits Exit Ticket taken, pending review. Elijah Carmel Case File turned in, awaiting grade. 85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade). Wed Nov 4 10:05 AM: Elijah: Carmel Case File (due Mon Nov 9) turned in — awaiting grade. New Thu Nov 5 ~7:06 AM: Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade, online text entry) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 Sat Nov 7 ~12:35 AM CT (still not counted).",
+          "grade": 85.12,
+          "note": "85.12% (was 85.26) — as of Mon Nov 9 ~12 AM CT: graded Sun Nov 8 evening: Elijah: Carmel Case File 10/10 (~8:52 PM CT), The Kingdom Splits: Pattern Chart 10/10 (~8:47 PM CT), The Kingdom Splits: Exit Ticket 3/4 (~8:51 PM CT, was pending review). Thursday Choice Board: Turn-In (0/10, not submitted) is no longer omitted from the final grade — Canvas now counts it. Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM). New in Canvas: Capstone Part 1: Your Story Exhibit (60 pts summative, file upload/text entry, no due date) and Capstone Part 2: Your Statement (40 pts summative, quiz, no due date) — both unsubmitted. Earlier: 85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade). Wed Nov 4 10:05 AM: Elijah: Carmel Case File (due Mon Nov 9) turned in — awaiting grade. New Thu Nov 5 ~7:06 AM: Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade, online text entry) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 Sat Nov 7 ~12:35 AM CT (still not counted).",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -40,34 +40,28 @@ window.RECAP_DATA = {
               "due": "Oct 29"
             },
             {
-              "title": "The Kingdom Splits: Pattern Chart",
-              "status": "due",
-              "detail": "Turned in Mon Nov 2 10:59 AM — awaiting grade (new Sun Nov 1 · 10 pts formative · online text entry · due Thu Nov 5 11:59 PM)",
-              "due": "Nov 5"
-            },
-            {
-              "title": "The Kingdom Splits: Exit Ticket",
-              "status": "due",
-              "detail": "Taken Mon Nov 2 10:49 AM — Canvas shows 0/4 pending teacher review, not counted yet (new Sun Nov 1 · 4-pt quiz · formative · due Fri Nov 6 11:59 PM)",
-              "due": "Nov 6"
-            },
-            {
-              "title": "Elijah: Carmel Case File",
-              "status": "due",
-              "detail": "Turned in Wed Nov 4 10:05 AM — awaiting grade (new Sun Nov 1 · 10 pts formative · online text entry · due Mon Nov 9 11:59 PM)",
-              "due": "Nov 9"
-            },
-            {
               "title": "Psalm 20:7 Memory Verse",
               "status": "due",
-              "detail": "new Sun Nov 1 ~7:15 PM · 100 pts formative · quiz · due Tue Nov 10 11:59 PM",
-              "due": "Nov 10"
+              "detail": "100 pts formative · quiz · now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM) · unsubmitted",
+              "due": "Nov 11"
             },
             {
               "title": "Thursday Choice Board: Turn-In",
               "status": "zero",
-              "detail": "0/10 missing — Canvas auto-graded 0 Sat Nov 7 ~12:35 AM CT (was due Fri Nov 6 11:59 PM; not submitted) · 10 pts formative (not counted in grade) · online text entry · new Thu Nov 5 ~7:06 AM",
+              "detail": "0/10 missing — Canvas auto-graded 0 Sat Nov 7 ~12:35 AM CT (was due Fri Nov 6 11:59 PM; not submitted) · 10 pts formative (Canvas now counts it in the grade) · online text entry · new Thu Nov 5 ~7:06 AM",
               "due": "Nov 6"
+            },
+            {
+              "title": "Capstone Part 1: Your Story Exhibit",
+              "status": "due",
+              "detail": "new in Canvas Mon Nov 9 pull · 60 pts summative · file upload or text entry · no due date set in Canvas · unsubmitted",
+              "due": "No due date"
+            },
+            {
+              "title": "Capstone Part 2: Your Statement",
+              "status": "due",
+              "detail": "new in Canvas Mon Nov 9 pull · 40 pts summative · quiz · no due date set in Canvas · unsubmitted",
+              "due": "No due date"
             }
           ],
           "grades": [
@@ -300,6 +294,27 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Nov 6"
+            },
+            {
+              "title": "The Kingdom Splits: Pattern Chart",
+              "score": "10/10",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Nov 5"
+            },
+            {
+              "title": "The Kingdom Splits: Exit Ticket",
+              "score": "3/4",
+              "percent": 75.0,
+              "group": "Formative Assessment",
+              "due": "Nov 6"
+            },
+            {
+              "title": "Elijah: Carmel Case File",
+              "score": "10/10",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Nov 9"
             }
           ]
         },
@@ -1512,8 +1527,8 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
-        "Due today (Sun Nov 8) through Wed Nov 11 and not marked completed in Ethos: English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Government: Due Process Court Case (Sun Nov 8); Physics: Friction Conceptual Question (Mon Nov 9); English 12: DWS #5 NUMBER TWO! (Wed Nov 11).",
+        "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Government: Due Process Court Case (Sun Nov 8); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
+        "Due today (Mon Nov 9) through Thu Nov 12 and not marked completed in Ethos: Physics: Friction Conceptual Question (Mon Nov 9); English 12: DWS #5 NUMBER TWO! (Wed Nov 11); Precalculus: Dropbox Week 13 Homework (Thu Nov 12); Precalculus: Dropbox Quiz 4.5-4.8 (Thu Nov 12).",
         "Physics: Forces & Newton's Laws Test Review marked completed in Ethos Sat Nov 7; Circular Motion & Gravitation Notes and Problem Set rescheduled to Sat Nov 14 and Circular Motion Lab to Sat Nov 21 (no longer overdue).",
         "Canvas Graphic Design: 97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue).",
         "Canvas Apologetics: 87.09% (no change since Thursday). Explain It: The Contingency Argument (100 pts, due Fri Nov 13) turned in Sat Nov 7 10:46 AM CT — awaiting grade. Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM — not submitted yet."
@@ -1525,20 +1540,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 96,
-          "note": "96% (no change since Thursday's recap) · due soon: Macbeth Act 5 Discussion Questions (Sun Nov 8), Mbn 11/09 (Sun Nov 8), DWS #5 NUMBER TWO! (Wed Nov 11) · 20 overdue · 0 posted 0",
+          "note": "96% (no change since Thursday's recap) · due soon: DWS #5 NUMBER TWO! (Wed Nov 11) · 22 overdue · 0 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
           "work": [
-            {
-              "title": "Macbeth Act 5 Discussion Questions",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 8"
-            },
-            {
-              "title": "Mbn 11/09",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 8"
-            },
             {
               "title": "DWS #5 NUMBER TWO!",
               "status": "due",
@@ -1664,6 +1667,18 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Nov 06, 2026"
+            },
+            {
+              "title": "Macbeth Act 5 Discussion Questions",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Nov 08, 2026"
+            },
+            {
+              "title": "Mbn 11/09",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Nov 08, 2026"
             }
           ],
           "grades": [
@@ -1752,7 +1767,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (no change since Thursday's recap) · completed Sat Nov 7: Forces & Newton's Laws Test Review · rescheduled: Circular Motion & Gravitation Notes and Problem Set now due Sat Nov 14, Circular Motion Lab now due Sat Nov 21 (were overdue from Oct 21/Oct 28) · due soon: Friction Conceptual Question (Mon Nov 9) · 9 overdue · 2 posted 0",
+          "note": "83% (no change since Thursday's recap) · completed Sat Nov 7: Forces & Newton's Laws Test Review · rescheduled: Circular Motion & Gravitation Notes and Problem Set now due Sat Nov 14, Circular Motion Lab now due Sat Nov 21 (were overdue from Oct 21/Oct 28) · due soon: Friction Conceptual Question (Mon Nov 9) · 9 overdue · 2 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
           "work": [
             {
               "title": "Friction Conceptual Question",
@@ -2053,14 +2068,8 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Thursday's recap) · graded today: Criminal Justice (100) · due soon: Due Process Court Case (Sun Nov 8) · 7 overdue · 0 posted 0",
+          "note": "87% (no change since Thursday's recap) · graded today: Criminal Justice (100) · 8 overdue · 0 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
           "work": [
-            {
-              "title": "Due Process Court Case",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 8"
-            },
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
@@ -2102,6 +2111,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "Not completed",
               "due": "Due Nov 04, 2026"
+            },
+            {
+              "title": "Due Process Court Case",
+              "status": "overdue",
+              "detail": "Not completed",
+              "due": "Due Nov 08, 2026"
             }
           ],
           "grades": [
@@ -2288,8 +2303,20 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% (no change since Thursday's recap) · newly graded: Unit Circle Quiz shows 0 but is marked completed Nov 05, 2026, Quiz 4.1-4.4 shows 0 but is marked completed Nov 05, 2026 · completed, awaiting grade: Dropbox Week 12 Homework, Dropbox Unit Circle Quiz, Drop box Quiz 4.1-4.4 · 1 overdue · 12 posted 0",
+          "note": "89% (no change since Thursday's recap) · newly graded: Unit Circle Quiz shows 0 but is marked completed Nov 05, 2026, Quiz 4.1-4.4 shows 0 but is marked completed Nov 05, 2026 · completed, awaiting grade: Dropbox Week 12 Homework, Dropbox Unit Circle Quiz, Drop box Quiz 4.1-4.4 · due soon: Dropbox Week 13 Homework (Thu Nov 12), Dropbox Quiz 4.5-4.8 (Thu Nov 12) · 1 overdue · 12 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
           "work": [
+            {
+              "title": "Dropbox Week 13 Homework",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Nov 12"
+            },
+            {
+              "title": "Dropbox Quiz 4.5-4.8",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Thu Nov 12"
+            },
             {
               "title": "Quiz 1.1 - 1.3",
               "status": "zero",
@@ -2567,7 +2594,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since Thursday's recap) · 15 overdue · 1 posted 0",
+          "note": "85% (no change since Thursday's recap) · 15 overdue · 1 posted 0 · Ethos as of Sun Nov 8 8:15 PM CT (Ethos signed out — not refreshed)",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
