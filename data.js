@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 9, 2026 · 8:11 AM CT",
+  "updated": "Monday, Nov 9, 2026 · 12:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Mon Nov 9 noon CT update: English I 80.95 → 80.91 as Mrs. MacAllister graded APA Outline 50/100, Membean Program 1 50/100, Program 2 45/50, Quiz 1 90/100 (new Membean Program 3 due Wed Nov 11 11:59 PM). Algebra 11/5 Delta Math Classwork submitted ~10:57 AM (marked graded, no score yet). Bible: new The North Falls + Exit Ticket turned in (Exit Ticket pending review), Psalm 20:7 Picture due Wed Nov 11 10:15 AM, Jerusalem Falls unlocks Wed 9:35 AM. Geography: two new TURN IN items (Don't Panic Video Questions, Population Growth Activity), unsubmitted. Other grades unchanged.",
         "Past due Fri Nov 6 11:59 PM CT: Bible Thursday Choice Board: Turn-In not submitted — Canvas auto-graded 0/10 ~12:35 AM CT Sat Nov 7 (10 pts formative; Canvas now counts it in the grade — Bible 85.26% → 85.12%); Biology Digital Punnett Squares (100 pts formative, file upload) not submitted. Bible Sun Nov 8 evening: Kingdom Splits Exit Ticket graded 3/4, Pattern Chart 10/10, Elijah Carmel Case File 10/10; Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM; new Capstone Parts 1–2 (no due dates). Biology Mitosis & Meiosis Exit Ticket turned in late Fri ~10:30 PM CT (90/100).",
         "Algebra I 22.74% (was 21.44) — still the big concern: Unit 3 Part 1 Test score released Wed Nov 4 ~2:03 PM: 32/100. Chapter 2 Test 15/100; Quiz 1 2/20, Quiz 3 4/20, Quiz 4 0/20 (released Mon Oct 26 11:57 AM), Chapter 1 Test 23/100; 2.2 and 2.3 Delta Math HW still 0; 2.5–2.7 Delta Math HW (due Mon Oct 5) still not submitted; Slope Intercept Form Homework (20 pts, due Mon Oct 19) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM — that dropped the grade from 23.16% to 21.44%. Unit 3 Part 1 Test (100 pts, Lessons 1–4 slope-intercept) was Thu Oct 29 11:00 AM — marked graded Mon Nov 2 ~11:55 PM; score 32/100 released Wed Nov 4 ~2:03 PM. Mr. Seegers’ below-75% note from Thu Oct 8 is still unread in Canvas. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM with a review packet PDF; 4th period tested Thu Oct 29, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; Delta Math) was due Wed Nov 4 12:00 PM — not submitted; now overdue. Wed Nov 4 ~2:09 PM: Mr. Seegers sent a Canvas inbox note (\"Scored less than 75 on Unit 3 Part 1 Test\"): Olen scored below 75% on the Slope-Intercept Form summative; students get one Redemption per quarter per class (let him know if Olen wants to pursue it), and Olen can schedule zero-period review by Google Chat. New Thu Nov 5 ~1:34 AM: 11/5 Delta Math Classwork (50 pts formative, Delta Math / external tool) due Mon Nov 9 11:00 AM. Thu Nov 5 ~9:00 AM: Mr. Seegers posted \"Instructions for Class Today\" — watch the Standard Form video playlist, then work 11/5 Delta Math Classwork (50 pts formative, due Mon Nov 9 11:00 AM); unfinished classwork is homework.",
         "German I 87.96% — NEW Fri Nov 6 ~3:47 PM CT: Herr Porter Canvas inbox (was unread) — homework due Tuesday: Ch. 3 vocab Parts 1–2 (1–28 and 28–56) plus verb conjugation worksheet Part 1 (PDF attached); 15–20 min German daily. Canvas: Vocab Part 1 due Tue Nov 10 10:00 AM; Workbook 11-19 due Wed Nov 11 12:00 PM. Workbook 13-16 scored 19.6/20 (98%) Fri Nov 6. Earlier: Fri Nov 6 ~12:14 PM CT: Workbook 13-16 re-scored to 19.6/20 (98%; was 24.75/20). Workbook 11-19 due moved to Wed Nov 11 12:00 PM. Earlier: Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%); Workbook 13-16 re-scored to 24.75/20 (now out of 20). New: Workbook 11-19 (30 pts, on paper) due Tue Nov 10 12 PM and Chapter 3 Vocabulary List Part 1 (25 pts, on paper) due Tue Nov 10 10 AM. Earlier: Workbook 13-16 graded 25/25 Tue Nov 3 12:22 PM. Earlier: on-paper work graded Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz 18/20, Family Member Vocabulary 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper, due Mon Oct 26 1 PM) still has no grade in Canvas. Alphabet Part 1 Video and Farben still 0; Vorstellen introduction still 0.2/20.",
@@ -19,7 +20,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 85.12,
-          "note": "85.12% (was 85.26) — as of Mon Nov 9 ~12 AM CT: graded Sun Nov 8 evening: Elijah: Carmel Case File 10/10 (~8:52 PM CT), The Kingdom Splits: Pattern Chart 10/10 (~8:47 PM CT), The Kingdom Splits: Exit Ticket 3/4 (~8:51 PM CT, was pending review). Thursday Choice Board: Turn-In (0/10, not submitted) is no longer omitted from the final grade — Canvas now counts it. Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM). New in Canvas: Capstone Part 1: Your Story Exhibit (60 pts summative, file upload/text entry, no due date) and Capstone Part 2: Your Statement (40 pts summative, quiz, no due date) — both unsubmitted. Earlier: 85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade). Wed Nov 4 10:05 AM: Elijah: Carmel Case File (due Mon Nov 9) turned in — awaiting grade. New Thu Nov 5 ~7:06 AM: Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade, online text entry) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 Sat Nov 7 ~12:35 AM CT (still not counted).",
+          "note": "85.12% (unchanged) — Mon Nov 9 noon CT pull: new Formative items: The North Falls (5 pts, omitted from final grade, turned in ~10:42 AM CT), The North Falls: Exit Ticket (4 pts, omitted, turned in ~10:47 AM CT — pending review, 2/4 so far), Psalm 20:7 Memory Verse: Picture (100 pts, omitted, due Wed Nov 11 10:15 AM), Jerusalem Falls (10 pts, unlocks Wed Nov 11 9:35 AM, no due date). Earlier: 85.12% (was 85.26) — as of Mon Nov 9 ~12 AM CT: graded Sun Nov 8 evening: Elijah: Carmel Case File 10/10 (~8:52 PM CT), The Kingdom Splits: Pattern Chart 10/10 (~8:47 PM CT), The Kingdom Splits: Exit Ticket 3/4 (~8:51 PM CT, was pending review). Thursday Choice Board: Turn-In (0/10, not submitted) is no longer omitted from the final grade — Canvas now counts it. Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM). New in Canvas: Capstone Part 1: Your Story Exhibit (60 pts summative, file upload/text entry, no due date) and Capstone Part 2: Your Statement (40 pts summative, quiz, no due date) — both unsubmitted. Earlier: 85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade). Wed Nov 4 10:05 AM: Elijah: Carmel Case File (due Mon Nov 9) turned in — awaiting grade. New Thu Nov 5 ~7:06 AM: Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade, online text entry) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 Sat Nov 7 ~12:35 AM CT (still not counted).",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -61,6 +62,24 @@ window.RECAP_DATA = {
               "title": "Capstone Part 2: Your Statement",
               "status": "due",
               "detail": "new in Canvas Mon Nov 9 pull · 40 pts summative · quiz · no due date set in Canvas · unsubmitted",
+              "due": "No due date"
+            },
+            {
+              "title": "The North Falls: Exit Ticket",
+              "status": "due",
+              "detail": "new Mon Nov 9 · 4 pts formative (omitted from final grade) · turned in ~10:47 AM CT — pending review (2/4 so far)",
+              "due": "Nov 9"
+            },
+            {
+              "title": "Psalm 20:7 Memory Verse: Picture",
+              "status": "due",
+              "detail": "new Mon Nov 9 · 100 pts formative (omitted from final grade) · due Wed Nov 11 10:15 AM CT · unsubmitted",
+              "due": "Nov 11"
+            },
+            {
+              "title": "Jerusalem Falls",
+              "status": "due",
+              "detail": "new Mon Nov 9 · 10 pts formative · unlocks Wed Nov 11 9:35 AM CT · no due date · unsubmitted",
               "due": "No due date"
             }
           ],
@@ -559,7 +578,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 22.74,
-          "note": "22.74% (was 21.44) — Wed Nov 4 ~2:03 PM: Unit 3 Part 1 Test score released: 32/100. Earlier (23.16 → 21.44): Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts, due Mon Oct 19 11:00 AM) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM, dropping the grade from 23.16% to 21.44%. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — Mr. Seegers marked it graded Mon Nov 2 ~11:55 PM; score released Wed Nov 4 ~2:03 PM: 32/100. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; formative, Delta Math) was due Wed Nov 4 12:00 PM — not submitted; now overdue. Wed Nov 4 ~2:09 PM: Mr. Seegers sent a Canvas inbox note (\"Scored less than 75 on Unit 3 Part 1 Test\"): Olen scored below 75% on the Slope-Intercept Form summative; students get one Redemption per quarter per class (let him know if Olen wants to pursue it), and Olen can schedule zero-period review by Google Chat. New Thu Nov 5 ~1:34 AM: 11/5 Delta Math Classwork (50 pts formative, Delta Math / external tool) due Mon Nov 9 11:00 AM. Thu Nov 5 ~9:00 AM: Mr. Seegers posted \"Instructions for Class Today\" — watch the Standard Form video playlist, then work 11/5 Delta Math Classwork (50 pts formative, due Mon Nov 9 11:00 AM); unfinished classwork is homework.",
+          "note": "22.74% (unchanged) — Mon Nov 9 ~10:57 AM CT: 11/5 Delta Math Classwork (50 pts, due 11:00 AM) submitted and marked graded (no score posted in Canvas yet). Earlier: 22.74% (was 21.44) — Wed Nov 4 ~2:03 PM: Unit 3 Part 1 Test score released: 32/100. Earlier (23.16 → 21.44): Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts, due Mon Oct 19 11:00 AM) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM, dropping the grade from 23.16% to 21.44%. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — Mr. Seegers marked it graded Mon Nov 2 ~11:55 PM; score released Wed Nov 4 ~2:03 PM: 32/100. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; formative, Delta Math) was due Wed Nov 4 12:00 PM — not submitted; now overdue. Wed Nov 4 ~2:09 PM: Mr. Seegers sent a Canvas inbox note (\"Scored less than 75 on Unit 3 Part 1 Test\"): Olen scored below 75% on the Slope-Intercept Form summative; students get one Redemption per quarter per class (let him know if Olen wants to pursue it), and Olen can schedule zero-period review by Google Chat. New Thu Nov 5 ~1:34 AM: 11/5 Delta Math Classwork (50 pts formative, Delta Math / external tool) due Mon Nov 9 11:00 AM. Thu Nov 5 ~9:00 AM: Mr. Seegers posted \"Instructions for Class Today\" — watch the Standard Form video playlist, then work 11/5 Delta Math Classwork (50 pts formative, due Mon Nov 9 11:00 AM); unfinished classwork is homework.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -608,12 +627,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "new Mon Nov 2 ~12:23 PM · 20 pts formative (was 10) · Delta Math · was due Wed Nov 4 12:00 PM — not submitted, now overdue",
               "due": "Nov 4"
-            },
-            {
-              "title": "11/5 Delta Math Classwork",
-              "status": "due",
-              "detail": "new Thu Nov 5 ~1:34 AM · 50 pts formative · Delta Math / external tool · due Mon Nov 9 11:00 AM",
-              "due": "Nov 9"
             }
           ],
           "grades": [
@@ -969,7 +982,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 84.95,
-          "note": "84.95% (was 83.33) — Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in (awaiting grade). Earlier: Fri Nov 6 ~11:29 AM: TURN IN - Cluster Borders Presentation (Summative) (100 pts) graded 100/100. Earlier: Thu Nov 5 ~1:18 PM: Unit 2 TEST (100 pts summative) taken and graded 70/100. Earlier: October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM; graded 100/100 Fri Nov 6 ~11:29 AM CT; Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon Oct 26 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts; moved Fri Oct 30 9:47 AM from Summative to Q1 Formative Assessment; URL or file upload; no due date set in Canvas) — turned in on Canvas Fri Oct 30 1:28 PM, awaiting grade. Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in on Canvas (awaiting grade; 100 pts formative). Earlier Mon Nov 2 ~9:53 AM: that Current Event Post was posted (no due date set in Canvas). Also since the 8 AM check, the \"Q1 Formative Assessment\" grade category was renamed \"Formative Assessment\" (grade unchanged). Week 6 page (Nov 2–6, updated Mon Nov 2 ~12:37 PM): Mon (A)/Tue (B) finish and present the Conflict Zones Project, turn in the Conflict Zones Presentation, and test review; Wed Current Event Post; Thu (A)/Fri (B) Unit 2 TEST. New Thu Nov 5 morning: Unit 2 TEST posted in Canvas (100 pts summative, external tool; was schedule-only) — taken and graded 70/100 ~1:18 PM; TURN IN - Unit 3 Vocab Matrix (100 pts formative, URL/upload, no due date) and Current Event Post Nov. 11th (100 pts formative, online text entry, no due date) — not submitted yet.",
+          "note": "84.95% (unchanged) — Mon Nov 9 noon CT pull: two new unsubmitted items: TURN IN - Don't Panic Video Questions and TURN IN - Our World in Data - Population Growth Activity (100 pts formative each, no due date). Earlier: 84.95% (was 83.33) — Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in (awaiting grade). Earlier: Fri Nov 6 ~11:29 AM: TURN IN - Cluster Borders Presentation (Summative) (100 pts) graded 100/100. Earlier: Thu Nov 5 ~1:18 PM: Unit 2 TEST (100 pts summative) taken and graded 70/100. Earlier: October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM; graded 100/100 Fri Nov 6 ~11:29 AM CT; Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon Oct 26 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts; moved Fri Oct 30 9:47 AM from Summative to Q1 Formative Assessment; URL or file upload; no due date set in Canvas) — turned in on Canvas Fri Oct 30 1:28 PM, awaiting grade. Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in on Canvas (awaiting grade; 100 pts formative). Earlier Mon Nov 2 ~9:53 AM: that Current Event Post was posted (no due date set in Canvas). Also since the 8 AM check, the \"Q1 Formative Assessment\" grade category was renamed \"Formative Assessment\" (grade unchanged). Week 6 page (Nov 2–6, updated Mon Nov 2 ~12:37 PM): Mon (A)/Tue (B) finish and present the Conflict Zones Project, turn in the Conflict Zones Presentation, and test review; Wed Current Event Post; Thu (A)/Fri (B) Unit 2 TEST. New Thu Nov 5 morning: Unit 2 TEST posted in Canvas (100 pts summative, external tool; was schedule-only) — taken and graded 70/100 ~1:18 PM; TURN IN - Unit 3 Vocab Matrix (100 pts formative, URL/upload, no due date) and Current Event Post Nov. 11th (100 pts formative, online text entry, no due date) — not submitted yet.",
           "work": [
             {
               "title": "Oct. 21st Current Event Post",
@@ -999,6 +1012,18 @@ window.RECAP_DATA = {
               "title": "Current Event Post Nov. 11th",
               "status": "due",
               "detail": "new Thu Nov 5 ~9:42 AM · 100 pts formative · online text entry · no due date set in Canvas · unsubmitted",
+              "due": "No due date"
+            },
+            {
+              "title": "TURN IN - Don't Panic Video Questions",
+              "status": "due",
+              "detail": "new Mon Nov 9 · 100 pts formative · no due date set in Canvas · unsubmitted",
+              "due": "No due date"
+            },
+            {
+              "title": "TURN IN - Our World in Data - Population Growth Activity",
+              "status": "due",
+              "detail": "new Mon Nov 9 · 100 pts formative · no due date set in Canvas · unsubmitted",
               "due": "No due date"
             }
           ],
@@ -1400,8 +1425,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "canvas",
-          "grade": 80.95,
-          "note": "80.95% (was 81.14) — Fri Nov 6 ~12:31 PM CT: Act 1, Scenes 1-3 graded 80/100. Earlier: Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu Oct 22 2:51 PM; graded 80/100 Fri Nov 6 ~12:31 PM CT; APA Research Paper Outline (100 pts) and Sources (reminder) were due Thu Oct 29 8:30 AM — nothing turned in on Canvas yet (per the announcement they're being completed in class Thu Oct 29/Fri Oct 30); Q2 Membean Quiz 1 (due Thu Oct 29 8:30 AM) — no score in Canvas yet; Romeo and Juliet Balcony Scene Comic (100 pts, file upload; due moved from Mon Oct 26 10 PM to Thu Oct 29 8:30 AM) — not submitted, and Canvas marks it missing again; and Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean); APA Research Paper due Wed Nov 18 (rough draft now 100 pts, was 200 — changed Sun Nov 1 ~11:27 AM; still no date). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%). Mrs. MacAllister's Sun Oct 25 announcement: sources and outline will be submitted for approval and completed in class Thu Oct 29/Fri Oct 30; other research paper dates unchanged; heavy in-class reading Mon Oct 26/Tue Oct 27.",
+          "grade": 80.91,
+          "note": "80.91% (was 80.95) — Mon Nov 9 ~8:59–9:17 AM CT teacher posted scores: APA Research Paper Outline 50/100, Q2 Membean Program 1 50/100, Q2 Membean Program 2 45/50, Q2 Membean Quiz 1 90/100. New: Membean Program 3 (100 pts formative, due Wed Nov 11 11:59 PM CT). Earlier: 80.95% (was 81.14) — Fri Nov 6 ~12:31 PM CT: Act 1, Scenes 1-3 graded 80/100. Earlier: Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu Oct 22 2:51 PM; graded 80/100 Fri Nov 6 ~12:31 PM CT; APA Research Paper Outline (100 pts) and Sources (reminder) were due Thu Oct 29 8:30 AM — nothing turned in on Canvas yet (per the announcement they're being completed in class Thu Oct 29/Fri Oct 30); Q2 Membean Quiz 1 (due Thu Oct 29 8:30 AM) — no score in Canvas yet; Romeo and Juliet Balcony Scene Comic (100 pts, file upload; due moved from Mon Oct 26 10 PM to Thu Oct 29 8:30 AM) — not submitted, and Canvas marks it missing again; and Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean); APA Research Paper due Wed Nov 18 (rough draft now 100 pts, was 200 — changed Sun Nov 1 ~11:27 AM; still no date). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%). Mrs. MacAllister's Sun Oct 25 announcement: sources and outline will be submitted for approval and completed in class Thu Oct 29/Fri Oct 30; other research paper dates unchanged; heavy in-class reading Mon Oct 26/Tue Oct 27.",
           "work": [
             {
               "title": "Research Paper Topic",
@@ -1410,34 +1435,16 @@ window.RECAP_DATA = {
               "due": "Oct 19"
             },
             {
-              "title": "Q2 Membean Program 1",
-              "status": "overdue",
-              "detail": "new Mon Oct 19 · 100 pts · was due Wed Oct 21 11:59 PM — no score in Canvas yet (tracked in Membean)",
-              "due": "Oct 21"
-            },
-            {
               "title": "Romeo and Juliet Balcony Scene Comic",
               "status": "missing",
               "detail": "new Mon Oct 26 · 100 pts · file upload · was due Thu Oct 29 8:30 AM (moved from Mon Oct 26 10:00 PM) — not submitted; Canvas marks it missing",
               "due": "Oct 29"
             },
             {
-              "title": "Q2 Membean Program 2",
-              "status": "overdue",
-              "detail": "new Mon Oct 26 · 50 pts · was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean)",
-              "due": "Oct 28"
-            },
-            {
-              "title": "APA Research Paper Outline",
-              "status": "overdue",
-              "detail": "100 pts · was due Thu Oct 29 8:30 AM — not submitted in Canvas yet (being completed in class Thu Oct 29/Fri Oct 30 per Mrs. MacAllister)",
-              "due": "Oct 29"
-            },
-            {
-              "title": "Q2 Membean Quiz 1",
-              "status": "overdue",
-              "detail": "100 pts · was due Thu Oct 29 8:30 AM — no score in Canvas yet (tracked in Membean)",
-              "due": "Oct 29"
+              "title": "Membean Program 3",
+              "status": "due",
+              "detail": "new Mon Nov 9 · 100 pts formative · due Wed Nov 11 11:59 PM CT · unsubmitted",
+              "due": "Nov 11"
             }
           ],
           "grades": [
@@ -1594,6 +1601,34 @@ window.RECAP_DATA = {
               "percent": 80.0,
               "group": "Formative Assessment",
               "due": "Oct 22"
+            },
+            {
+              "title": "APA Research Paper Outline",
+              "score": "50/100",
+              "percent": 50.0,
+              "group": "Formative Assessment",
+              "due": "Oct 29"
+            },
+            {
+              "title": "Q2 Membean Program 1",
+              "score": "50/100",
+              "percent": 50.0,
+              "group": "Formative Assessment",
+              "due": "Oct 21"
+            },
+            {
+              "title": "Q2 Membean Program 2",
+              "score": "45/50",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Oct 28"
+            },
+            {
+              "title": "Q2 Membean Quiz 1",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Summative Assessment",
+              "due": "Oct 29"
             }
           ]
         }
