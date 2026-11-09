@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 9, 2026 · 4:07 AM CT",
+  "updated": "Monday, Nov 9, 2026 · 8:11 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -323,8 +323,8 @@ window.RECAP_DATA = {
           "teacher": "Titus",
           "period": "P3",
           "source": "canvas",
-          "grade": 99.96,
-          "note": "99.96% — Sight-Singing 6/7, You Raise Me Up, and Run-through of Program graded 100; TAPPS Solos and Sight-Singing Exam removed from Canvas.",
+          "grade": 96.88,
+          "note": "96.88% (was 99.96) — Mon Nov 9 8 AM CT: 11 previously-removed items are back in Canvas, all graded: Sight-Singing Exam 1 85/100, Sight-Singing 10 95/100, Program Run-through 2 98/100, others 100/100 (Sight-Singing 8/9, Program Run-Through 3, Solos/Sm Ens for Program x2, Veteran's Day Medley Pts 1–3). Nothing missing or overdue.",
           "work": [],
           "grades": [
             {
@@ -473,6 +473,83 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 7"
+            },
+            {
+              "title": "Solos/Sm Ensembles for Program",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 13"
+            },
+            {
+              "title": "Sight-Singing Exam 1",
+              "score": "85/100",
+              "percent": 85.0,
+              "group": "Summative Assessment",
+              "due": "Oct 13"
+            },
+            {
+              "title": "Sight-Singing 8",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 14"
+            },
+            {
+              "title": "Solos/Sm Ens for Program",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 16"
+            },
+            {
+              "title": "Sight-Singing 9",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 21"
+            },
+            {
+              "title": "Program Run-through 2",
+              "score": "98/100",
+              "percent": 98.0,
+              "group": "Formative Assessment",
+              "due": "Oct 23"
+            },
+            {
+              "title": "Veteran's Day Medley Pt 1",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 27"
+            },
+            {
+              "title": "Sight-Singing 10",
+              "score": "95/100",
+              "percent": 95.0,
+              "group": "Formative Assessment",
+              "due": "Oct 28"
+            },
+            {
+              "title": "Program Run-Through 3",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 30"
+            },
+            {
+              "title": "Veteran's Day Medley Pt 2",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Nov 3"
+            },
+            {
+              "title": "Veteran's Day Medley pt 3",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Nov 6"
             }
           ]
         },
