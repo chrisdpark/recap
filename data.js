@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 10, 2026 · 5:16 PM CT",
+  "updated": "Tuesday, Nov 10, 2026 · 5:19 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1682,6 +1682,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Tue Nov 10 5 PM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Apologetics: Explain It: The Contingency Argument submitted Sat Nov 7, awaiting grade (due Fri Nov 13); Kalam Video Quiz Part 1 graded 80/100; Memory Verse 3 and Unit 4 Summative Quiz due Fri Dec 4. Graphic Design: nothing due. Ethos could not be refreshed this run, so Ethos grades and work lists are carried over from the last good pull.",
         "Tue Nov 10 4 PM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 12 PM CT check (live Canvas): Apologetics 87.09 → 86.54 (Kalam Video Quiz Part 1 graded 80/100); Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 8 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Graphic Design 11/3-11/6 classwork graded 100/100 ~7:55 AM CT (no longer overdue). Apologetics: new Memory Verse 3 and Unit 4 Summative Quiz (Memory Section & Essay), both due Fri Dec 4 11:59 PM. Ethos grades carried over from the last good pull (not refreshed this run).",
