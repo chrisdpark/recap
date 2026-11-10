@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 10, 2026 · 4:07 AM CT",
+  "updated": "Tuesday, Nov 10, 2026 · 8:08 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Tue Nov 10 8 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. No new or changed Olen assignments since the 4 AM check (Bible The North Falls 5/5 and Exit Ticket 4/4 already graded). Algebra Unit 2 schedule page unchanged; Unit 3 notes still the latest.",
         "Tue Nov 10 4 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. Item-level detail carried over from the 12 AM check.",
         "Tue Nov 10 12 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. Bible Formative items The North Falls (5/5) and Exit Ticket (4/4) now fully graded (omitted from final grade).",
         "Mon Nov 9 8 PM CT check (live Canvas): APA Research Paper (English I, summative, due Wed Nov 18 8:30 AM CT) changed from 200 to 100 pts ~6:30 PM CT; still unsubmitted. All course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91.",
@@ -1662,13 +1663,13 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Tue Nov 10 8 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Graphic Design 11/3-11/6 classwork graded 100/100 ~7:55 AM CT (no longer overdue). Apologetics: new Memory Verse 3 and Unit 4 Summative Quiz (Memory Section & Essay), both due Fri Dec 4 11:59 PM. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 4 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 12 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Ethos classes carried over from the last good pull (no new Ethos login this run).",
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
         "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Government: Due Process Court Case (Sun Nov 8); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
         "Due today (Mon Nov 9) through Sun Nov 16 and not marked completed in Ethos: Physics: Friction Conceptual Question (Mon Nov 9); English 12: DWS #5 NUMBER TWO! (Wed Nov 11); Precalculus: Dropbox Week 13 Homework (Thu Nov 12); Precalculus: Dropbox Quiz 4.5-4.8 (Thu Nov 12); Physics: Circular Motion & Gravitation Notes (Sat Nov 14); Physics: Circular Motion and Gravitation Problem Set (Sat Nov 14); Government: First Amendment Civil Liberties Exploration (Sun Nov 15); Government: Court Case Comparison (Sun Nov 15); Sociology: Social Location Map Assignment (Sun Nov 15); Sociology: Sociological Scavenger Hunt #5 (Sun Nov 15); English 12: Annotated Bibliography (Mon Nov 16); Government: Civil Liberties and Rights Assessment (Mon Nov 16).",
-        "Canvas Graphic Design: 97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue).",
         "Canvas Apologetics: 87.09% (no change since Friday). Explain It: The Contingency Argument (100 pts) was submitted Sat Nov 7 and is awaiting a grade (due Fri Nov 13). Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM — not submitted yet.",
         "Ethos overall grade changes since Friday's recap: English 12 96 → 94 (dashboard read ~4:20 PM CT; detail tables last pulled 8:10 AM CT — not refreshed for this run)."
       ],
@@ -3008,7 +3009,7 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.09,
-          "note": "87.09% — no change since Fri Nov 6; Explain It: The Contingency Argument submitted Sat Nov 7 (awaiting grade; due Fri Nov 13 11:59 PM); Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM, not submitted yet; Summative - Sort and Defend 80/100; Case for Truth Summative Exam 66/100 is still the low spot",
+          "note": "87.09% — no change since Fri Nov 6; Explain It: The Contingency Argument submitted Sat Nov 7 (awaiting grade; due Fri Nov 13 11:59 PM); Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM, not submitted yet; Summative - Sort and Defend 80/100; Case for Truth Summative Exam 66/100 is still the low spot; New Tue Nov 10: Memory Verse 3 (Formative, 100 pts) and Unit 4 Summative Quiz (Memory Section & Essay, 100 pts) posted, both due Fri Dec 4 11:59 PM.",
           "work": [
             {
               "title": "Explain It: The Contingency Argument",
@@ -3021,6 +3022,18 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "100 pts · not submitted yet · due Tue Nov 17 11:59 PM",
               "due": "Nov 17"
+            },
+            {
+              "title": "Memory Verse 3 (Formative)",
+              "status": "due",
+              "detail": "100 pts formative · not submitted yet · due Fri Dec 4 11:59 PM",
+              "due": "Dec 4"
+            },
+            {
+              "title": "Unit 4 Summative Quiz (Memory Section & Essay)",
+              "status": "due",
+              "detail": "100 pts summative · not submitted yet · due Fri Dec 4 11:59 PM",
+              "due": "Dec 4"
             }
           ],
           "grades": [
@@ -3151,16 +3164,16 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue)",
-          "work": [
+          "note": "97.3% — 11/3-11/6 classwork (100 pts, on paper) was graded 100/100 Tue Nov 10 ~7:55 AM CT (it had been showing overdue); Canvas still shows the course at 97.3%.",
+          "work": [],
+          "grades": [
             {
               "title": "11/3-11/6",
-              "status": "overdue",
-              "detail": "100 pts classwork · not submitted · was due Fri Nov 6 ~3:59 PM CT",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
               "due": "Nov 6"
-            }
-          ],
-          "grades": [
+            },
             {
               "title": "10/16",
               "score": "100/100",
