@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 10, 2026 · 4:06 PM CT",
+  "updated": "Tuesday, Nov 10, 2026 · 5:16 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Tue Nov 10 5 PM CT check (live Canvas): no grade changes since 4 PM — Bible 86.62, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. Due tonight: Geography Unit 3 Vocab Matrix (already turned in), English APA Research Paper Rough Draft (11:59 PM, unsubmitted), Biology Creation Journal #7 (was due 9 AM, not in Canvas). Due Wed Nov 11: Bible Psalm 20:7 Memory Verse 10:15 AM, German Quiz prep 10 AM and Workbook (graded), Biology Blood Types, English Membean Program 3. No new Canvas inbox messages; only new announcement: Biology Nov 10 agenda (sub today).",
         "Tue Nov 10 4 PM CT check (live Canvas): German 86.45 → 86.88 (Workbook 11-19 graded 28.5/30; Chapter 3 Vocabulary Part 1 now flagged missing at 0.25/25; new Quiz prep and Next 10 Verbs items). World Geography 85.61 unchanged (Population Growth Activity turned in, awaiting grade). Biology 78.78 unchanged (Digital Punnett Squares turned in late; Non-mendelian WebQuest completed). English 80.91 unchanged — APA Rough Draft due tonight 11:59 PM CT. Bible 86.62, Worship 96.88, Algebra 22.74 unchanged.",
         "Tue Nov 10 12 PM CT check (live Canvas): German 87.96 → 86.45 (Lord's Prayer SA graded 36/40; Chapter 3 Vocabulary List Part 1 graded 0.25/25 — due 10 AM today); World Geography 84.95 → 85.61 (Conflict Zones Presentation graded 100/100). Bible 86.62, Worship 96.88, Algebra 22.74, Biology 78.78, English 80.91 unchanged. Biology Creation Journal #7 (due 9 AM today) not submitted in Canvas. Algebra Unit 2 schedule page unchanged; Unit 3 notes still the latest.",
         "Tue Nov 10 8 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. No new or changed Olen assignments since the 4 AM check (Bible The North Falls 5/5 and Exit Ticket 4/4 already graded). Algebra Unit 2 schedule page unchanged; Unit 3 notes still the latest.",
