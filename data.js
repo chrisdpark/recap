@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 10, 2026 · 12:03 AM CT",
+  "updated": "Tuesday, Nov 10, 2026 · 4:07 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Tue Nov 10 4 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. Item-level detail carried over from the 12 AM check.",
         "Tue Nov 10 12 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. Bible Formative items The North Falls (5/5) and Exit Ticket (4/4) now fully graded (omitted from final grade).",
         "Mon Nov 9 8 PM CT check (live Canvas): APA Research Paper (English I, summative, due Wed Nov 18 8:30 AM CT) changed from 200 to 100 pts ~6:30 PM CT; still unsubmitted. All course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91.",
         "Mon Nov 9 5 PM CT check (live Canvas): no new grades since 4 PM — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. No new Canvas inbox messages or announcements in the last 24 hours. Coming up: Biology Creation Journal #7 and Non-Mendelian WebQuest due Tue Nov 10; German Chapter 3 Vocabulary List due Tue Nov 10 10 AM; Bible Psalm 20:7 Memory Verse and Picture due Wed Nov 11 10:15 AM; Membean Program 3 (English), Blood Types (Biology) and German Workbook 11-19 due Wed Nov 11.",
@@ -1661,6 +1662,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Tue Nov 10 4 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 12 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Ethos classes carried over from the last good pull (no new Ethos login this run).",
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
