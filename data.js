@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 9, 2026 · 5:11 PM CT",
+  "updated": "Monday, Nov 9, 2026 · 6:52 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1640,11 +1640,11 @@ window.RECAP_DATA = {
       "attention": [
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
-        "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Synch Session #7 Makeup (Sun Nov 1); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Government: Due Process Court Case (Sun Nov 8); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
-        "Due today (Mon Nov 9) through Thu Nov 12 and not marked completed in Ethos: Physics: Friction Conceptual Question (Mon Nov 9); English 12: DWS #5 NUMBER TWO! (Wed Nov 11); Precalculus: Dropbox Week 13 Homework (Thu Nov 12); Precalculus: Dropbox Quiz 4.5-4.8 (Thu Nov 12).",
-        "Physics: Forces & Newton's Laws Test Review marked completed in Ethos Sat Nov 7; Circular Motion & Gravitation Notes and Problem Set rescheduled to Sat Nov 14 and Circular Motion Lab to Sat Nov 21 (no longer overdue).",
+        "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Government: Due Process Court Case (Sun Nov 8); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
+        "Due today (Mon Nov 9) through Sun Nov 16 and not marked completed in Ethos: Physics: Friction Conceptual Question (Mon Nov 9); English 12: DWS #5 NUMBER TWO! (Wed Nov 11); Precalculus: Dropbox Week 13 Homework (Thu Nov 12); Precalculus: Dropbox Quiz 4.5-4.8 (Thu Nov 12); Physics: Circular Motion & Gravitation Notes (Sat Nov 14); Physics: Circular Motion and Gravitation Problem Set (Sat Nov 14); Government: First Amendment Civil Liberties Exploration (Sun Nov 15); Government: Court Case Comparison (Sun Nov 15); Sociology: Social Location Map Assignment (Sun Nov 15); Sociology: Sociological Scavenger Hunt #5 (Sun Nov 15); English 12: Annotated Bibliography (Mon Nov 16); Government: Civil Liberties and Rights Assessment (Mon Nov 16).",
         "Canvas Graphic Design: 97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue).",
-        "Canvas Apologetics: 87.09% (no change since Thursday). Explain It: The Contingency Argument (100 pts, due Fri Nov 13) turned in Sat Nov 7 10:46 AM CT — awaiting grade. Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM — not submitted yet."
+        "Canvas Apologetics: 87.09% (no change since Friday). Explain It: The Contingency Argument (100 pts) was submitted Sat Nov 7 and is awaiting a grade (due Fri Nov 13). Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM — not submitted yet.",
+        "Ethos overall grade changes since Friday's recap: English 12 96 → 94 (dashboard read ~4:20 PM CT; detail tables last pulled 8:10 AM CT — not refreshed for this run)."
       ],
       "courses": [
         {
@@ -1652,14 +1652,20 @@ window.RECAP_DATA = {
           "teacher": "Denton",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 96,
-          "note": "96% (no change since Thursday's recap) · due soon: DWS #5 NUMBER TWO! (Wed Nov 11) · 22 overdue · 0 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
+          "grade": 94,
+          "note": "94% (down from 96) · due soon: DWS #5 NUMBER TWO! (Wed Nov 11), Annotated Bibliography (Mon Nov 16) · 22 overdue · 0 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
           "work": [
             {
               "title": "DWS #5 NUMBER TWO!",
               "status": "due",
               "detail": "Not completed",
               "due": "Due Wed Nov 11"
+            },
+            {
+              "title": "Annotated Bibliography",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Mon Nov 16"
             },
             {
               "title": "Poetic Elements and Structure (StudySync)",
@@ -1803,7 +1809,7 @@ window.RECAP_DATA = {
               "due": "Sep 21, 2025"
             },
             {
-              "title": "\"Death of a Moth\" by Virginia Woolf",
+              "title": "Death of a Moth by Virginia Woolf",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1831,7 +1837,7 @@ window.RECAP_DATA = {
               "due": "Aug 30, 2026"
             },
             {
-              "title": "\"Shooting an Elephant\" by George Orwell",
+              "title": "Shooting an Elephant by George Orwell",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1880,13 +1886,25 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 83,
-          "note": "83% (no change since Thursday's recap) · completed Sat Nov 7: Forces & Newton's Laws Test Review · rescheduled: Circular Motion & Gravitation Notes and Problem Set now due Sat Nov 14, Circular Motion Lab now due Sat Nov 21 (were overdue from Oct 21/Oct 28) · due soon: Friction Conceptual Question (Mon Nov 9) · 9 overdue · 2 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
+          "note": "83% (no change since Friday's recap) · due soon: Friction Conceptual Question (Mon Nov 9), Circular Motion & Gravitation Notes (Sat Nov 14), Circular Motion and Gravitation Problem Set (Sat Nov 14) · 9 overdue · 2 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
           "work": [
             {
               "title": "Friction Conceptual Question",
               "status": "due",
               "detail": "Not completed",
               "due": "Due Mon Nov 9"
+            },
+            {
+              "title": "Circular Motion & Gravitation Notes",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Sat Nov 14"
+            },
+            {
+              "title": "Circular Motion and Gravitation Problem Set",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Sat Nov 14"
             },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
@@ -2181,8 +2199,26 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Thursday's recap) · graded today: Criminal Justice (100) · 8 overdue · 0 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
+          "note": "87% (no change since Friday's recap) · due soon: First Amendment Civil Liberties Exploration (Sun Nov 15), Court Case Comparison (Sun Nov 15), Civil Liberties and Rights Assessment (Mon Nov 16) · 8 overdue · 0 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
           "work": [
+            {
+              "title": "First Amendment Civil Liberties Exploration",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Sun Nov 15"
+            },
+            {
+              "title": "Court Case Comparison",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Sun Nov 15"
+            },
+            {
+              "title": "Civil Liberties and Rights Assessment",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Mon Nov 16"
+            },
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
@@ -2416,7 +2452,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% (no change since Thursday's recap) · newly graded: Unit Circle Quiz shows 0 but is marked completed Nov 05, 2026, Quiz 4.1-4.4 shows 0 but is marked completed Nov 05, 2026 · completed, awaiting grade: Dropbox Week 12 Homework, Dropbox Unit Circle Quiz, Drop box Quiz 4.1-4.4 · due soon: Dropbox Week 13 Homework (Thu Nov 12), Dropbox Quiz 4.5-4.8 (Thu Nov 12) · 1 overdue · 12 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
+          "note": "89% (no change since Friday's recap) · due soon: Dropbox Week 13 Homework (Thu Nov 12), Dropbox Quiz 4.5-4.8 (Thu Nov 12) · 1 overdue · 1 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
           "work": [
             {
               "title": "Dropbox Week 13 Homework",
@@ -2707,8 +2743,20 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since Thursday's recap) · 15 overdue · 1 posted 0 · Ethos live-verified Mon Nov 9 12:11 AM CT (unchanged, not signed out)",
+          "note": "85% (no change since Friday's recap) · due soon: Social Location Map Assignment (Sun Nov 15), Sociological Scavenger Hunt #5 (Sun Nov 15) · 15 overdue · 1 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
           "work": [
+            {
+              "title": "Social Location Map Assignment",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Sun Nov 15"
+            },
+            {
+              "title": "Sociological Scavenger Hunt #5",
+              "status": "due",
+              "detail": "Not completed",
+              "due": "Due Sun Nov 15"
+            },
             {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
@@ -2934,12 +2982,12 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 87.09,
-          "note": "87.09% — no change since Thu Nov 5 · Sat Nov 7 10:46 AM CT: Explain It: The Contingency Argument turned in (awaiting grade); Summative - Sort and Defend (General vs. Special Revelation) graded 80/100 Tue Nov 3; Spider Web of Beliefs Reflection 90/100; Contingency Argument: Understanding Check 100/100; Explain It: The Contingency Argument (100 pts, formative, online text entry, due Fri Nov 13 11:59 PM) turned in Sat Nov 7 10:46 AM CT, awaiting grade; Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM, not submitted yet; Case for Truth Summative Exam 66/100 (graded Fri Oct 9) is still the low spot",
+          "note": "87.09% — no change since Fri Nov 6; Explain It: The Contingency Argument submitted Sat Nov 7 (awaiting grade; due Fri Nov 13 11:59 PM); Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM, not submitted yet; Summative - Sort and Defend 80/100; Case for Truth Summative Exam 66/100 is still the low spot",
           "work": [
             {
               "title": "Explain It: The Contingency Argument",
-              "status": "due",
-              "detail": "Turned in Sat Nov 7 10:46 AM CT — awaiting grade (100 pts formative · online text entry · due Fri Nov 13 11:59 PM)",
+              "status": "submitted",
+              "detail": "100 pts formative · submitted Sat Nov 7 · awaiting grade · due Fri Nov 13 11:59 PM",
               "due": "Nov 13"
             },
             {
@@ -3077,7 +3125,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue); 10/27-10/30 graded 100/100; Quarter1_Proj1 96/100 and Quarter 1_Proj2 95/100; other recent class grades 100/100",
+          "note": "97.3% — 11/3-11/6 classwork (100 pts) was due Fri Nov 6 ~3:59 PM CT and is still not submitted (now overdue)",
           "work": [
             {
               "title": "11/3-11/6",
