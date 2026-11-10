@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 10, 2026 · 8:08 AM CT",
+  "updated": "Tuesday, Nov 10, 2026 · 12:06 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Tue Nov 10 12 PM CT check (live Canvas): German 87.96 → 86.45 (Lord's Prayer SA graded 36/40; Chapter 3 Vocabulary List Part 1 graded 0.25/25 — due 10 AM today); World Geography 84.95 → 85.61 (Conflict Zones Presentation graded 100/100). Bible 86.62, Worship 96.88, Algebra 22.74, Biology 78.78, English 80.91 unchanged. Biology Creation Journal #7 (due 9 AM today) not submitted in Canvas. Algebra Unit 2 schedule page unchanged; Unit 3 notes still the latest.",
         "Tue Nov 10 8 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. No new or changed Olen assignments since the 4 AM check (Bible The North Falls 5/5 and Exit Ticket 4/4 already graded). Algebra Unit 2 schedule page unchanged; Unit 3 notes still the latest.",
         "Tue Nov 10 4 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. Item-level detail carried over from the 12 AM check.",
         "Tue Nov 10 12 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. Bible Formative items The North Falls (5/5) and Exit Ticket (4/4) now fully graded (omitted from final grade).",
@@ -745,25 +746,13 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "canvas",
-          "grade": 87.96,
-          "note": "NEW Fri Nov 6 ~3:47 PM CT Canvas inbox from Herr Porter (unread when pulled): two homework pieces due Tuesday — (1) Chapter 3 vocab list Parts 1 and 2 (words 1–28 and 28–56 / Abend-Nachrichten), (2) Part 1 of the verb conjugation worksheet (PDF attached). He also asks for 15–20 minutes of German daily. Canvas assignment shows Chapter 3 Vocabulary List Part 1 (first 28 words, 25 pts, on paper) due Tue Nov 10 10:00 AM; Workbook 11-19 (FA) due Wed Nov 11 12:00 PM. 87.96% (was 88.51) — Fri Nov 6 ~12:14 PM CT: Workbook 13-16 re-scored again to 19.6/20 (98%; was 24.75/20 / 123.75%). Workbook 11-19 (FA) due date moved to Wed Nov 11 12:00 PM (was Tue Nov 10). Earlier: Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%, ~2:56 PM); Workbook 13-16 re-scored ~3:00 PM to 24.75/20 (now out of 20 pts, was 25/25). New: Workbook 11-19 (FA) (30 pts, on paper) due Tue Nov 10 12:00 PM; Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words from the textbook (25 pts, on paper) due Tue Nov 10 10:00 AM; plus ungraded vocab items Vocabulary Lektion A (71-86), Vocabulary Lektion B (87-99), Wichtige Ausdrücke (73). Earlier (87.78 → 88.3): Workbook 13-16 (25 pts, on paper, due Tue Nov 3 10 AM) graded 25/25 Tue Nov 3 12:22 PM. Earlier: Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, on paper, due Wed Nov 4 11:00 AM) graded 18.75/25 Wed Nov 4 ~2:56 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
+          "grade": 86.45,
+          "note": "86.45% (was 87.96) — Tue Nov 10 ~12 PM CT pull: Lord's Prayer (SA) All Parts, Speaking & Writing graded 36/40 (90%, ~8:28 AM CT); Chapter 3 Vocabulary List (105) FA Part 1 (now titled \"First 56 words\", 25 pts, due Tue Nov 10 10:00 AM) graded 0.25/25 (1%, ~11:47 AM CT). Earlier: NEW Fri Nov 6 ~3:47 PM CT Canvas inbox from Herr Porter (unread when pulled): two homework pieces due Tuesday — (1) Chapter 3 vocab list Parts 1 and 2 (words 1–28 and 28–56 / Abend-Nachrichten), (2) Part 1 of the verb conjugation worksheet (PDF attached). He also asks for 15–20 minutes of German daily. Canvas assignment shows Chapter 3 Vocabulary List Part 1 (first 28 words, 25 pts, on paper) due Tue Nov 10 10:00 AM; Workbook 11-19 (FA) due Wed Nov 11 12:00 PM. 87.96% (was 88.51) — Fri Nov 6 ~12:14 PM CT: Workbook 13-16 re-scored again to 19.6/20 (98%; was 24.75/20 / 123.75%). Workbook 11-19 (FA) due date moved to Wed Nov 11 12:00 PM (was Tue Nov 10). Earlier: Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%, ~2:56 PM); Workbook 13-16 re-scored ~3:00 PM to 24.75/20 (now out of 20 pts, was 25/25). New: Workbook 11-19 (FA) (30 pts, on paper) due Tue Nov 10 12:00 PM; Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words from the textbook (25 pts, on paper) due Tue Nov 10 10:00 AM; plus ungraded vocab items Vocabulary Lektion A (71-86), Vocabulary Lektion B (87-99), Wichtige Ausdrücke (73). Earlier (87.78 → 88.3): Workbook 13-16 (25 pts, on paper, due Tue Nov 3 10 AM) graded 25/25 Tue Nov 3 12:22 PM. Earlier: Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, on paper, due Wed Nov 4 11:00 AM) graded 18.75/25 Wed Nov 4 ~2:56 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "German verb conjugation worksheet (Part 1) — from Porter inbox",
               "status": "due",
               "detail": "NEW Fri Nov 6 ~3:47 PM CT inbox from Herr Porter · PDF attached in Canvas message · due Tuesday (with Ch. 3 vocab Parts 1–2)",
-              "due": "Nov 10"
-            },
-            {
-              "title": "Lord's Prayer (SA) — all parts, speaking & writing",
-              "status": "overdue",
-              "detail": "40 pts · on paper (speaking & writing) · was due Mon Oct 26 1:00 PM — no grade in Canvas yet (likely done in class on paper)",
-              "due": "Oct 26"
-            },
-            {
-              "title": "Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words",
-              "status": "due",
-              "detail": "Porter inbox Fri Nov 6 ~3:47 PM also assigns Parts 1 and 2 (words 1–28 and 28–56). new in Canvas (seen Wed Nov 4 afternoon) · 25 pts formative · on paper · due Tue Nov 10 10:00 AM",
               "due": "Nov 10"
             },
             {
@@ -997,6 +986,20 @@ window.RECAP_DATA = {
               "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Sep 8"
+            },
+            {
+              "title": "Lords Prayer (SA) All Parts  Speaking & Writing",
+              "score": "36/40",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Oct 26"
+            },
+            {
+              "title": "Chapter 3 Vocabulary List (105)  FA Part 1 - First 56 words from text book",
+              "score": "0.25/25",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Nov 10"
             }
           ]
         },
@@ -1005,20 +1008,14 @@ window.RECAP_DATA = {
           "teacher": "Callahan",
           "period": "P6",
           "source": "canvas",
-          "grade": 84.95,
-          "note": "84.95% (unchanged) — Mon Nov 9 ~4 PM CT pull: TURN IN - Unit 3 Vocab Matrix turned in ~2:04 PM CT, awaiting grade. Earlier: 84.95% (unchanged) — Mon Nov 9 noon CT pull: two new unsubmitted items: TURN IN - Don't Panic Video Questions and TURN IN - Our World in Data - Population Growth Activity (100 pts formative each, no due date). Earlier: 84.95% (was 83.33) — Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in (awaiting grade). Earlier: Fri Nov 6 ~11:29 AM: TURN IN - Cluster Borders Presentation (Summative) (100 pts) graded 100/100. Earlier: Thu Nov 5 ~1:18 PM: Unit 2 TEST (100 pts summative) taken and graded 70/100. Earlier: October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM; graded 100/100 Fri Nov 6 ~11:29 AM CT; Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon Oct 26 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts; moved Fri Oct 30 9:47 AM from Summative to Q1 Formative Assessment; URL or file upload; no due date set in Canvas) — turned in on Canvas Fri Oct 30 1:28 PM, awaiting grade. Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in on Canvas (awaiting grade; 100 pts formative). Earlier Mon Nov 2 ~9:53 AM: that Current Event Post was posted (no due date set in Canvas). Also since the 8 AM check, the \"Q1 Formative Assessment\" grade category was renamed \"Formative Assessment\" (grade unchanged). Week 6 page (Nov 2–6, updated Mon Nov 2 ~12:37 PM): Mon (A)/Tue (B) finish and present the Conflict Zones Project, turn in the Conflict Zones Presentation, and test review; Wed Current Event Post; Thu (A)/Fri (B) Unit 2 TEST. New Thu Nov 5 morning: Unit 2 TEST posted in Canvas (100 pts summative, external tool; was schedule-only) — taken and graded 70/100 ~1:18 PM; TURN IN - Unit 3 Vocab Matrix (100 pts formative, URL/upload, no due date) and Current Event Post Nov. 11th (100 pts formative, online text entry, no due date) — not submitted yet.",
+          "grade": 85.61,
+          "note": "85.61% (was 84.95) — Tue Nov 10 ~12 PM CT pull: TURN IN - Conflict Zones Presentation graded 100/100 (~10:45 AM CT; turned in Fri Oct 30). Still awaiting grade: Wednesday November 4th Current Event Post and TURN IN - Unit 3 Vocab Matrix. Earlier: 84.95% (unchanged) — Mon Nov 9 ~4 PM CT pull: TURN IN - Unit 3 Vocab Matrix turned in ~2:04 PM CT, awaiting grade. Earlier: 84.95% (unchanged) — Mon Nov 9 noon CT pull: two new unsubmitted items: TURN IN - Don't Panic Video Questions and TURN IN - Our World in Data - Population Growth Activity (100 pts formative each, no due date). Earlier: 84.95% (was 83.33) — Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in (awaiting grade). Earlier: Fri Nov 6 ~11:29 AM: TURN IN - Cluster Borders Presentation (Summative) (100 pts) graded 100/100. Earlier: Thu Nov 5 ~1:18 PM: Unit 2 TEST (100 pts summative) taken and graded 70/100. Earlier: October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM; graded 100/100 Fri Nov 6 ~11:29 AM CT; Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon Oct 26 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts; moved Fri Oct 30 9:47 AM from Summative to Q1 Formative Assessment; URL or file upload; no due date set in Canvas) — turned in on Canvas Fri Oct 30 1:28 PM, awaiting grade. Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in on Canvas (awaiting grade; 100 pts formative). Earlier Mon Nov 2 ~9:53 AM: that Current Event Post was posted (no due date set in Canvas). Also since the 8 AM check, the \"Q1 Formative Assessment\" grade category was renamed \"Formative Assessment\" (grade unchanged). Week 6 page (Nov 2–6, updated Mon Nov 2 ~12:37 PM): Mon (A)/Tue (B) finish and present the Conflict Zones Project, turn in the Conflict Zones Presentation, and test review; Wed Current Event Post; Thu (A)/Fri (B) Unit 2 TEST. New Thu Nov 5 morning: Unit 2 TEST posted in Canvas (100 pts summative, external tool; was schedule-only) — taken and graded 70/100 ~1:18 PM; TURN IN - Unit 3 Vocab Matrix (100 pts formative, URL/upload, no due date) and Current Event Post Nov. 11th (100 pts formative, online text entry, no due date) — not submitted yet.",
           "work": [
             {
               "title": "Oct. 21st Current Event Post",
               "status": "zero",
               "detail": "0/100 · graded Tue Oct 27 10:55 AM — never submitted (was due Fri Oct 23 11:59 PM)",
               "due": "Oct 23"
-            },
-            {
-              "title": "TURN IN - Conflict Zones Presentation",
-              "status": "due",
-              "detail": "Turned in Fri Oct 30 1:28 PM — awaiting grade (100 pts, Formative, no due date set in Canvas)",
-              "due": "No due date"
             },
             {
               "title": "Wednesday November 4th Current Event Post",
@@ -1175,6 +1172,13 @@ window.RECAP_DATA = {
               "score": "Excused",
               "group": "Formative Assessment",
               "due": "Oct 2"
+            },
+            {
+              "title": "TURN IN - Conflict Zones Presentation",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Nov 3"
             }
           ]
         },
@@ -1184,7 +1188,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 78.78,
-          "note": "78.78% (was 78.63) — Fri Nov 6 ~10:30 PM CT: Mitosis & Meiosis Exit Ticket (was due Tue Oct 27) turned in late and auto-graded 90/100. Digital Punnett Squares (100 pts, due Fri Nov 6 11:59 PM) was not submitted — Canvas now marks it missing. Earlier: Thu Nov 5 ~1:27 PM: Lab 05: Cellular Respiration score released 80/100 (formative). Wed Nov 4 morning: Lab 4: Photosynthesis graded 75/100 (graded ~9:20 AM, posted ~9:48 AM CT). Earlier (grade was 78.67 → 78.85): Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up (was due Fri Oct 16 8:00 AM) now graded 75/100 (Wed Nov 4); Cellular Respiration Venn (in class) graded 100/100 Tue Oct 27 morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed Oct 21 2:38 PM; score posted Tue Oct 27 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative, due Tue Oct 27 4:00 PM) turned in late Fri Oct 30 2:27 PM — scored 90/100 (grade 78.67% to 78.85%). New Mon Oct 26 night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) was due Tue Oct 27 11:59 PM — turned in late Fri Nov 6 ~10:30 PM CT, 90/100; Lab 06: Mitosis (100 pts, on paper) was due Wed Nov 4 11:59 PM — not submitted in Canvas, now overdue; Digital Punnett Squares (100 pts, file upload) was due Fri Nov 6 11:59 PM — not submitted, now missing; a makeup lab (29 pts, no due date) also appeared — renamed Tue Nov 3 to \"Makeup Lab 05: Cellular Respiration\". Mrs. DeGrenier's Canvas note Tue Oct 27 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime. DNA Synthesis - From Gene to Protein Pivot (FA) (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas; now overdue. Mrs. DeGrenier's Thu Oct 29 ~9:00 AM announcement (\"October 29 - 30 Agenda\", sub in class the week of Oct 26, she's back the week of Nov 2): finish the DNA Replication Activity Exit Ticket from Mon Oct 26/Tue Oct 27 if not done (open note), watch two DNA videos, and complete the DNA Synthesis – From Gene to Protein Pivot (was due Fri Oct 30). New in Canvas Tue Nov 3 2:08 PM: Lab 05: Cellular Respiration (100 pts, formative, on paper — completed in class Oct 19–21, post-lab due Oct 26/27), Canvas due Tue Oct 27 8:00 AM — score 80/100 released Thu Nov 5 ~1:27 PM. Mrs. DeGrenier's Tue Nov 3 ~8:27 AM announcement (\"Tuesday, November 3 Agenda\", sub in class that day, she was back Wed Nov 4): watch the Mitosis/Meiosis notes video in modules and do the activity, complete the Mitosis & Meiosis Exit Ticket, and complete the Pre-Lab / Procedure / Data Tables for Lab 06: Mitosis — must be done when walking into class Wed Nov 4. New Wed Nov 4 afternoon: Non-mendelian Traits WebQuest (Codominance and Incomplete Dominance) (100 pts formative, due Tue Nov 10 11:59 PM), Creation Journal #7 (10 pts summative, on paper, due Tue Nov 10 9:00 AM), Creation Journal Entry #8 (10 pts summative, on paper, due Fri Nov 13 4:00 PM); Blood Types: Weathering the Storm (100 pts formative, online quiz, due Wed Nov 11 11:59 PM) now showing in Canvas. New Wed Nov 4 ~4:32 PM: Sex Linked Case Study (100 pts formative, external tool, due Fri Nov 13 11:59 PM).",
+          "note": "78.78% (unchanged) — Tue Nov 10 ~12 PM CT pull: Creation Journal #7 (10 pts, on paper) passed its 9:00 AM due time with nothing in Canvas. Earlier: 78.78% (was 78.63) — Fri Nov 6 ~10:30 PM CT: Mitosis & Meiosis Exit Ticket (was due Tue Oct 27) turned in late and auto-graded 90/100. Digital Punnett Squares (100 pts, due Fri Nov 6 11:59 PM) was not submitted — Canvas now marks it missing. Earlier: Thu Nov 5 ~1:27 PM: Lab 05: Cellular Respiration score released 80/100 (formative). Wed Nov 4 morning: Lab 4: Photosynthesis graded 75/100 (graded ~9:20 AM, posted ~9:48 AM CT). Earlier (grade was 78.67 → 78.85): Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up (was due Fri Oct 16 8:00 AM) now graded 75/100 (Wed Nov 4); Cellular Respiration Venn (in class) graded 100/100 Tue Oct 27 morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed Oct 21 2:38 PM; score posted Tue Oct 27 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative, due Tue Oct 27 4:00 PM) turned in late Fri Oct 30 2:27 PM — scored 90/100 (grade 78.67% to 78.85%). New Mon Oct 26 night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) was due Tue Oct 27 11:59 PM — turned in late Fri Nov 6 ~10:30 PM CT, 90/100; Lab 06: Mitosis (100 pts, on paper) was due Wed Nov 4 11:59 PM — not submitted in Canvas, now overdue; Digital Punnett Squares (100 pts, file upload) was due Fri Nov 6 11:59 PM — not submitted, now missing; a makeup lab (29 pts, no due date) also appeared — renamed Tue Nov 3 to \"Makeup Lab 05: Cellular Respiration\". Mrs. DeGrenier's Canvas note Tue Oct 27 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime. DNA Synthesis - From Gene to Protein Pivot (FA) (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas; now overdue. Mrs. DeGrenier's Thu Oct 29 ~9:00 AM announcement (\"October 29 - 30 Agenda\", sub in class the week of Oct 26, she's back the week of Nov 2): finish the DNA Replication Activity Exit Ticket from Mon Oct 26/Tue Oct 27 if not done (open note), watch two DNA videos, and complete the DNA Synthesis – From Gene to Protein Pivot (was due Fri Oct 30). New in Canvas Tue Nov 3 2:08 PM: Lab 05: Cellular Respiration (100 pts, formative, on paper — completed in class Oct 19–21, post-lab due Oct 26/27), Canvas due Tue Oct 27 8:00 AM — score 80/100 released Thu Nov 5 ~1:27 PM. Mrs. DeGrenier's Tue Nov 3 ~8:27 AM announcement (\"Tuesday, November 3 Agenda\", sub in class that day, she was back Wed Nov 4): watch the Mitosis/Meiosis notes video in modules and do the activity, complete the Mitosis & Meiosis Exit Ticket, and complete the Pre-Lab / Procedure / Data Tables for Lab 06: Mitosis — must be done when walking into class Wed Nov 4. New Wed Nov 4 afternoon: Non-mendelian Traits WebQuest (Codominance and Incomplete Dominance) (100 pts formative, due Tue Nov 10 11:59 PM), Creation Journal #7 (10 pts summative, on paper, due Tue Nov 10 9:00 AM), Creation Journal Entry #8 (10 pts summative, on paper, due Fri Nov 13 4:00 PM); Blood Types: Weathering the Storm (100 pts formative, online quiz, due Wed Nov 11 11:59 PM) now showing in Canvas. New Wed Nov 4 ~4:32 PM: Sex Linked Case Study (100 pts formative, external tool, due Fri Nov 13 11:59 PM).",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -1224,8 +1228,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Creation Journal #7",
-              "status": "due",
-              "detail": "new Wed Nov 4 ~3:24 PM · 10 pts summative · on paper · due Tue Nov 10 9:00 AM",
+              "status": "overdue",
+              "detail": "10 pts summative · on paper · was due Tue Nov 10 9:00 AM — not submitted in Canvas as of ~12 PM CT (may be handed in on paper)",
               "due": "Nov 10"
             },
             {
@@ -1663,6 +1667,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Tue Nov 10 12 PM CT check (live Canvas): Apologetics 87.09 → 86.54 (Kalam Video Quiz Part 1 graded 80/100); Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 8 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Graphic Design 11/3-11/6 classwork graded 100/100 ~7:55 AM CT (no longer overdue). Apologetics: new Memory Verse 3 and Unit 4 Summative Quiz (Memory Section & Essay), both due Fri Dec 4 11:59 PM. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 4 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 12 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Ethos classes carried over from the last good pull (no new Ethos login this run).",
@@ -3008,20 +3013,14 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 87.09,
-          "note": "87.09% — no change since Fri Nov 6; Explain It: The Contingency Argument submitted Sat Nov 7 (awaiting grade; due Fri Nov 13 11:59 PM); Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific (100 pts) due Tue Nov 17 11:59 PM, not submitted yet; Summative - Sort and Defend 80/100; Case for Truth Summative Exam 66/100 is still the low spot; New Tue Nov 10: Memory Verse 3 (Formative, 100 pts) and Unit 4 Summative Quiz (Memory Section & Essay, 100 pts) posted, both due Fri Dec 4 11:59 PM.",
+          "grade": 86.54,
+          "note": "86.54% (was 87.09) — Tue Nov 10 ~12 PM CT: Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific submitted ~10:41 AM CT and graded 80/100 (~10:45 AM). Explain It: The Contingency Argument still awaiting grade (due Fri Nov 13 11:59 PM); Summative - Sort and Defend 80/100; Case for Truth Summative Exam 66/100 is still the low spot; Memory Verse 3 (Formative, 100 pts) and Unit 4 Summative Quiz (Memory Section & Essay, 100 pts) both due Fri Dec 4 11:59 PM.",
           "work": [
             {
               "title": "Explain It: The Contingency Argument",
               "status": "submitted",
               "detail": "100 pts formative · submitted Sat Nov 7 · awaiting grade · due Fri Nov 13 11:59 PM",
               "due": "Nov 13"
-            },
-            {
-              "title": "Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific",
-              "status": "due",
-              "detail": "100 pts · not submitted yet · due Tue Nov 17 11:59 PM",
-              "due": "Nov 17"
             },
             {
               "title": "Memory Verse 3 (Formative)",
@@ -3155,6 +3154,13 @@ window.RECAP_DATA = {
               "percent": 70.0,
               "group": "Summative Assessment",
               "due": "Sep 28"
+            },
+            {
+              "title": "Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Nov 17"
             }
           ]
         },
