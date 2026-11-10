@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 9, 2026 · 9:09 PM CT",
+  "updated": "Tuesday, Nov 10, 2026 · 12:03 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Tue Nov 10 12 AM CT check (live Canvas): all course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. Bible Formative items The North Falls (5/5) and Exit Ticket (4/4) now fully graded (omitted from final grade).",
         "Mon Nov 9 8 PM CT check (live Canvas): APA Research Paper (English I, summative, due Wed Nov 18 8:30 AM CT) changed from 200 to 100 pts ~6:30 PM CT; still unsubmitted. All course grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91.",
         "Mon Nov 9 5 PM CT check (live Canvas): no new grades since 4 PM — Bible 86.62, Worship 96.88, Algebra 22.74, German 87.96, Geography 84.95, Biology 78.78, English 80.91. No new Canvas inbox messages or announcements in the last 24 hours. Coming up: Biology Creation Journal #7 and Non-Mendelian WebQuest due Tue Nov 10; German Chapter 3 Vocabulary List due Tue Nov 10 10 AM; Bible Psalm 20:7 Memory Verse and Picture due Wed Nov 11 10:15 AM; Membean Program 3 (English), Blood Types (Biology) and German Workbook 11-19 due Wed Nov 11.",
         "Mon Nov 9 4 PM CT update: Bible 85.12 → 86.62 as Samuel Summative was re-graded 61 → 71/100. Geography: Unit 3 Vocab Matrix turned in ~2:04 PM (awaiting grade). Other Olen grades unchanged (Worship 96.88, Algebra 22.74, German 87.96, Geo 84.95, Biology 78.78, English 80.91).",
@@ -87,102 +88,11 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
-              "title": "Genesis 4-6 Playlist",
-              "score": "100/100",
-              "percent": 100.0,
+              "title": "1 Samuel Overview Video Check",
+              "score": "5/6",
+              "percent": 83.3,
               "group": "Formative Assessment",
-              "due": "Aug 26"
-            },
-            {
-              "title": "Key Terms Quiz 1",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 26"
-            },
-            {
-              "title": "Did The Flood Fix The Problem?",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 27"
-            },
-            {
-              "title": "The Flood and Babel-Slides Reading",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 27"
-            },
-            {
-              "title": "Judges Cycle part 1",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 1"
-            },
-            {
-              "title": "Judges Cycle part 2",
-              "score": "0/100",
-              "percent": 0.0,
-              "group": "Formative Assessment",
-              "due": "Oct 1"
-            },
-            {
-              "title": "SummativeTest — Torah Summative Exam",
-              "score": "92/100",
-              "percent": 92.0,
-              "group": "Summative Assessment",
               "due": "Oct 5"
-            },
-            {
-              "title": "Quiz Key Terms Unit 3",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 10"
-            },
-            {
-              "title": "Exit Ticket Exodus 19 40",
-              "score": "90/100",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Sep 14"
-            },
-            {
-              "title": "Leviticus- Bibleproject Reflection",
-              "score": "96/100",
-              "percent": 96.0,
-              "group": "Formative Assessment",
-              "due": "Sep 16"
-            },
-            {
-              "title": "U2&3Test: Units 2 and 3",
-              "score": "90/100",
-              "percent": 90.0,
-              "group": "Summative Assessment",
-              "due": "Sep 16"
-            },
-            {
-              "title": "Unit 1 Genesis Test Readiness Check",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 2"
-            },
-            {
-              "title": "Explore Part 1: Numbers and Deuteronomy",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 24"
-            },
-            {
-              "title": "Exodus 34:6-7a Memory Verse",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 28"
             },
             {
               "title": "BibleProject- Genesis 12-50",
@@ -190,75 +100,6 @@ window.RECAP_DATA = {
               "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 3"
-            },
-            {
-              "title": "Group Jigsaw- The Patriarchs",
-              "score": "0/100",
-              "percent": 0.0,
-              "group": "Formative Assessment",
-              "due": "Sep 3"
-            },
-            {
-              "title": "U1Test: Units 1: Genesis 1-11",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Summative Assessment",
-              "due": "Sep 3"
-            },
-            {
-              "title": "Exit Ticket: Joshua Judges",
-              "score": "90/100",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Sep 30"
-            },
-            {
-              "title": "How Does God Save?",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 9"
-            },
-            {
-              "title": "Individual Jigsaw: Leviticus",
-              "score": "94/100",
-              "percent": 94.0,
-              "group": "Formative Assessment (not counted in average)"
-            },
-            {
-              "title": "Samuel — What Kind of King? Part 1",
-              "score": "8/8",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 8"
-            },
-            {
-              "title": "Samuel — What Kind of King? Part 2",
-              "score": "8/8",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 8"
-            },
-            {
-              "title": "What Kind of King? — Exit Ticket",
-              "score": "4/4",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 8"
-            },
-            {
-              "title": "David — What Kind of King? Classwork",
-              "score": "12/12",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 15"
-            },
-            {
-              "title": "David — Exit Ticket",
-              "score": "3.5/4",
-              "percent": 87.5,
-              "group": "Formative Assessment",
-              "due": "Oct 15"
             },
             {
               "title": "David 1: Road to the Throne",
@@ -275,6 +116,124 @@ window.RECAP_DATA = {
               "due": "Oct 19"
             },
             {
+              "title": "David — Exit Ticket",
+              "score": "3.5/4",
+              "percent": 87.5,
+              "group": "Formative Assessment",
+              "due": "Oct 15"
+            },
+            {
+              "title": "David — What Kind of King? Classwork",
+              "score": "12/12",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 15"
+            },
+            {
+              "title": "Did The Flood Fix The Problem?",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 27"
+            },
+            {
+              "title": "Elijah: Carmel Case File",
+              "score": "10/10",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Nov 9"
+            },
+            {
+              "title": "Exit Ticket Exodus 19 40",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 14"
+            },
+            {
+              "title": "Exit Ticket: Joshua Judges",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Exodus 34:6-7a Memory Verse",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 28"
+            },
+            {
+              "title": "Explore Part 1: Numbers and Deuteronomy",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 24"
+            },
+            {
+              "title": "Genesis 4-6 Playlist",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 26"
+            },
+            {
+              "title": "Group Jigsaw- The Patriarchs",
+              "score": "0/100",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 3"
+            },
+            {
+              "title": "How Does God Save?",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
+            },
+            {
+              "title": "Individual Jigsaw: Leviticus",
+              "score": "94/100",
+              "percent": 94.0,
+              "group": "Formative Assessment (not counted in average)"
+            },
+            {
+              "title": "Judges Cycle part 1",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 1"
+            },
+            {
+              "title": "Judges Cycle part 2",
+              "score": "0/100",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Oct 1"
+            },
+            {
+              "title": "Key Terms Quiz 1",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 26"
+            },
+            {
+              "title": "Leviticus- Bibleproject Reflection",
+              "score": "96/100",
+              "percent": 96.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
+            },
+            {
+              "title": "Quiz Key Terms Unit 3",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 10"
+            },
+            {
               "title": "Samuel Key Terms Quiz",
               "score": "9/10",
               "percent": 90.0,
@@ -282,16 +241,23 @@ window.RECAP_DATA = {
               "due": "Oct 21"
             },
             {
+              "title": "Samuel — What Kind of King? Part 1",
+              "score": "8/8",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 8"
+            },
+            {
+              "title": "Samuel — What Kind of King? Part 2",
+              "score": "8/8",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 8"
+            },
+            {
               "title": "Solomon Bell Ringer (Photo)",
               "score": "2/3",
               "percent": 66.7,
-              "group": "Formative Assessment (not counted in average)",
-              "due": "Oct 26"
-            },
-            {
-              "title": "Solomon: The Heir of David",
-              "score": "4/10",
-              "percent": 40.0,
               "group": "Formative Assessment",
               "due": "Oct 26"
             },
@@ -303,16 +269,23 @@ window.RECAP_DATA = {
               "due": "Oct 26"
             },
             {
-              "title": "Samuel Summative: (Combined)",
-              "score": "71/100",
-              "percent": 71.0,
-              "group": "Summative Assessment",
-              "due": "Oct 29"
+              "title": "Solomon: The Heir of David",
+              "score": "4/10",
+              "percent": 40.0,
+              "group": "Formative Assessment",
+              "due": "Oct 26"
             },
             {
-              "title": "Thursday Choice Board: Turn-In",
-              "score": "0/10",
-              "percent": 0.0,
+              "title": "The Flood and Babel-Slides Reading",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 27"
+            },
+            {
+              "title": "The Kingdom Splits: Exit Ticket",
+              "score": "3/4",
+              "percent": 75.0,
               "group": "Formative Assessment",
               "due": "Nov 6"
             },
@@ -324,18 +297,65 @@ window.RECAP_DATA = {
               "due": "Nov 5"
             },
             {
-              "title": "The Kingdom Splits: Exit Ticket",
-              "score": "3/4",
-              "percent": 75.0,
+              "title": "The North Falls",
+              "score": "5/5",
+              "percent": 100.0,
+              "group": "Formative Assessment"
+            },
+            {
+              "title": "The North Falls: Exit Ticket",
+              "score": "4/4",
+              "percent": 100.0,
+              "group": "Formative Assessment"
+            },
+            {
+              "title": "Thursday Choice Board: Turn-In",
+              "score": "0/10",
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Nov 6"
             },
             {
-              "title": "Elijah: Carmel Case File",
-              "score": "10/10",
+              "title": "Unit 1 Genesis Test Readiness Check",
+              "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Nov 9"
+              "due": "Sep 2"
+            },
+            {
+              "title": "What Kind of King? — Exit Ticket",
+              "score": "4/4",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 8"
+            },
+            {
+              "title": "Samuel Summative: (Combined)",
+              "score": "71/100",
+              "percent": 71.0,
+              "group": "Summative Assessment",
+              "due": "Oct 29"
+            },
+            {
+              "title": "SummativeTest — Torah Summative Exam",
+              "score": "92/100",
+              "percent": 92.0,
+              "group": "Summative Assessment",
+              "due": "Oct 5"
+            },
+            {
+              "title": "U1Test: Units 1: Genesis 1-11",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 3"
+            },
+            {
+              "title": "U2&3Test: Units 2 and 3",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Summative Assessment",
+              "due": "Sep 16"
             }
           ]
         },
@@ -356,46 +376,11 @@ window.RECAP_DATA = {
               "due": "Aug 24"
             },
             {
-              "title": "Washed part 1",
+              "title": "Brave Part 2",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Aug 25"
-            },
-            {
-              "title": "Sight-Singing 1",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 26"
-            },
-            {
-              "title": "National Anthem part 1",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "Washed part 2",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 31"
-            },
-            {
-              "title": "Last Surrender part 1",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 1"
-            },
-            {
-              "title": "National Anthem part 3",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 10"
+              "due": "Sep 22"
             },
             {
               "title": "Brave part 1",
@@ -405,53 +390,11 @@ window.RECAP_DATA = {
               "due": "Sep 15"
             },
             {
-              "title": "Sight-Singing 4",
-              "score": "98/100",
-              "percent": 98.0,
-              "group": "Formative Assessment",
-              "due": "Sep 16"
-            },
-            {
-              "title": "TAPPS Piece",
+              "title": "Last Surrender part 1",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 18"
-            },
-            {
-              "title": "Sight-Singing 2",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 2"
-            },
-            {
-              "title": "Brave Part 2",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 22"
-            },
-            {
-              "title": "Sight-Singing 5",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 23"
-            },
-            {
-              "title": "National Anthem Part 4",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Summative Assessment",
-              "due": "Sep 25"
-            },
-            {
-              "title": "National Anthem part 2",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
+              "due": "Sep 1"
             },
             {
               "title": "Last Surrender part 2",
@@ -461,74 +404,32 @@ window.RECAP_DATA = {
               "due": "Sep 8"
             },
             {
-              "title": "Sight-Singing 3",
+              "title": "National Anthem part 1",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 9"
+              "due": "Aug 28"
             },
             {
-              "title": "You Raise Me Up",
+              "title": "National Anthem part 2",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 29"
+              "due": "Sep 4"
             },
             {
-              "title": "Sight-Singing 6",
+              "title": "National Anthem part 3",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 30"
+              "due": "Sep 10"
             },
             {
-              "title": "Run-through of Program",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Summative Assessment",
-              "due": "Oct 6"
-            },
-            {
-              "title": "Sight-Singing 7",
+              "title": "Program Run-Through 3",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 7"
-            },
-            {
-              "title": "Solos/Sm Ensembles for Program",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 13"
-            },
-            {
-              "title": "Sight-Singing Exam 1",
-              "score": "85/100",
-              "percent": 85.0,
-              "group": "Summative Assessment",
-              "due": "Oct 13"
-            },
-            {
-              "title": "Sight-Singing 8",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 14"
-            },
-            {
-              "title": "Solos/Sm Ens for Program",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 16"
-            },
-            {
-              "title": "Sight-Singing 9",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 21"
+              "due": "Oct 30"
             },
             {
               "title": "Program Run-through 2",
@@ -538,11 +439,11 @@ window.RECAP_DATA = {
               "due": "Oct 23"
             },
             {
-              "title": "Veteran's Day Medley Pt 1",
+              "title": "Sight-Singing 1",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 27"
+              "due": "Aug 26"
             },
             {
               "title": "Sight-Singing 10",
@@ -552,11 +453,88 @@ window.RECAP_DATA = {
               "due": "Oct 28"
             },
             {
-              "title": "Program Run-Through 3",
+              "title": "Sight-Singing 2",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 30"
+              "due": "Sep 2"
+            },
+            {
+              "title": "Sight-Singing 3",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
+            },
+            {
+              "title": "Sight-Singing 4",
+              "score": "98/100",
+              "percent": 98.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
+            },
+            {
+              "title": "Sight-Singing 5",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 23"
+            },
+            {
+              "title": "Sight-Singing 6",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Sight-Singing 7",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 7"
+            },
+            {
+              "title": "Sight-Singing 8",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 14"
+            },
+            {
+              "title": "Sight-Singing 9",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 21"
+            },
+            {
+              "title": "Solos/Sm Ens for Program",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 16"
+            },
+            {
+              "title": "Solos/Sm Ensembles for Program",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 13"
+            },
+            {
+              "title": "TAPPS Piece",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 18"
+            },
+            {
+              "title": "Veteran's Day Medley Pt 1",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 27"
             },
             {
               "title": "Veteran's Day Medley Pt 2",
@@ -571,6 +549,48 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Nov 6"
+            },
+            {
+              "title": "Washed part 1",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 25"
+            },
+            {
+              "title": "Washed part 2",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 31"
+            },
+            {
+              "title": "You Raise Me Up",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 29"
+            },
+            {
+              "title": "National Anthem Part 4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 25"
+            },
+            {
+              "title": "Run-through of Program",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Sight-Singing Exam 1",
+              "score": "85/100",
+              "percent": 85.0,
+              "group": "Summative Assessment",
+              "due": "Oct 13"
             }
           ]
         },
@@ -633,34 +653,6 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
-              "title": "Get More Math Sign Up",
-              "score": "10/10",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 24"
-            },
-            {
-              "title": "Quiz 1: 1.1-1.4",
-              "score": "2/20",
-              "percent": 10.0,
-              "group": "Summative Assessment",
-              "due": "Aug 27"
-            },
-            {
-              "title": "Quiz 2: 1.5-1.7",
-              "score": "5.75/20",
-              "percent": 28.8,
-              "group": "Summative Assessment",
-              "due": "Sep 11"
-            },
-            {
-              "title": "Chapter 1 Test: 1.1-1.4",
-              "score": "23/100",
-              "percent": 23.0,
-              "group": "Summative Assessment",
-              "due": "Sep 2"
-            },
-            {
               "title": "2.2 Delta Math HW",
               "score": "0/20",
               "percent": 0.0,
@@ -675,11 +667,18 @@ window.RECAP_DATA = {
               "due": "Sep 28"
             },
             {
-              "title": "Quiz 3: 2.1-2.4",
-              "score": "4/20",
-              "percent": 20.0,
-              "group": "Summative Assessment",
-              "due": "Sep 28"
+              "title": "Get More Math Sign Up",
+              "score": "10/10",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 24"
+            },
+            {
+              "title": "Slope Intercept Form Homework",
+              "score": "0/20",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Oct 19"
             },
             {
               "title": "Algebra Karaoke Performance",
@@ -689,6 +688,13 @@ window.RECAP_DATA = {
               "due": "Sep 3"
             },
             {
+              "title": "Chapter 1 Test: 1.1-1.4",
+              "score": "23/100",
+              "percent": 23.0,
+              "group": "Summative Assessment",
+              "due": "Sep 2"
+            },
+            {
               "title": "Chapter 2 Test: 2.1-2.7",
               "score": "15/100",
               "percent": 15.0,
@@ -696,18 +702,32 @@ window.RECAP_DATA = {
               "due": "Oct 7"
             },
             {
+              "title": "Quiz 1: 1.1-1.4",
+              "score": "2/20",
+              "percent": 10.0,
+              "group": "Summative Assessment",
+              "due": "Aug 27"
+            },
+            {
+              "title": "Quiz 2: 1.5-1.7",
+              "score": "5.75/20",
+              "percent": 28.7,
+              "group": "Summative Assessment",
+              "due": "Sep 11"
+            },
+            {
+              "title": "Quiz 3: 2.1-2.4",
+              "score": "4/20",
+              "percent": 20.0,
+              "group": "Summative Assessment",
+              "due": "Sep 28"
+            },
+            {
               "title": "Quiz 4: Quiz 3.1 - 3.4",
               "score": "0/20",
               "percent": 0.0,
               "group": "Summative Assessment",
               "due": "Oct 21"
-            },
-            {
-              "title": "Slope Intercept Form Homework",
-              "score": "0/20",
-              "percent": 0.0,
-              "group": "Formative Assessment",
-              "due": "Oct 19"
             },
             {
               "title": "Unit 3 Part 1 Test",
@@ -753,25 +773,74 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
-              "title": "Introductions in German",
-              "score": "5/5",
-              "percent": 100.0,
+              "title": "Alphabet Part 1 Video",
+              "score": "0/20",
+              "percent": 0.0,
               "group": "Formative Assessment",
-              "due": "Aug 21"
+              "due": "Sep 30"
             },
             {
-              "title": "Tag Eins (8/25) (done in class)",
-              "score": "5/5",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 27"
-            },
-            {
-              "title": "Count 0-20",
+              "title": "Days of the Week (Video practice )",
               "score": "10/10",
               "percent": 100.0,
-              "group": "Summative Assessment",
-              "due": "Aug 28"
+              "group": "Formative Assessment",
+              "due": "Sep 2"
+            },
+            {
+              "title": "Family Member Vocabulary",
+              "score": "19.6/20",
+              "percent": 98.0,
+              "group": "Formative Assessment",
+              "due": "Oct 27"
+            },
+            {
+              "title": "Farben",
+              "score": "0/10",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Follow Up Quiz on Conjugation",
+              "score": "10.5/15",
+              "percent": 70.0,
+              "group": "Formative Assessment",
+              "due": "Sep 15"
+            },
+            {
+              "title": "Grammar Into and Practice",
+              "score": "5/5",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
+            },
+            {
+              "title": "HW in Workbook sept 16",
+              "score": "9/10",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
+            },
+            {
+              "title": "Haben and Sein",
+              "score": "4.5/5",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Sep 21"
+            },
+            {
+              "title": "Haben und Sein",
+              "score": "10/10",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
+            },
+            {
+              "title": "Haben/Sein HW Quiz",
+              "score": "9.5/10",
+              "percent": 95.0,
+              "group": "Formative Assessment",
+              "due": "Sep 11"
             },
             {
               "title": "Intro Packet and count to 20",
@@ -788,32 +857,18 @@ window.RECAP_DATA = {
               "due": "Aug 28"
             },
             {
-              "title": "Vorstellen Introduction a friend (FA) - Before Class",
-              "score": "0.2/20",
-              "percent": 1.0,
+              "title": "Introductions in German",
+              "score": "5/5",
+              "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 7"
+              "due": "Aug 21"
             },
             {
-              "title": "Haben/Sein HW Quiz",
+              "title": "Lords Prayer Part 2",
               "score": "9.5/10",
               "percent": 95.0,
               "group": "Formative Assessment",
-              "due": "Sep 11"
-            },
-            {
-              "title": "Follow Up Quiz on Conjugation",
-              "score": "10.5/15",
-              "percent": 70.0,
-              "group": "Formative Assessment",
-              "due": "Sep 15"
-            },
-            {
-              "title": "HW in Workbook sept 16",
-              "score": "9/10",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Sep 16"
+              "due": "Sep 9"
             },
             {
               "title": "Lords prayer Part 3",
@@ -823,18 +878,74 @@ window.RECAP_DATA = {
               "due": "Sep 18"
             },
             {
-              "title": "Days of the Week (Video practice )",
+              "title": "Quick Vocabulary Quiz",
+              "score": "9/10",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Oct 27"
+            },
+            {
+              "title": "Quizlet for Chapter 2 quiz",
+              "score": "18.75/25",
+              "percent": 75.0,
+              "group": "Formative Assessment",
+              "due": "Nov 4"
+            },
+            {
+              "title": "Review Packet (FA)",
+              "score": "17/20",
+              "percent": 85.0,
+              "group": "Formative Assessment",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Tag Eins (8/25) (done in class)",
+              "score": "5/5",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 27"
+            },
+            {
+              "title": "Video for review on Unit 1 for Quiz (FA) on Wednesday (21st) during class. There is a check up quiz attached for you to check your understanding.",
+              "score": "30/30",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 20"
+            },
+            {
+              "title": "Vocabulary Quiz #1 (FA)",
+              "score": "20/20",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 6"
+            },
+            {
+              "title": "Vorstellen Introduction a friend (FA) - Before Class",
+              "score": "0.2/20",
+              "percent": 1.0,
+              "group": "Formative Assessment",
+              "due": "Oct 7"
+            },
+            {
+              "title": "Watch Video - Write a summary of 10 things about the family",
+              "score": "20/20",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 16"
+            },
+            {
+              "title": "Workbook 13-16",
+              "score": "19.6/20",
+              "percent": 98.0,
+              "group": "Formative Assessment",
+              "due": "Nov 3"
+            },
+            {
+              "title": "Workbook Kap 2 pages 13-14 (FA)",
               "score": "10/10",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 2"
-            },
-            {
-              "title": "Haben and Sein",
-              "score": "4.5/5",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Sep 21"
+              "due": "Sep 30"
             },
             {
               "title": "Workbook for the week -",
@@ -844,6 +955,20 @@ window.RECAP_DATA = {
               "due": "Sep 22"
             },
             {
+              "title": "Workbook page 15 Ex. 3",
+              "score": "9.5/10",
+              "percent": 95.0,
+              "group": "Formative Assessment",
+              "due": "Oct 2"
+            },
+            {
+              "title": "Count 0-20",
+              "score": "10/10",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Aug 28"
+            },
+            {
               "title": "Lord's Pray Final - All Parts",
               "score": "9.5/10",
               "percent": 95.0,
@@ -851,18 +976,11 @@ window.RECAP_DATA = {
               "due": "Sep 25"
             },
             {
-              "title": "Workbook Kap 2 pages  13-14 (FA)",
-              "score": "10/10",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Grammar Into and Practice",
-              "score": "5/5",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
+              "title": "Telling Time (SA) Quiz on telling time at beginning of class - Video for reivew",
+              "score": "18/20",
+              "percent": 90.0,
+              "group": "Summative Assessment",
+              "due": "Oct 27"
             },
             {
               "title": "The Lords Prayer part 1",
@@ -877,104 +995,6 @@ window.RECAP_DATA = {
               "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Sep 8"
-            },
-            {
-              "title": "Haben und Sein",
-              "score": "10/10",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 9"
-            },
-            {
-              "title": "Lords Prayer Part 2",
-              "score": "9.5/10",
-              "percent": 95.0,
-              "group": "Formative Assessment",
-              "due": "Sep 9"
-            },
-            {
-              "title": "Review Packet (FA)",
-              "score": "17/20",
-              "percent": 85.0,
-              "group": "Formative Assessment",
-              "due": "Oct 6"
-            },
-            {
-              "title": "Workbook page 15 Ex. 3",
-              "score": "9.5/10",
-              "percent": 95.0,
-              "group": "Formative Assessment",
-              "due": "Oct 2"
-            },
-            {
-              "title": "Alphabet Part 1 Video",
-              "score": "0/20",
-              "percent": 0.0,
-              "group": "Formative Assessment",
-              "due": "Sep 30"
-            },
-            {
-              "title": "Farben",
-              "score": "0/10",
-              "percent": 0.0,
-              "group": "Formative Assessment",
-              "due": "Oct 6"
-            },
-            {
-              "title": "Vocabulary Quiz #1 (FA)",
-              "score": "20/20",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 6"
-            },
-            {
-              "title": "Watch Video - Write a summary of 10 things about the family",
-              "score": "20/20",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 16"
-            },
-            {
-              "title": "Video for review on Unit 1 for Quiz (FA) on Wednesday (21st) during class. There is a check up quiz attached for you to check your understanding.",
-              "score": "30/30",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 20"
-            },
-            {
-              "title": "Quick Vocabulary Quiz",
-              "score": "9/10",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Oct 27"
-            },
-            {
-              "title": "Telling Time (SA) Quiz on telling time at beginning of class - Video for reivew",
-              "score": "18/20",
-              "percent": 90.0,
-              "group": "Summative Assessment",
-              "due": "Oct 27"
-            },
-            {
-              "title": "Family Member Vocabulary",
-              "score": "19.6/20",
-              "percent": 98.0,
-              "group": "Formative Assessment",
-              "due": "Oct 27"
-            },
-            {
-              "title": "Workbook 13-16",
-              "score": "19.6/20",
-              "percent": 98.0,
-              "group": "Formative Assessment",
-              "due": "Nov 3"
-            },
-            {
-              "title": "Quizlet for Chapter 2 quiz",
-              "score": "18.75/25",
-              "percent": 75.0,
-              "group": "Formative Assessment",
-              "due": "Nov 4"
             }
           ]
         },
@@ -1031,102 +1051,6 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
-              "title": "TURN IN - Political Organizations Vocab Matrix",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment"
-            },
-            {
-              "title": "Unit 1 Vocabulary Matrix",
-              "score": "98/100",
-              "percent": 98.0,
-              "group": "Formative Assessment",
-              "due": "Aug 25"
-            },
-            {
-              "title": "TURN IN - Coffee Activity",
-              "score": "90/100",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Aug 26"
-            },
-            {
-              "title": "Unit 1 Vocabulary Quiz",
-              "score": "87.5/100",
-              "percent": 87.5,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "September 9th - Current Event #1",
-              "score": "35/50",
-              "percent": 70.0,
-              "group": "Formative Assessment",
-              "due": "Sep 11"
-            },
-            {
-              "title": "Wednesday September 9th - Current Event #2",
-              "score": "35/50",
-              "percent": 70.0,
-              "group": "Formative Assessment",
-              "due": "Sep 11"
-            },
-            {
-              "title": "Unit 1 Test: Foundations of Geography",
-              "score": "76/100",
-              "percent": 76.0,
-              "group": "Summative Assessment",
-              "due": "Sep 18"
-            },
-            {
-              "title": "Wednesday, September 16th Current Event Posts",
-              "score": "70/100",
-              "percent": 70.0,
-              "group": "Formative Assessment",
-              "due": "Sep 18"
-            },
-            {
-              "title": "September 23rd - Current Event Posts",
-              "score": "50/100",
-              "percent": 50.0,
-              "group": "Formative Assessment",
-              "due": "Sep 25"
-            },
-            {
-              "title": "TURN IN - Physical Geography of Country Presentation",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Summative Assessment",
-              "due": "Sep 25"
-            },
-            {
-              "title": "U.S. Political Map Quiz",
-              "score": "200/200",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 25"
-            },
-            {
-              "title": "Biomes Brochure",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Summative Assessment",
-              "due": "Sep 9"
-            },
-            {
-              "title": "Political Organizations Vocab Quiz",
-              "score": "87.5/100",
-              "percent": 87.5,
-              "group": "Formative Assessment",
-              "due": "Oct 9"
-            },
-            {
-              "title": "September 30th - Current Event Post",
-              "score": "Excused",
-              "group": "Formative Assessment",
-              "due": "Oct 2"
-            },
-            {
               "title": "Oct. 21st Current Event Post",
               "score": "0/100",
               "percent": 0.0,
@@ -1141,16 +1065,114 @@ window.RECAP_DATA = {
               "due": "Oct 21"
             },
             {
-              "title": "Unit 2 TEST",
+              "title": "Political Organizations Vocab Quiz",
+              "score": "87.5/100",
+              "percent": 87.5,
+              "group": "Formative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "September 23rd - Current Event Posts",
+              "score": "50/100",
+              "percent": 50.0,
+              "group": "Formative Assessment",
+              "due": "Sep 25"
+            },
+            {
+              "title": "September 9th - Current Event #1",
+              "score": "35/50",
+              "percent": 70.0,
+              "group": "Formative Assessment",
+              "due": "Sep 11"
+            },
+            {
+              "title": "TURN IN - Coffee Activity",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Aug 26"
+            },
+            {
+              "title": "TURN IN - Political Organizations Vocab Matrix",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment"
+            },
+            {
+              "title": "U.S. Political Map Quiz",
+              "score": "200/200",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 25"
+            },
+            {
+              "title": "Unit 1 Vocabulary Matrix",
+              "score": "98/100",
+              "percent": 98.0,
+              "group": "Formative Assessment",
+              "due": "Aug 25"
+            },
+            {
+              "title": "Unit 1 Vocabulary Quiz",
+              "score": "87.5/100",
+              "percent": 87.5,
+              "group": "Formative Assessment",
+              "due": "Aug 28"
+            },
+            {
+              "title": "Wednesday September 9th - Current Event #2",
+              "score": "35/50",
+              "percent": 70.0,
+              "group": "Formative Assessment",
+              "due": "Sep 11"
+            },
+            {
+              "title": "Wednesday, September 16th Current Event Posts",
               "score": "70/100",
               "percent": 70.0,
-              "group": "Summative Assessment"
+              "group": "Formative Assessment",
+              "due": "Sep 18"
+            },
+            {
+              "title": "Biomes Brochure",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 9"
             },
             {
               "title": "TURN IN - Cluster Borders Presentation (Summative)",
               "score": "100/100",
               "percent": 100.0,
-              "group": "Summative Assessment"
+              "group": "Summative Assessment",
+              "due": "Oct 28"
+            },
+            {
+              "title": "TURN IN - Physical Geography of Country Presentation",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Sep 25"
+            },
+            {
+              "title": "Unit 1 Test: Foundations of Geography",
+              "score": "76/100",
+              "percent": 76.0,
+              "group": "Summative Assessment",
+              "due": "Sep 18"
+            },
+            {
+              "title": "Unit 2 TEST",
+              "score": "70/100",
+              "percent": 70.0,
+              "group": "Summative Assessment",
+              "due": "Nov 6"
+            },
+            {
+              "title": "September 30th - Current Event Post",
+              "score": "Excused",
+              "group": "Formative Assessment",
+              "due": "Oct 2"
             }
           ]
         },
@@ -1225,39 +1247,46 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
-              "title": "Get to Know You Submission",
-              "score": "50/100",
-              "percent": 50.0,
-              "group": "Formative Assessment",
-              "due": "Aug 21"
-            },
-            {
-              "title": "Lab Safety Agreement",
+              "title": "Cell Organelle Crossword Puzzle",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Aug 25"
+              "due": "Sep 18"
             },
             {
-              "title": "Lab 01: Safety and Measurement",
+              "title": "Cell Transport Activity - Amoeba Sisters (FA)",
+              "score": "91/100",
+              "percent": 91.0,
+              "group": "Formative Assessment",
+              "due": "Sep 25"
+            },
+            {
+              "title": "Cellular Respiration Venn Diagram (in class)",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 16"
+            },
+            {
+              "title": "Creation Journal Discussion (Journals 1 - 4)",
+              "score": "0/20",
+              "percent": 0.0,
+              "group": "Formative Assessment",
+              "due": "Sep 18"
+            },
+            {
+              "title": "Creation Journals - Unit One",
+              "score": "7/40",
+              "percent": 17.5,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
+            },
+            {
+              "title": "DNA Replication Activity Exit Ticket",
               "score": "90/100",
               "percent": 90.0,
               "group": "Formative Assessment",
-              "due": "Aug 26"
-            },
-            {
-              "title": "Pogil - Interpreting Data (in class)",
-              "score": "83/100",
-              "percent": 83.0,
-              "group": "Formative Assessment",
-              "due": "Aug 26"
-            },
-            {
-              "title": "Unit 1 Lesson 1 - Identifying Variables Assignment",
-              "score": "92/100",
-              "percent": 92.0,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
+              "due": "Oct 27"
             },
             {
               "title": "Design a Molecule (in class)",
@@ -1274,6 +1303,27 @@ window.RECAP_DATA = {
               "due": "Sep 13"
             },
             {
+              "title": "Enzyme Station Rotation",
+              "score": "79/100",
+              "percent": 79.0,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
+            },
+            {
+              "title": "Get to Know You Submission",
+              "score": "50/100",
+              "percent": 50.0,
+              "group": "Formative Assessment",
+              "due": "Aug 21"
+            },
+            {
+              "title": "Lab 01: Safety and Measurement",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Aug 26"
+            },
+            {
               "title": "Lab 02: Microscopy",
               "score": "50/100",
               "percent": 50.0,
@@ -1281,39 +1331,11 @@ window.RECAP_DATA = {
               "due": "Sep 14"
             },
             {
-              "title": "Unit 1 Test: The Nature of Life",
-              "score": "82/100",
-              "percent": 82.0,
-              "group": "Summative Assessment",
-              "due": "Sep 16"
-            },
-            {
-              "title": "Cell Organelle Crossword Puzzle",
-              "score": "100/100",
-              "percent": 100.0,
+              "title": "Lab 03 Post Post Lab (FA)",
+              "score": "89.17/100",
+              "percent": 89.2,
               "group": "Formative Assessment",
-              "due": "Sep 18"
-            },
-            {
-              "title": "Creation Journal Discussion (Journals 1 - 4)",
-              "score": "0/20",
-              "percent": 0.0,
-              "group": "Formative Assessment",
-              "due": "Sep 18"
-            },
-            {
-              "title": "Cell Analogy Project",
-              "score": "80/100",
-              "percent": 80.0,
-              "group": "Summative Assessment",
-              "due": "Sep 23"
-            },
-            {
-              "title": "Cell Transport Activity - Amoeba Sisters (FA)",
-              "score": "91/100",
-              "percent": 91.0,
-              "group": "Formative Assessment",
-              "due": "Sep 25"
+              "due": "Oct 6"
             },
             {
               "title": "Lab 03: Enzymes",
@@ -1323,11 +1345,74 @@ window.RECAP_DATA = {
               "due": "Sep 29"
             },
             {
+              "title": "Lab 05: Cellular Respiration",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Oct 27"
+            },
+            {
+              "title": "Lab 4: Photosynthesis",
+              "score": "75/100",
+              "percent": 75.0,
+              "group": "Formative Assessment",
+              "due": "Oct 16"
+            },
+            {
+              "title": "Lab Safety Agreement",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 25"
+            },
+            {
+              "title": "Macromolecule Matching",
+              "score": "75/100",
+              "percent": 75.0,
+              "group": "Formative Assessment",
+              "due": "Sep 8"
+            },
+            {
+              "title": "Mitosis & Meiosis Exit Ticket",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Oct 27"
+            },
+            {
               "title": "Osmosis Post-Lab Analysis (FA)",
               "score": "85.6/100",
               "percent": 85.6,
               "group": "Formative Assessment",
               "due": "Sep 29"
+            },
+            {
+              "title": "Pogil - Interpreting Data (in class)",
+              "score": "83/100",
+              "percent": 83.0,
+              "group": "Formative Assessment",
+              "due": "Aug 26"
+            },
+            {
+              "title": "Unit 1 Lesson 1 - Identifying Variables Assignment",
+              "score": "92/100",
+              "percent": 92.0,
+              "group": "Formative Assessment",
+              "due": "Aug 28"
+            },
+            {
+              "title": "Cell Analogy Project",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Summative Assessment",
+              "due": "Sep 23"
+            },
+            {
+              "title": "Cellular Energy Summative Project",
+              "score": "63/100",
+              "percent": 63.0,
+              "group": "Summative Assessment",
+              "due": "Oct 21"
             },
             {
               "title": "Creation Journals 5: Cellular Unit",
@@ -1344,32 +1429,11 @@ window.RECAP_DATA = {
               "due": "Sep 30"
             },
             {
-              "title": "Macromolecule Matching",
-              "score": "75/100",
-              "percent": 75.0,
-              "group": "Formative Assessment",
-              "due": "Sep 8"
-            },
-            {
-              "title": "Creation Journals - Unit One",
-              "score": "7/40",
-              "percent": 17.5,
-              "group": "Formative Assessment",
-              "due": "Sep 9"
-            },
-            {
-              "title": "Enzyme Station Rotation",
-              "score": "79/100",
-              "percent": 79.0,
-              "group": "Formative Assessment",
-              "due": "Sep 9"
-            },
-            {
-              "title": "Lab 03 Post Post Lab (FA)",
-              "score": "89.17/100",
-              "percent": 89.2,
-              "group": "Formative Assessment",
-              "due": "Oct 6"
+              "title": "Unit 1 Test: The Nature of Life",
+              "score": "82/100",
+              "percent": 82.0,
+              "group": "Summative Assessment",
+              "due": "Sep 16"
             },
             {
               "title": "Unit 2 Test: Cell Structure and Environment (SA)",
@@ -1377,48 +1441,6 @@ window.RECAP_DATA = {
               "percent": 80.0,
               "group": "Summative Assessment",
               "due": "Oct 2"
-            },
-            {
-              "title": "Cellular Respiration Venn Diagram (in class)",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 16"
-            },
-            {
-              "title": "Cellular Energy Summative Project",
-              "score": "63/100",
-              "percent": 63.0,
-              "group": "Summative Assessment",
-              "due": "Oct 21"
-            },
-            {
-              "title": "DNA Replication Activity Exit Ticket",
-              "score": "90/100",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Oct 27"
-            },
-            {
-              "title": "Lab 4: Photosynthesis",
-              "score": "75/100",
-              "percent": 75.0,
-              "group": "Formative Assessment",
-              "due": "Oct 16"
-            },
-            {
-              "title": "Lab 05: Cellular Respiration",
-              "score": "80/100",
-              "percent": 80.0,
-              "group": "Formative Assessment",
-              "due": "Oct 27"
-            },
-            {
-              "title": "Mitosis & Meiosis Exit Ticket",
-              "score": "90/100",
-              "percent": 90.0,
-              "group": "Formative Assessment",
-              "due": "Oct 27"
             }
           ]
         },
@@ -1451,11 +1473,18 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
-              "title": "SKDM Assessment",
-              "score": "70/100",
-              "percent": 70.0,
-              "group": "Summative Assessment",
-              "due": "Aug 24"
+              "title": "APA Research Paper Outine",
+              "score": "50/100",
+              "percent": 50.0,
+              "group": "Formative Assessment",
+              "due": "Oct 29"
+            },
+            {
+              "title": "Act 1, Scenes 1-3",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Oct 22"
             },
             {
               "title": "Q1 Membean Program 1",
@@ -1465,60 +1494,11 @@ window.RECAP_DATA = {
               "due": "Aug 26"
             },
             {
-              "title": "SKDM Reflection",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 26"
-            },
-            {
-              "title": "TKAM Ch. 8-12 In-Class Essay",
-              "score": "65/100",
-              "percent": 65.0,
-              "group": "Summative Assessment",
-              "due": "Sep 10"
-            },
-            {
-              "title": "Q1 Membean Program 4",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 16"
-            },
-            {
-              "title": "TKAM Ch. 13-18 due",
-              "score": "55/100",
-              "percent": 55.0,
-              "group": "Formative Assessment",
-              "due": "Sep 16"
-            },
-            {
-              "title": "Q1 Membean Quiz 2",
-              "score": "95/100",
-              "percent": 95.0,
-              "group": "Summative Assessment",
-              "due": "Sep 17"
-            },
-            {
               "title": "Q1 Membean Program 2",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 2"
-            },
-            {
-              "title": "Q1 Membean Quiz 1",
-              "score": "80/100",
-              "percent": 80.0,
-              "group": "Summative Assessment",
-              "due": "Sep 3"
-            },
-            {
-              "title": "TKAM Ch. 1-7",
-              "score": "85/100",
-              "percent": 85.0,
-              "group": "Formative Assessment",
-              "due": "Sep 3"
             },
             {
               "title": "Q1 Membean Program 3",
@@ -1528,46 +1508,11 @@ window.RECAP_DATA = {
               "due": "Sep 9"
             },
             {
-              "title": "TKAM Shoe Activity",
-              "score": "190/200",
-              "percent": 95.0,
-              "group": "Formative Assessment",
-              "due": "Sep 9"
-            },
-            {
-              "title": "TKAM Literature Circle",
-              "score": "200/200",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 14"
-            },
-            {
-              "title": "TKAM Novel Test",
-              "score": "134/200",
-              "percent": 67.0,
-              "group": "Summative Assessment",
-              "due": "Oct 5"
-            },
-            {
-              "title": "Q1 Membean Quiz 3",
-              "score": "93/100",
-              "percent": 93.0,
-              "group": "Summative Assessment",
-              "due": "Oct 1"
-            },
-            {
-              "title": "TKAM Post-Reading Reflection",
+              "title": "Q1 Membean Program 4",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 7"
-            },
-            {
-              "title": "TKAM Ch. 25-31 due",
-              "score": "80/100",
-              "percent": 80.0,
-              "group": "Formative Assessment",
-              "due": "Sep 30"
+              "due": "Sep 16"
             },
             {
               "title": "Q1 Membean Program 5",
@@ -1591,27 +1536,6 @@ window.RECAP_DATA = {
               "due": "Oct 7"
             },
             {
-              "title": "TKAM Ch. 19-24 due",
-              "score": "80/100",
-              "percent": 80.0,
-              "group": "Formative Assessment",
-              "due": "Sep 21"
-            },
-            {
-              "title": "Act 1, Scenes 1-3",
-              "score": "80/100",
-              "percent": 80.0,
-              "group": "Formative Assessment",
-              "due": "Oct 22"
-            },
-            {
-              "title": "APA Research Paper Outline",
-              "score": "50/100",
-              "percent": 50.0,
-              "group": "Formative Assessment",
-              "due": "Oct 29"
-            },
-            {
               "title": "Q2 Membean Program 1",
               "score": "50/100",
               "percent": 50.0,
@@ -1626,11 +1550,109 @@ window.RECAP_DATA = {
               "due": "Oct 28"
             },
             {
+              "title": "SKDM Reflection",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 26"
+            },
+            {
+              "title": "TKAM Ch. 1-7",
+              "score": "85/100",
+              "percent": 85.0,
+              "group": "Formative Assessment",
+              "due": "Sep 3"
+            },
+            {
+              "title": "TKAM Ch. 13-18 due",
+              "score": "55/100",
+              "percent": 55.0,
+              "group": "Formative Assessment",
+              "due": "Sep 16"
+            },
+            {
+              "title": "TKAM Ch. 19-24 due",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Sep 21"
+            },
+            {
+              "title": "TKAM Ch. 25-31 due",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Formative Assessment",
+              "due": "Sep 30"
+            },
+            {
+              "title": "TKAM Literature Circle",
+              "score": "200/200",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 14"
+            },
+            {
+              "title": "TKAM Post-Reading Reflection",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 7"
+            },
+            {
+              "title": "TKAM Shoe Activity",
+              "score": "190/200",
+              "percent": 95.0,
+              "group": "Formative Assessment",
+              "due": "Sep 9"
+            },
+            {
+              "title": "Q1 Membean Quiz 1",
+              "score": "80/100",
+              "percent": 80.0,
+              "group": "Summative Assessment",
+              "due": "Sep 3"
+            },
+            {
+              "title": "Q1 Membean Quiz 2",
+              "score": "95/100",
+              "percent": 95.0,
+              "group": "Summative Assessment",
+              "due": "Sep 17"
+            },
+            {
+              "title": "Q1 Membean Quiz 3",
+              "score": "93/100",
+              "percent": 93.0,
+              "group": "Summative Assessment",
+              "due": "Oct 1"
+            },
+            {
               "title": "Q2 Membean Quiz 1",
               "score": "90/100",
               "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Oct 29"
+            },
+            {
+              "title": "SKDM Assessment",
+              "score": "70/100",
+              "percent": 70.0,
+              "group": "Summative Assessment",
+              "due": "Aug 24"
+            },
+            {
+              "title": "TKAM Ch. 8-12 In-Class Essay",
+              "score": "65/100",
+              "percent": 65.0,
+              "group": "Summative Assessment",
+              "due": "Sep 10"
+            },
+            {
+              "title": "TKAM Novel Test",
+              "score": "134/200",
+              "percent": 67.0,
+              "group": "Summative Assessment",
+              "due": "Oct 5"
             }
           ]
         }
@@ -1639,6 +1661,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Tue Nov 10 12 AM CT check (live Canvas): Apologetics 87.09 and Graphic Design 97.3 unchanged. Ethos classes carried over from the last good pull (no new Ethos login this run).",
         "Posted 0 and not marked completed: Physics: Practice Lockdown Browser Quiz Monitor; Physics: Motion Graphs Packet & Activity; Precalculus: Dropbox Quiz 3.1-3.3; Sociology: Synchro Session Attendance: Units 1-3.",
         "The Precalculus QUIZ 3.4 - 3.6 entry still shows 0 even though Ethos has it completed Oct 22, 2026 (worth checking with Pinson).",
         "Overdue from the last week, still not completed in Ethos: English 12: DWS #5 Quiz: Passive Voice and Passive Verbs (Mon Nov 2); English 12: Macbeth Act 3 (Fri Nov 6); English 12: Macbeth Act 5 Discussion Questions (Sun Nov 8); English 12: Mbn 11/09 (Sun Nov 8); Physics: Mass vs Weight (Tue Nov 3); Physics: Net Force Conceptual Question (Thu Nov 5); Government: Civil Liberties (Due Sunday) (Wed Nov 4); Government: Due Process Court Case (Sun Nov 8); Sociology: Concept Module 2: Perspectives on Social Institutions (Mon Nov 2); Sociology: DQ4: Institutions (Wed Nov 4).",
@@ -3000,25 +3023,11 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
-              "title": "Your Apologetics Starting Point",
+              "title": "Contingency Argument: Understanding Check",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "Understanding Truth Assignment 3: Truth Test",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 2"
-            },
-            {
-              "title": "Understanding Truth Assignment 4: Truth Statements",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 2"
+              "due": "Nov 6"
             },
             {
               "title": "Formative - Spider Web of Beliefs Handout Completion",
@@ -3035,32 +3044,11 @@ window.RECAP_DATA = {
               "due": "Oct 9"
             },
             {
-              "title": "Summative Exam - The Case for Truth",
-              "score": "66/100",
-              "percent": 66.0,
-              "group": "Summative Assessment",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Summative Project - Spider Web of Beliefs Overall Grade",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Summative Assessment",
-              "due": "Oct 9"
-            },
-            {
-              "title": "Video Quiz: Is there Meaning to Life?",
+              "title": "Handout: What Does It Mean to Believe in Christ?",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 17"
-            },
-            {
-              "title": "Unit 1 Summative Quiz (Essay)",
-              "score": "70/100",
-              "percent": 70.0,
-              "group": "Summative Assessment",
-              "due": "Sep 28"
+              "due": "Oct 30"
             },
             {
               "title": "Memory Verse 1 (Formative)",
@@ -3068,6 +3056,20 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 29"
+            },
+            {
+              "title": "Spider Web of Beliefs Reflection",
+              "score": "90/100",
+              "percent": 90.0,
+              "group": "Formative Assessment",
+              "due": "Oct 23"
+            },
+            {
+              "title": "Surrounded Simulation Post-Survey",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
             },
             {
               "title": "Understanding Truth Assignment 1: Self-Defeating Claims",
@@ -3084,32 +3086,32 @@ window.RECAP_DATA = {
               "due": "Sep 29"
             },
             {
-              "title": "Surrounded Simulation Post-Survey",
+              "title": "Understanding Truth Assignment 3: Truth Test",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Sep 4"
+              "due": "Oct 2"
             },
             {
-              "title": "Handout: What Does It Mean to Believe in Christ?",
+              "title": "Understanding Truth Assignment 4: Truth Statements",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 30"
+              "due": "Oct 2"
             },
             {
-              "title": "Contingency Argument: Understanding Check",
+              "title": "Video Quiz: Is there Meaning to Life?",
               "score": "100/100",
               "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Nov 6"
+              "due": "Sep 17"
             },
             {
-              "title": "Spider Web of Beliefs Reflection",
-              "score": "90/100",
-              "percent": 90.0,
+              "title": "Your Apologetics Starting Point",
+              "score": "100/100",
+              "percent": 100.0,
               "group": "Formative Assessment",
-              "due": "Oct 23"
+              "due": "Aug 28"
             },
             {
               "title": "Summative - Sort and Defend (General vs. Special Revelation)",
@@ -3117,6 +3119,27 @@ window.RECAP_DATA = {
               "percent": 80.0,
               "group": "Summative Assessment",
               "due": "Nov 10"
+            },
+            {
+              "title": "Summative Exam - The Case for Truth",
+              "score": "66/100",
+              "percent": 66.0,
+              "group": "Summative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Summative Project - Spider Web of Beliefs Overall Grade",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Summative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Unit 1 Summative Quiz (Essay)",
+              "score": "70/100",
+              "percent": 70.0,
+              "group": "Summative Assessment",
+              "due": "Sep 28"
             }
           ]
         },
@@ -3137,69 +3160,6 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
-              "title": "8/18-8/21",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 21"
-            },
-            {
-              "title": "8/24-8/28",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Aug 28"
-            },
-            {
-              "title": "9/29-10/2",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Oct 2"
-            },
-            {
-              "title": "9/8-9/11",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 11"
-            },
-            {
-              "title": "9/15-9/18",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 18"
-            },
-            {
-              "title": "9/22-9/25",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 25"
-            },
-            {
-              "title": "9/1-9/4",
-              "score": "100/100",
-              "percent": 100.0,
-              "group": "Formative Assessment",
-              "due": "Sep 4"
-            },
-            {
-              "title": "Quarter1_Proj1",
-              "score": "96/100",
-              "percent": 96.0,
-              "group": "Summative Assessment",
-              "due": "Oct 6"
-            },
-            {
-              "title": "Quarter 1_Proj2",
-              "score": "95/100",
-              "percent": 95.0,
-              "group": "Summative Assessment",
-              "due": "Oct 9"
-            },
-            {
               "title": "10/16",
               "score": "100/100",
               "percent": 100.0,
@@ -3219,6 +3179,69 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 30"
+            },
+            {
+              "title": "8/18-8/21",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 21"
+            },
+            {
+              "title": "8/24-8/28",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Aug 28"
+            },
+            {
+              "title": "9/1-9/4",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 4"
+            },
+            {
+              "title": "9/15-9/18",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 18"
+            },
+            {
+              "title": "9/22-9/25",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 25"
+            },
+            {
+              "title": "9/29-10/2",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Oct 2"
+            },
+            {
+              "title": "9/8-9/11",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Sep 11"
+            },
+            {
+              "title": "Quarter 1_Proj2",
+              "score": "95/100",
+              "percent": 95.0,
+              "group": "Summative Assessment",
+              "due": "Oct 9"
+            },
+            {
+              "title": "Quarter1_Proj1",
+              "score": "96/100",
+              "percent": 96.0,
+              "group": "Summative Assessment",
+              "due": "Oct 6"
             }
           ]
         }
