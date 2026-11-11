@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Nov 11, 2026 · 12:11 AM CT",
+  "updated": "Wednesday, Nov 11, 2026 · 4:06 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Wed Nov 11 4:05 AM CT check (live Canvas): all grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. English I APA Research Paper Rough Draft is submitted (pending review). Due today: Bible Psalm 20:7 Memory Verse, German Quiz prep, Biology Blood Types, English Membean Program 3.",
         "Wed Nov 11 12:10 AM CT check (live Canvas): all grades unchanged. English I: APA Research Paper Rough Draft was submitted Tue night ~9:18 PM CT (pending review). Everything else identical to the 4 PM pull.",
         "Tue Nov 10 8 PM CT check (live Canvas): no grade or assignment changes since 5 PM — Bible 86.62, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. Still open tonight: English APA Research Paper Rough Draft (11:59 PM CT, unsubmitted). Due Wed Nov 11: Bible Psalm 20:7 Memory Verse 10:15 AM, German Quiz prep 10 AM, Biology Blood Types, English Membean Program 3.",
         "Tue Nov 10 5 PM CT check (live Canvas): no grade changes since 4 PM — Bible 86.62, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. Due tonight: Geography Unit 3 Vocab Matrix (already turned in), English APA Research Paper Rough Draft (11:59 PM, unsubmitted), Biology Creation Journal #7 (was due 9 AM, not in Canvas). Due Wed Nov 11: Bible Psalm 20:7 Memory Verse 10:15 AM, German Quiz prep 10 AM and Workbook (graded), Biology Blood Types, English Membean Program 3. No new Canvas inbox messages; only new announcement: Biology Nov 10 agenda (sub today).",
@@ -1684,6 +1685,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Wed Nov 11 4:05 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 12:10 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Tue Nov 10 5 PM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Apologetics: Explain It: The Contingency Argument submitted Sat Nov 7, awaiting grade (due Fri Nov 13); Kalam Video Quiz Part 1 graded 80/100; Memory Verse 3 and Unit 4 Summative Quiz due Fri Dec 4. Graphic Design: nothing due. Ethos could not be refreshed this run, so Ethos grades and work lists are carried over from the last good pull.",
         "Tue Nov 10 4 PM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
