@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Nov 11, 2026 · 8:10 AM CT",
+  "updated": "Wednesday, Nov 11, 2026 · 12:10 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Wed Nov 11 12:10 PM CT check (live Canvas): Bible 86.62 → 86.99 (Psalm 20:7 Memory Verse 100/100, taken 9:41 AM). Others unchanged — Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. Psalm Memory Verse: Picture auto-zeroed (not counted in grade). Still due today: German Chapter 3 quiz prep, Biology Blood Types, English Membean Program 3.",
         "Wed Nov 11 8:10 AM CT check (live Canvas): all grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. Due today: see work lists below.",
         "Wed Nov 11 4:05 AM CT check (live Canvas): all grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. English I APA Research Paper Rough Draft is submitted (pending review). Due today: Bible Psalm 20:7 Memory Verse, German Quiz prep, Biology Blood Types, English Membean Program 3.",
         "Wed Nov 11 12:10 AM CT check (live Canvas): all grades unchanged. English I: APA Research Paper Rough Draft was submitted Tue night ~9:18 PM CT (pending review). Everything else identical to the 4 PM pull.",
@@ -31,8 +32,8 @@ window.RECAP_DATA = {
           "teacher": "Arredondo",
           "period": "P2",
           "source": "canvas",
-          "grade": 86.62,
-          "note": "86.62% (was 85.12) — Mon Nov 9 ~4 PM CT pull: Samuel Summative: (Combined) re-graded 61 → 71/100 (graded ~3:12 PM CT). Nothing else changed. Earlier: 85.12% (unchanged) — Mon Nov 9 noon CT pull: new Formative items: The North Falls (5 pts, omitted from final grade, turned in ~10:42 AM CT), The North Falls: Exit Ticket (4 pts, omitted, turned in ~10:47 AM CT — pending review, 2/4 so far), Psalm 20:7 Memory Verse: Picture (100 pts, omitted, due Wed Nov 11 10:15 AM), Jerusalem Falls (10 pts, unlocks Wed Nov 11 9:35 AM, no due date). Earlier: 85.12% (was 85.26) — as of Mon Nov 9 ~12 AM CT: graded Sun Nov 8 evening: Elijah: Carmel Case File 10/10 (~8:52 PM CT), The Kingdom Splits: Pattern Chart 10/10 (~8:47 PM CT), The Kingdom Splits: Exit Ticket 3/4 (~8:51 PM CT, was pending review). Thursday Choice Board: Turn-In (0/10, not submitted) is no longer omitted from the final grade — Canvas now counts it. Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM). New in Canvas: Capstone Part 1: Your Story Exhibit (60 pts summative, file upload/text entry, no due date) and Capstone Part 2: Your Statement (40 pts summative, quiz, no due date) — both unsubmitted. Earlier: 85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade). Wed Nov 4 10:05 AM: Elijah: Carmel Case File (due Mon Nov 9) turned in — awaiting grade. New Thu Nov 5 ~7:06 AM: Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade, online text entry) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 Sat Nov 7 ~12:35 AM CT (still not counted).",
+          "grade": 86.99,
+          "note": "86.99% (was 86.62) — Wed Nov 11 ~12:10 PM CT pull: Psalm 20:7 Memory Verse quiz taken 9:41 AM CT, 100/100. Psalm 20:7 Memory Verse: Picture (omitted from final grade) auto-zeroed 0/100 after its 10:15 AM due time (not submitted). Jerusalem Falls (unlocked 9:35 AM, no due date) still open. | 86.62% (was 85.12) — Mon Nov 9 ~4 PM CT pull: Samuel Summative: (Combined) re-graded 61 → 71/100 (graded ~3:12 PM CT). Nothing else changed. Earlier: 85.12% (unchanged) — Mon Nov 9 noon CT pull: new Formative items: The North Falls (5 pts, omitted from final grade, turned in ~10:42 AM CT), The North Falls: Exit Ticket (4 pts, omitted, turned in ~10:47 AM CT — pending review, 2/4 so far), Psalm 20:7 Memory Verse: Picture (100 pts, omitted, due Wed Nov 11 10:15 AM), Jerusalem Falls (10 pts, unlocks Wed Nov 11 9:35 AM, no due date). Earlier: 85.12% (was 85.26) — as of Mon Nov 9 ~12 AM CT: graded Sun Nov 8 evening: Elijah: Carmel Case File 10/10 (~8:52 PM CT), The Kingdom Splits: Pattern Chart 10/10 (~8:47 PM CT), The Kingdom Splits: Exit Ticket 3/4 (~8:51 PM CT, was pending review). Thursday Choice Board: Turn-In (0/10, not submitted) is no longer omitted from the final grade — Canvas now counts it. Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM). New in Canvas: Capstone Part 1: Your Story Exhibit (60 pts summative, file upload/text entry, no due date) and Capstone Part 2: Your Statement (40 pts summative, quiz, no due date) — both unsubmitted. Earlier: 85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade). Wed Nov 4 10:05 AM: Elijah: Carmel Case File (due Mon Nov 9) turned in — awaiting grade. New Thu Nov 5 ~7:06 AM: Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade, online text entry) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 Sat Nov 7 ~12:35 AM CT (still not counted).",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -51,12 +52,6 @@ window.RECAP_DATA = {
               "status": "due",
               "detail": "0 pts · online text entry · was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (omit_from_final_grade; no longer marked missing; scored 0 Fri Nov 6 ~12:25 PM CT)",
               "due": "Oct 29"
-            },
-            {
-              "title": "Psalm 20:7 Memory Verse",
-              "status": "due",
-              "detail": "100 pts formative · quiz · now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM) · unsubmitted",
-              "due": "Nov 11"
             },
             {
               "title": "Thursday Choice Board: Turn-In",
@@ -84,8 +79,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Psalm 20:7 Memory Verse: Picture",
-              "status": "due",
-              "detail": "new Mon Nov 9 · 100 pts formative (omitted from final grade) · due Wed Nov 11 10:15 AM CT · unsubmitted",
+              "status": "zero",
+              "detail": "0/100 missing (omitted from final grade)",
               "due": "Nov 11"
             },
             {
@@ -365,6 +360,13 @@ window.RECAP_DATA = {
               "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Sep 16"
+            },
+            {
+              "title": "Psalm 20:7 Memory Verse",
+              "score": "100/100",
+              "percent": 100.0,
+              "group": "Formative Assessment",
+              "due": "Nov 11"
             }
           ]
         },
@@ -1686,6 +1688,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Wed Nov 11 12:10 PM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 8:10 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 4:05 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 12:10 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
