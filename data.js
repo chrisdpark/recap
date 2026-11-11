@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Nov 11, 2026 · 12:10 PM CT",
+  "updated": "Wednesday, Nov 11, 2026 · 4:10 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Wed Nov 11 4:10 PM CT check (live Canvas, grades-only pull): all seven grades unchanged — Bible 86.99, Worship 96.88, Algebra I 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91.",
         "Wed Nov 11 12:10 PM CT check (live Canvas): Bible 86.62 → 86.99 (Psalm 20:7 Memory Verse 100/100, taken 9:41 AM). Others unchanged — Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. Psalm Memory Verse: Picture auto-zeroed (not counted in grade). Still due today: German Chapter 3 quiz prep, Biology Blood Types, English Membean Program 3.",
         "Wed Nov 11 8:10 AM CT check (live Canvas): all grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. Due today: see work lists below.",
         "Wed Nov 11 4:05 AM CT check (live Canvas): all grades unchanged — Bible 86.62, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 78.78, English 80.91. English I APA Research Paper Rough Draft is submitted (pending review). Due today: Bible Psalm 20:7 Memory Verse, German Quiz prep, Biology Blood Types, English Membean Program 3.",
@@ -1688,6 +1689,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Wed Nov 11 4:10 PM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 12:10 PM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 8:10 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 4:05 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
