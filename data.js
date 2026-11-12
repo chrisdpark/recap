@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Nov 12, 2026 · 12:09 PM CT",
+  "updated": "Thursday, Nov 12, 2026 · 4:01 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Thu Nov 12 4:05 PM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 8:06 AM CT check (live Canvas, scores only): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 4:05 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 12:01 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
@@ -1694,6 +1695,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Thu Nov 12 4:05 PM CT check: Ethos refreshed live at 3:57 PM CT (Physics 83→84); Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas.",
         "Thu Nov 12 8:06 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Thu Nov 12 4:05 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Thu Nov 12 12:01 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
@@ -1873,6 +1875,20 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
+              "title": "Poetic Elements and Structure (StudySync)",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 21, 2025"
+            },
+            {
+              "title": "Ben Jonson's \"On My First Son\" assignment",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 21, 2025"
+            },
+            {
               "title": "First draft of Intro, first two body paragraphs and Works Cited page",
               "score": "90",
               "percent": 90.0,
@@ -1880,7 +1896,21 @@ window.RECAP_DATA = {
               "due": "Sep 21, 2025"
             },
             {
-              "title": "Death of a Moth by Virginia Woolf",
+              "title": "Brave New World Summer Reading Assignment",
+              "score": "98",
+              "percent": 98.0,
+              "group": "Ethos",
+              "due": "Aug 18, 2026"
+            },
+            {
+              "title": "Brave New World Summer Reading Essay Test",
+              "score": "96",
+              "percent": 96.0,
+              "group": "Ethos",
+              "due": "Aug 20, 2026"
+            },
+            {
+              "title": "\"Death of a Moth\" by Virginia Woolf",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1908,7 +1938,7 @@ window.RECAP_DATA = {
               "due": "Aug 30, 2026"
             },
             {
-              "title": "Shooting an Elephant by George Orwell",
+              "title": "\"Shooting an Elephant\" by George Orwell",
               "score": "100",
               "percent": 100.0,
               "group": "Ethos",
@@ -1948,6 +1978,48 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Ethos",
               "due": "Sep 21, 2026"
+            },
+            {
+              "title": "John Donne's \"Death Be Not Proud\" assignment",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Sep 27, 2026"
+            },
+            {
+              "title": "Macbeth Act 3 Scene Study in StudySync",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Oct 25, 2026"
+            },
+            {
+              "title": "Fall Mid-term Exam",
+              "score": "96",
+              "percent": 96.0,
+              "group": "Ethos",
+              "due": "Oct 26, 2026"
+            },
+            {
+              "title": "Macbeth Acts 1 and 2",
+              "score": "50",
+              "percent": 50.0,
+              "group": "Ethos",
+              "due": "Oct 29, 2026"
+            },
+            {
+              "title": "DWS #5 Quiz: Passive Voice and Passive Verbs",
+              "score": "50",
+              "percent": 50.0,
+              "group": "Ethos",
+              "due": "Nov 02, 2026"
+            },
+            {
+              "title": "Macbeth Act 3",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 06, 2026"
             }
           ]
         },
@@ -1956,8 +2028,8 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 83,
-          "note": "83% (no change since Friday's recap) · due soon: Friction Conceptual Question (Mon Nov 9), Circular Motion & Gravitation Notes (Sat Nov 14), Circular Motion and Gravitation Problem Set (Sat Nov 14) · 9 overdue · 2 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
+          "grade": "84",
+          "note": "84% (was 83) · due soon: Friction Conceptual Question (Mon Nov 9), Circular Motion & Gravitation Notes (Sat Nov 14), Circular Motion and Gravitation Problem Set (Sat Nov 14) · 9 overdue · 2 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
           "work": [
             {
               "title": "Friction Conceptual Question",
@@ -2249,6 +2321,20 @@ window.RECAP_DATA = {
               "due": "Nov 04, 2026"
             },
             {
+              "title": "Forces & Newton's Laws Test Review",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 07, 2026"
+            },
+            {
+              "title": "Circular Motion & Gravitation Notes",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 14, 2026"
+            },
+            {
               "title": "Free Body Diagrams Quiz",
               "score": "80",
               "percent": 80.0,
@@ -2261,6 +2347,13 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Ethos",
               "due": "Nov 26, 2026"
+            },
+            {
+              "title": "Forces & Newton's Laws Test",
+              "score": "85",
+              "percent": 85.0,
+              "group": "Ethos",
+              "due": "Dec 02, 2026"
             }
           ]
         },
@@ -2502,6 +2595,13 @@ window.RECAP_DATA = {
               "due": "Nov 01, 2026"
             },
             {
+              "title": "Due Process Court Case",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 08, 2026"
+            },
+            {
               "title": "Criminal Justice",
               "score": "100",
               "percent": 100.0,
@@ -2513,7 +2613,7 @@ window.RECAP_DATA = {
               "score": "87",
               "percent": 87.0,
               "group": "Ethos",
-              "due": "Dec 04, 2026"
+              "due": "Dec 03, 2026"
             }
           ]
         },
@@ -2791,6 +2891,27 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Ethos",
               "due": "Nov 04, 2026"
+            },
+            {
+              "title": "Dropbox Week 12 Homework",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 05, 2026"
+            },
+            {
+              "title": "Dropbox Unit Circle Quiz",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 05, 2026"
+            },
+            {
+              "title": "Drop box Quiz 4.1-4.4",
+              "score": "96",
+              "percent": 96.0,
+              "group": "Ethos",
+              "due": "Nov 05, 2026"
             },
             {
               "title": "Unit Circle Quiz",
@@ -3308,4 +3429,4 @@ window.RECAP_DATA = {
       ]
     }
   }
-};
+}
