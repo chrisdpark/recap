@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Nov 12, 2026 · 4:01 PM CT",
+  "updated": "Thursday, Nov 12, 2026 · 5:15 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1695,6 +1695,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Thu Nov 12 5:15 PM CT check: Canvas Apologetics 86.54 and Graphic Design 97.3 unchanged, nothing new graded or overdue in Canvas. Ethos from the 3:57 PM CT live pull today (English 94, Physics 84, Government 87, Precalculus 89, Sociology 85). Due tomorrow Fri Nov 13: Apologetics Explain It (already submitted, awaiting grade), Government Civil Liberties and Rights Assessment. Due Thu Nov 12 and not yet completed in Ethos: Precalculus Dropbox Week 13 Homework and Dropbox Quiz 4.5-4.8; English DWS #5 NUMBER TWO! (due Wed Nov 11).",
         "Thu Nov 12 4:05 PM CT check: Ethos refreshed live at 3:57 PM CT (Physics 83→84); Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas.",
         "Thu Nov 12 8:06 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Thu Nov 12 4:05 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
@@ -1726,151 +1727,79 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 94,
-          "note": "94% (down from 96) · due soon: DWS #5 NUMBER TWO! (Wed Nov 11), Annotated Bibliography (Mon Nov 16) · 22 overdue · 0 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
+          "note": "94% · Ethos live pull Thu Nov 12 3:57 PM CT · 11 overdue (2026 items) · due soon: Annotated Bibliography (Nov 16)",
           "work": [
-            {
-              "title": "DWS #5 NUMBER TWO!",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Wed Nov 11"
-            },
             {
               "title": "Annotated Bibliography",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Mon Nov 16"
-            },
-            {
-              "title": "Poetic Elements and Structure (StudySync)",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 21, 2025"
-            },
-            {
-              "title": "Membean 9/21",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 21, 2025"
-            },
-            {
-              "title": "StudySync Act 5, scene 5 Paragraph Response",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 09, 2025"
-            },
-            {
-              "title": "Mbn 11/16",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 16, 2025"
-            },
-            {
-              "title": "Mbn 11/23",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 23, 2025"
-            },
-            {
-              "title": "Brave New World Summer Reading Essay Test",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 20, 2026"
+              "detail": "not completed in Ethos · due Nov 16",
+              "due": "Nov 16"
             },
             {
               "title": "Membean 8/30",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 30, 2026"
+              "detail": "not completed · due Aug 30",
+              "due": "Aug 30"
             },
             {
               "title": "Membean 9/7",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 06, 2026"
+              "detail": "not completed · due Sep 06",
+              "due": "Sep 06"
             },
             {
               "title": "Membean 9/13",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 13, 2026"
+              "detail": "not completed · due Sep 13",
+              "due": "Sep 13"
             },
             {
               "title": "Membean 9/27",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 27, 2026"
+              "detail": "not completed · due Sep 27",
+              "due": "Sep 27"
             },
             {
               "title": "DWS #4 Quiz",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 30, 2026"
+              "detail": "not completed · due Sep 30",
+              "due": "Sep 30"
             },
             {
               "title": "Membean Practice 10/19",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 18, 2026"
+              "detail": "not completed · due Oct 18",
+              "due": "Oct 18"
             },
             {
               "title": "Intro to the English Renaissance on StudySync",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 18, 2026"
+              "detail": "not completed · due Oct 18",
+              "due": "Oct 18"
             },
             {
               "title": "Participation",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 22, 2026"
-            },
-            {
-              "title": "Macbeth Act 3 Scene Study in StudySync",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 25, 2026"
+              "detail": "not completed · due Oct 22",
+              "due": "Oct 22"
             },
             {
               "title": "Mbn Week 10",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 25, 2026"
-            },
-            {
-              "title": "Fall Mid-term Exam",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 26, 2026"
-            },
-            {
-              "title": "Macbeth Acts 1 and 2",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 29, 2026"
-            },
-            {
-              "title": "DWS #5 Quiz: Passive Voice and Passive Verbs",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 02, 2026"
-            },
-            {
-              "title": "Macbeth Act 3",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 06, 2026"
-            },
-            {
-              "title": "Macbeth Act 5 Discussion Questions",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 08, 2026"
+              "detail": "not completed · due Oct 25",
+              "due": "Oct 25"
             },
             {
               "title": "Mbn 11/09",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 08, 2026"
+              "detail": "not completed · due Nov 08",
+              "due": "Nov 08"
+            },
+            {
+              "title": "DWS #5 NUMBER TWO!",
+              "status": "overdue",
+              "detail": "not completed · due Nov 11",
+              "due": "Nov 11"
             }
           ],
           "grades": [
@@ -2029,91 +1958,79 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": "84",
-          "note": "84% (was 83) · due soon: Friction Conceptual Question (Mon Nov 9), Circular Motion & Gravitation Notes (Sat Nov 14), Circular Motion and Gravitation Problem Set (Sat Nov 14) · 9 overdue · 2 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
+          "note": "84% · Ethos live pull Thu Nov 12 3:57 PM CT · 9 overdue (2026 items) · due soon: Circular Motion and Gravitation Problem Set (Nov 14)",
           "work": [
-            {
-              "title": "Friction Conceptual Question",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Mon Nov 9"
-            },
-            {
-              "title": "Circular Motion & Gravitation Notes",
-              "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sat Nov 14"
-            },
             {
               "title": "Circular Motion and Gravitation Problem Set",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sat Nov 14"
+              "detail": "not completed in Ethos · due Nov 14",
+              "due": "Nov 14"
             },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
               "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Aug 20, 2026"
+              "detail": "posted 0, not completed · due Aug 20",
+              "due": "Aug 20"
             },
             {
               "title": "Motion Graphs Packet & Activity",
               "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Aug 29, 2026"
-            },
-            {
-              "title": "Final Test Review Problems",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Dec 14, 2023"
+              "detail": "posted 0, not completed · due Aug 29",
+              "due": "Aug 29"
             },
             {
               "title": "Lockdown Browser Tutorial",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 18, 2026"
+              "detail": "not completed · due Aug 18",
+              "due": "Aug 18"
             },
             {
               "title": "Define 1D Motion Discussion Forum",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 08, 2026"
+              "detail": "not completed · due Sep 08",
+              "due": "Sep 08"
             },
             {
               "title": "Velocity Teaching Video",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 10, 2026"
+              "detail": "not completed · due Sep 10",
+              "due": "Sep 10"
             },
             {
               "title": "Position Time Graphs Teaching Video",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 14, 2026"
+              "detail": "not completed · due Sep 14",
+              "due": "Sep 14"
             },
             {
               "title": "Position - Time Graph Walking Video Discussion Forum",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 21, 2026"
+              "detail": "not completed · due Sep 21",
+              "due": "Sep 21"
             },
             {
               "title": "2D Flight Paths",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 12, 2026"
+              "detail": "not completed · due Oct 12",
+              "due": "Oct 12"
             },
             {
               "title": "Mass vs Weight",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 03, 2026"
+              "detail": "not completed · due Nov 03",
+              "due": "Nov 03"
             },
             {
               "title": "Net Force Conceptual Question",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 05, 2026"
+              "detail": "not completed · due Nov 05",
+              "due": "Nov 05"
+            },
+            {
+              "title": "Friction Conceptual Question",
+              "status": "overdue",
+              "detail": "not completed · due Nov 09",
+              "due": "Nov 09"
             }
           ],
           "grades": [
@@ -2363,73 +2280,73 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% (no change since Friday's recap) · due soon: First Amendment Civil Liberties Exploration (Sun Nov 15), Court Case Comparison (Sun Nov 15), Civil Liberties and Rights Assessment (Mon Nov 16) · 8 overdue · 0 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
+          "note": "87% · Ethos live pull Thu Nov 12 3:57 PM CT · 7 overdue (2026 items) · due soon: Civil Liberties and Rights Assessment (Nov 13), First Amendment Civil Liberties Exploration (Nov 15), Court Case Comparison (Nov 15), Synch Session #8 Make up (Nov 16)",
           "work": [
+            {
+              "title": "Civil Liberties and Rights Assessment",
+              "status": "due",
+              "detail": "not completed in Ethos · due Nov 13",
+              "due": "Nov 13"
+            },
             {
               "title": "First Amendment Civil Liberties Exploration",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 15"
+              "detail": "not completed in Ethos · due Nov 15",
+              "due": "Nov 15"
             },
             {
               "title": "Court Case Comparison",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 15"
+              "detail": "not completed in Ethos · due Nov 15",
+              "due": "Nov 15"
             },
             {
-              "title": "Civil Liberties and Rights Assessment",
+              "title": "Synch Session #8 Make up",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Mon Nov 16"
+              "detail": "not completed in Ethos · due Nov 16",
+              "due": "Nov 16"
             },
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 23, 2026"
+              "detail": "not completed · due Aug 23",
+              "due": "Aug 23"
             },
             {
               "title": "Synch Session #3 9/7",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 13, 2026"
+              "detail": "not completed · due Sep 13",
+              "due": "Sep 13"
             },
             {
               "title": "Synch Session #4 9/21",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 27, 2026"
+              "detail": "not completed · due Sep 27",
+              "due": "Sep 27"
             },
             {
               "title": "Synch Session #5 Make Up",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 04, 2026"
+              "detail": "not completed · due Oct 04",
+              "due": "Oct 04"
             },
             {
               "title": "Judicial Branch Test",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 29, 2026"
+              "detail": "not completed · due Oct 28",
+              "due": "Oct 28"
             },
             {
               "title": "Synch Session #7 Makeup",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 01, 2026"
+              "detail": "not completed · due Nov 01",
+              "due": "Nov 01"
             },
             {
               "title": "Civil Liberties (Due Sunday)",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 04, 2026"
-            },
-            {
-              "title": "Due Process Court Case",
-              "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 08, 2026"
+              "detail": "not completed · due Nov 03",
+              "due": "Nov 03"
             }
           ],
           "grades": [
@@ -2623,97 +2540,31 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% (no change since Friday's recap) · due soon: Dropbox Week 13 Homework (Thu Nov 12), Dropbox Quiz 4.5-4.8 (Thu Nov 12) · 1 overdue · 1 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
+          "note": "89% · Ethos live pull Thu Nov 12 3:57 PM CT · 1 overdue (2026 items) · due soon: Dropbox Week 13 Homework (Nov 12), Dropbox Quiz 4.5-4.8 (Nov 12)",
           "work": [
             {
               "title": "Dropbox Week 13 Homework",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Thu Nov 12"
+              "detail": "not completed in Ethos · due Nov 12",
+              "due": "Nov 12"
             },
             {
               "title": "Dropbox Quiz 4.5-4.8",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Thu Nov 12"
-            },
-            {
-              "title": "Quiz 1.1 - 1.3",
-              "status": "zero",
-              "detail": "Posted 0, completed Aug 31, 2026",
-              "due": "Due Aug 21, 2026"
-            },
-            {
-              "title": "QUIZ 1.4 - 1.7",
-              "status": "zero",
-              "detail": "Posted 0, completed Aug 31, 2026",
-              "due": "Due Sep 01, 2026"
-            },
-            {
-              "title": "Test Unit 1",
-              "status": "zero",
-              "detail": "Posted 0, completed Sep 03, 2026",
-              "due": "Due Sep 03, 2026"
-            },
-            {
-              "title": "Quiz 2.1-2.2",
-              "status": "zero",
-              "detail": "Posted 0, completed Sep 10, 2026",
-              "due": "Due Sep 10, 2026"
-            },
-            {
-              "title": "QUIZ 2.3 - 2.7",
-              "status": "zero",
-              "detail": "Posted 0, completed Sep 17, 2026",
-              "due": "Due Sep 25, 2026"
-            },
-            {
-              "title": "Test Unit 2",
-              "status": "zero",
-              "detail": "Posted 0, completed Sep 24, 2026",
-              "due": "Due Oct 02, 2026"
-            },
-            {
-              "title": "Fall Midterm Exam",
-              "status": "zero",
-              "detail": "Posted 0, completed Oct 08, 2026",
-              "due": "Due Oct 09, 2026"
+              "detail": "not completed in Ethos · due Nov 12",
+              "due": "Nov 12"
             },
             {
               "title": "Dropbox Quiz 3.1-3.3",
               "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Oct 15, 2026"
-            },
-            {
-              "title": "QUIZ 3.4 - 3.6",
-              "status": "zero",
-              "detail": "Posted 0, completed Oct 22, 2026",
-              "due": "Due Oct 29, 2026"
-            },
-            {
-              "title": "Test Unit 3",
-              "status": "zero",
-              "detail": "Posted 0, completed Oct 30, 2026",
-              "due": "Due Nov 04, 2026"
-            },
-            {
-              "title": "Unit Circle Quiz",
-              "status": "zero",
-              "detail": "Posted 0, completed Nov 05, 2026",
-              "due": "Due Nov 13, 2026"
-            },
-            {
-              "title": "Quiz 4.1-4.4",
-              "status": "zero",
-              "detail": "Posted 0, completed Nov 05, 2026",
-              "due": "Due Nov 20, 2026"
+              "detail": "posted 0, not completed · due Oct 15",
+              "due": "Oct 15"
             },
             {
               "title": "Quiz 3.1-3.3",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 20, 2026"
+              "detail": "not completed · due Oct 20",
+              "due": "Oct 20"
             }
           ],
           "grades": [
@@ -2935,115 +2786,115 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (no change since Friday's recap) · due soon: Social Location Map Assignment (Sun Nov 15), Sociological Scavenger Hunt #5 (Sun Nov 15) · 15 overdue · 1 posted 0 · Ethos detail from Mon Nov 9 8:10 AM CT; overall from ~4:20 PM CT dashboard (not refreshed for this 5pm run)",
+          "note": "85% · Ethos live pull Thu Nov 12 3:57 PM CT · 15 overdue (2026 items) · due soon: Social Location Map Assignment (Nov 15), Sociological Scavenger Hunt #5 (Nov 15)",
           "work": [
             {
               "title": "Social Location Map Assignment",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 15"
+              "detail": "not completed in Ethos · due Nov 15",
+              "due": "Nov 15"
             },
             {
               "title": "Sociological Scavenger Hunt #5",
               "status": "due",
-              "detail": "Not completed",
-              "due": "Due Sun Nov 15"
+              "detail": "not completed in Ethos · due Nov 15",
+              "due": "Nov 15"
             },
             {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
-              "detail": "Posted 0, not completed",
-              "due": "Due Aug 18, 2026"
+              "detail": "posted 0, not completed · due Aug 18",
+              "due": "Aug 18"
             },
             {
               "title": "Synchro Session Attendance: Units 4-6",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 20, 2026"
+              "detail": "not completed · due Aug 20",
+              "due": "Aug 20"
             },
             {
               "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 26, 2026"
+              "detail": "not completed · due Aug 26",
+              "due": "Aug 26"
             },
             {
               "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Aug 28, 2026"
+              "detail": "not completed · due Aug 28",
+              "due": "Aug 28"
             },
             {
               "title": "Concept Module 1: Perspectives",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 03, 2026"
+              "detail": "not completed · due Sep 03",
+              "due": "Sep 03"
             },
             {
               "title": "Concept Module 2: Research",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 07, 2026"
+              "detail": "not completed · due Sep 07",
+              "due": "Sep 07"
             },
             {
               "title": "DQ1: The Sociological Imagination",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 09, 2026"
+              "detail": "not completed · due Sep 09",
+              "due": "Sep 09"
             },
             {
               "title": "OPT. Assignment #2: Violate a Social Norm",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 13, 2026"
+              "detail": "not completed · due Sep 13",
+              "due": "Sep 13"
             },
             {
               "title": "OPT. Assignment #1: Journal of Mundane Behavior",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 16, 2026"
+              "detail": "not completed · due Sep 16",
+              "due": "Sep 16"
             },
             {
               "title": "OPT. Assignment #3: Song Analysis",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Sep 28, 2026"
+              "detail": "not completed · due Sep 28",
+              "due": "Sep 28"
             },
             {
               "title": "DQ3: The Creation of You",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 14, 2026"
+              "detail": "not completed · due Oct 14",
+              "due": "Oct 14"
             },
             {
               "title": "Sociology Midterm (2022)",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 23, 2026"
+              "detail": "not completed · due Oct 23",
+              "due": "Oct 23"
             },
             {
               "title": "OPT. Assignment #4: Sociology in Kindergarten",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 25, 2026"
+              "detail": "not completed · due Oct 25",
+              "due": "Oct 25"
             },
             {
               "title": "Concept Module 1: Know Your Terms",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Oct 29, 2026"
+              "detail": "not completed · due Oct 29",
+              "due": "Oct 29"
             },
             {
               "title": "Concept Module 2: Perspectives on Social Institutions",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 02, 2026"
+              "detail": "not completed · due Nov 02",
+              "due": "Nov 02"
             },
             {
               "title": "DQ4: Institutions",
               "status": "overdue",
-              "detail": "Not completed",
-              "due": "Due Nov 04, 2026"
+              "detail": "not completed · due Nov 04",
+              "due": "Nov 04"
             }
           ],
           "grades": [
