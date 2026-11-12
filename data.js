@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Nov 12, 2026 · 4:05 AM CT",
+  "updated": "Thursday, Nov 12, 2026 · 8:06 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Thu Nov 12 8:06 AM CT check (live Canvas, scores only): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 4:05 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 12:01 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Wed Nov 11 8:03 PM CT check (live Canvas, scores only): no grade changes since 5 PM — Bible 86.99, Worship 96.88, Algebra I 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91. Biology Blood Types quiz still due tonight 11:59 PM.",
@@ -1693,6 +1694,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Thu Nov 12 8:06 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Thu Nov 12 4:05 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Thu Nov 12 12:01 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 8:03 PM CT check (Canvas only; Ethos not refreshed): Apologetics 86.54, Graphic Design 97.3, unchanged.",
