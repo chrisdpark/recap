@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Nov 12, 2026 · 5:15 PM CT",
+  "updated": "Thursday, Nov 12, 2026 · 5:17 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Thu Nov 12 5:17 PM CT check (live Canvas): all grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91. Due Fri Nov 13: German Next 10 Verbs 11 AM; Biology Creation Journal #8 4 PM and Sex Linked Case Study 11:59 PM; Geography Current Event Post Nov. 11th and Don't Panic Video Questions 11:59 PM. No new inbox messages or announcements.",
         "Thu Nov 12 4:05 PM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 8:06 AM CT check (live Canvas, scores only): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 4:05 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
