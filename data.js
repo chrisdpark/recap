@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Nov 12, 2026 · 12:02 AM CT",
+  "updated": "Thursday, Nov 12, 2026 · 4:05 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Thu Nov 12 4:05 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 12:01 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Wed Nov 11 8:03 PM CT check (live Canvas, scores only): no grade changes since 5 PM — Bible 86.99, Worship 96.88, Algebra I 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91. Biology Blood Types quiz still due tonight 11:59 PM.",
         "Wed Nov 11 5:09 PM CT check (live Canvas): Biology 78.78 → 77.64 (Blood Types: Weathering the Storm online quiz scored 25/100 at ~2:53 PM CT, due tonight 11:59 PM; Non-mendelian WebQuest graded 100/100). Other grades unchanged — Bible 86.99, Worship 96.88, Algebra I 22.74, German 86.88, Geography 85.61, English 80.91. Biology Creation Journal #7 still unsubmitted in Canvas. No new inbox messages or announcements in the last 24 hours.",
@@ -1692,6 +1693,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Thu Nov 12 4:05 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Thu Nov 12 12:01 AM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. Ethos grades carried over from the last good pull (not refreshed this run).",
         "Wed Nov 11 8:03 PM CT check (Canvas only; Ethos not refreshed): Apologetics 86.54, Graphic Design 97.3, unchanged.",
         "Wed Nov 11 5:20 PM CT check (live Canvas): Apologetics 86.54 and Graphic Design 97.3 unchanged. New Apologetics announcement: memory verses are due next week; formative (one verse) and summative (other verse, exact Kalam argument wording, essay) assessments are Thu-Fri Nov 19-20. Explain It: The Contingency Argument still due Fri Nov 13. Ethos grades carried over from the last good pull (not refreshed this run).",
