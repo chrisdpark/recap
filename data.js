@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Nov 13, 2026 · 12:07 PM CT",
+  "updated": "Friday, Nov 13, 2026 · 4:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Fri Nov 13 4 PM CT check (live Canvas): German I 88.77 (was 86.88) — Chapter 3 Vocabulary List Part 1 re-graded 22.5/25. Others unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, Geography 85.61, Biology 77.64, English 80.91.",
         "Fri Nov 13 noon CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Fri Nov 13 8 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Fri Nov 13 4 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
@@ -767,8 +768,8 @@ window.RECAP_DATA = {
           "teacher": "Porter",
           "period": "P5",
           "source": "canvas",
-          "grade": 86.88,
-          "note": "86.88% (was 86.45) — Tue Nov 10 ~4 PM CT pull: Workbook 11-19 (FA) graded 28.5/30 (95%, ~12:42 PM CT). Chapter 3 Vocabulary List Part 1 stays 0.25/25 but Canvas now flags it missing. New in Canvas: First 28 from Chapter 3 Quiz (Gafallen) and Next 10 Verbs. Earlier: 86.45% (was 87.96) — Tue Nov 10 ~12 PM CT pull: Lord's Prayer (SA) All Parts, Speaking & Writing graded 36/40 (90%, ~8:28 AM CT); Chapter 3 Vocabulary List (105) FA Part 1 (now titled \"First 56 words\", 25 pts, due Tue Nov 10 10:00 AM) graded 0.25/25 (1%, ~11:47 AM CT). Earlier: NEW Fri Nov 6 ~3:47 PM CT Canvas inbox from Herr Porter (unread when pulled): two homework pieces due Tuesday — (1) Chapter 3 vocab list Parts 1 and 2 (words 1–28 and 28–56 / Abend-Nachrichten), (2) Part 1 of the verb conjugation worksheet (PDF attached). He also asks for 15–20 minutes of German daily. Canvas assignment shows Chapter 3 Vocabulary List Part 1 (first 28 words, 25 pts, on paper) due Tue Nov 10 10:00 AM; Workbook 11-19 (FA) due Wed Nov 11 12:00 PM. 87.96% (was 88.51) — Fri Nov 6 ~12:14 PM CT: Workbook 13-16 re-scored again to 19.6/20 (98%; was 24.75/20 / 123.75%). Workbook 11-19 (FA) due date moved to Wed Nov 11 12:00 PM (was Tue Nov 10). Earlier: Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%, ~2:56 PM); Workbook 13-16 re-scored ~3:00 PM to 24.75/20 (now out of 20 pts, was 25/25). New: Workbook 11-19 (FA) (30 pts, on paper) due Tue Nov 10 12:00 PM; Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words from the textbook (25 pts, on paper) due Tue Nov 10 10:00 AM; plus ungraded vocab items Vocabulary Lektion A (71-86), Vocabulary Lektion B (87-99), Wichtige Ausdrücke (73). Earlier (87.78 → 88.3): Workbook 13-16 (25 pts, on paper, due Tue Nov 3 10 AM) graded 25/25 Tue Nov 3 12:22 PM. Earlier: Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, on paper, due Wed Nov 4 11:00 AM) graded 18.75/25 Wed Nov 4 ~2:56 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
+          "grade": 88.77,
+          "note": "88.77% (was 86.88) — Fri Nov 13 ~4 PM CT pull: Chapter 3 Vocabulary List Part 1 (First 56 words) re-graded 22.5/25 (90%, ~1:12 PM CT; was 0.25/25), Canvas still flags it missing (teacher comment: missing on Tuesday). Next 10 Verbs (due Fri Nov 13 11 AM) and First 28 from Chapter 3 Quiz still ungraded. Earlier: 86.88% (was 86.45) — Tue Nov 10 ~4 PM CT pull: Workbook 11-19 (FA) graded 28.5/30 (95%, ~12:42 PM CT). Chapter 3 Vocabulary List Part 1 stays 0.25/25 but Canvas now flags it missing. New in Canvas: First 28 from Chapter 3 Quiz (Gafallen) and Next 10 Verbs. Earlier: 86.45% (was 87.96) — Tue Nov 10 ~12 PM CT pull: Lord's Prayer (SA) All Parts, Speaking & Writing graded 36/40 (90%, ~8:28 AM CT); Chapter 3 Vocabulary List (105) FA Part 1 (now titled \"First 56 words\", 25 pts, due Tue Nov 10 10:00 AM) graded 0.25/25 (1%, ~11:47 AM CT). Earlier: NEW Fri Nov 6 ~3:47 PM CT Canvas inbox from Herr Porter (unread when pulled): two homework pieces due Tuesday — (1) Chapter 3 vocab list Parts 1 and 2 (words 1–28 and 28–56 / Abend-Nachrichten), (2) Part 1 of the verb conjugation worksheet (PDF attached). He also asks for 15–20 minutes of German daily. Canvas assignment shows Chapter 3 Vocabulary List Part 1 (first 28 words, 25 pts, on paper) due Tue Nov 10 10:00 AM; Workbook 11-19 (FA) due Wed Nov 11 12:00 PM. 87.96% (was 88.51) — Fri Nov 6 ~12:14 PM CT: Workbook 13-16 re-scored again to 19.6/20 (98%; was 24.75/20 / 123.75%). Workbook 11-19 (FA) due date moved to Wed Nov 11 12:00 PM (was Tue Nov 10). Earlier: Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%, ~2:56 PM); Workbook 13-16 re-scored ~3:00 PM to 24.75/20 (now out of 20 pts, was 25/25). New: Workbook 11-19 (FA) (30 pts, on paper) due Tue Nov 10 12:00 PM; Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words from the textbook (25 pts, on paper) due Tue Nov 10 10:00 AM; plus ungraded vocab items Vocabulary Lektion A (71-86), Vocabulary Lektion B (87-99), Wichtige Ausdrücke (73). Earlier (87.78 → 88.3): Workbook 13-16 (25 pts, on paper, due Tue Nov 3 10 AM) graded 25/25 Tue Nov 3 12:22 PM. Earlier: Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, on paper, due Wed Nov 4 11:00 AM) graded 18.75/25 Wed Nov 4 ~2:56 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "German verb conjugation worksheet (Part 1) — from Porter inbox",
@@ -1701,6 +1702,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Fri Nov 13 4 PM CT check: Ethos refreshed live at 3:55 PM CT (no grade changes; Precalculus time spent 440 min, QUIZ 4.5-4.8 posted as 0); Apologetics 86.6 and Graphic Design 97.3 unchanged in Canvas.",
         "Fri Nov 13 noon CT check: Apologetics 86.6 (was 86.54), Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
         "Fri Nov 13 8 AM CT check: Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
         "Fri Nov 13 4 AM CT check: Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
@@ -1738,7 +1740,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 94,
-          "note": "94% · Ethos live pull Thu Nov 12 3:57 PM CT · 11 overdue (2026 items) · due soon: Annotated Bibliography (Nov 16)",
+          "note": "94% · Ethos live pull Fri Nov 13 3:55 PM CT · 11 overdue (2026 items) · due soon: Annotated Bibliography (Nov 16)",
           "work": [
             {
               "title": "Annotated Bibliography",
@@ -1969,7 +1971,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": "84",
-          "note": "84% · Ethos live pull Thu Nov 12 3:57 PM CT · 9 overdue (2026 items) · due soon: Circular Motion and Gravitation Problem Set (Nov 14)",
+          "note": "84% · Ethos live pull Fri Nov 13 3:55 PM CT · 9 overdue (2026 items) · due soon: Circular Motion and Gravitation Problem Set (Nov 14)",
           "work": [
             {
               "title": "Circular Motion and Gravitation Problem Set",
@@ -2291,7 +2293,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% · Ethos live pull Thu Nov 12 3:57 PM CT · 7 overdue (2026 items) · due soon: Civil Liberties and Rights Assessment (Nov 13), First Amendment Civil Liberties Exploration (Nov 15), Court Case Comparison (Nov 15), Synch Session #8 Make up (Nov 16)",
+          "note": "87% · Ethos live pull Fri Nov 13 3:55 PM CT · 7 overdue (2026 items) · due soon: Civil Liberties and Rights Assessment (Nov 13), First Amendment Civil Liberties Exploration (Nov 15), Court Case Comparison (Nov 15), Synch Session #8 Make up (Nov 16)",
           "work": [
             {
               "title": "Civil Liberties and Rights Assessment",
@@ -2551,7 +2553,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 89,
-          "note": "89% · Ethos live pull Thu Nov 12 3:57 PM CT · 1 overdue (2026 items) · due soon: Dropbox Week 13 Homework (Nov 12), Dropbox Quiz 4.5-4.8 (Nov 12)",
+          "note": "89% · Ethos live pull Fri Nov 13 3:55 PM CT · 1 overdue (2026 items) · due soon: Dropbox Week 13 Homework (Nov 12), Dropbox Quiz 4.5-4.8 (Nov 12)",
           "work": [
             {
               "title": "Dropbox Week 13 Homework",
@@ -2788,6 +2790,13 @@ window.RECAP_DATA = {
               "percent": 0.0,
               "group": "Ethos",
               "due": "Nov 20, 2026"
+            },
+            {
+              "title": "QUIZ 4.5 - 4.8",
+              "score": "0",
+              "percent": 0.0,
+              "group": "Ethos",
+              "due": "Dec 01, 2026"
             }
           ]
         },
@@ -2797,7 +2806,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% · Ethos live pull Thu Nov 12 3:57 PM CT · 15 overdue (2026 items) · due soon: Social Location Map Assignment (Nov 15), Sociological Scavenger Hunt #5 (Nov 15)",
+          "note": "85% · Ethos live pull Fri Nov 13 3:55 PM CT · 15 overdue (2026 items) · due soon: Social Location Map Assignment (Nov 15), Sociological Scavenger Hunt #5 (Nov 15)",
           "work": [
             {
               "title": "Social Location Map Assignment",
