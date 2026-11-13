@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Nov 13, 2026 · 8:08 AM CT",
+  "updated": "Friday, Nov 13, 2026 · 12:07 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Fri Nov 13 noon CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Fri Nov 13 8 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Fri Nov 13 4 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Fri Nov 13 12 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
@@ -1700,6 +1701,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Fri Nov 13 noon CT check: Apologetics 86.6 (was 86.54), Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
         "Fri Nov 13 8 AM CT check: Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
         "Fri Nov 13 4 AM CT check: Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
         "Fri Nov 13 12 AM CT check: Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
@@ -3033,8 +3035,8 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 86.54,
-          "note": "86.54% (was 87.09) — Tue Nov 10 ~12 PM CT: Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific submitted ~10:41 AM CT and graded 80/100 (~10:45 AM). Explain It: The Contingency Argument still awaiting grade (due Fri Nov 13 11:59 PM); Summative - Sort and Defend 80/100; Case for Truth Summative Exam 66/100 is still the low spot; Memory Verse 3 (Formative, 100 pts) and Unit 4 Summative Quiz (Memory Section & Essay, 100 pts) both due Fri Dec 4 11:59 PM.",
+          "grade": "86.6",
+          "note": "86.6% (was 86.54) — Canvas live pull Fri Nov 13 noon CT · Tue Nov 10 ~12 PM CT: Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific submitted ~10:41 AM CT and graded 80/100 (~10:45 AM). Explain It: The Contingency Argument still awaiting grade (due Fri Nov 13 11:59 PM); Summative - Sort and Defend 80/100; Case for Truth Summative Exam 66/100 is still the low spot; Memory Verse 3 (Formative, 100 pts) and Unit 4 Summative Quiz (Memory Section & Essay, 100 pts) both due Fri Dec 4 11:59 PM.",
           "work": [
             {
               "title": "Explain It: The Contingency Argument",
