@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Nov 13, 2026 · 12:01 AM CT",
+  "updated": "Friday, Nov 13, 2026 · 4:06 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Fri Nov 13 4 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Fri Nov 13 12 AM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 8 PM CT check (live Canvas): all Olen grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91.",
         "Thu Nov 12 5:17 PM CT check (live Canvas): all grades unchanged — Bible 86.99, Worship 96.88, Algebra 22.74, German 86.88, Geography 85.61, Biology 77.64, English 80.91. Due Fri Nov 13: German Next 10 Verbs 11 AM; Biology Creation Journal #8 4 PM and Sex Linked Case Study 11:59 PM; Geography Current Event Post Nov. 11th and Don't Panic Video Questions 11:59 PM. No new inbox messages or announcements.",
@@ -1698,6 +1699,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Fri Nov 13 4 AM CT check: Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
         "Fri Nov 13 12 AM CT check: Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the Nov 12 3:57 PM CT capture.",
         "Thu Nov 12 8 PM CT check: Apologetics 86.54 and Graphic Design 97.3 unchanged in Canvas; Ethos grades kept from the 3:57 PM CT capture.",
         "Thu Nov 12 5:15 PM CT check: Canvas Apologetics 86.54 and Graphic Design 97.3 unchanged, nothing new graded or overdue in Canvas. Ethos from the 3:57 PM CT live pull today (English 94, Physics 84, Government 87, Precalculus 89, Sociology 85). Due tomorrow Fri Nov 13: Apologetics Explain It (already submitted, awaiting grade), Government Civil Liberties and Rights Assessment. Due Thu Nov 12 and not yet completed in Ethos: Precalculus Dropbox Week 13 Homework and Dropbox Quiz 4.5-4.8; English DWS #5 NUMBER TWO! (due Wed Nov 11).",
