@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Saturday, Nov 14, 2026 · 12:07 AM CT",
+  "updated": "Saturday, Nov 14, 2026 · 4:09 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Sat Nov 14 4 AM CT check (live Canvas): no grade changes — Bible 86.99, Worship 96.88, Algebra 22.74, German 88.77, Geography 85.61, Biology 77.64, English 80.91.",
         "Sat Nov 14 12 AM CT check (live Canvas): no grade changes — Bible 86.99, Worship 96.88, Algebra 22.74, German 88.77, Geography 85.61, Biology 77.64, English 80.91.",
         "Fri Nov 13 8:06 PM CT check (live Canvas): no grade changes since the 5 PM recap.",
         "Fri Nov 13 5 PM CT check (live Canvas): no grade changes since 4 PM — Bible 86.99, Worship 96.88, Algebra 22.74, German 88.77, Geography 85.61, Biology 77.64, English 80.91. Due tonight: Geography Current Event Post Nov. 11th and Don't Panic Video Questions (both already turned in), Biology Sex Linked Case Study (turned in ~2:56 PM). Biology Creation Journal #8 (due 4 PM) not marked in Canvas. Next week: German WB Seiten 34-36 Tue Nov 17 10:30 AM, German Vocabulary Test #1 Wed Nov 18, English APA Research Paper Wed Nov 18 8:30 AM, Geography Nov. 18th Current Event Post due Fri Nov 20. New today: Biology Nov 13 agenda (Creation Journal #8 video, Sex Linked Case Study, Lab 07 prep). No new Canvas inbox messages in the last 24 hours.",
@@ -1747,6 +1748,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Sat Nov 14 4 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture.",
         "Sat Nov 14 12 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture.",
         "Fri Nov 13 8:06 PM CT check (live Canvas): no grade changes since the 5 PM recap. Ethos data is from the 3:55 PM CT capture.",
         "Fri Nov 13 5:15 PM CT check (live Canvas): Apologetics 86.6 and Graphic Design 97.3 unchanged. Explain It: The Contingency Argument (due tonight) already submitted; Video Quiz: Kalam Part 1 due Tue Nov 17. Apologetics memory-verse and summative assessments are Thu-Fri Nov 19-20. Ethos from the 3:55 PM CT live pull today (English 94, Physics 84, Government 87, Precalculus 89, Sociology 85); due today in Ethos: Government Civil Liberties and Rights Assessment; due Sat/Sun: Physics Circular Motion Problem Set, Government First Amendment Exploration and Court Case Comparison, Sociology Social Location Map and Scavenger Hunt #5.",
