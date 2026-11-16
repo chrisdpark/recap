@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 16, 2026 · 8:11 AM CT",
+  "updated": "Monday, Nov 16, 2026 · 12:09 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Mon Nov 16 12 PM CT check (live Canvas): all grades unchanged since 8 AM.",
         "Mon Nov 16 8 AM CT check (live Canvas): all grades unchanged since 4 AM.",
         "Mon Nov 16 4 AM CT check (live Canvas): all grades unchanged since midnight.",
         "Mon Nov 16 12 AM CT check (live Canvas): Bible 86.99 to 86.8 and Algebra 22.74 to 22.56; others unchanged — Worship 96.88, German 88.77, Geography 85.61, Biology 77.64, English 80.91.",
@@ -1761,6 +1762,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Mon Nov 16 12 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
         "Mon Nov 16 8 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
         "Mon Nov 16 4 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
         "Mon Nov 16 12 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
