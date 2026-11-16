@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 16, 2026 · 12:09 PM CT",
+  "updated": "Monday, Nov 16, 2026 · 4:06 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Mon Nov 16 4 PM CT check (live Canvas): all grades unchanged since 12 PM.",
         "Mon Nov 16 12 PM CT check (live Canvas): all grades unchanged since 8 AM.",
         "Mon Nov 16 8 AM CT check (live Canvas): all grades unchanged since 4 AM.",
         "Mon Nov 16 4 AM CT check (live Canvas): all grades unchanged since midnight.",
@@ -1762,6 +1763,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Mon Nov 16 4 PM CT check: Ethos refreshed live at 3:51 PM CT (Precalculus 89→90); newly posted: Government First Amendment Civil Liberties Exploration 100, Precalculus Dropbox Week 13 Homework 100, Precalculus Dropbox Quiz 4.5-4.8 90; Apologetics 86.6 and Graphic Design 97.3 unchanged in Canvas.",
         "Mon Nov 16 12 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
         "Mon Nov 16 8 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
         "Mon Nov 16 4 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
@@ -1818,7 +1820,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 94,
-          "note": "94% · Ethos live pull Fri Nov 13 3:55 PM CT · 11 overdue (2026 items) · due soon: Annotated Bibliography (Nov 16)",
+          "note": "94% · Ethos live pull Mon Nov 16 3:51 PM CT · 11 overdue (2026 items) · due soon: Annotated Bibliography (Nov 16)",
           "work": [
             {
               "title": "Annotated Bibliography",
@@ -1895,6 +1897,13 @@ window.RECAP_DATA = {
           ],
           "grades": [
             {
+              "title": "First draft of Intro, first two body paragraphs and Works Cited page",
+              "score": "90",
+              "percent": 90.0,
+              "group": "Ethos",
+              "due": "Sep 21, 2025"
+            },
+            {
               "title": "Poetic Elements and Structure (StudySync)",
               "score": "100",
               "percent": 100.0,
@@ -1905,13 +1914,6 @@ window.RECAP_DATA = {
               "title": "Ben Jonson's \"On My First Son\" assignment",
               "score": "100",
               "percent": 100.0,
-              "group": "Ethos",
-              "due": "Sep 21, 2025"
-            },
-            {
-              "title": "First draft of Intro, first two body paragraphs and Works Cited page",
-              "score": "90",
-              "percent": 90.0,
               "group": "Ethos",
               "due": "Sep 21, 2025"
             },
@@ -2049,7 +2051,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": "84",
-          "note": "84% · Ethos live pull Fri Nov 13 3:55 PM CT · 9 overdue (2026 items) · due soon: Circular Motion and Gravitation Problem Set (Nov 14)",
+          "note": "84% · Ethos live pull Mon Nov 16 3:51 PM CT · 9 overdue (2026 items) · due soon: Circular Motion and Gravitation Problem Set (Nov 14)",
           "work": [
             {
               "title": "Circular Motion and Gravitation Problem Set",
@@ -2371,19 +2373,13 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 87,
-          "note": "87% · Ethos live pull Fri Nov 13 3:55 PM CT · 7 overdue (2026 items) · due soon: Civil Liberties and Rights Assessment (Nov 13), First Amendment Civil Liberties Exploration (Nov 15), Court Case Comparison (Nov 15), Synch Session #8 Make up (Nov 16)",
+          "note": "87% · Ethos live pull Mon Nov 16 3:51 PM CT · 7 overdue (2026 items) · due soon: Civil Liberties and Rights Assessment (Nov 13), First Amendment Civil Liberties Exploration (Nov 15), Court Case Comparison (Nov 15), Synch Session #8 Make up (Nov 16)",
           "work": [
             {
               "title": "Civil Liberties and Rights Assessment",
               "status": "due",
               "detail": "not completed in Ethos · due Nov 13",
               "due": "Nov 13"
-            },
-            {
-              "title": "First Amendment Civil Liberties Exploration",
-              "status": "due",
-              "detail": "not completed in Ethos · due Nov 15",
-              "due": "Nov 15"
             },
             {
               "title": "Court Case Comparison",
@@ -2617,6 +2613,13 @@ window.RECAP_DATA = {
               "due": "Nov 08, 2026"
             },
             {
+              "title": "First Amendment Civil Liberties Exploration",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 15, 2026"
+            },
+            {
               "title": "Check point Quiz",
               "score": "87",
               "percent": 87.0,
@@ -2630,21 +2633,9 @@ window.RECAP_DATA = {
           "teacher": "Pinson",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 89,
-          "note": "89% · Ethos live pull Fri Nov 13 3:55 PM CT · 1 overdue (2026 items) · due soon: Dropbox Week 13 Homework (Nov 12), Dropbox Quiz 4.5-4.8 (Nov 12)",
+          "grade": "90",
+          "note": "90% (was 89) · Ethos live pull Mon Nov 16 3:51 PM CT · 1 overdue (2026 items) · due soon: Dropbox Week 13 Homework (Nov 12), Dropbox Quiz 4.5-4.8 (Nov 12)",
           "work": [
-            {
-              "title": "Dropbox Week 13 Homework",
-              "status": "due",
-              "detail": "not completed in Ethos · due Nov 12",
-              "due": "Nov 12"
-            },
-            {
-              "title": "Dropbox Quiz 4.5-4.8",
-              "status": "due",
-              "detail": "not completed in Ethos · due Nov 12",
-              "due": "Nov 12"
-            },
             {
               "title": "Dropbox Quiz 3.1-3.3",
               "status": "zero",
@@ -2856,6 +2847,20 @@ window.RECAP_DATA = {
               "due": "Nov 05, 2026"
             },
             {
+              "title": "Dropbox Week 13 Homework",
+              "score": "100",
+              "percent": 100.0,
+              "group": "Ethos",
+              "due": "Nov 12, 2026"
+            },
+            {
+              "title": "Dropbox Quiz 4.5-4.8",
+              "score": "90",
+              "percent": 90.0,
+              "group": "Ethos",
+              "due": "Nov 12, 2026"
+            },
+            {
               "title": "Unit Circle Quiz",
               "score": "0",
               "percent": 0.0,
@@ -2884,7 +2889,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% · Ethos live pull Fri Nov 13 3:55 PM CT · 15 overdue (2026 items) · due soon: Social Location Map Assignment (Nov 15), Sociological Scavenger Hunt #5 (Nov 15)",
+          "note": "85% · Ethos live pull Mon Nov 16 3:51 PM CT · 15 overdue (2026 items) · due soon: Social Location Map Assignment (Nov 15), Sociological Scavenger Hunt #5 (Nov 15)",
           "work": [
             {
               "title": "Social Location Map Assignment",
