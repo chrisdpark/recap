@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 16, 2026 · 4:54 PM CT",
+  "updated": "Monday, Nov 16, 2026 · 5:14 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1832,6 +1832,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Mon Nov 16 5 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); nothing due in Canvas tomorrow — Graphic Design 11/17-11/20 and Apologetics Depth Chart Ladder (Kalam) are due Fri Nov 20, and the Apologetics memory verses and Unit 4 summative are coming this week/next. Ethos from the 3:51 PM CT live pull today (English 94, Physics 84, Government 87, Precalculus 90, Sociology 85); still not completed in Ethos: English Annotated Bibliography (due Nov 16), Government Court Case Comparison and Synch Session #8 Make up, Sociology Social Location Map and Scavenger Hunt #5, Physics Circular Motion Problem Set.",
         "Mon Nov 16 4 PM CT check: Ethos refreshed live at 3:51 PM CT (Precalculus 89→90); newly posted: Government First Amendment Civil Liberties Exploration 100, Precalculus Dropbox Week 13 Homework 100, Precalculus Dropbox Quiz 4.5-4.8 90; Apologetics 86.6 and Graphic Design 97.3 unchanged in Canvas.",
         "Mon Nov 16 12 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
         "Mon Nov 16 8 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
