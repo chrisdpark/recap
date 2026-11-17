@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 17, 2026 · 4:52 PM CT",
+  "updated": "Tuesday, Nov 17, 2026 · 5:20 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1835,6 +1835,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Tue Nov 17 5 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos from the 3:50 PM CT live pull today (English 94, Physics 84, Government 85, Precalculus 90, Sociology 86). Due tonight: Apologetics Video Quiz Kalam Part 1 (11:59 PM); due today in Ethos: English Macbeth Act 4 Reading Guide Questions, Government Final Exam; Sociology DQ5 due Wed.",
         "Tue Nov 17 4 PM CT check: Ethos refreshed live at 3:50 PM CT (Government 87→85: Civil Liberties (Due Sunday) and Court Case Comparison posted 0; Sociology 85→86: Concept Modules 1–3 posted 100; English 94, Physics 84, Precalculus 90 unchanged); Apologetics 86.6 and Graphic Design 97.3 unchanged in Canvas.",
         "Tue Nov 17 12 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos grades kept from Mon Nov 16 3:51 PM CT pull.",
         "Mon Nov 16 5 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); nothing due in Canvas tomorrow — Graphic Design 11/17-11/20 and Apologetics Depth Chart Ladder (Kalam) are due Fri Nov 20, and the Apologetics memory verses and Unit 4 summative are coming this week/next. Ethos from the 3:51 PM CT live pull today (English 94, Physics 84, Government 87, Precalculus 90, Sociology 85); still not completed in Ethos: English Annotated Bibliography (due Nov 16), Government Court Case Comparison and Synch Session #8 Make up, Sociology Social Location Map and Scavenger Hunt #5, Physics Circular Motion Problem Set.",
@@ -3494,4 +3495,4 @@ window.RECAP_DATA = {
       ]
     }
   }
-}
+};
