@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Monday, Nov 16, 2026 · 8:05 PM CT",
+  "updated": "Tuesday, Nov 17, 2026 · 12:03 AM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Tue Nov 17 12 AM CT check (live Canvas): all grades unchanged since 4 PM Monday.",
         "Mon Nov 16 5 PM CT check (live Canvas): Bible 86.99 → 86.8 (Jerusalem Falls 0/10; Exile and Hope items graded full marks) and Algebra I 22.74 → 22.56 (Quiz 5 12/20; Point Slope Form Delta HW 0/20). Others unchanged — Worship 96.88, German 88.77, Geography 85.61, Biology 77.64, English 80.91. Coming up: German WB Seiten 34-36 Tue 10:30 AM; Wed Nov 18 — Bible Kings to Exile test (in class), English APA Research Paper 8:30 AM, German Vocab Test #1 11 AM, Geography STATS Presentation and Biology Lab 07 due 11:59 PM; Fri Nov 20 — Biology Crime Scene Genetics 4 PM, Geography Nov. 18th Current Event Post. No new inbox messages or announcements since Fri Nov 13.",
         "Mon Nov 16 4 PM CT check (live Canvas): all grades unchanged since 12 PM.",
         "Mon Nov 16 12 PM CT check (live Canvas): all grades unchanged since 8 AM.",
@@ -1832,6 +1833,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Tue Nov 17 12 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos grades kept from Mon Nov 16 3:51 PM CT pull.",
         "Mon Nov 16 5 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); nothing due in Canvas tomorrow — Graphic Design 11/17-11/20 and Apologetics Depth Chart Ladder (Kalam) are due Fri Nov 20, and the Apologetics memory verses and Unit 4 summative are coming this week/next. Ethos from the 3:51 PM CT live pull today (English 94, Physics 84, Government 87, Precalculus 90, Sociology 85); still not completed in Ethos: English Annotated Bibliography (due Nov 16), Government Court Case Comparison and Synch Session #8 Make up, Sociology Social Location Map and Scavenger Hunt #5, Physics Circular Motion Problem Set.",
         "Mon Nov 16 4 PM CT check: Ethos refreshed live at 3:51 PM CT (Precalculus 89→90); newly posted: Government First Amendment Civil Liberties Exploration 100, Precalculus Dropbox Week 13 Homework 100, Precalculus Dropbox Quiz 4.5-4.8 90; Apologetics 86.6 and Graphic Design 97.3 unchanged in Canvas.",
         "Mon Nov 16 12 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos data kept from the Fri Nov 13 3:55 PM CT capture (Ethos not reachable this run).",
