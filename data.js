@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Tuesday, Nov 17, 2026 · 12:05 PM CT",
+  "updated": "Tuesday, Nov 17, 2026 · 4:12 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Tue Nov 17 4 PM CT check (live Canvas): all grades unchanged since noon — Bible 86.8, Worship 96.88, Algebra I 22.56, German 87.47, Geography 85.61, Biology 77.64, English 80.91.",
         "Tue Nov 17 12 AM CT check (live Canvas): all grades unchanged since 4 PM Monday.",
         "Mon Nov 16 5 PM CT check (live Canvas): Bible 86.99 → 86.8 (Jerusalem Falls 0/10; Exile and Hope items graded full marks) and Algebra I 22.74 → 22.56 (Quiz 5 12/20; Point Slope Form Delta HW 0/20). Others unchanged — Worship 96.88, German 88.77, Geography 85.61, Biology 77.64, English 80.91. Coming up: German WB Seiten 34-36 Tue 10:30 AM; Wed Nov 18 — Bible Kings to Exile test (in class), English APA Research Paper 8:30 AM, German Vocab Test #1 11 AM, Geography STATS Presentation and Biology Lab 07 due 11:59 PM; Fri Nov 20 — Biology Crime Scene Genetics 4 PM, Geography Nov. 18th Current Event Post. No new inbox messages or announcements since Fri Nov 13.",
         "Mon Nov 16 4 PM CT check (live Canvas): all grades unchanged since 12 PM.",
@@ -1833,6 +1834,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Tue Nov 17 4 PM CT check: Ethos refreshed live at 3:50 PM CT (Government 87→85: Civil Liberties (Due Sunday) and Court Case Comparison posted 0; Sociology 85→86: Concept Modules 1–3 posted 100; English 94, Physics 84, Precalculus 90 unchanged); Apologetics 86.6 and Graphic Design 97.3 unchanged in Canvas.",
         "Tue Nov 17 12 AM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos grades kept from Mon Nov 16 3:51 PM CT pull.",
         "Mon Nov 16 5 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); nothing due in Canvas tomorrow — Graphic Design 11/17-11/20 and Apologetics Depth Chart Ladder (Kalam) are due Fri Nov 20, and the Apologetics memory verses and Unit 4 summative are coming this week/next. Ethos from the 3:51 PM CT live pull today (English 94, Physics 84, Government 87, Precalculus 90, Sociology 85); still not completed in Ethos: English Annotated Bibliography (due Nov 16), Government Court Case Comparison and Synch Session #8 Make up, Sociology Social Location Map and Scavenger Hunt #5, Physics Circular Motion Problem Set.",
         "Mon Nov 16 4 PM CT check: Ethos refreshed live at 3:51 PM CT (Precalculus 89→90); newly posted: Government First Amendment Civil Liberties Exploration 100, Precalculus Dropbox Week 13 Homework 100, Precalculus Dropbox Quiz 4.5-4.8 90; Apologetics 86.6 and Graphic Design 97.3 unchanged in Canvas.",
@@ -1892,7 +1894,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 94,
-          "note": "94% · Ethos live pull Mon Nov 16 3:51 PM CT · 11 overdue (2026 items) · due soon: Annotated Bibliography (Nov 16)",
+          "note": "94% · Ethos live pull Tue Nov 17 3:50 PM CT · 11 overdue (2026 items) · due soon: Annotated Bibliography (Nov 16)",
           "work": [
             {
               "title": "Annotated Bibliography",
@@ -2123,7 +2125,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": "84",
-          "note": "84% · Ethos live pull Mon Nov 16 3:51 PM CT · 9 overdue (2026 items) · due soon: Circular Motion and Gravitation Problem Set (Nov 14)",
+          "note": "84% · Ethos live pull Tue Nov 17 3:50 PM CT · 9 overdue (2026 items) · due soon: Circular Motion and Gravitation Problem Set (Nov 14)",
           "work": [
             {
               "title": "Circular Motion and Gravitation Problem Set",
@@ -2444,8 +2446,8 @@ window.RECAP_DATA = {
           "teacher": "Daniels",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 87,
-          "note": "87% · Ethos live pull Mon Nov 16 3:51 PM CT · 7 overdue (2026 items) · due soon: Civil Liberties and Rights Assessment (Nov 13), First Amendment Civil Liberties Exploration (Nov 15), Court Case Comparison (Nov 15), Synch Session #8 Make up (Nov 16)",
+          "grade": 85,
+          "note": "85% (was 87) · Ethos live pull Tue Nov 17 3:50 PM CT · 7 overdue (2026 items) · due soon: Civil Liberties and Rights Assessment (Nov 13), First Amendment Civil Liberties Exploration (Nov 15), Court Case Comparison (Nov 15), Synch Session #8 Make up (Nov 16)",
           "work": [
             {
               "title": "Civil Liberties and Rights Assessment",
@@ -2455,8 +2457,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Court Case Comparison",
-              "status": "due",
-              "detail": "not completed in Ethos · due Nov 15",
+              "status": "zero",
+              "detail": "posted 0 · due Nov 15",
               "due": "Nov 15"
             },
             {
@@ -2503,8 +2505,8 @@ window.RECAP_DATA = {
             },
             {
               "title": "Civil Liberties (Due Sunday)",
-              "status": "overdue",
-              "detail": "not completed · due Nov 03",
+              "status": "zero",
+              "detail": "posted 0 · due Nov 03",
               "due": "Nov 03"
             }
           ],
@@ -2697,6 +2699,20 @@ window.RECAP_DATA = {
               "percent": 87.0,
               "group": "Ethos",
               "due": "Dec 03, 2026"
+            },
+            {
+              "title": "Civil Liberties (Due Sunday)",
+              "score": "0",
+              "percent": 0,
+              "group": "Ethos",
+              "due": "Nov 03, 2026"
+            },
+            {
+              "title": "Court Case Comparison",
+              "score": "0",
+              "percent": 0,
+              "group": "Ethos",
+              "due": "Nov 15, 2026"
             }
           ]
         },
@@ -2706,7 +2722,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": "90",
-          "note": "90% (was 89) · Ethos live pull Mon Nov 16 3:51 PM CT · 1 overdue (2026 items) · due soon: Dropbox Week 13 Homework (Nov 12), Dropbox Quiz 4.5-4.8 (Nov 12)",
+          "note": "90% · Ethos live pull Tue Nov 17 3:50 PM CT · 1 overdue (2026 items) · due soon: Dropbox Week 13 Homework (Nov 12), Dropbox Quiz 4.5-4.8 (Nov 12)",
           "work": [
             {
               "title": "Dropbox Quiz 3.1-3.3",
@@ -2960,8 +2976,8 @@ window.RECAP_DATA = {
           "teacher": "Lane",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": 85,
-          "note": "85% · Ethos live pull Mon Nov 16 3:51 PM CT · 15 overdue (2026 items) · due soon: Social Location Map Assignment (Nov 15), Sociological Scavenger Hunt #5 (Nov 15)",
+          "grade": 86,
+          "note": "86% (was 85) · Ethos live pull Tue Nov 17 3:50 PM CT · 15 overdue (2026 items) · due soon: Social Location Map Assignment (Nov 15), Sociological Scavenger Hunt #5 (Nov 15)",
           "work": [
             {
               "title": "Social Location Map Assignment",
@@ -3052,12 +3068,6 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "not completed · due Oct 25",
               "due": "Oct 25"
-            },
-            {
-              "title": "Concept Module 1: Know Your Terms",
-              "status": "overdue",
-              "detail": "not completed · due Oct 29",
-              "due": "Oct 29"
             },
             {
               "title": "Concept Module 2: Perspectives on Social Institutions",
@@ -3191,6 +3201,34 @@ window.RECAP_DATA = {
               "percent": 100.0,
               "group": "Ethos",
               "due": "Oct 25, 2026"
+            },
+            {
+              "title": "Concept Module 1: Know Your Terms",
+              "score": "100",
+              "percent": 100,
+              "group": "Ethos",
+              "due": "Oct 29, 2026"
+            },
+            {
+              "title": "Concept Module 1: Stratification",
+              "score": "100",
+              "percent": 100,
+              "group": "Ethos",
+              "due": "Nov 19, 2026"
+            },
+            {
+              "title": "Concept Module 2: Race",
+              "score": "100",
+              "percent": 100,
+              "group": "Ethos",
+              "due": "Nov 23, 2026"
+            },
+            {
+              "title": "Concept Module 3: Gender & Age",
+              "score": "100",
+              "percent": 100,
+              "group": "Ethos",
+              "due": "Nov 25, 2026"
             }
           ]
         },
