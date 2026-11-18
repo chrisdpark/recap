@@ -1,13 +1,11 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Nov 18, 2026 · 4:04 PM CT",
+  "updated": "Wednesday, Nov 18, 2026 · 4:55 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
-        "Wed Nov 18 8 AM CT check (live Canvas grades): all grades unchanged since last check — Bible 86.8, Worship 96.88, Algebra I 22.56, German 87.47, Geography 85.61, Biology 78.21, English 80.65. Work items not re-pulled this run (kept from Tue Nov 17 5 PM check); today's due items: Bible Kings to Exile test (in class), Algebra Linear Inequalities HW 11 AM, German Vocabulary Test #1 11 AM, English APA Research Paper 4:30 PM, Geography STATS Presentation and Biology Lab 07 11:59 PM.",
+        "Wed Nov 18 5 PM CT check (live Canvas): Biology 77.64 → 77.85; all other grades unchanged — Bible 86.8, Worship 96.88, Algebra I 22.56, German 87.47, Geography 85.61, English 80.65 (was 80.91 on the enrollment score earlier). Today: Bible Kings to Exile test (10:15 AM), Algebra Linear Inequalities HW 11 AM, German Vocab Test #1 11 AM, English APA Research Paper 4:30 PM, Geography STATS Presentation, Biology Lab 07 and English Membean Program 4 due 11:59 PM. Thu Nov 19: English Q2 Membean Quiz 2 8:30 AM; Algebra Station Rotation Review packet 11 AM (Unit 3 Part 2 test per Canvas description is in class 12/9-12/10). Fri Nov 20: Biology Crime Scene Genetics 4 PM; Geography Nov. 18th Current Event Post and Unit 3 Vocab Quiz 11:59 PM. No new Canvas inbox messages (latest Nov 6) or announcements since Nov 13.",
         "Tue Nov 17 5 PM CT check (live Canvas): all grades unchanged since 4 PM — Bible 86.8, Worship 96.88, Algebra I 22.56, German 87.47, Geography 85.61, Biology 77.64, English 80.91. German WB Seiten 34-36 (due 10:30 AM) was graded 0.2/20 (1%) at ~11:28 AM CT. Bible Review Packet (Sub Day) still awaiting grade. Coming up Wed Nov 18: Bible Kings to Exile test (in class, 10:15 AM), Algebra Linear Inequalities Homework 11 AM, German Vocabulary Test #1 11 AM, English APA Research Paper 4:30 PM (Canvas), Geography STATS Presentation and Biology Lab 07 due 11:59 PM; Thu Nov 19: Algebra Unit 3 Part 2 Test 11 AM, English Q2 Membean Quiz 2 8:30 AM; Fri Nov 20: Biology Crime Scene Genetics 4 PM, Geography Nov. 18th Current Event Post and Unit 3 Vocab Quiz. No new Canvas inbox messages (latest Nov 6) or announcements since Nov 13.",
-        "Tue Nov 17 4 PM CT check (live Canvas): all grades unchanged since noon — Bible 86.8, Worship 96.88, Algebra I 22.56, German 87.47, Geography 85.61, Biology 77.64, English 80.91.",
-        "Tue Nov 17 12 AM CT check (live Canvas): all grades unchanged since 4 PM Monday.",
         "Mon Nov 16 5 PM CT check (live Canvas): Bible 86.99 → 86.8 (Jerusalem Falls 0/10; Exile and Hope items graded full marks) and Algebra I 22.74 → 22.56 (Quiz 5 12/20; Point Slope Form Delta HW 0/20). Others unchanged — Worship 96.88, German 88.77, Geography 85.61, Biology 77.64, English 80.91. Coming up: German WB Seiten 34-36 Tue 10:30 AM; Wed Nov 18 — Bible Kings to Exile test (in class), English APA Research Paper 8:30 AM, German Vocab Test #1 11 AM, Geography STATS Presentation and Biology Lab 07 due 11:59 PM; Fri Nov 20 — Biology Crime Scene Genetics 4 PM, Geography Nov. 18th Current Event Post. No new inbox messages or announcements since Fri Nov 13.",
         "Mon Nov 16 4 PM CT check (live Canvas): all grades unchanged since 12 PM.",
         "Mon Nov 16 12 PM CT check (live Canvas): all grades unchanged since 8 AM.",
@@ -71,7 +69,7 @@ window.RECAP_DATA = {
           "period": "P2",
           "source": "canvas",
           "grade": 86.8,
-          "note": "Wed Nov 18 8 AM CT grade pull: 86.8% (unchanged). Tue Nov 17 5 PM CT pull: Bible 86.8% (unchanged). Review Packet (Sub Day) submitted, awaiting grade. Kings to Exile Summative Wed Nov 18 10:15 AM. Earlier: Bible 86.8% (was 86.99) — Sun Nov 15 ~9:54-9:57 PM CT: Jerusalem Falls graded 0/10 (never submitted); Exile and Hope Group Work 5/5 and Exit Ticket 4/4. Mon Nov 16: Kings to Exile Check-in Start/End done; Review Packet (Sub Day) submitted 10:29 AM — awaiting grade. Unit 9 Kings to Exile test Wed Nov 18 in class (study guide on Canvas). Earlier: Mon Nov 16 12 AM CT pull: 86.8% (was 86.99). Earlier: Fri Nov 13 5 PM CT pull: no grade change (86.99%). New: Exile and Hope Group Work turned in Nov 12; Exit Ticket 2/4 pending review. Earlier: 86.99% (was 86.62) — Wed Nov 11 ~12:10 PM CT pull: Psalm 20:7 Memory Verse quiz taken 9:41 AM CT, 100/100. Psalm 20:7 Memory Verse: Picture (omitted from final grade) auto-zeroed 0/100 after its 10:15 AM due time (not submitted). Jerusalem Falls (unlocked 9:35 AM, no due date) still open. | 86.62% (was 85.12) — Mon Nov 9 ~4 PM CT pull: Samuel Summative: (Combined) re-graded 61 → 71/100 (graded ~3:12 PM CT). Nothing else changed. Earlier: 85.12% (unchanged) — Mon Nov 9 noon CT pull: new Formative items: The North Falls (5 pts, omitted from final grade, turned in ~10:42 AM CT), The North Falls: Exit Ticket (4 pts, omitted, turned in ~10:47 AM CT — pending review, 2/4 so far), Psalm 20:7 Memory Verse: Picture (100 pts, omitted, due Wed Nov 11 10:15 AM), Jerusalem Falls (10 pts, unlocks Wed Nov 11 9:35 AM, no due date). Earlier: 85.12% (was 85.26) — as of Mon Nov 9 ~12 AM CT: graded Sun Nov 8 evening: Elijah: Carmel Case File 10/10 (~8:52 PM CT), The Kingdom Splits: Pattern Chart 10/10 (~8:47 PM CT), The Kingdom Splits: Exit Ticket 3/4 (~8:51 PM CT, was pending review). Thursday Choice Board: Turn-In (0/10, not submitted) is no longer omitted from the final grade — Canvas now counts it. Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM). New in Canvas: Capstone Part 1: Your Story Exhibit (60 pts summative, file upload/text entry, no due date) and Capstone Part 2: Your Statement (40 pts summative, quiz, no due date) — both unsubmitted. Earlier: 85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade). Wed Nov 4 10:05 AM: Elijah: Carmel Case File (due Mon Nov 9) turned in — awaiting grade. New Thu Nov 5 ~7:06 AM: Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade, online text entry) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 Sat Nov 7 ~12:35 AM CT (still not counted).",
+          "note": "Bible 86.8% (was 86.99) — Sun Nov 15 ~9:54-9:57 PM CT: Jerusalem Falls graded 0/10 (never submitted); Exile and Hope Group Work 5/5 and Exit Ticket 4/4. Mon Nov 16: Kings to Exile Check-in Start/End done; Review Packet (Sub Day) submitted 10:29 AM — awaiting grade. Unit 9 Kings to Exile test Wed Nov 18 in class (study guide on Canvas). Earlier: Mon Nov 16 12 AM CT pull: 86.8% (was 86.99). Earlier: Fri Nov 13 5 PM CT pull: no grade change (86.99%). New: Exile and Hope Group Work turned in Nov 12; Exit Ticket 2/4 pending review. Earlier: 86.99% (was 86.62) — Wed Nov 11 ~12:10 PM CT pull: Psalm 20:7 Memory Verse quiz taken 9:41 AM CT, 100/100. Psalm 20:7 Memory Verse: Picture (omitted from final grade) auto-zeroed 0/100 after its 10:15 AM due time (not submitted). Jerusalem Falls (unlocked 9:35 AM, no due date) still open. | 86.62% (was 85.12) — Mon Nov 9 ~4 PM CT pull: Samuel Summative: (Combined) re-graded 61 → 71/100 (graded ~3:12 PM CT). Nothing else changed. Earlier: 85.12% (unchanged) — Mon Nov 9 noon CT pull: new Formative items: The North Falls (5 pts, omitted from final grade, turned in ~10:42 AM CT), The North Falls: Exit Ticket (4 pts, omitted, turned in ~10:47 AM CT — pending review, 2/4 so far), Psalm 20:7 Memory Verse: Picture (100 pts, omitted, due Wed Nov 11 10:15 AM), Jerusalem Falls (10 pts, unlocks Wed Nov 11 9:35 AM, no due date). Earlier: 85.12% (was 85.26) — as of Mon Nov 9 ~12 AM CT: graded Sun Nov 8 evening: Elijah: Carmel Case File 10/10 (~8:52 PM CT), The Kingdom Splits: Pattern Chart 10/10 (~8:47 PM CT), The Kingdom Splits: Exit Ticket 3/4 (~8:51 PM CT, was pending review). Thursday Choice Board: Turn-In (0/10, not submitted) is no longer omitted from the final grade — Canvas now counts it. Psalm 20:7 Memory Verse now due Wed Nov 11 10:15 AM CT (was Tue Nov 10 11:59 PM; unlocks Mon Nov 9 7:00 AM). New in Canvas: Capstone Part 1: Your Story Exhibit (60 pts summative, file upload/text entry, no due date) and Capstone Part 2: Your Statement (40 pts summative, quiz, no due date) — both unsubmitted. Earlier: 85.26% (was 85.21) — Samuel Summative: (Combined) (100 pts, summative quiz, was due Thu Oct 29 4:00 PM; submitted on time Thu Oct 29 10:37 AM) was graded 53/100 Sun Nov 1 at ~8:03 AM CT, then re-graded to 61/100 at ~10:04 AM CT, which took the grade to 85.21% (it was 90.16% before the summative was graded). Samuel Key Terms Quiz (10 pts) taken Wed Oct 21 (7/10), then retaken Tue Nov 3 at 8:18 AM — second attempt auto-graded 9/10 (Canvas marks it late), raising the grade to 85.26%. David 1: Road to the Throne and David 2: The Promise graded 7/10 each; David 3: The Failure was removed from Canvas. David — What Kind of King? Classwork 12/12 and David — Exit Ticket 3.5/4; Individual Jigsaw: Leviticus still 94 (not counted); Meet Samuel, Saul, and David still awaiting grade; Judges Cycle part 2 and Group Jigsaw still 0. Mon Oct 26 Solomon work (due Mon Oct 26 10:55 AM) was graded Tue Oct 27 evening (~8:40 PM): Solomon: The Heir of David (10 pts; renamed from \"Solomon: The King Who Almost Was\") 4/10; Solomon — Exit Ticket (4-pt quiz) 2/4; Solomon Bell Ringer (Photo) (practice, not counted) uploaded Mon Oct 26 9:42 AM, graded 2/3 that night. Samuel Test: Write the Review (0 pts) was due Thu Oct 29 8:00 AM — Canvas now omits it from the final grade (no longer marked missing). New Sun Nov 1 ~7:00 PM (formative): The Kingdom Splits: Pattern Chart (10 pts, online text entry) due Thu Nov 5 11:59 PM; The Kingdom Splits: Exit Ticket (4-pt quiz) due Fri Nov 6 11:59 PM; Elijah: Carmel Case File (10 pts, online text entry) due Mon Nov 9 11:59 PM; and (added ~7:15 PM) Psalm 20:7 Memory Verse (100 pts, quiz) due Tue Nov 10 11:59 PM. Mon Nov 2 late morning: The Kingdom Splits: Exit Ticket was taken at 10:49 AM — Canvas shows 0/4 pending teacher review (not counted in the grade yet) — and The Kingdom Splits: Pattern Chart was turned in at 10:59 AM (awaiting grade). Wed Nov 4 10:05 AM: Elijah: Carmel Case File (due Mon Nov 9) turned in — awaiting grade. New Thu Nov 5 ~7:06 AM: Thursday Choice Board: Turn-In (10 pts formative, not counted in the grade, online text entry) was due Fri Nov 6 11:59 PM — not submitted; Canvas auto-graded 0/10 Sat Nov 7 ~12:35 AM CT (still not counted).",
           "work": [
             {
               "title": "Group Jigsaw- The Patriarchs",
@@ -163,21 +161,21 @@ window.RECAP_DATA = {
             {
               "title": "BibleProject- Genesis 12-50",
               "score": "95/100",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 3"
             },
             {
               "title": "David 1: Road to the Throne",
               "score": "7/10",
-              "percent": 70,
+              "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Oct 19"
             },
             {
               "title": "David 2: The Promise",
               "score": "7/10",
-              "percent": 70,
+              "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Oct 19"
             },
@@ -191,132 +189,132 @@ window.RECAP_DATA = {
             {
               "title": "David — What Kind of King? Classwork",
               "score": "12/12",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 15"
             },
             {
               "title": "Did The Flood Fix The Problem?",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 27"
             },
             {
               "title": "Elijah: Carmel Case File",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Nov 9"
             },
             {
               "title": "Exit Ticket Exodus 19 40",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 14"
             },
             {
               "title": "Exit Ticket: Joshua Judges",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 30"
             },
             {
               "title": "Exodus 34:6-7a Memory Verse",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 28"
             },
             {
               "title": "Explore Part 1: Numbers and Deuteronomy",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 24"
             },
             {
               "title": "Genesis 4-6 Playlist",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "Group Jigsaw- The Patriarchs",
               "score": "0/100",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Sep 3"
             },
             {
               "title": "How Does God Save?",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
             },
             {
               "title": "Individual Jigsaw: Leviticus",
               "score": "94/100",
-              "percent": 94,
+              "percent": 94.0,
               "group": "Formative Assessment (not counted in average)"
             },
             {
               "title": "Judges Cycle part 1",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 1"
             },
             {
               "title": "Judges Cycle part 2",
               "score": "0/100",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Oct 1"
             },
             {
               "title": "Key Terms Quiz 1",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "Leviticus- Bibleproject Reflection",
               "score": "96/100",
-              "percent": 96,
+              "percent": 96.0,
               "group": "Formative Assessment",
               "due": "Sep 16"
             },
             {
               "title": "Quiz Key Terms Unit 3",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 10"
             },
             {
               "title": "Samuel Key Terms Quiz",
               "score": "9/10",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Oct 21"
             },
             {
               "title": "Samuel — What Kind of King? Part 1",
               "score": "8/8",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 8"
             },
             {
               "title": "Samuel — What Kind of King? Part 2",
               "score": "8/8",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 8"
             },
@@ -330,122 +328,122 @@ window.RECAP_DATA = {
             {
               "title": "Solomon — Exit Ticket",
               "score": "2/4",
-              "percent": 50,
+              "percent": 50.0,
               "group": "Formative Assessment",
               "due": "Oct 26"
             },
             {
               "title": "Solomon: The Heir of David",
               "score": "4/10",
-              "percent": 40,
+              "percent": 40.0,
               "group": "Formative Assessment",
               "due": "Oct 26"
             },
             {
               "title": "The Flood and Babel-Slides Reading",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 27"
             },
             {
               "title": "The Kingdom Splits: Exit Ticket",
               "score": "3/4",
-              "percent": 75,
+              "percent": 75.0,
               "group": "Formative Assessment",
               "due": "Nov 6"
             },
             {
               "title": "The Kingdom Splits: Pattern Chart",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Nov 5"
             },
             {
               "title": "The North Falls",
               "score": "5/5",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment"
             },
             {
               "title": "The North Falls: Exit Ticket",
               "score": "4/4",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment"
             },
             {
               "title": "Thursday Choice Board: Turn-In",
               "score": "0/10",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Nov 6"
             },
             {
               "title": "Unit 1 Genesis Test Readiness Check",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 2"
             },
             {
               "title": "What Kind of King? — Exit Ticket",
               "score": "4/4",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 8"
             },
             {
               "title": "Samuel Summative: (Combined)",
               "score": "71/100",
-              "percent": 71,
+              "percent": 71.0,
               "group": "Summative Assessment",
               "due": "Oct 29"
             },
             {
               "title": "SummativeTest — Torah Summative Exam",
               "score": "92/100",
-              "percent": 92,
+              "percent": 92.0,
               "group": "Summative Assessment",
               "due": "Oct 5"
             },
             {
               "title": "U1Test: Units 1: Genesis 1-11",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 3"
             },
             {
               "title": "U2&3Test: Units 2 and 3",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Sep 16"
             },
             {
               "title": "Psalm 20:7 Memory Verse",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Nov 11"
             },
             {
               "title": "Exile and Hope Group Work",
               "score": "5/5",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment"
             },
             {
               "title": "Exile and Hope: Exit Ticket",
               "score": "4/4",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment"
             },
             {
               "title": "Jerusalem Falls",
               "score": "0/10",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment"
             }
           ]
@@ -456,230 +454,230 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "canvas",
           "grade": 96.88,
-          "note": "Wed Nov 18 8 AM CT grade pull: 96.88% (unchanged). Mon Nov 16 5 PM CT pull: 96.88% (unchanged); no assignments or calendar items. Fri Nov 13 5 PM CT pull: no change. Earlier: 96.88% (was 99.96) — Mon Nov 9 8 AM CT: 11 previously-removed items are back in Canvas, all graded: Sight-Singing Exam 1 85/100, Sight-Singing 10 95/100, Program Run-through 2 98/100, others 100/100 (Sight-Singing 8/9, Program Run-Through 3, Solos/Sm Ens for Program x2, Veteran's Day Medley Pts 1–3). Nothing missing or overdue.",
+          "note": "Mon Nov 16 5 PM CT pull: 96.88% (unchanged); no assignments or calendar items. Fri Nov 13 5 PM CT pull: no change. Earlier: 96.88% (was 99.96) — Mon Nov 9 8 AM CT: 11 previously-removed items are back in Canvas, all graded: Sight-Singing Exam 1 85/100, Sight-Singing 10 95/100, Program Run-through 2 98/100, others 100/100 (Sight-Singing 8/9, Program Run-Through 3, Solos/Sm Ens for Program x2, Veteran's Day Medley Pts 1–3). Nothing missing or overdue.",
           "work": [],
           "grades": [
             {
               "title": "Binder",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 24"
             },
             {
               "title": "Brave Part 2",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 22"
             },
             {
               "title": "Brave part 1",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 15"
             },
             {
               "title": "Last Surrender part 1",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 1"
             },
             {
               "title": "Last Surrender part 2",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 8"
             },
             {
               "title": "National Anthem part 1",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 28"
             },
             {
               "title": "National Anthem part 2",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 4"
             },
             {
               "title": "National Anthem part 3",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 10"
             },
             {
               "title": "Program Run-Through 3",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 30"
             },
             {
               "title": "Program Run-through 2",
               "score": "98/100",
-              "percent": 98,
+              "percent": 98.0,
               "group": "Formative Assessment",
               "due": "Oct 23"
             },
             {
               "title": "Sight-Singing 1",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "Sight-Singing 10",
               "score": "95/100",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Oct 28"
             },
             {
               "title": "Sight-Singing 2",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 2"
             },
             {
               "title": "Sight-Singing 3",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
             },
             {
               "title": "Sight-Singing 4",
               "score": "98/100",
-              "percent": 98,
+              "percent": 98.0,
               "group": "Formative Assessment",
               "due": "Sep 16"
             },
             {
               "title": "Sight-Singing 5",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 23"
             },
             {
               "title": "Sight-Singing 6",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 30"
             },
             {
               "title": "Sight-Singing 7",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 7"
             },
             {
               "title": "Sight-Singing 8",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 14"
             },
             {
               "title": "Sight-Singing 9",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 21"
             },
             {
               "title": "Solos/Sm Ens for Program",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 16"
             },
             {
               "title": "Solos/Sm Ensembles for Program",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 13"
             },
             {
               "title": "TAPPS Piece",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 18"
             },
             {
               "title": "Veteran's Day Medley Pt 1",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 27"
             },
             {
               "title": "Veteran's Day Medley Pt 2",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Nov 3"
             },
             {
               "title": "Veteran's Day Medley pt 3",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Nov 6"
             },
             {
               "title": "Washed part 1",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 25"
             },
             {
               "title": "Washed part 2",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 31"
             },
             {
               "title": "You Raise Me Up",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 29"
             },
             {
               "title": "National Anthem Part 4",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 25"
             },
             {
               "title": "Run-through of Program",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Oct 6"
             },
             {
               "title": "Sight-Singing Exam 1",
               "score": "85/100",
-              "percent": 85,
+              "percent": 85.0,
               "group": "Summative Assessment",
               "due": "Oct 13"
             }
@@ -691,7 +689,7 @@ window.RECAP_DATA = {
           "period": "P4",
           "source": "canvas",
           "grade": 22.56,
-          "note": "Wed Nov 18 8 AM CT grade pull: 22.56% (unchanged). Tue Nov 17 5 PM CT pull: Algebra I 22.56% (unchanged). Linear Inequalities Homework due Wed Nov 18 11 AM; Unit 3 Part 2 Test Thu Nov 19 11 AM. Unit 2 Schedule page unchanged (last edited Sep 24). Earlier: Mon Nov 16 5 PM CT pull: Algebra I 22.56% (was 22.74). Sun Nov 15 ~9:35 PM CT: Quiz 5 (Lessons 3.6-3.9) released 12/20; ~9:54 PM Point Slope Form Delta HW (20 pts) graded 0 (never submitted). Unit 2 schedule page still ends at Lesson 6; no new Algebra announcements. Earlier: Mon Nov 16 12 AM CT pull: 22.56% (was 22.74). Earlier: Fri Nov 13 5 PM CT pull: no change. Earlier: 22.74% (unchanged) — Mon Nov 9 ~10:57 AM CT: 11/5 Delta Math Classwork (50 pts, due 11:00 AM) submitted and marked graded (no score posted in Canvas yet). Earlier: 22.74% (was 21.44) — Wed Nov 4 ~2:03 PM: Unit 3 Part 1 Test score released: 32/100. Earlier (23.16 → 21.44): Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts, due Mon Oct 19 11:00 AM) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM, dropping the grade from 23.16% to 21.44%. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — Mr. Seegers marked it graded Mon Nov 2 ~11:55 PM; score released Wed Nov 4 ~2:03 PM: 32/100. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; formative, Delta Math) was due Wed Nov 4 12:00 PM — not submitted; now overdue. Wed Nov 4 ~2:09 PM: Mr. Seegers sent a Canvas inbox note (\"Scored less than 75 on Unit 3 Part 1 Test\"): Olen scored below 75% on the Slope-Intercept Form summative; students get one Redemption per quarter per class (let him know if Olen wants to pursue it), and Olen can schedule zero-period review by Google Chat. New Thu Nov 5 ~1:34 AM: 11/5 Delta Math Classwork (50 pts formative, Delta Math / external tool) due Mon Nov 9 11:00 AM. Thu Nov 5 ~9:00 AM: Mr. Seegers posted \"Instructions for Class Today\" — watch the Standard Form video playlist, then work 11/5 Delta Math Classwork (50 pts formative, due Mon Nov 9 11:00 AM); unfinished classwork is homework.",
+          "note": "Mon Nov 16 5 PM CT pull: Algebra I 22.56% (was 22.74). Sun Nov 15 ~9:35 PM CT: Quiz 5 (Lessons 3.6-3.9) released 12/20; ~9:54 PM Point Slope Form Delta HW (20 pts) graded 0 (never submitted). Unit 2 schedule page still ends at Lesson 6; no new Algebra announcements. Earlier: Mon Nov 16 12 AM CT pull: 22.56% (was 22.74). Earlier: Fri Nov 13 5 PM CT pull: no change. Earlier: 22.74% (unchanged) — Mon Nov 9 ~10:57 AM CT: 11/5 Delta Math Classwork (50 pts, due 11:00 AM) submitted and marked graded (no score posted in Canvas yet). Earlier: 22.74% (was 21.44) — Wed Nov 4 ~2:03 PM: Unit 3 Part 1 Test score released: 32/100. Earlier (23.16 → 21.44): Chapter 2 Test 15/100; 2.2/2.3 Delta Math HW 0; 2.5–2.7 HW not submitted. Unit 2 schedule still ends at Lesson 6. Slope Intercept Form Homework (20 pts, due Mon Oct 19 11:00 AM) was never submitted and was graded 0/20 Mon Nov 2 ~11:51 PM, dropping the grade from 23.16% to 21.44%. Quiz 4 (3.1–3.4, 20 pts, in class Wed Oct 21) score released Mon Oct 26 11:57 AM: 0/20. Unit 3 Part 1 Test (100 pts, Lessons 1–4: Slope-Intercept Form) was Thu Oct 29 11:00 AM in class — Mr. Seegers marked it graded Mon Nov 2 ~11:55 PM; score released Wed Nov 4 ~2:03 PM: 32/100. Mr. Seegers posted a Chapter 3 Part 1 Test Review announcement Wed Oct 28 ~11:00 AM CT with a review packet (C3Test1Review.pdf); 4th period took the test Thu Oct 29 in class, 3rd period Fri Oct 30. New Mon Nov 2 ~12:23 PM: Point Slope Form Delta HW (now 20 pts, was 10; formative, Delta Math) was due Wed Nov 4 12:00 PM — not submitted; now overdue. Wed Nov 4 ~2:09 PM: Mr. Seegers sent a Canvas inbox note (\"Scored less than 75 on Unit 3 Part 1 Test\"): Olen scored below 75% on the Slope-Intercept Form summative; students get one Redemption per quarter per class (let him know if Olen wants to pursue it), and Olen can schedule zero-period review by Google Chat. New Thu Nov 5 ~1:34 AM: 11/5 Delta Math Classwork (50 pts formative, Delta Math / external tool) due Mon Nov 9 11:00 AM. Thu Nov 5 ~9:00 AM: Mr. Seegers posted \"Instructions for Class Today\" — watch the Standard Form video playlist, then work 11/5 Delta Math Classwork (50 pts formative, due Mon Nov 9 11:00 AM); unfinished classwork is homework.",
           "work": [
             {
               "title": "2.2 Delta Math HW",
@@ -752,56 +750,56 @@ window.RECAP_DATA = {
             {
               "title": "2.2 Delta Math HW",
               "score": "0/20",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Sep 24"
             },
             {
               "title": "2.3 Delta Math HW",
               "score": "0/20",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Sep 28"
             },
             {
               "title": "Get More Math Sign Up",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 24"
             },
             {
               "title": "Slope Intercept Form Homework",
               "score": "0/20",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Oct 19"
             },
             {
               "title": "Algebra Karaoke Performance",
               "score": "25/25",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 3"
             },
             {
               "title": "Chapter 1 Test: 1.1-1.4",
               "score": "23/100",
-              "percent": 23,
+              "percent": 23.0,
               "group": "Summative Assessment",
               "due": "Sep 2"
             },
             {
               "title": "Chapter 2 Test: 2.1-2.7",
               "score": "15/100",
-              "percent": 15,
+              "percent": 15.0,
               "group": "Summative Assessment",
               "due": "Oct 7"
             },
             {
               "title": "Quiz 1: 1.1-1.4",
               "score": "2/20",
-              "percent": 10,
+              "percent": 10.0,
               "group": "Summative Assessment",
               "due": "Aug 27"
             },
@@ -815,35 +813,35 @@ window.RECAP_DATA = {
             {
               "title": "Quiz 3: 2.1-2.4",
               "score": "4/20",
-              "percent": 20,
+              "percent": 20.0,
               "group": "Summative Assessment",
               "due": "Sep 28"
             },
             {
               "title": "Quiz 4: Quiz 3.1 - 3.4",
               "score": "0/20",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Summative Assessment",
               "due": "Oct 21"
             },
             {
               "title": "Unit 3 Part 1 Test",
               "score": "32/100",
-              "percent": 32,
+              "percent": 32.0,
               "group": "Summative Assessment",
               "due": "Oct 29"
             },
             {
               "title": "Quiz 5: Lessons 3.6-3.9",
               "score": "12/20",
-              "percent": 60,
+              "percent": 60.0,
               "group": "Formative Assessment",
               "due": "Nov 12"
             },
             {
               "title": "Point Slope Form Delta HW",
               "score": "0/20",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Nov 4"
             }
@@ -855,7 +853,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "canvas",
           "grade": 87.47,
-          "note": "Wed Nov 18 8 AM CT grade pull: 87.47% (unchanged). Tue Nov 17 5 PM CT pull: German I 87.47% (unchanged since noon). WB Seiten 34-36 graded 0.2/20 (1%) ~11:28 AM CT. Vocabulary Test #1 Wed Nov 18 11 AM. Earlier: Tue Nov 17 noon CT pull: German I 87.47% (was 88.77). Assignment-level detail not re-pulled this run. Mon Nov 16 5 PM CT pull: German I 88.77% (unchanged). WB Seiten 34-36 due Tue Nov 17 10:30 AM; Vocabulary Test #1 Wed Nov 18 11 AM. Earlier: Fri Nov 13 5 PM CT pull: 88.77% (no change since 4 PM; was 86.88 earlier today). Next 10 Verbs 12.75/15. Coming up: WB Seiten 34-36 Tue Nov 17, Vocabulary Test #1 Wed Nov 18. Earlier: 88.77% (was 86.88) — Fri Nov 13 ~4 PM CT pull: Chapter 3 Vocabulary List Part 1 (First 56 words) re-graded 22.5/25 (90%, ~1:12 PM CT; was 0.25/25), Canvas still flags it missing (teacher comment: missing on Tuesday). Next 10 Verbs (due Fri Nov 13 11 AM) and First 28 from Chapter 3 Quiz still ungraded. Earlier: 86.88% (was 86.45) — Tue Nov 10 ~4 PM CT pull: Workbook 11-19 (FA) graded 28.5/30 (95%, ~12:42 PM CT). Chapter 3 Vocabulary List Part 1 stays 0.25/25 but Canvas now flags it missing. New in Canvas: First 28 from Chapter 3 Quiz (Gafallen) and Next 10 Verbs. Earlier: 86.45% (was 87.96) — Tue Nov 10 ~12 PM CT pull: Lord's Prayer (SA) All Parts, Speaking & Writing graded 36/40 (90%, ~8:28 AM CT); Chapter 3 Vocabulary List (105) FA Part 1 (now titled \"First 56 words\", 25 pts, due Tue Nov 10 10:00 AM) graded 0.25/25 (1%, ~11:47 AM CT). Earlier: NEW Fri Nov 6 ~3:47 PM CT Canvas inbox from Herr Porter (unread when pulled): two homework pieces due Tuesday — (1) Chapter 3 vocab list Parts 1 and 2 (words 1–28 and 28–56 / Abend-Nachrichten), (2) Part 1 of the verb conjugation worksheet (PDF attached). He also asks for 15–20 minutes of German daily. Canvas assignment shows Chapter 3 Vocabulary List Part 1 (first 28 words, 25 pts, on paper) due Tue Nov 10 10:00 AM; Workbook 11-19 (FA) due Wed Nov 11 12:00 PM. 87.96% (was 88.51) — Fri Nov 6 ~12:14 PM CT: Workbook 13-16 re-scored again to 19.6/20 (98%; was 24.75/20 / 123.75%). Workbook 11-19 (FA) due date moved to Wed Nov 11 12:00 PM (was Tue Nov 10). Earlier: Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%, ~2:56 PM); Workbook 13-16 re-scored ~3:00 PM to 24.75/20 (now out of 20 pts, was 25/25). New: Workbook 11-19 (FA) (30 pts, on paper) due Tue Nov 10 12:00 PM; Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words from the textbook (25 pts, on paper) due Tue Nov 10 10:00 AM; plus ungraded vocab items Vocabulary Lektion A (71-86), Vocabulary Lektion B (87-99), Wichtige Ausdrücke (73). Earlier (87.78 → 88.3): Workbook 13-16 (25 pts, on paper, due Tue Nov 3 10 AM) graded 25/25 Tue Nov 3 12:22 PM. Earlier: Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, on paper, due Wed Nov 4 11:00 AM) graded 18.75/25 Wed Nov 4 ~2:56 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
+          "note": "Tue Nov 17 5 PM CT pull: German I 87.47% (unchanged since noon). WB Seiten 34-36 graded 0.2/20 (1%) ~11:28 AM CT. Vocabulary Test #1 Wed Nov 18 11 AM. Earlier: Tue Nov 17 noon CT pull: German I 87.47% (was 88.77). Assignment-level detail not re-pulled this run. Mon Nov 16 5 PM CT pull: German I 88.77% (unchanged). WB Seiten 34-36 due Tue Nov 17 10:30 AM; Vocabulary Test #1 Wed Nov 18 11 AM. Earlier: Fri Nov 13 5 PM CT pull: 88.77% (no change since 4 PM; was 86.88 earlier today). Next 10 Verbs 12.75/15. Coming up: WB Seiten 34-36 Tue Nov 17, Vocabulary Test #1 Wed Nov 18. Earlier: 88.77% (was 86.88) — Fri Nov 13 ~4 PM CT pull: Chapter 3 Vocabulary List Part 1 (First 56 words) re-graded 22.5/25 (90%, ~1:12 PM CT; was 0.25/25), Canvas still flags it missing (teacher comment: missing on Tuesday). Next 10 Verbs (due Fri Nov 13 11 AM) and First 28 from Chapter 3 Quiz still ungraded. Earlier: 86.88% (was 86.45) — Tue Nov 10 ~4 PM CT pull: Workbook 11-19 (FA) graded 28.5/30 (95%, ~12:42 PM CT). Chapter 3 Vocabulary List Part 1 stays 0.25/25 but Canvas now flags it missing. New in Canvas: First 28 from Chapter 3 Quiz (Gafallen) and Next 10 Verbs. Earlier: 86.45% (was 87.96) — Tue Nov 10 ~12 PM CT pull: Lord's Prayer (SA) All Parts, Speaking & Writing graded 36/40 (90%, ~8:28 AM CT); Chapter 3 Vocabulary List (105) FA Part 1 (now titled \"First 56 words\", 25 pts, due Tue Nov 10 10:00 AM) graded 0.25/25 (1%, ~11:47 AM CT). Earlier: NEW Fri Nov 6 ~3:47 PM CT Canvas inbox from Herr Porter (unread when pulled): two homework pieces due Tuesday — (1) Chapter 3 vocab list Parts 1 and 2 (words 1–28 and 28–56 / Abend-Nachrichten), (2) Part 1 of the verb conjugation worksheet (PDF attached). He also asks for 15–20 minutes of German daily. Canvas assignment shows Chapter 3 Vocabulary List Part 1 (first 28 words, 25 pts, on paper) due Tue Nov 10 10:00 AM; Workbook 11-19 (FA) due Wed Nov 11 12:00 PM. 87.96% (was 88.51) — Fri Nov 6 ~12:14 PM CT: Workbook 13-16 re-scored again to 19.6/20 (98%; was 24.75/20 / 123.75%). Workbook 11-19 (FA) due date moved to Wed Nov 11 12:00 PM (was Tue Nov 10). Earlier: Wed Nov 4 afternoon: Quizlet for Chapter 2 quiz graded 18.75/25 (75%, ~2:56 PM); Workbook 13-16 re-scored ~3:00 PM to 24.75/20 (now out of 20 pts, was 25/25). New: Workbook 11-19 (FA) (30 pts, on paper) due Tue Nov 10 12:00 PM; Chapter 3 Vocabulary List (105) FA Part 1 – first 28 words from the textbook (25 pts, on paper) due Tue Nov 10 10:00 AM; plus ungraded vocab items Vocabulary Lektion A (71-86), Vocabulary Lektion B (87-99), Wichtige Ausdrücke (73). Earlier (87.78 → 88.3): Workbook 13-16 (25 pts, on paper, due Tue Nov 3 10 AM) graded 25/25 Tue Nov 3 12:22 PM. Earlier: Frau Porter graded a batch of on-paper work Thu Oct 29 late morning: family video summary 20/20, Unit 1 review video + check-up quiz 30/30, Quick Vocabulary Quiz 9/10, Telling Time quiz (summative) 18/20, and new in Canvas: Family Member Vocabulary (taken in class, due Tue Oct 27) 19.6/20. Lord's Prayer — all parts, speaking & writing (40 pts, on paper) was due Mon Oct 26 1 PM — still no grade in Canvas (likely done in class on paper). Quizlet for Chapter 2 quiz (25 pts, on paper, due Wed Nov 4 11:00 AM) graded 18.75/25 Wed Nov 4 ~2:56 PM. Alphabet Part 1 Video and Farben still 0; Vocab Quiz #1 (FA) 20/20; Vorstellen 0.2/20.",
           "work": [
             {
               "title": "German verb conjugation worksheet (Part 1) — from Porter inbox",
@@ -884,7 +882,7 @@ window.RECAP_DATA = {
             {
               "title": "WB Seiten 34-36 (FA)",
               "status": "zero",
-              "detail": "graded 0.2/20 (1%) Tue Nov 17 ~11:28 AM CT · was due 10:30 AM",
+              "detail": "graded 0.2/20 (1%) Tue Nov 17 ~11:28 AM CT",
               "due": "Nov 17"
             },
             {
@@ -898,210 +896,210 @@ window.RECAP_DATA = {
             {
               "title": "Alphabet Part 1 Video",
               "score": "0/20",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Sep 30"
             },
             {
               "title": "Days of the Week (Video practice )",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 2"
             },
             {
               "title": "Family Member Vocabulary",
               "score": "19.6/20",
-              "percent": 98,
+              "percent": 98.0,
               "group": "Formative Assessment",
               "due": "Oct 27"
             },
             {
               "title": "Farben",
               "score": "0/10",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Oct 6"
             },
             {
               "title": "Follow Up Quiz on Conjugation",
               "score": "10.5/15",
-              "percent": 70,
+              "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 15"
             },
             {
               "title": "Grammar Into and Practice",
               "score": "5/5",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 4"
             },
             {
               "title": "HW in Workbook sept 16",
               "score": "9/10",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 16"
             },
             {
               "title": "Haben and Sein",
               "score": "4.5/5",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 21"
             },
             {
               "title": "Haben und Sein",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
             },
             {
               "title": "Haben/Sein HW Quiz",
               "score": "9.5/10",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
             },
             {
               "title": "Intro Packet and count to 20",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 28"
             },
             {
               "title": "Introduce self and partner - Speaking",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 28"
             },
             {
               "title": "Introductions in German",
               "score": "5/5",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 21"
             },
             {
               "title": "Lords Prayer Part 2",
               "score": "9.5/10",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
             },
             {
               "title": "Lords prayer Part 3",
               "score": "9/10",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 18"
             },
             {
               "title": "Quick Vocabulary Quiz",
               "score": "9/10",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Oct 27"
             },
             {
               "title": "Quizlet for Chapter 2 quiz",
               "score": "18.75/25",
-              "percent": 75,
+              "percent": 75.0,
               "group": "Formative Assessment",
               "due": "Nov 4"
             },
             {
               "title": "Review Packet (FA)",
               "score": "17/20",
-              "percent": 85,
+              "percent": 85.0,
               "group": "Formative Assessment",
               "due": "Oct 6"
             },
             {
               "title": "Tag Eins (8/25) (done in class)",
               "score": "5/5",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 27"
             },
             {
               "title": "Video for review on Unit 1 for Quiz (FA) on Wednesday (21st) during class. There is a check up quiz attached for you to check your understanding.",
               "score": "30/30",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 20"
             },
             {
               "title": "Vocabulary Quiz #1 (FA)",
               "score": "20/20",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 6"
             },
             {
               "title": "Vorstellen Introduction a friend (FA) - Before Class",
               "score": "0.2/20",
-              "percent": 1,
+              "percent": 1.0,
               "group": "Formative Assessment",
               "due": "Oct 7"
             },
             {
               "title": "Watch Video - Write a summary of 10 things about the family",
               "score": "20/20",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 16"
             },
             {
               "title": "Workbook 13-16",
               "score": "19.6/20",
-              "percent": 98,
+              "percent": 98.0,
               "group": "Formative Assessment",
               "due": "Nov 3"
             },
             {
               "title": "Workbook Kap 2 pages 13-14 (FA)",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 30"
             },
             {
               "title": "Workbook for the week -",
               "score": "30/30",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 22"
             },
             {
               "title": "Workbook page 15 Ex. 3",
               "score": "9.5/10",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Oct 2"
             },
             {
               "title": "Count 0-20",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Aug 28"
             },
             {
               "title": "Lord's Pray Final - All Parts",
               "score": "9.5/10",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Summative Assessment",
               "due": "Sep 25"
             },
             {
               "title": "Telling Time (SA) Quiz on telling time at beginning of class - Video for reivew",
               "score": "18/20",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Oct 27"
             },
@@ -1115,28 +1113,28 @@ window.RECAP_DATA = {
             {
               "title": "Vocabulary Quiz #1 Written",
               "score": "36/40",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Sep 8"
             },
             {
               "title": "Lords Prayer (SA) All Parts  Speaking & Writing",
               "score": "36/40",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Oct 26"
             },
             {
               "title": "Chapter 3 Vocabulary List (105)  FA Part 1 - First 56 words from text book",
               "score": "0.25/25",
-              "percent": 1,
+              "percent": 1.0,
               "group": "Formative Assessment",
               "due": "Nov 10"
             },
             {
               "title": "Workbook 11-19 (FA)",
               "score": "28.5/30",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Nov 11"
             }
@@ -1148,7 +1146,7 @@ window.RECAP_DATA = {
           "period": "P6",
           "source": "canvas",
           "grade": 85.61,
-          "note": "Wed Nov 18 8 AM CT grade pull: 85.61% (unchanged). Mon Nov 16 5 PM CT pull: Geography 85.61% (unchanged). New: TURN IN - Developing vs Developed STATS Presentation (100 pts, due Wed Nov 18 11:59 PM). Week 2 page (updated Mon Nov 16): presentation Mon/Tue, Current Event Post in class Wed, Population Explosion Notes + Vocab Quiz Thu(A)/Fri(B). Earlier: Fri Nov 13 5 PM CT pull: 85.61% unchanged. Current Event Post Nov. 11th and Don't Panic Video Questions are turned in, awaiting grades. Next: Nov. 18th Current Event Post due Nov 20. Earlier: 85.61% (unchanged) — Tue Nov 10 ~4 PM CT pull: TURN IN - Our World in Data - Population Growth Activity turned in ~3:24 PM CT, awaiting grade; Don't Panic Video Questions now due Fri Nov 13 11:59 PM CT. Earlier: 85.61% (was 84.95) — Tue Nov 10 ~12 PM CT pull: TURN IN - Conflict Zones Presentation graded 100/100 (~10:45 AM CT; turned in Fri Oct 30). Still awaiting grade: Wednesday November 4th Current Event Post and TURN IN - Unit 3 Vocab Matrix. Earlier: 84.95% (unchanged) — Mon Nov 9 ~4 PM CT pull: TURN IN - Unit 3 Vocab Matrix turned in ~2:04 PM CT, awaiting grade. Earlier: 84.95% (unchanged) — Mon Nov 9 noon CT pull: two new unsubmitted items: TURN IN - Don't Panic Video Questions and TURN IN - Our World in Data - Population Growth Activity (100 pts formative each, no due date). Earlier: 84.95% (was 83.33) — Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in (awaiting grade). Earlier: Fri Nov 6 ~11:29 AM: TURN IN - Cluster Borders Presentation (Summative) (100 pts) graded 100/100. Earlier: Thu Nov 5 ~1:18 PM: Unit 2 TEST (100 pts summative) taken and graded 70/100. Earlier: October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM; graded 100/100 Fri Nov 6 ~11:29 AM CT; Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon Oct 26 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts; moved Fri Oct 30 9:47 AM from Summative to Q1 Formative Assessment; URL or file upload; no due date set in Canvas) — turned in on Canvas Fri Oct 30 1:28 PM, awaiting grade. Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in on Canvas (awaiting grade; 100 pts formative). Earlier Mon Nov 2 ~9:53 AM: that Current Event Post was posted (no due date set in Canvas). Also since the 8 AM check, the \"Q1 Formative Assessment\" grade category was renamed \"Formative Assessment\" (grade unchanged). Week 6 page (Nov 2–6, updated Mon Nov 2 ~12:37 PM): Mon (A)/Tue (B) finish and present the Conflict Zones Project, turn in the Conflict Zones Presentation, and test review; Wed Current Event Post; Thu (A)/Fri (B) Unit 2 TEST. New Thu Nov 5 morning: Unit 2 TEST posted in Canvas (100 pts summative, external tool; was schedule-only) — taken and graded 70/100 ~1:18 PM; TURN IN - Unit 3 Vocab Matrix (100 pts formative, URL/upload, no due date) and Current Event Post Nov. 11th (100 pts formative, online text entry, no due date) — not submitted yet.",
+          "note": "Mon Nov 16 5 PM CT pull: Geography 85.61% (unchanged). New: TURN IN - Developing vs Developed STATS Presentation (100 pts, due Wed Nov 18 11:59 PM). Week 2 page (updated Mon Nov 16): presentation Mon/Tue, Current Event Post in class Wed, Population Explosion Notes + Vocab Quiz Thu(A)/Fri(B). Earlier: Fri Nov 13 5 PM CT pull: 85.61% unchanged. Current Event Post Nov. 11th and Don't Panic Video Questions are turned in, awaiting grades. Next: Nov. 18th Current Event Post due Nov 20. Earlier: 85.61% (unchanged) — Tue Nov 10 ~4 PM CT pull: TURN IN - Our World in Data - Population Growth Activity turned in ~3:24 PM CT, awaiting grade; Don't Panic Video Questions now due Fri Nov 13 11:59 PM CT. Earlier: 85.61% (was 84.95) — Tue Nov 10 ~12 PM CT pull: TURN IN - Conflict Zones Presentation graded 100/100 (~10:45 AM CT; turned in Fri Oct 30). Still awaiting grade: Wednesday November 4th Current Event Post and TURN IN - Unit 3 Vocab Matrix. Earlier: 84.95% (unchanged) — Mon Nov 9 ~4 PM CT pull: TURN IN - Unit 3 Vocab Matrix turned in ~2:04 PM CT, awaiting grade. Earlier: 84.95% (unchanged) — Mon Nov 9 noon CT pull: two new unsubmitted items: TURN IN - Don't Panic Video Questions and TURN IN - Our World in Data - Population Growth Activity (100 pts formative each, no due date). Earlier: 84.95% (was 83.33) — Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in (awaiting grade). Earlier: Fri Nov 6 ~11:29 AM: TURN IN - Cluster Borders Presentation (Summative) (100 pts) graded 100/100. Earlier: Thu Nov 5 ~1:18 PM: Unit 2 TEST (100 pts summative) taken and graded 70/100. Earlier: October 7th Current Event Post graded 90/100 Tue Oct 27 2:04 PM; Europe Mapping Activity turned in (awaiting grade; Canvas due date moved to Wed Oct 21); Oct. 21st Current Event Post (100 pts, due Fri Oct 23 11:59 PM) was never submitted and was graded 0/100 Tue Oct 27 10:55 AM (grade dropped from 89.32% to 86.22%); new Tue Oct 20: TURN IN – Cluster Borders Presentation (100 pts, summative) turned in on Canvas Wed Oct 21 9:37 PM; graded 100/100 Fri Nov 6 ~11:29 AM CT; Week 4 page (Oct 19–23, updated Tue): Independence and Sovereignty notes and Cluster Borders Presentation work Mon/Tue, Current Event Post Wed, Cluster Borders Presentation turned in and presented Thu (A day)/Fri (B day). Oct. 21st Current Event Post instructions were updated Wed 3:12 PM (two articles; evidence can be a direct quote from the article OR a Bible quote). Week 5 page (Oct 26–30) posted Mon Oct 26 3:02 PM: Mon (A)/Tue (B) finish presentations, Types of Government notes and activity, European Union video; Wed PSAT; Thu (A)/Fri (B) The Breakup of Yugoslavia and Conflict Zones Poster. New Thu Oct 29 ~3:16 PM: TURN IN - Conflict Zones Presentation (100 pts; moved Fri Oct 30 9:47 AM from Summative to Q1 Formative Assessment; URL or file upload; no due date set in Canvas) — turned in on Canvas Fri Oct 30 1:28 PM, awaiting grade. Fri Nov 6 ~6:14 PM CT: Wednesday November 4th Current Event Post turned in on Canvas (awaiting grade; 100 pts formative). Earlier Mon Nov 2 ~9:53 AM: that Current Event Post was posted (no due date set in Canvas). Also since the 8 AM check, the \"Q1 Formative Assessment\" grade category was renamed \"Formative Assessment\" (grade unchanged). Week 6 page (Nov 2–6, updated Mon Nov 2 ~12:37 PM): Mon (A)/Tue (B) finish and present the Conflict Zones Project, turn in the Conflict Zones Presentation, and test review; Wed Current Event Post; Thu (A)/Fri (B) Unit 2 TEST. New Thu Nov 5 morning: Unit 2 TEST posted in Canvas (100 pts summative, external tool; was schedule-only) — taken and graded 70/100 ~1:18 PM; TURN IN - Unit 3 Vocab Matrix (100 pts formative, URL/upload, no due date) and Current Event Post Nov. 11th (100 pts formative, online text entry, no due date) — not submitted yet.",
           "work": [
             {
               "title": "Oct. 21st Current Event Post",
@@ -1203,14 +1201,14 @@ window.RECAP_DATA = {
             {
               "title": "Oct. 21st Current Event Post",
               "score": "0/100",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Oct 23"
             },
             {
               "title": "October 7th Current Event Post",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Oct 21"
             },
@@ -1224,41 +1222,41 @@ window.RECAP_DATA = {
             {
               "title": "September 23rd - Current Event Posts",
               "score": "50/100",
-              "percent": 50,
+              "percent": 50.0,
               "group": "Formative Assessment",
               "due": "Sep 25"
             },
             {
               "title": "September 9th - Current Event #1",
               "score": "35/50",
-              "percent": 70,
+              "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
             },
             {
               "title": "TURN IN - Coffee Activity",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "TURN IN - Political Organizations Vocab Matrix",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment"
             },
             {
               "title": "U.S. Political Map Quiz",
               "score": "200/200",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 25"
             },
             {
               "title": "Unit 1 Vocabulary Matrix",
               "score": "98/100",
-              "percent": 98,
+              "percent": 98.0,
               "group": "Formative Assessment",
               "due": "Aug 25"
             },
@@ -1272,49 +1270,49 @@ window.RECAP_DATA = {
             {
               "title": "Wednesday September 9th - Current Event #2",
               "score": "35/50",
-              "percent": 70,
+              "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 11"
             },
             {
               "title": "Wednesday, September 16th Current Event Posts",
               "score": "70/100",
-              "percent": 70,
+              "percent": 70.0,
               "group": "Formative Assessment",
               "due": "Sep 18"
             },
             {
               "title": "Biomes Brochure",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 9"
             },
             {
               "title": "TURN IN - Cluster Borders Presentation (Summative)",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Oct 28"
             },
             {
               "title": "TURN IN - Physical Geography of Country Presentation",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 25"
             },
             {
               "title": "Unit 1 Test: Foundations of Geography",
               "score": "76/100",
-              "percent": 76,
+              "percent": 76.0,
               "group": "Summative Assessment",
               "due": "Sep 18"
             },
             {
               "title": "Unit 2 TEST",
               "score": "70/100",
-              "percent": 70,
+              "percent": 70.0,
               "group": "Summative Assessment",
               "due": "Nov 6"
             },
@@ -1327,7 +1325,7 @@ window.RECAP_DATA = {
             {
               "title": "TURN IN - Conflict Zones Presentation",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Nov 3"
             }
@@ -1339,7 +1337,7 @@ window.RECAP_DATA = {
           "period": "P7",
           "source": "canvas",
           "grade": 77.85,
-          "note": "Wed Nov 18 4 PM CT pull: Biology 77.85% (was 78.21). Assignment-level detail not re-pulled this run. Wed Nov 18 8 AM CT grade pull: 78.21% (unchanged). Tue Nov 17 8 PM CT pull: Biology 78.21% (was 77.64). Assignment-level detail not re-pulled this run. Mon Nov 16 5 PM CT pull: Biology 77.64% (unchanged). Upcoming: Lab 07 Genetics due Wed Nov 18 11:59 PM; Crime Scene Genetics - Evidence Evaluation due Fri Nov 20 4 PM. Earlier: Fri Nov 13 5 PM CT pull: 77.64% unchanged. Sex Linked Case Study turned in this afternoon (awaiting score). Creation Journal #8 (due 4 PM today) not marked in Canvas. Lab 07 Pre-Lab/Procedure/Data Tables due when class starts Wed Nov 18. Earlier: 77.64% (was 78.78) — Wed Nov 11 ~5 PM CT pull: Blood Types: Weathering the Storm quiz scored 25/100 (taken ~2:53 PM CT, due tonight 11:59 PM CT); Non-mendelian Traits WebQuest 100/100. Creation Journal #7 still not in Canvas. Earlier: 78.78% (unchanged) — Tue Nov 10 ~4 PM CT pull: Digital Punnett Squares submitted late ~3:28 PM CT (awaiting grade); Non-mendelian Traits WebQuest completed ~2:45 PM CT (external tool, shows graded with no score yet); Creation Journal #7 still not in Canvas. Earlier: 78.78% (unchanged) — Tue Nov 10 ~12 PM CT pull: Creation Journal #7 (10 pts, on paper) passed its 9:00 AM due time with nothing in Canvas. Earlier: 78.78% (was 78.63) — Fri Nov 6 ~10:30 PM CT: Mitosis & Meiosis Exit Ticket (was due Tue Oct 27) turned in late and auto-graded 90/100. Digital Punnett Squares (100 pts, due Fri Nov 6 11:59 PM) was not submitted — Canvas now marks it missing. Earlier: Thu Nov 5 ~1:27 PM: Lab 05: Cellular Respiration score released 80/100 (formative). Wed Nov 4 morning: Lab 4: Photosynthesis graded 75/100 (graded ~9:20 AM, posted ~9:48 AM CT). Earlier (grade was 78.67 → 78.85): Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up (was due Fri Oct 16 8:00 AM) now graded 75/100 (Wed Nov 4); Cellular Respiration Venn (in class) graded 100/100 Tue Oct 27 morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed Oct 21 2:38 PM; score posted Tue Oct 27 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative, due Tue Oct 27 4:00 PM) turned in late Fri Oct 30 2:27 PM — scored 90/100 (grade 78.67% to 78.85%). New Mon Oct 26 night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) was due Tue Oct 27 11:59 PM — turned in late Fri Nov 6 ~10:30 PM CT, 90/100; Lab 06: Mitosis (100 pts, on paper) was due Wed Nov 4 11:59 PM — not submitted in Canvas, now overdue; Digital Punnett Squares (100 pts, file upload) was due Fri Nov 6 11:59 PM — not submitted, now missing; a makeup lab (29 pts, no due date) also appeared — renamed Tue Nov 3 to \"Makeup Lab 05: Cellular Respiration\". Mrs. DeGrenier's Canvas note Tue Oct 27 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime. DNA Synthesis - From Gene to Protein Pivot (FA) (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas; now overdue. Mrs. DeGrenier's Thu Oct 29 ~9:00 AM announcement (\"October 29 - 30 Agenda\", sub in class the week of Oct 26, she's back the week of Nov 2): finish the DNA Replication Activity Exit Ticket from Mon Oct 26/Tue Oct 27 if not done (open note), watch two DNA videos, and complete the DNA Synthesis – From Gene to Protein Pivot (was due Fri Oct 30). New in Canvas Tue Nov 3 2:08 PM: Lab 05: Cellular Respiration (100 pts, formative, on paper — completed in class Oct 19–21, post-lab due Oct 26/27), Canvas due Tue Oct 27 8:00 AM — score 80/100 released Thu Nov 5 ~1:27 PM. Mrs. DeGrenier's Tue Nov 3 ~8:27 AM announcement (\"Tuesday, November 3 Agenda\", sub in class that day, she was back Wed Nov 4): watch the Mitosis/Meiosis notes video in modules and do the activity, complete the Mitosis & Meiosis Exit Ticket, and complete the Pre-Lab / Procedure / Data Tables for Lab 06: Mitosis — must be done when walking into class Wed Nov 4. New Wed Nov 4 afternoon: Non-mendelian Traits WebQuest (Codominance and Incomplete Dominance) (100 pts formative, due Tue Nov 10 11:59 PM), Creation Journal #7 (10 pts summative, on paper, due Tue Nov 10 9:00 AM), Creation Journal Entry #8 (10 pts summative, on paper, due Fri Nov 13 4:00 PM); Blood Types: Weathering the Storm (100 pts formative, online quiz, due Wed Nov 11 11:59 PM) now showing in Canvas. New Wed Nov 4 ~4:32 PM: Sex Linked Case Study (100 pts formative, external tool, due Fri Nov 13 11:59 PM).",
+          "note": "Wed Nov 18 5 PM CT pull: Biology 77.85% (was 77.64). Lab 07 Genetics due tonight 11:59 PM; Crime Scene Genetics - Evidence Evaluation due Fri Nov 20 4 PM. Earlier: Mon Nov 16 5 PM CT pull: Biology 77.64% (unchanged). Upcoming: Lab 07 Genetics due Wed Nov 18 11:59 PM; Crime Scene Genetics - Evidence Evaluation due Fri Nov 20 4 PM. Earlier: Fri Nov 13 5 PM CT pull: 77.64% unchanged. Sex Linked Case Study turned in this afternoon (awaiting score). Creation Journal #8 (due 4 PM today) not marked in Canvas. Lab 07 Pre-Lab/Procedure/Data Tables due when class starts Wed Nov 18. Earlier: 77.64% (was 78.78) — Wed Nov 11 ~5 PM CT pull: Blood Types: Weathering the Storm quiz scored 25/100 (taken ~2:53 PM CT, due tonight 11:59 PM CT); Non-mendelian Traits WebQuest 100/100. Creation Journal #7 still not in Canvas. Earlier: 78.78% (unchanged) — Tue Nov 10 ~4 PM CT pull: Digital Punnett Squares submitted late ~3:28 PM CT (awaiting grade); Non-mendelian Traits WebQuest completed ~2:45 PM CT (external tool, shows graded with no score yet); Creation Journal #7 still not in Canvas. Earlier: 78.78% (unchanged) — Tue Nov 10 ~12 PM CT pull: Creation Journal #7 (10 pts, on paper) passed its 9:00 AM due time with nothing in Canvas. Earlier: 78.78% (was 78.63) — Fri Nov 6 ~10:30 PM CT: Mitosis & Meiosis Exit Ticket (was due Tue Oct 27) turned in late and auto-graded 90/100. Digital Punnett Squares (100 pts, due Fri Nov 6 11:59 PM) was not submitted — Canvas now marks it missing. Earlier: Thu Nov 5 ~1:27 PM: Lab 05: Cellular Respiration score released 80/100 (formative). Wed Nov 4 morning: Lab 4: Photosynthesis graded 75/100 (graded ~9:20 AM, posted ~9:48 AM CT). Earlier (grade was 78.67 → 78.85): Creation Journals 1–4 discussion 0/20; Lab 4 Photosynthesis write-up (was due Fri Oct 16 8:00 AM) now graded 75/100 (Wed Nov 4); Cellular Respiration Venn (in class) graded 100/100 Tue Oct 27 morning; Cellular Energy Summative Project (100 pts, summative) was due Wed Oct 21 9:00 AM — submitted late Wed Oct 21 2:38 PM; score posted Tue Oct 27 8:43 AM: 63/100 (late). Makeup Lab 04: Lights and Photosynthesis (48 pts) was due Fri Oct 23 11:59 PM and isn't submitted yet. DNA Replication Activity Exit Ticket (100 pts, formative, due Tue Oct 27 4:00 PM) turned in late Fri Oct 30 2:27 PM — scored 90/100 (grade 78.67% to 78.85%). New Mon Oct 26 night: Mitosis & Meiosis Exit Ticket (100 pts, online quiz) was due Tue Oct 27 11:59 PM — turned in late Fri Nov 6 ~10:30 PM CT, 90/100; Lab 06: Mitosis (100 pts, on paper) was due Wed Nov 4 11:59 PM — not submitted in Canvas, now overdue; Digital Punnett Squares (100 pts, file upload) was due Fri Nov 6 11:59 PM — not submitted, now missing; a makeup lab (29 pts, no due date) also appeared — renamed Tue Nov 3 to \"Makeup Lab 05: Cellular Respiration\". Mrs. DeGrenier's Canvas note Tue Oct 27 8:44 AM (below-70 on the Cellular Energy Summative Project): review the rubric feedback; Q2 chances to improve include a summative project the week of Nov 16–19, the summative test Dec 9, and four Unit 3 Creation Journals; she's glad to give feedback anytime. DNA Synthesis - From Gene to Protein Pivot (FA) (55 pts) was due Fri Oct 30 11:59 PM — not submitted in Canvas; now overdue. Mrs. DeGrenier's Thu Oct 29 ~9:00 AM announcement (\"October 29 - 30 Agenda\", sub in class the week of Oct 26, she's back the week of Nov 2): finish the DNA Replication Activity Exit Ticket from Mon Oct 26/Tue Oct 27 if not done (open note), watch two DNA videos, and complete the DNA Synthesis – From Gene to Protein Pivot (was due Fri Oct 30). New in Canvas Tue Nov 3 2:08 PM: Lab 05: Cellular Respiration (100 pts, formative, on paper — completed in class Oct 19–21, post-lab due Oct 26/27), Canvas due Tue Oct 27 8:00 AM — score 80/100 released Thu Nov 5 ~1:27 PM. Mrs. DeGrenier's Tue Nov 3 ~8:27 AM announcement (\"Tuesday, November 3 Agenda\", sub in class that day, she was back Wed Nov 4): watch the Mitosis/Meiosis notes video in modules and do the activity, complete the Mitosis & Meiosis Exit Ticket, and complete the Pre-Lab / Procedure / Data Tables for Lab 06: Mitosis — must be done when walking into class Wed Nov 4. New Wed Nov 4 afternoon: Non-mendelian Traits WebQuest (Codominance and Incomplete Dominance) (100 pts formative, due Tue Nov 10 11:59 PM), Creation Journal #7 (10 pts summative, on paper, due Tue Nov 10 9:00 AM), Creation Journal Entry #8 (10 pts summative, on paper, due Fri Nov 13 4:00 PM); Blood Types: Weathering the Storm (100 pts formative, online quiz, due Wed Nov 11 11:59 PM) now showing in Canvas. New Wed Nov 4 ~4:32 PM: Sex Linked Case Study (100 pts formative, external tool, due Fri Nov 13 11:59 PM).",
           "work": [
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
@@ -1412,28 +1410,28 @@ window.RECAP_DATA = {
             {
               "title": "Cell Organelle Crossword Puzzle",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 18"
             },
             {
               "title": "Cell Transport Activity - Amoeba Sisters (FA)",
               "score": "91/100",
-              "percent": 91,
+              "percent": 91.0,
               "group": "Formative Assessment",
               "due": "Sep 25"
             },
             {
               "title": "Cellular Respiration Venn Diagram (in class)",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 16"
             },
             {
               "title": "Creation Journal Discussion (Journals 1 - 4)",
               "score": "0/20",
-              "percent": 0,
+              "percent": 0.0,
               "group": "Formative Assessment",
               "due": "Sep 18"
             },
@@ -1447,49 +1445,49 @@ window.RECAP_DATA = {
             {
               "title": "DNA Replication Activity Exit Ticket",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Oct 27"
             },
             {
               "title": "Design a Molecule (in class)",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 1"
             },
             {
               "title": "Enzymatic!",
               "score": "96/100",
-              "percent": 96,
+              "percent": 96.0,
               "group": "Formative Assessment",
               "due": "Sep 13"
             },
             {
               "title": "Enzyme Station Rotation",
               "score": "79/100",
-              "percent": 79,
+              "percent": 79.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
             },
             {
               "title": "Get to Know You Submission",
               "score": "50/100",
-              "percent": 50,
+              "percent": 50.0,
               "group": "Formative Assessment",
               "due": "Aug 21"
             },
             {
               "title": "Lab 01: Safety and Measurement",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "Lab 02: Microscopy",
               "score": "50/100",
-              "percent": 50,
+              "percent": 50.0,
               "group": "Formative Assessment",
               "due": "Sep 14"
             },
@@ -1503,42 +1501,42 @@ window.RECAP_DATA = {
             {
               "title": "Lab 03: Enzymes",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Formative Assessment",
               "due": "Sep 29"
             },
             {
               "title": "Lab 05: Cellular Respiration",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Formative Assessment",
               "due": "Oct 27"
             },
             {
               "title": "Lab 4: Photosynthesis",
               "score": "75/100",
-              "percent": 75,
+              "percent": 75.0,
               "group": "Formative Assessment",
               "due": "Oct 16"
             },
             {
               "title": "Lab Safety Agreement",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 25"
             },
             {
               "title": "Macromolecule Matching",
               "score": "75/100",
-              "percent": 75,
+              "percent": 75.0,
               "group": "Formative Assessment",
               "due": "Sep 8"
             },
             {
               "title": "Mitosis & Meiosis Exit Ticket",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Oct 27"
             },
@@ -1552,56 +1550,56 @@ window.RECAP_DATA = {
             {
               "title": "Pogil - Interpreting Data (in class)",
               "score": "83/100",
-              "percent": 83,
+              "percent": 83.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "Unit 1 Lesson 1 - Identifying Variables Assignment",
               "score": "92/100",
-              "percent": 92,
+              "percent": 92.0,
               "group": "Formative Assessment",
               "due": "Aug 28"
             },
             {
               "title": "Cell Analogy Project",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Summative Assessment",
               "due": "Sep 23"
             },
             {
               "title": "Cellular Energy Summative Project",
               "score": "63/100",
-              "percent": 63,
+              "percent": 63.0,
               "group": "Summative Assessment",
               "due": "Oct 21"
             },
             {
               "title": "Creation Journals 5: Cellular Unit",
               "score": "5/10",
-              "percent": 50,
+              "percent": 50.0,
               "group": "Summative Assessment",
               "due": "Sep 30"
             },
             {
               "title": "Creation Journals 6: Cellular Unit",
               "score": "10/10",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Summative Assessment",
               "due": "Sep 30"
             },
             {
               "title": "Unit 1 Test: The Nature of Life",
               "score": "82/100",
-              "percent": 82,
+              "percent": 82.0,
               "group": "Summative Assessment",
               "due": "Sep 16"
             },
             {
               "title": "Unit 2 Test: Cell Structure and Environment (SA)",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Summative Assessment",
               "due": "Oct 2"
             }
@@ -1612,8 +1610,8 @@ window.RECAP_DATA = {
           "teacher": "MacAllister",
           "period": "P8",
           "source": "canvas",
-          "grade": 80.65,
-          "note": "Wed Nov 18 8 AM CT grade pull: 80.65% (unchanged). Wed Nov 18 ~12:10 AM CT pull: English I 80.65% (was 80.91). Work items not re-pulled. Mon Nov 16 5 PM CT pull: English I 80.91% (unchanged). Research Paper Topic/Sources reminders (0 pts) marked 0 Mon Nov 16 ~8:45 AM — no grade effect. APA Research Paper due Wed Nov 18 8:30 AM. Earlier: Fri Nov 13 5 PM CT pull: 80.91% unchanged. APA Research Paper (summative) due Wed Nov 18 8:30 AM CT; Rough Draft still awaiting grade. Earlier: Grade unchanged — Wed Nov 11 ~12:10 AM CT pull: APA Research Paper Rough Draft submitted Tue Nov 10 ~9:18 PM CT, awaiting grade. Earlier: 80.91% (unchanged) — Tue Nov 10 ~4 PM CT pull: APA Research Paper Rough Draft now has a due date, Tue Nov 10 11:59 PM CT; still unsubmitted. Earlier: 80.91% (unchanged) — Mon Nov 9 ~8 PM CT pull: APA Research Paper (summative, due Wed Nov 18 8:30 AM CT) points 200 → 100 (updated ~6:30 PM CT); still unsubmitted. Earlier: 80.91% (was 80.95) — Mon Nov 9 ~8:59–9:17 AM CT teacher posted scores: APA Research Paper Outline 50/100, Q2 Membean Program 1 50/100, Q2 Membean Program 2 45/50, Q2 Membean Quiz 1 90/100. New: Membean Program 3 (100 pts formative, due Wed Nov 11 11:59 PM CT). Earlier: 80.95% (was 81.14) — Fri Nov 6 ~12:31 PM CT: Act 1, Scenes 1-3 graded 80/100. Earlier: Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu Oct 22 2:51 PM; graded 80/100 Fri Nov 6 ~12:31 PM CT; APA Research Paper Outline (100 pts) and Sources (reminder) were due Thu Oct 29 8:30 AM — nothing turned in on Canvas yet (per the announcement they're being completed in class Thu Oct 29/Fri Oct 30); Q2 Membean Quiz 1 (due Thu Oct 29 8:30 AM) — no score in Canvas yet; Romeo and Juliet Balcony Scene Comic (100 pts, file upload; due moved from Mon Oct 26 10 PM to Thu Oct 29 8:30 AM) — not submitted, and Canvas marks it missing again; and Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean); APA Research Paper due Wed Nov 18 (rough draft now 100 pts, was 200 — changed Sun Nov 1 ~11:27 AM; still no date). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%). Mrs. MacAllister's Sun Oct 25 announcement: sources and outline will be submitted for approval and completed in class Thu Oct 29/Fri Oct 30; other research paper dates unchanged; heavy in-class reading Mon Oct 26/Tue Oct 27.",
+          "grade": 80.91,
+          "note": "Mon Nov 16 5 PM CT pull: English I 80.91% (unchanged). Research Paper Topic/Sources reminders (0 pts) marked 0 Mon Nov 16 ~8:45 AM — no grade effect. APA Research Paper due Wed Nov 18 8:30 AM. Earlier: Fri Nov 13 5 PM CT pull: 80.91% unchanged. APA Research Paper (summative) due Wed Nov 18 8:30 AM CT; Rough Draft still awaiting grade. Earlier: Grade unchanged — Wed Nov 11 ~12:10 AM CT pull: APA Research Paper Rough Draft submitted Tue Nov 10 ~9:18 PM CT, awaiting grade. Earlier: 80.91% (unchanged) — Tue Nov 10 ~4 PM CT pull: APA Research Paper Rough Draft now has a due date, Tue Nov 10 11:59 PM CT; still unsubmitted. Earlier: 80.91% (unchanged) — Mon Nov 9 ~8 PM CT pull: APA Research Paper (summative, due Wed Nov 18 8:30 AM CT) points 200 → 100 (updated ~6:30 PM CT); still unsubmitted. Earlier: 80.91% (was 80.95) — Mon Nov 9 ~8:59–9:17 AM CT teacher posted scores: APA Research Paper Outline 50/100, Q2 Membean Program 1 50/100, Q2 Membean Program 2 45/50, Q2 Membean Quiz 1 90/100. New: Membean Program 3 (100 pts formative, due Wed Nov 11 11:59 PM CT). Earlier: 80.95% (was 81.14) — Fri Nov 6 ~12:31 PM CT: Act 1, Scenes 1-3 graded 80/100. Earlier: Research Paper Topic (not graded) was due Mon Oct 19 4 PM; Canvas has no online submission for it, so check with Olen that he picked his topic. Q2 Membean Program 1 (100 pts) was due Wed Oct 21 11:59 PM — no score in Canvas yet (it's tracked in Membean); Romeo and Juliet discussion \"Act 1, Scenes 1-3\" (100 pts, due Thu Oct 22 4:00 PM) turned in Thu Oct 22 2:51 PM; graded 80/100 Fri Nov 6 ~12:31 PM CT; APA Research Paper Outline (100 pts) and Sources (reminder) were due Thu Oct 29 8:30 AM — nothing turned in on Canvas yet (per the announcement they're being completed in class Thu Oct 29/Fri Oct 30); Q2 Membean Quiz 1 (due Thu Oct 29 8:30 AM) — no score in Canvas yet; Romeo and Juliet Balcony Scene Comic (100 pts, file upload; due moved from Mon Oct 26 10 PM to Thu Oct 29 8:30 AM) — not submitted, and Canvas marks it missing again; and Q2 Membean Program 2 (50 pts) was due Wed Oct 28 11:59 PM — no score in Canvas yet (tracked in Membean); APA Research Paper due Wed Nov 18 (rough draft now 100 pts, was 200 — changed Sun Nov 1 ~11:27 AM; still no date). SKDM Assessment (70/100) and Q1 Membean Program 1 (95/100), which disappeared from Canvas Mon, are back as of Tue noon, so the grade is 81.14% again; TKAM Novel Test remains 134/200 (67%). Mrs. MacAllister's Sun Oct 25 announcement: sources and outline will be submitted for approval and completed in class Thu Oct 29/Fri Oct 30; other research paper dates unchanged; heavy in-class reading Mon Oct 26/Tue Oct 27.",
           "work": [
             {
               "title": "Research Paper Topic",
@@ -1650,182 +1648,182 @@ window.RECAP_DATA = {
             {
               "title": "APA Research Paper Outine",
               "score": "50/100",
-              "percent": 50,
+              "percent": 50.0,
               "group": "Formative Assessment",
               "due": "Oct 29"
             },
             {
               "title": "Act 1, Scenes 1-3",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Formative Assessment",
               "due": "Oct 22"
             },
             {
               "title": "Q1 Membean Program 1",
               "score": "95/100",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "Q1 Membean Program 2",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 2"
             },
             {
               "title": "Q1 Membean Program 3",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
             },
             {
               "title": "Q1 Membean Program 4",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 16"
             },
             {
               "title": "Q1 Membean Program 5",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 23"
             },
             {
               "title": "Q1 Membean Program 6",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Sep 30"
             },
             {
               "title": "Q1 Membean Program 7",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Formative Assessment",
               "due": "Oct 7"
             },
             {
               "title": "Q2 Membean Program 1",
               "score": "50/100",
-              "percent": 50,
+              "percent": 50.0,
               "group": "Formative Assessment",
               "due": "Oct 21"
             },
             {
               "title": "Q2 Membean Program 2",
               "score": "45/50",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Formative Assessment",
               "due": "Oct 28"
             },
             {
               "title": "SKDM Reflection",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Aug 26"
             },
             {
               "title": "TKAM Ch. 1-7",
               "score": "85/100",
-              "percent": 85,
+              "percent": 85.0,
               "group": "Formative Assessment",
               "due": "Sep 3"
             },
             {
               "title": "TKAM Ch. 13-18 due",
               "score": "55/100",
-              "percent": 55,
+              "percent": 55.0,
               "group": "Formative Assessment",
               "due": "Sep 16"
             },
             {
               "title": "TKAM Ch. 19-24 due",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Formative Assessment",
               "due": "Sep 21"
             },
             {
               "title": "TKAM Ch. 25-31 due",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Formative Assessment",
               "due": "Sep 30"
             },
             {
               "title": "TKAM Literature Circle",
               "score": "200/200",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Sep 14"
             },
             {
               "title": "TKAM Post-Reading Reflection",
               "score": "100/100",
-              "percent": 100,
+              "percent": 100.0,
               "group": "Formative Assessment",
               "due": "Oct 7"
             },
             {
               "title": "TKAM Shoe Activity",
               "score": "190/200",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Formative Assessment",
               "due": "Sep 9"
             },
             {
               "title": "Q1 Membean Quiz 1",
               "score": "80/100",
-              "percent": 80,
+              "percent": 80.0,
               "group": "Summative Assessment",
               "due": "Sep 3"
             },
             {
               "title": "Q1 Membean Quiz 2",
               "score": "95/100",
-              "percent": 95,
+              "percent": 95.0,
               "group": "Summative Assessment",
               "due": "Sep 17"
             },
             {
               "title": "Q1 Membean Quiz 3",
               "score": "93/100",
-              "percent": 93,
+              "percent": 93.0,
               "group": "Summative Assessment",
               "due": "Oct 1"
             },
             {
               "title": "Q2 Membean Quiz 1",
               "score": "90/100",
-              "percent": 90,
+              "percent": 90.0,
               "group": "Summative Assessment",
               "due": "Oct 29"
             },
             {
               "title": "SKDM Assessment",
               "score": "70/100",
-              "percent": 70,
+              "percent": 70.0,
               "group": "Summative Assessment",
               "due": "Aug 24"
             },
             {
               "title": "TKAM Ch. 8-12 In-Class Essay",
               "score": "65/100",
-              "percent": 65,
+              "percent": 65.0,
               "group": "Summative Assessment",
               "due": "Sep 10"
             },
             {
               "title": "TKAM Novel Test",
               "score": "134/200",
-              "percent": 67,
+              "percent": 67.0,
               "group": "Summative Assessment",
               "due": "Oct 5"
             }
