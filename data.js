@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Wednesday, Nov 18, 2026 · 4:55 PM CT",
+  "updated": "Wednesday, Nov 18, 2026 · 5:11 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1834,6 +1834,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Wed Nov 18 5 PM CT check: Canvas Apologetics 86.65 and Graphic Design 97.3 unchanged; due Fri Nov 20: Apologetics Depth Chart Ladder (Kalam) and Graphic Design 11/17-11/20 classwork. Ethos as of 3:54 PM CT today: English 94, Physics 84, Government 85, Precalculus 90, Sociology 86 (unchanged). Government Civil Liberties (Due Sunday) and Court Case Comparison are posted 0; Government Fall Midterm Accommodations Part 1 shows due today and Part 2 Thu; Precalculus Dropbox Test Unit 4 due Thu Nov 19, Quiz 4.1-4.4 shows 0 and due Fri; Sociology DQ5 due today; English DWS #6 due Thu, Physics Circular Motion Lab due Sat Nov 21.",
         "Wed Nov 18 8 AM CT check: Canvas Apologetics 86.65 (86.6 rounded, unchanged), Graphic Design 97.3 unchanged. Ethos not refreshed this run — still the Tue Nov 17 3:50 PM CT live pull (English 94, Physics 84, Government 85, Precalculus 90, Sociology 86).",
         "Tue Nov 17 5 PM CT check: Canvas unchanged (Apologetics 86.6, Graphic Design 97.3); Ethos from the 3:50 PM CT live pull today (English 94, Physics 84, Government 85, Precalculus 90, Sociology 86). Due tonight: Apologetics Video Quiz Kalam Part 1 (11:59 PM); due today in Ethos: English Macbeth Act 4 Reading Guide Questions, Government Final Exam; Sociology DQ5 due Wed.",
         "Tue Nov 17 4 PM CT check: Ethos refreshed live at 3:50 PM CT (Government 87→85: Civil Liberties (Due Sunday) and Court Case Comparison posted 0; Sociology 85→86: Concept Modules 1–3 posted 100; English 94, Physics 84, Precalculus 90 unchanged); Apologetics 86.6 and Graphic Design 97.3 unchanged in Canvas.",
@@ -1896,100 +1897,147 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 94,
-          "note": "94% · Ethos live pull Tue Nov 17 3:50 PM CT · 11 overdue (2026 items) · due soon: Annotated Bibliography (Nov 16)",
+          "note": "94% · Ethos as of 3:54 PM CT Wed Nov 18 · 0 zero(s) · 18 with no grade posted (2026 items)",
           "work": [
             {
-              "title": "Annotated Bibliography",
+              "title": "DWS#6: Quotations (& Passive Voice)",
               "status": "due",
-              "detail": "not completed in Ethos · due Nov 16",
-              "due": "Nov 16"
+              "detail": "no grade posted yet · due Nov 19",
+              "due": "Nov 19"
+            },
+            {
+              "title": "Mbn 11/22",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 22",
+              "due": "Nov 22"
+            },
+            {
+              "title": "Mbn 11/1",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 23",
+              "due": "Nov 23"
             },
             {
               "title": "Membean 8/30",
               "status": "overdue",
-              "detail": "not completed · due Aug 30",
+              "detail": "no grade posted in Ethos · due Aug 30",
               "due": "Aug 30"
+            },
+            {
+              "title": "\"Why I Write\" by George Orwell",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Aug 30",
+              "due": "Aug 30"
+            },
+            {
+              "title": "Rhetorical Appeals Presentation and Assignment",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Sep 6",
+              "due": "Sep 6"
+            },
+            {
+              "title": "CHOOSE A TOPIC FOR YOUR PERSUASIVE PAPER",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Sep 6",
+              "due": "Sep 6"
             },
             {
               "title": "Membean 9/7",
               "status": "overdue",
-              "detail": "not completed · due Sep 06",
-              "due": "Sep 06"
+              "detail": "no grade posted in Ethos · due Sep 6",
+              "due": "Sep 6"
             },
             {
               "title": "Membean 9/13",
               "status": "overdue",
-              "detail": "not completed · due Sep 13",
+              "detail": "no grade posted in Ethos · due Sep 13",
               "due": "Sep 13"
             },
             {
               "title": "Membean 9/27",
               "status": "overdue",
-              "detail": "not completed · due Sep 27",
+              "detail": "no grade posted in Ethos · due Sep 27",
               "due": "Sep 27"
             },
             {
               "title": "DWS #4 Quiz",
               "status": "overdue",
-              "detail": "not completed · due Sep 30",
+              "detail": "no grade posted in Ethos · due Sep 30",
+              "due": "Sep 30"
+            },
+            {
+              "title": "Persuasive Paper",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Sep 30",
               "due": "Sep 30"
             },
             {
               "title": "Membean Practice 10/19",
               "status": "overdue",
-              "detail": "not completed · due Oct 18",
+              "detail": "no grade posted in Ethos · due Oct 18",
               "due": "Oct 18"
             },
             {
               "title": "Intro to the English Renaissance on StudySync",
               "status": "overdue",
-              "detail": "not completed · due Oct 18",
+              "detail": "no grade posted in Ethos · due Oct 18",
               "due": "Oct 18"
             },
             {
               "title": "Participation",
               "status": "overdue",
-              "detail": "not completed · due Oct 22",
+              "detail": "no grade posted in Ethos · due Oct 22",
               "due": "Oct 22"
             },
             {
               "title": "Mbn Week 10",
               "status": "overdue",
-              "detail": "not completed · due Oct 25",
+              "detail": "no grade posted in Ethos · due Oct 25",
               "due": "Oct 25"
+            },
+            {
+              "title": "Macbeth Act 5 Discussion Questions",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 8",
+              "due": "Nov 8"
             },
             {
               "title": "Mbn 11/09",
               "status": "overdue",
-              "detail": "not completed · due Nov 08",
-              "due": "Nov 08"
+              "detail": "no grade posted in Ethos · due Nov 8",
+              "due": "Nov 8"
             },
             {
               "title": "DWS #5 NUMBER TWO!",
               "status": "overdue",
-              "detail": "not completed · due Nov 11",
+              "detail": "no grade posted in Ethos · due Nov 11",
               "due": "Nov 11"
+            },
+            {
+              "title": "Annotated Bibliography",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 16",
+              "due": "Nov 16"
+            },
+            {
+              "title": "Macbeth Acts 4 Reading Guide Questions",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 17",
+              "due": "Nov 17"
             }
           ],
           "grades": [
             {
-              "title": "First draft of Intro, first two body paragraphs and Works Cited page",
-              "score": "90",
-              "percent": 90,
-              "group": "Ethos",
-              "due": "Sep 21, 2025"
-            },
-            {
-              "title": "Poetic Elements and Structure (StudySync)",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 21, 2025"
-            },
-            {
               "title": "Ben Jonson's \"On My First Son\" assignment",
               "score": "100",
               "percent": 100,
+              "group": "Ethos",
+              "due": "Sep 21, 2025"
+            },
+            {
+              "title": "First draft of Intro, first two body paragraphs and Works Cited page",
+              "score": "90",
+              "percent": 90,
               "group": "Ethos",
               "due": "Sep 21, 2025"
             },
@@ -2029,16 +2077,16 @@ window.RECAP_DATA = {
               "due": "Aug 26, 2026"
             },
             {
-              "title": "Final Narrative Essay Writing Assignment",
-              "score": "92",
-              "percent": 92,
+              "title": "\"Shooting an Elephant\" by George Orwell",
+              "score": "100",
+              "percent": 100,
               "group": "Ethos",
               "due": "Aug 30, 2026"
             },
             {
-              "title": "\"Shooting an Elephant\" by George Orwell",
-              "score": "100",
-              "percent": 100,
+              "title": "Final Narrative Essay Writing Assignment",
+              "score": "92",
+              "percent": 92,
               "group": "Ethos",
               "due": "Aug 30, 2026"
             },
@@ -2057,14 +2105,14 @@ window.RECAP_DATA = {
               "due": "Sep 08, 2026"
             },
             {
-              "title": "Prologue to the Canterbury Tales",
+              "title": "Five Sources and Persuasive Paper Thesis Statement",
               "score": "100",
               "percent": 100,
               "group": "Ethos",
               "due": "Sep 13, 2026"
             },
             {
-              "title": "Five Sources and Persuasive Paper Thesis Statement",
+              "title": "Prologue to the Canterbury Tales",
               "score": "100",
               "percent": 100,
               "group": "Ethos",
@@ -2126,181 +2174,89 @@ window.RECAP_DATA = {
           "teacher": "Manley",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": "84",
-          "note": "84% · Ethos live pull Tue Nov 17 3:50 PM CT · 9 overdue (2026 items) · due soon: Circular Motion and Gravitation Problem Set (Nov 14)",
+          "grade": 84,
+          "note": "84% · Ethos as of 3:54 PM CT Wed Nov 18 · 2 zero(s) · 10 with no grade posted (2026 items)",
           "work": [
-            {
-              "title": "Circular Motion and Gravitation Problem Set",
-              "status": "due",
-              "detail": "not completed in Ethos · due Nov 14",
-              "due": "Nov 14"
-            },
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
               "status": "zero",
-              "detail": "posted 0, not completed · due Aug 20",
+              "detail": "posted 0 in Ethos · due Aug 20",
               "due": "Aug 20"
             },
             {
               "title": "Motion Graphs Packet & Activity",
               "status": "zero",
-              "detail": "posted 0, not completed · due Aug 29",
+              "detail": "posted 0 in Ethos · due Aug 29",
               "due": "Aug 29"
+            },
+            {
+              "title": "Circular Motion Lab",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 21",
+              "due": "Nov 21"
             },
             {
               "title": "Lockdown Browser Tutorial",
               "status": "overdue",
-              "detail": "not completed · due Aug 18",
+              "detail": "no grade posted in Ethos · due Aug 18",
               "due": "Aug 18"
             },
             {
               "title": "Define 1D Motion Discussion Forum",
               "status": "overdue",
-              "detail": "not completed · due Sep 08",
-              "due": "Sep 08"
+              "detail": "no grade posted in Ethos · due Sep 8",
+              "due": "Sep 8"
             },
             {
               "title": "Velocity Teaching Video",
               "status": "overdue",
-              "detail": "not completed · due Sep 10",
+              "detail": "no grade posted in Ethos · due Sep 10",
               "due": "Sep 10"
             },
             {
               "title": "Position Time Graphs Teaching Video",
               "status": "overdue",
-              "detail": "not completed · due Sep 14",
+              "detail": "no grade posted in Ethos · due Sep 14",
               "due": "Sep 14"
             },
             {
               "title": "Position - Time Graph Walking Video Discussion Forum",
               "status": "overdue",
-              "detail": "not completed · due Sep 21",
+              "detail": "no grade posted in Ethos · due Sep 21",
               "due": "Sep 21"
             },
             {
               "title": "2D Flight Paths",
               "status": "overdue",
-              "detail": "not completed · due Oct 12",
+              "detail": "no grade posted in Ethos · due Oct 12",
               "due": "Oct 12"
             },
             {
               "title": "Mass vs Weight",
               "status": "overdue",
-              "detail": "not completed · due Nov 03",
-              "due": "Nov 03"
+              "detail": "no grade posted in Ethos · due Nov 3",
+              "due": "Nov 3"
             },
             {
               "title": "Net Force Conceptual Question",
               "status": "overdue",
-              "detail": "not completed · due Nov 05",
-              "due": "Nov 05"
+              "detail": "no grade posted in Ethos · due Nov 5",
+              "due": "Nov 5"
             },
             {
               "title": "Friction Conceptual Question",
               "status": "overdue",
-              "detail": "not completed · due Nov 09",
-              "due": "Nov 09"
+              "detail": "no grade posted in Ethos · due Nov 9",
+              "due": "Nov 9"
+            },
+            {
+              "title": "Circular Motion and Gravitation Problem Set",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 14",
+              "due": "Nov 14"
             }
           ],
           "grades": [
-            {
-              "title": "Practice Lockdown Browser Quiz Monitor",
-              "score": "0",
-              "percent": 0,
-              "group": "Ethos",
-              "due": "Aug 20, 2026"
-            },
-            {
-              "title": "Prereq Skills: Part 1 Teaching Video",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 24, 2026"
-            },
-            {
-              "title": "Prereq Skills: Part 2 Teaching Video",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 26, 2026"
-            },
-            {
-              "title": "Prerequisite Skills Packet",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 29, 2026"
-            },
-            {
-              "title": "Significant Figures Lab",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 29, 2026"
-            },
-            {
-              "title": "1D Motion Part 1 Notes",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 29, 2026"
-            },
-            {
-              "title": "Motion Graphs Packet & Activity",
-              "score": "0",
-              "percent": 0,
-              "group": "Ethos",
-              "due": "Aug 29, 2026"
-            },
-            {
-              "title": "Significant Figure Lab Explanation",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 01, 2026"
-            },
-            {
-              "title": "Prerequisite Skills Test",
-              "score": "69",
-              "percent": 69,
-              "group": "Ethos",
-              "due": "Sep 04, 2026"
-            },
-            {
-              "title": "1D Motion Part 2 Notes",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 05, 2026"
-            },
-            {
-              "title": "1D Kinematics Homework Set",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 05, 2026"
-            },
-            {
-              "title": "Free Fall Lab",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 05, 2026"
-            },
-            {
-              "title": "1D Motion Test Review",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 19, 2026"
-            },
-            {
-              "title": "2D Motion Notes",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 23, 2026"
-            },
             {
               "title": "2D Kinematics Homework Set",
               "score": "85",
@@ -2449,133 +2405,130 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% (was 87) · Ethos live pull Tue Nov 17 3:50 PM CT · 7 overdue (2026 items) · due soon: Civil Liberties and Rights Assessment (Nov 13), First Amendment Civil Liberties Exploration (Nov 15), Court Case Comparison (Nov 15), Synch Session #8 Make up (Nov 16)",
+          "note": "85% · Ethos as of 3:54 PM CT Wed Nov 18 · 2 zero(s) · 11 with no grade posted (2026 items) · Ethos shifted several Government due dates today, so treat those dates with care",
           "work": [
             {
-              "title": "Civil Liberties and Rights Assessment",
-              "status": "due",
-              "detail": "not completed in Ethos · due Nov 13",
-              "due": "Nov 13"
+              "title": "Civil Liberties (Due Sunday)",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Nov 2",
+              "due": "Nov 2"
             },
             {
               "title": "Court Case Comparison",
               "status": "zero",
-              "detail": "posted 0 · due Nov 15",
+              "detail": "posted 0 in Ethos · due Nov 15",
               "due": "Nov 15"
             },
             {
-              "title": "Synch Session #8 Make up",
+              "title": "Fall Midterm Accommodations Part 1",
               "status": "due",
-              "detail": "not completed in Ethos · due Nov 16",
-              "due": "Nov 16"
+              "detail": "no grade posted yet · due Nov 18",
+              "due": "Nov 18"
+            },
+            {
+              "title": "Fall Midterm Accommodation Part 2",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 19",
+              "due": "Nov 19"
+            },
+            {
+              "title": "State and Local Governments",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 22",
+              "due": "Nov 22"
+            },
+            {
+              "title": "Civil Rights Questions",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 22",
+              "due": "Nov 22"
+            },
+            {
+              "title": "Final Exam Part 1",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 23",
+              "due": "Nov 23"
+            },
+            {
+              "title": "Make up Synch Session #9",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 24",
+              "due": "Nov 24"
+            },
+            {
+              "title": "Final Exam Part 2",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 25",
+              "due": "Nov 25"
             },
             {
               "title": "Synch #1 Make Up",
               "status": "overdue",
-              "detail": "not completed · due Aug 23",
+              "detail": "no grade posted in Ethos · due Aug 23",
               "due": "Aug 23"
+            },
+            {
+              "title": "Synch Session #2 8/24 Make up",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Aug 30",
+              "due": "Aug 30"
             },
             {
               "title": "Synch Session #3 9/7",
               "status": "overdue",
-              "detail": "not completed · due Sep 13",
+              "detail": "no grade posted in Ethos · due Sep 13",
               "due": "Sep 13"
             },
             {
               "title": "Synch Session #4 9/21",
               "status": "overdue",
-              "detail": "not completed · due Sep 27",
+              "detail": "no grade posted in Ethos · due Sep 27",
               "due": "Sep 27"
             },
             {
               "title": "Synch Session #5 Make Up",
               "status": "overdue",
-              "detail": "not completed · due Oct 04",
-              "due": "Oct 04"
+              "detail": "no grade posted in Ethos · due Oct 4",
+              "due": "Oct 4"
+            },
+            {
+              "title": "Synch Session #6 Make up",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Oct 19",
+              "due": "Oct 19"
             },
             {
               "title": "Judicial Branch Test",
               "status": "overdue",
-              "detail": "not completed · due Oct 28",
-              "due": "Oct 28"
+              "detail": "no grade posted in Ethos · due Oct 27",
+              "due": "Oct 27"
             },
             {
               "title": "Synch Session #7 Makeup",
               "status": "overdue",
-              "detail": "not completed · due Nov 01",
-              "due": "Nov 01"
+              "detail": "no grade posted in Ethos · due Nov 1",
+              "due": "Nov 1"
             },
             {
-              "title": "Civil Liberties (Due Sunday)",
-              "status": "zero",
-              "detail": "posted 0 · due Nov 03",
-              "due": "Nov 03"
+              "title": "Civil Liberties and Rights Assessment",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 12",
+              "due": "Nov 12"
+            },
+            {
+              "title": "Final Exam",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 16",
+              "due": "Nov 16"
+            },
+            {
+              "title": "Synch Session #8 Make up",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 16",
+              "due": "Nov 16"
             }
           ],
           "grades": [
-            {
-              "title": "Systems of Government Comparison",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 23, 2026"
-            },
-            {
-              "title": "Enlightened Philosophers",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 23, 2026"
-            },
-            {
-              "title": "Understanding the Weaknesses of the Articles of Confederation",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 30, 2026"
-            },
-            {
-              "title": "Federalists v. Anti Federalists",
-              "score": "80",
-              "percent": 80,
-              "group": "Ethos",
-              "due": "Sep 01, 2026"
-            },
-            {
-              "title": "Constitutional Convention Compromises",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 06, 2026"
-            },
-            {
-              "title": "Bill of Rights",
-              "score": "80",
-              "percent": 80,
-              "group": "Ethos",
-              "due": "Sep 09, 2026"
-            },
-            {
-              "title": "Checkpoint Quiz",
-              "score": "87",
-              "percent": 87,
-              "group": "Ethos",
-              "due": "Sep 11, 2026"
-            },
-            {
-              "title": "Constitutional Scavenger Hunt",
-              "score": "95",
-              "percent": 95,
-              "group": "Ethos",
-              "due": "Sep 13, 2026"
-            },
-            {
-              "title": "Constitutional Principles and Clauses",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 13, 2026"
-            },
             {
               "title": "Comparing the House and the Senate",
               "score": "100",
@@ -2602,28 +2555,28 @@ window.RECAP_DATA = {
               "score": "100",
               "percent": 100,
               "group": "Ethos",
-              "due": "Sep 23, 2026"
+              "due": "Sep 22, 2026"
             },
             {
               "title": "Civic Participation",
               "score": "100",
               "percent": 100,
               "group": "Ethos",
-              "due": "Sep 25, 2026"
+              "due": "Sep 24, 2026"
             },
             {
               "title": "Midterm",
               "score": "86",
               "percent": 86,
               "group": "Ethos",
-              "due": "Sep 29, 2026"
+              "due": "Sep 28, 2026"
             },
             {
               "title": "President and Bureaucracy Test",
               "score": "88",
               "percent": 88,
               "group": "Ethos",
-              "due": "Oct 13, 2026"
+              "due": "Oct 12, 2026"
             },
             {
               "title": "7 Roles of the President",
@@ -2675,6 +2628,13 @@ window.RECAP_DATA = {
               "due": "Nov 01, 2026"
             },
             {
+              "title": "Civil Liberties (Due Sunday)",
+              "score": "0",
+              "percent": 0,
+              "group": "Ethos",
+              "due": "Nov 02, 2026"
+            },
+            {
               "title": "Due Process Court Case",
               "score": "100",
               "percent": 100,
@@ -2696,25 +2656,18 @@ window.RECAP_DATA = {
               "due": "Nov 15, 2026"
             },
             {
-              "title": "Check point Quiz",
-              "score": "87",
-              "percent": 87,
-              "group": "Ethos",
-              "due": "Dec 03, 2026"
-            },
-            {
-              "title": "Civil Liberties (Due Sunday)",
-              "score": "0",
-              "percent": 0,
-              "group": "Ethos",
-              "due": "Nov 03, 2026"
-            },
-            {
               "title": "Court Case Comparison",
               "score": "0",
               "percent": 0,
               "group": "Ethos",
               "due": "Nov 15, 2026"
+            },
+            {
+              "title": "Check point Quiz",
+              "score": "87",
+              "percent": 87,
+              "group": "Ethos",
+              "due": "Dec 01, 2026"
             }
           ]
         },
@@ -2723,114 +2676,101 @@ window.RECAP_DATA = {
           "teacher": "Pinson",
           "period": "Ethos",
           "source": "Ethos",
-          "grade": "90",
-          "note": "90% · Ethos live pull Tue Nov 17 3:50 PM CT · 1 overdue (2026 items) · due soon: Dropbox Week 13 Homework (Nov 12), Dropbox Quiz 4.5-4.8 (Nov 12)",
+          "grade": 90,
+          "note": "90% · Ethos as of 3:54 PM CT Wed Nov 18 · 13 zero(s) · 1 with no grade posted (2026 items)",
           "work": [
+            {
+              "title": "Quiz 1.1 - 1.3",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Aug 21",
+              "due": "Aug 21"
+            },
+            {
+              "title": "QUIZ 1.4 - 1.7",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Sep 1",
+              "due": "Sep 1"
+            },
+            {
+              "title": "Test Unit 1",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Sep 3",
+              "due": "Sep 3"
+            },
+            {
+              "title": "Quiz 2.1-2.2",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Sep 10",
+              "due": "Sep 10"
+            },
+            {
+              "title": "QUIZ 2.3 - 2.7",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Sep 25",
+              "due": "Sep 25"
+            },
+            {
+              "title": "Test Unit 2",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Oct 2",
+              "due": "Oct 2"
+            },
+            {
+              "title": "Fall Midterm Exam",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Oct 9",
+              "due": "Oct 9"
+            },
             {
               "title": "Dropbox Quiz 3.1-3.3",
               "status": "zero",
-              "detail": "posted 0, not completed · due Oct 15",
+              "detail": "posted 0 in Ethos · due Oct 15",
               "due": "Oct 15"
+            },
+            {
+              "title": "QUIZ 3.4 - 3.6",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Oct 29",
+              "due": "Oct 29"
+            },
+            {
+              "title": "Test Unit 3",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Nov 4",
+              "due": "Nov 4"
+            },
+            {
+              "title": "Unit Circle Quiz",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Nov 13",
+              "due": "Nov 13"
+            },
+            {
+              "title": "Quiz 4.1-4.4",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Nov 20",
+              "due": "Nov 20"
+            },
+            {
+              "title": "QUIZ 4.5 - 4.8",
+              "status": "zero",
+              "detail": "posted 0 in Ethos · due Dec 1",
+              "due": "Dec 1"
+            },
+            {
+              "title": "Dropbox Test Unit 4",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 19",
+              "due": "Nov 19"
             },
             {
               "title": "Quiz 3.1-3.3",
               "status": "overdue",
-              "detail": "not completed · due Oct 20",
+              "detail": "no grade posted in Ethos · due Oct 20",
               "due": "Oct 20"
             }
           ],
           "grades": [
-            {
-              "title": "Dropbox Week 1 Homework",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 20, 2026"
-            },
-            {
-              "title": "Dropbox Quiz 1.1- 1.3",
-              "score": "95",
-              "percent": 95,
-              "group": "Ethos",
-              "due": "Aug 20, 2026"
-            },
-            {
-              "title": "Quiz 1.1 - 1.3",
-              "score": "0",
-              "percent": 0,
-              "group": "Ethos",
-              "due": "Aug 21, 2026"
-            },
-            {
-              "title": "Dropbox Week 2 Homework",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 27, 2026"
-            },
-            {
-              "title": "Dropbox Quiz 1.4 - 1.7",
-              "score": "95",
-              "percent": 95,
-              "group": "Ethos",
-              "due": "Aug 27, 2026"
-            },
-            {
-              "title": "QUIZ 1.4 - 1.7",
-              "score": "0",
-              "percent": 0,
-              "group": "Ethos",
-              "due": "Sep 01, 2026"
-            },
-            {
-              "title": "Test Unit 1",
-              "score": "0",
-              "percent": 0,
-              "group": "Ethos",
-              "due": "Sep 03, 2026"
-            },
-            {
-              "title": "Test Unit 1",
-              "score": "83",
-              "percent": 83,
-              "group": "Ethos",
-              "due": "Sep 10, 2026"
-            },
-            {
-              "title": "Dropbox Week 4 Homework",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 10, 2026"
-            },
-            {
-              "title": "Quiz 2.1-2.2",
-              "score": "0",
-              "percent": 0,
-              "group": "Ethos",
-              "due": "Sep 10, 2026"
-            },
-            {
-              "title": "Dropbox Week 5 Homework",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 17, 2026"
-            },
-            {
-              "title": "Dropbox QUIZ 2.3 - 2.7",
-              "score": "94",
-              "percent": 94,
-              "group": "Ethos",
-              "due": "Sep 17, 2026"
-            },
-            {
-              "title": "Quiz 2.1-2.2",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 21, 2026"
-            },
             {
               "title": "Dropbox Test Unit 2",
               "score": "84",
@@ -2979,132 +2919,124 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% (was 85) · Ethos live pull Tue Nov 17 3:50 PM CT · 15 overdue (2026 items) · due soon: Social Location Map Assignment (Nov 15), Sociological Scavenger Hunt #5 (Nov 15)",
+          "note": "86% · Ethos as of 3:54 PM CT Wed Nov 18 · 1 zero(s) · 16 with no grade posted (2026 items)",
           "work": [
-            {
-              "title": "Social Location Map Assignment",
-              "status": "due",
-              "detail": "not completed in Ethos · due Nov 15",
-              "due": "Nov 15"
-            },
-            {
-              "title": "Sociological Scavenger Hunt #5",
-              "status": "due",
-              "detail": "not completed in Ethos · due Nov 15",
-              "due": "Nov 15"
-            },
             {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
-              "detail": "posted 0, not completed · due Aug 18",
+              "detail": "posted 0 in Ethos · due Aug 18",
               "due": "Aug 18"
+            },
+            {
+              "title": "DQ5: The Status of Women in American Society",
+              "status": "due",
+              "detail": "no grade posted yet · due Nov 18",
+              "due": "Nov 18"
             },
             {
               "title": "Synchro Session Attendance: Units 4-6",
               "status": "overdue",
-              "detail": "not completed · due Aug 20",
+              "detail": "no grade posted in Ethos · due Aug 20",
               "due": "Aug 20"
             },
             {
               "title": "Sociology Unit 4&5 Test (Requires Respondus LockDown Browser)",
               "status": "overdue",
-              "detail": "not completed · due Aug 26",
+              "detail": "no grade posted in Ethos · due Aug 26",
               "due": "Aug 26"
             },
             {
               "title": "Unit 3 Sociology Quiz (Requires Respondus LockDown Browser)",
               "status": "overdue",
-              "detail": "not completed · due Aug 28",
+              "detail": "no grade posted in Ethos · due Aug 28",
               "due": "Aug 28"
             },
             {
               "title": "Concept Module 1: Perspectives",
               "status": "overdue",
-              "detail": "not completed · due Sep 03",
-              "due": "Sep 03"
+              "detail": "no grade posted in Ethos · due Sep 3",
+              "due": "Sep 3"
             },
             {
               "title": "Concept Module 2: Research",
               "status": "overdue",
-              "detail": "not completed · due Sep 07",
-              "due": "Sep 07"
+              "detail": "no grade posted in Ethos · due Sep 7",
+              "due": "Sep 7"
             },
             {
               "title": "DQ1: The Sociological Imagination",
               "status": "overdue",
-              "detail": "not completed · due Sep 09",
-              "due": "Sep 09"
+              "detail": "no grade posted in Ethos · due Sep 9",
+              "due": "Sep 9"
             },
             {
               "title": "OPT. Assignment #2: Violate a Social Norm",
               "status": "overdue",
-              "detail": "not completed · due Sep 13",
+              "detail": "no grade posted in Ethos · due Sep 13",
               "due": "Sep 13"
             },
             {
               "title": "OPT. Assignment #1: Journal of Mundane Behavior",
               "status": "overdue",
-              "detail": "not completed · due Sep 16",
+              "detail": "no grade posted in Ethos · due Sep 16",
               "due": "Sep 16"
             },
             {
               "title": "OPT. Assignment #3: Song Analysis",
               "status": "overdue",
-              "detail": "not completed · due Sep 28",
+              "detail": "no grade posted in Ethos · due Sep 28",
               "due": "Sep 28"
             },
             {
               "title": "DQ3: The Creation of You",
               "status": "overdue",
-              "detail": "not completed · due Oct 14",
+              "detail": "no grade posted in Ethos · due Oct 14",
               "due": "Oct 14"
             },
             {
               "title": "Sociology Midterm (2022)",
               "status": "overdue",
-              "detail": "not completed · due Oct 23",
+              "detail": "no grade posted in Ethos · due Oct 23",
               "due": "Oct 23"
             },
             {
               "title": "OPT. Assignment #4: Sociology in Kindergarten",
               "status": "overdue",
-              "detail": "not completed · due Oct 25",
+              "detail": "no grade posted in Ethos · due Oct 25",
               "due": "Oct 25"
             },
             {
               "title": "Concept Module 2: Perspectives on Social Institutions",
               "status": "overdue",
-              "detail": "not completed · due Nov 02",
-              "due": "Nov 02"
+              "detail": "no grade posted in Ethos · due Nov 2",
+              "due": "Nov 2"
             },
             {
               "title": "DQ4: Institutions",
               "status": "overdue",
-              "detail": "not completed · due Nov 04",
-              "due": "Nov 04"
+              "detail": "no grade posted in Ethos · due Nov 4",
+              "due": "Nov 4"
+            },
+            {
+              "title": "Social Location Map Assignment",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 15",
+              "due": "Nov 15"
+            },
+            {
+              "title": "Sociological Scavenger Hunt #5",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 15",
+              "due": "Nov 15"
             }
           ],
           "grades": [
-            {
-              "title": "Synchro Session Attendance: Units 1-3",
-              "score": "0",
-              "percent": 0,
-              "group": "Ethos",
-              "due": "Aug 18, 2026"
-            },
             {
               "title": "Sociology Unit 1&2 Test (Requires Respondus LockDown Browser)",
               "score": "86",
               "percent": 86,
               "group": "Ethos",
               "due": "Aug 24, 2026"
-            },
-            {
-              "title": "Assignment #1: Profile a Sociologist",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Aug 30, 2026"
             },
             {
               "title": "Sociological Scavenger Hunt #1",
@@ -3115,6 +3047,13 @@ window.RECAP_DATA = {
             },
             {
               "title": "OPT.Assignment #1b: Profile a Second Sociologist",
+              "score": "100",
+              "percent": 100,
+              "group": "Ethos",
+              "due": "Aug 30, 2026"
+            },
+            {
+              "title": "Assignment #1: Profile a Sociologist",
               "score": "100",
               "percent": 100,
               "group": "Ethos",
@@ -3191,14 +3130,14 @@ window.RECAP_DATA = {
               "due": "Oct 21, 2026"
             },
             {
-              "title": "Teaching Video Assignment",
+              "title": "Sociological Scavenger Hunt #4",
               "score": "100",
               "percent": 100,
               "group": "Ethos",
               "due": "Oct 25, 2026"
             },
             {
-              "title": "Sociological Scavenger Hunt #4",
+              "title": "Teaching Video Assignment",
               "score": "100",
               "percent": 100,
               "group": "Ethos",
@@ -3239,14 +3178,14 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": "86.65",
-          "note": "86.6% (was 86.54) — Canvas live pull Fri Nov 13 noon CT · Tue Nov 10 ~12 PM CT: Video Quiz: The Kalam Cosmological Argument - Part 1: Scientific submitted ~10:41 AM CT and graded 80/100 (~10:45 AM). Explain It: The Contingency Argument still awaiting grade (due Fri Nov 13 11:59 PM); Summative - Sort and Defend 80/100; Case for Truth Summative Exam 66/100 is still the low spot; Memory Verse 3 (Formative, 100 pts) and Unit 4 Summative Quiz (Memory Section & Essay, 100 pts) both due Fri Dec 4 11:59 PM.",
+          "grade": 86.65,
+          "note": "86.65% — Canvas live pull Wed Nov 18 ~5 PM CT (unchanged). Depth Chart Ladder: Kalam due Fri Nov 20; announcement (Nov 11) says two memory-verse assessments plus Kalam summative essay are coming. Memory Verse 3 and Unit 4 Summative Quiz showed due Dec 4 earlier.",
           "work": [
             {
-              "title": "Explain It: The Contingency Argument",
-              "status": "submitted",
-              "detail": "100 pts formative · submitted Sat Nov 7 · awaiting grade · due Fri Nov 13 11:59 PM",
-              "due": "Nov 13"
+              "title": "Depth Chart Ladder: Kalam Cosmological Argument",
+              "status": "due",
+              "detail": "100 pts · due Fri Nov 20",
+              "due": "Nov 20"
             },
             {
               "title": "Memory Verse 3 (Formative)",
@@ -3396,8 +3335,15 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — 11/3-11/6 classwork (100 pts, on paper) was graded 100/100 Tue Nov 10 ~7:55 AM CT (it had been showing overdue); Canvas still shows the course at 97.3%.",
-          "work": [],
+          "note": "97.3% — Canvas live pull Wed Nov 18 ~5 PM CT (unchanged). Weekly 11/17-11/20 classwork (on paper) due Fri Nov 20.",
+          "work": [
+            {
+              "title": "11/17-11/20 classwork",
+              "status": "due",
+              "detail": "100 pts · on paper · due Fri Nov 20",
+              "due": "Nov 20"
+            }
+          ],
           "grades": [
             {
               "title": "11/3-11/6",
