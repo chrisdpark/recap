@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Thursday, Nov 19, 2026 · 4:50 PM CT",
+  "updated": "Thursday, Nov 19, 2026 · 5:18 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1838,6 +1838,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Thu Nov 19 5 PM CT check: Canvas Apologetics 86.65 and Graphic Design 97.3 unchanged; due Fri Nov 20: Apologetics Depth Chart Ladder (Kalam) and Graphic Design 11/17-11/20 classwork. Ethos as of 3:54 PM CT today: English 94, Physics 84, Government 85, Precalculus 90, Sociology 86 (unchanged). Government Civil Liberties (Due Sunday) and Court Case Comparison still posted 0 (Court Case Comparison shows completed Nov 17); Judicial Branch Test posted 95. Due today and still ungraded: English DWS#6, Government Midterm Accommodation Part 2, Precalculus Dropbox Test Unit 4. Precalculus Quiz 4.1-4.4 shows 0 (due Fri). Physics Circular Motion Lab due Sat Nov 21; Government Final Exam Part 1 shows due Mon Nov 23.",
         "Thu Nov 19 4 PM CT check: Canvas Apologetics 86.65 and Graphic Design 97.3 unchanged. Ethos live read at 3:53 PM CT Thu Nov 19 shows grades unchanged (English 94, Physics 84, Government 85, Precalculus 90, Sociology 86); assignment rows below are from the Nov 18 3:54 PM CT capture.",
         "Thu Nov 19 12 PM CT check: Canvas Apologetics 86.65 and Graphic Design 97.3 unchanged. Ethos not refreshed this run; showing the Wed Nov 18 3:54 PM CT capture (English 94, Physics 84, Government 85, Precalculus 90, Sociology 86).",
         "Wed Nov 18 5 PM CT check: Canvas Apologetics 86.65 and Graphic Design 97.3 unchanged; due Fri Nov 20: Apologetics Depth Chart Ladder (Kalam) and Graphic Design 11/17-11/20 classwork. Ethos as of 3:54 PM CT today: English 94, Physics 84, Government 85, Precalculus 90, Sociology 86 (unchanged). Government Civil Liberties (Due Sunday) and Court Case Comparison are posted 0; Government Fall Midterm Accommodations Part 1 shows due today and Part 2 Thu; Precalculus Dropbox Test Unit 4 due Thu Nov 19, Quiz 4.1-4.4 shows 0 and due Fri; Sociology DQ5 due today; English DWS #6 due Thu, Physics Circular Motion Lab due Sat Nov 21.",
@@ -1903,7 +1904,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 94,
-          "note": "94% · Ethos as of 3:54 PM CT Wed Nov 18 · 0 zero(s) · 18 with no grade posted (2026 items)",
+          "note": "94% · Ethos as of 3:54 PM CT Thu Nov 19 · 0 zero(s) · 18 with no grade posted (2026 items)",
           "work": [
             {
               "title": "DWS#6: Quotations (& Passive Voice)",
@@ -2181,7 +2182,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 84,
-          "note": "84% · Ethos as of 3:54 PM CT Wed Nov 18 · 2 zero(s) · 10 with no grade posted (2026 items)",
+          "note": "84% · Ethos as of 3:54 PM CT Thu Nov 19 · 2 zero(s) · 10 with no grade posted (2026 items)",
           "work": [
             {
               "title": "Practice Lockdown Browser Quiz Monitor",
@@ -2411,7 +2412,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 85,
-          "note": "85% · Ethos as of 3:54 PM CT Wed Nov 18 · 2 zero(s) · 11 with no grade posted (2026 items) · Ethos shifted several Government due dates today, so treat those dates with care",
+          "note": "85% · Ethos as of 3:54 PM CT Thu Nov 19 · 2 zero(s) · 11 with no grade posted (2026 items) · Ethos shifted several Government due dates today, so treat those dates with care",
           "work": [
             {
               "title": "Civil Liberties (Due Sunday)",
@@ -2424,12 +2425,6 @@ window.RECAP_DATA = {
               "status": "zero",
               "detail": "posted 0 in Ethos · due Nov 15",
               "due": "Nov 15"
-            },
-            {
-              "title": "Fall Midterm Accommodations Part 1",
-              "status": "due",
-              "detail": "no grade posted yet · due Nov 18",
-              "due": "Nov 18"
             },
             {
               "title": "Fall Midterm Accommodation Part 2",
@@ -2504,12 +2499,6 @@ window.RECAP_DATA = {
               "due": "Oct 19"
             },
             {
-              "title": "Judicial Branch Test",
-              "status": "overdue",
-              "detail": "no grade posted in Ethos · due Oct 27",
-              "due": "Oct 27"
-            },
-            {
               "title": "Synch Session #7 Makeup",
               "status": "overdue",
               "detail": "no grade posted in Ethos · due Nov 1",
@@ -2532,16 +2521,15 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "no grade posted in Ethos · due Nov 16",
               "due": "Nov 16"
+            },
+            {
+              "title": "Fall Midterm Accommodations Part 1",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 18",
+              "due": "Nov 18"
             }
           ],
           "grades": [
-            {
-              "title": "Comparing the House and the Senate",
-              "score": "100",
-              "percent": 100,
-              "group": "Ethos",
-              "due": "Sep 20, 2026"
-            },
             {
               "title": "How a Bill Becomes a Law Game Board",
               "score": "100",
@@ -2611,6 +2599,13 @@ window.RECAP_DATA = {
               "percent": 100,
               "group": "Ethos",
               "due": "Oct 25, 2026"
+            },
+            {
+              "title": "Judicial Branch Test",
+              "score": "95",
+              "percent": 95,
+              "group": "Ethos",
+              "due": "Oct 27, 2026"
             },
             {
               "title": "Judicial Activism v. Restraint",
@@ -2683,7 +2678,7 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 90,
-          "note": "90% · Ethos as of 3:54 PM CT Wed Nov 18 · 13 zero(s) · 1 with no grade posted (2026 items)",
+          "note": "90% · Ethos as of 3:54 PM CT Thu Nov 19 · 13 zero(s) · 1 with no grade posted (2026 items)",
           "work": [
             {
               "title": "Quiz 1.1 - 1.3",
@@ -2925,19 +2920,13 @@ window.RECAP_DATA = {
           "period": "Ethos",
           "source": "Ethos",
           "grade": 86,
-          "note": "86% · Ethos as of 3:54 PM CT Wed Nov 18 · 1 zero(s) · 16 with no grade posted (2026 items)",
+          "note": "86% · Ethos as of 3:54 PM CT Thu Nov 19 · 1 zero(s) · 17 with no grade posted (2026 items)",
           "work": [
             {
               "title": "Synchro Session Attendance: Units 1-3",
               "status": "zero",
               "detail": "posted 0 in Ethos · due Aug 18",
               "due": "Aug 18"
-            },
-            {
-              "title": "DQ5: The Status of Women in American Society",
-              "status": "due",
-              "detail": "no grade posted yet · due Nov 18",
-              "due": "Nov 18"
             },
             {
               "title": "Synchro Session Attendance: Units 4-6",
@@ -3034,6 +3023,12 @@ window.RECAP_DATA = {
               "status": "overdue",
               "detail": "no grade posted in Ethos · due Nov 15",
               "due": "Nov 15"
+            },
+            {
+              "title": "DQ5: The Status of Women in American Society",
+              "status": "overdue",
+              "detail": "no grade posted in Ethos · due Nov 18",
+              "due": "Nov 18"
             }
           ],
           "grades": [
@@ -3185,8 +3180,14 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 86.65,
-          "note": "86.65% — Canvas live pull Wed Nov 18 ~5 PM CT (unchanged). Depth Chart Ladder: Kalam due Fri Nov 20; announcement (Nov 11) says two memory-verse assessments plus Kalam summative essay are coming. Memory Verse 3 and Unit 4 Summative Quiz showed due Dec 4 earlier.",
+          "note": "86.65% — Canvas live pull Thu Nov 19 ~5:20 PM CT (unchanged). Depth Chart Ladder: Kalam due Fri Nov 20; announcement (Nov 11) says two memory-verse assessments plus Kalam summative essay are coming. Memory Verse 3 and Unit 4 Summative Quiz showed due Dec 4 earlier.",
           "work": [
+            {
+              "title": "Depth Chart Ladder: Kalam Cosmological Argument",
+              "status": "due",
+              "detail": "100 pts · due Fri Nov 20",
+              "due": "Nov 20"
+            },
             {
               "title": "Depth Chart Ladder: Kalam Cosmological Argument",
               "status": "due",
@@ -3341,7 +3342,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — Canvas live pull Wed Nov 18 ~5 PM CT (unchanged). Weekly 11/17-11/20 classwork (on paper) due Fri Nov 20.",
+          "note": "97.3% — Canvas live pull Thu Nov 19 ~5:20 PM CT (unchanged). Weekly 11/17-11/20 classwork (on paper) due Fri Nov 20.",
           "work": [
             {
               "title": "11/17-11/20 classwork",
