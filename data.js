@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Nov 20, 2026 · 5:05 PM CT",
+  "updated": "Friday, Nov 20, 2026 · 5:18 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -1840,6 +1840,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Fri Nov 20 5 PM CT check: Canvas Apologetics 86.4 and Graphic Design 97.3 unchanged; nothing new due Sat-Mon in Canvas. Due today: Apologetics Depth Chart Ladder (Kalam) by 11:59 PM and Graphic Design 11/17-11/20 classwork (on paper). Ethos as of 3:52 PM CT today: English 94, Physics 84, Government 87, Precalculus 90, Sociology 86 (unchanged since earlier check). Still posted 0: Government Civil Liberties (Due Sunday) and Precalculus Quiz 4.1-4.4 (due today). Due this weekend/Monday in Ethos: Physics Circular Motion Lab (Sat Nov 21), Government State and Local Governments and Civil Rights Questions (Sun Nov 22), English Mbn 11/22 (Sun), Government Final Exam Part 1 (Mon Nov 23). English DWS#6 (due Thu) and Sociology DQ5 (due Wed) still show no grade. Apologetics memory verses and Kalam summative are expected next week.",
         "Fri Nov 20 4 PM CT check: Ethos as of 3:52 PM CT: English 12 94, Physics 84, Government 87, Precalculus 90, Sociology 86. Canvas Apologetics 86.4, Graphic Design 97.3. Changes: Government 85->87; Apologetics 86.34->86.4.",
         "Thu Nov 19 5 PM CT check: Canvas Apologetics 86.65 and Graphic Design 97.3 unchanged; due Fri Nov 20: Apologetics Depth Chart Ladder (Kalam) and Graphic Design 11/17-11/20 classwork. Ethos as of 3:54 PM CT today: English 94, Physics 84, Government 85, Precalculus 90, Sociology 86 (unchanged). Government Civil Liberties (Due Sunday) and Court Case Comparison still posted 0 (Court Case Comparison shows completed Nov 17); Judicial Branch Test posted 95. Due today and still ungraded: English DWS#6, Government Midterm Accommodation Part 2, Precalculus Dropbox Test Unit 4. Precalculus Quiz 4.1-4.4 shows 0 (due Fri). Physics Circular Motion Lab due Sat Nov 21; Government Final Exam Part 1 shows due Mon Nov 23.",
         "Thu Nov 19 4 PM CT check: Canvas Apologetics 86.65 and Graphic Design 97.3 unchanged. Ethos live read at 3:53 PM CT Thu Nov 19 shows grades unchanged (English 94, Physics 84, Government 85, Precalculus 90, Sociology 86); assignment rows below are from the Nov 18 3:54 PM CT capture.",
@@ -3620,14 +3621,8 @@ window.RECAP_DATA = {
           "period": "P3",
           "source": "Canvas",
           "grade": 86.4,
-          "note": "86.4% — Canvas live pull Thu Nov 19 ~5:20 PM CT (unchanged). Depth Chart Ladder: Kalam due Fri Nov 20; announcement (Nov 11) says two memory-verse assessments plus Kalam summative essay are coming. Memory Verse 3 and Unit 4 Summative Quiz showed due Dec 4 earlier.",
+          "note": "86.4% — Canvas live pull Fri Nov 20 ~5:20 PM CT (unchanged). Depth Chart Ladder: Kalam due Fri Nov 20; announcement (Nov 11) says two memory-verse assessments plus Kalam summative essay are coming. Memory Verse 3 and Unit 4 Summative Quiz showed due Dec 4 earlier.",
           "work": [
-            {
-              "title": "Depth Chart Ladder: Kalam Cosmological Argument",
-              "status": "due",
-              "detail": "100 pts · due Fri Nov 20",
-              "due": "Nov 20"
-            },
             {
               "title": "Depth Chart Ladder: Kalam Cosmological Argument",
               "status": "due",
@@ -3782,7 +3777,7 @@ window.RECAP_DATA = {
           "period": "P5",
           "source": "Canvas",
           "grade": 97.3,
-          "note": "97.3% — Canvas live pull Thu Nov 19 ~5:20 PM CT (unchanged). Weekly 11/17-11/20 classwork (on paper) due Fri Nov 20.",
+          "note": "97.3% — Canvas live pull Fri Nov 20 ~5:20 PM CT (unchanged). Weekly 11/17-11/20 classwork (on paper) due Fri Nov 20.",
           "work": [
             {
               "title": "11/17-11/20 classwork",
