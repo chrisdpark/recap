@@ -1,5 +1,5 @@
 window.RECAP_DATA = {
-  "updated": "Friday, Nov 20, 2026 · 8:07 AM CT",
+  "updated": "Friday, Nov 20, 2026 · 12:12 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
@@ -3179,7 +3179,7 @@ window.RECAP_DATA = {
           "teacher": "Dallas",
           "period": "P3",
           "source": "Canvas",
-          "grade": 86.65,
+          "grade": 86.34,
           "note": "86.65% — Canvas live pull Thu Nov 19 ~5:20 PM CT (unchanged). Depth Chart Ladder: Kalam due Fri Nov 20; announcement (Nov 11) says two memory-verse assessments plus Kalam summative essay are coming. Memory Verse 3 and Unit 4 Summative Quiz showed due Dec 4 earlier.",
           "work": [
             {
