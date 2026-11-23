@@ -1,9 +1,10 @@
 window.RECAP_DATA = {
-  "updated": "Sunday, Nov 22, 2026 · 4:10 PM CT",
+  "updated": "Sunday, Nov 22, 2026 · 8:10 PM CT",
   "students": {
     "olen": {
       "name": "Olen",
       "attention": [
+        "Sun Nov 22 8 PM CT check (live Canvas): all seven Olen course grades unchanged — Bible 86.65, Worship 96.88, Algebra I 22.56, German I 87.47, World Geography 86.85, Biology 77.85, English I 80.65.",
         "Fri Nov 20 5 PM CT check (live Canvas): all seven Olen course grades unchanged since 4 PM — Bible 86.65, Worship 96.88, Algebra I 22.56, German I 87.47, World Geography 86.85, Biology 77.85, English I 80.65. Geography Nov. 18th Current Event Post was turned in Fri 10:26 AM CT (awaiting grade). Nothing else is due this weekend or Mon Nov 23; no Thanksgiving-week items posted in Canvas. Biology posted 'Forensics Day #2' (Thu Nov 19): crime-scene projects still due Nov 30 (A) / Dec 1 (B). Still not showing as turned in: Algebra Unit 3 Part 2 Test + Station Rotation Review (due Thu 11 AM, no score), German Vocabulary Test #1, English Membean Program 3/4 and Q2 Membean Quiz 2, Biology Lab 07 Genetics; English APA Research Paper is submitted, pending review. No new Canvas inbox messages (latest Nov 6).",
         "Fri Nov 20 4 PM CT check (live Canvas): all seven Olen course grades unchanged since noon.",
         "Thu Nov 19 5 PM CT check (live Canvas): World Geography 86.67 → 86.85 (85.61 at Wed 5 PM); Bible 86.8 → 86.65 since Wed 5 PM. Others unchanged — Worship 96.88, Algebra I 22.56, German I 87.47, Biology 77.85, English I 80.65. Graded since Wed 5 PM: Bible Kings to Exile Summative 87/100 (Thu 6:40 AM); Geography Unit 3 Vocab Matrix 100/100, Nov 4 Current Event Post 100/100, Unit 3 Vocab Quiz 90/100 (taken Thu 1:06 PM); Biology Creation Journal #8 5/10 and Crime Scene Genetics - Evidence Evaluation 100/100. STATS Presentation submitted. Still open: Geography Nov. 18th Current Event Post due Fri Nov 20 11:59 PM (not submitted). Algebra Unit 3 Part 2 Test and Station Rotation Review were due Thu 11 AM (no score posted). No new Canvas inbox messages (latest Nov 6) or announcements since Nov 13.",
@@ -1840,6 +1841,7 @@ window.RECAP_DATA = {
     "sky": {
       "name": "Sky",
       "attention": [
+        "Sun Nov 22 8 PM CT check: Canvas unchanged (Apologetics 86.4, Graphic Design 97.3). Ethos grades are from the last capture (Fri Nov 20 3:52 PM CT), not refreshed tonight.",
         "Fri Nov 20 5 PM CT check: Canvas Apologetics 86.4 and Graphic Design 97.3 unchanged; nothing new due Sat-Mon in Canvas. Due today: Apologetics Depth Chart Ladder (Kalam) by 11:59 PM and Graphic Design 11/17-11/20 classwork (on paper). Ethos as of 3:52 PM CT today: English 94, Physics 84, Government 87, Precalculus 90, Sociology 86 (unchanged since earlier check). Still posted 0: Government Civil Liberties (Due Sunday) and Precalculus Quiz 4.1-4.4 (due today). Due this weekend/Monday in Ethos: Physics Circular Motion Lab (Sat Nov 21), Government State and Local Governments and Civil Rights Questions (Sun Nov 22), English Mbn 11/22 (Sun), Government Final Exam Part 1 (Mon Nov 23). English DWS#6 (due Thu) and Sociology DQ5 (due Wed) still show no grade. Apologetics memory verses and Kalam summative are expected next week.",
         "Fri Nov 20 4 PM CT check: Ethos as of 3:52 PM CT: English 12 94, Physics 84, Government 87, Precalculus 90, Sociology 86. Canvas Apologetics 86.4, Graphic Design 97.3. Changes: Government 85->87; Apologetics 86.34->86.4.",
         "Thu Nov 19 5 PM CT check: Canvas Apologetics 86.65 and Graphic Design 97.3 unchanged; due Fri Nov 20: Apologetics Depth Chart Ladder (Kalam) and Graphic Design 11/17-11/20 classwork. Ethos as of 3:54 PM CT today: English 94, Physics 84, Government 85, Precalculus 90, Sociology 86 (unchanged). Government Civil Liberties (Due Sunday) and Court Case Comparison still posted 0 (Court Case Comparison shows completed Nov 17); Judicial Branch Test posted 95. Due today and still ungraded: English DWS#6, Government Midterm Accommodation Part 2, Precalculus Dropbox Test Unit 4. Precalculus Quiz 4.1-4.4 shows 0 (due Fri). Physics Circular Motion Lab due Sat Nov 21; Government Final Exam Part 1 shows due Mon Nov 23.",
@@ -3883,4 +3885,4 @@ window.RECAP_DATA = {
       ]
     }
   }
-}
+};
